@@ -441,10 +441,10 @@ nav#main a:hover {
     padding-bottom: 0;
     {block:IndexPage}
     {block:IfShowTags}
-    margin: 0px {text:Post Margin} calc({text:Post Margin} + 30px);
+    margin: 0px {text:Post Margin} calc({text:Post Margin} + 40px);
     {/block:IfShowTags}
     {block:IfNotShowTags}
-    margin: 0px {text:Post Margin} calc({text:Post Margin} + 10px);
+    margin: 0px {text:Post Margin} calc({text:Post Margin} + 20px);
     {/block:IfNotShowTags}
     {block:IfMulticolumn}
     opacity: 0;
@@ -493,7 +493,7 @@ nav#main a:hover {
 
 .quote {
     text-align: center;
-    font-size: 13px;
+    font-size: 16px;
     font-style: italic;
     padding: 5px 0;
 }
@@ -533,7 +533,7 @@ nav#main a:hover {
 .asker {
     margin-bottom: 10px;
     font-family: Montserrat;
-    font-size: 13px;
+    font-size: 15px;
     text-transform: lowercase;
 }
 
@@ -558,13 +558,13 @@ nav#main a:hover {
 
 #permalink {
     text-transform: uppercase;
-    font-size: 8px;
-    line-height: 13px;
-    height: 13px;
+    font-size: 11px;
+    line-height: 18px;
+    height: 18px;
     border-top: 1px solid {color:Border};
-    padding: 7px 0 7px 10px;
+    padding: 7px 0 7px 11px;
     letter-spacing: 1px;
-    width: calc({select:Post Size} + 10px);
+    width: calc({select:Post Size} + 11px);
     margin-left: -10px;
     margin-top: 4px;
 }
@@ -583,7 +583,7 @@ nav#main a:hover {
     padding: 1px 2px 1px 4px;
     border-radius: 2px;
     margin-right: 2px;
-    font-size: 8px;
+    font-size: 11px;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
@@ -592,14 +592,14 @@ nav#main a:hover {
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
     float: right;
-    margin-top: -21px;
+    margin-top: -25px;
     margin-right: -1px;
     line-height: 20px;
 }
 
 .controls svg {
     width: 7px;
-    height: 9px;
+    height: 11px;
     overflow: visible;
     display: inline-block;
     border-radius: 100%;
@@ -622,8 +622,8 @@ nav#main a:hover {
 }
 
 .controls .reblog svg {
-    width: 7px;
-    height: 7px;
+    width: 9px;
+    height: 9px;
     margin-bottom: 2px;
     margin-left: 4px;
     display: inline-block;
@@ -657,11 +657,11 @@ nav#main a:hover {
 }
 
 .tags {
-    text-transform: uppercase;
+    //text-transform: uppercase;
     text-align: center;
     {block:IndexPage}
     position: absolute;
-    font-size: 7px;
+    font-size: 11px;
     width: {select:Post Size};
     margin-top: 10px;
     letter-spacing: 1px;
@@ -704,7 +704,7 @@ ol.notes li.note img.avatar {
     position: relative;
     margin-top: 40px;
     display: block;
-    font-size: 12px;
+    font-size: 14px;
     {block:IfInfiniteScroll}
     display: none;
     {/block:IfInfiniteScroll}
