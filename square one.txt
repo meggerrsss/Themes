@@ -366,11 +366,12 @@ nav#main a:hover {
     padding: 2px 0 1px 0;
     font-family: Karla;
     border-radius: 2px;
-    color: {color:Body Font};
+    color: {color:Title};
     line-height: 15px;
     font-size: 11px;
+    font-style: bold;
     background: {color:Background};
-    text-align: center;
+    text-align: right;
 }
 
 #search button {
