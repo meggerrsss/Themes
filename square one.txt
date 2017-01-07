@@ -108,7 +108,7 @@
 <style>
 
 div#qTip {
-    font: 8px/10px Karla;
+    font: 10px/10px Karla;
     color: {color:Body Font};
     text-align: center;
     text-transform: uppercase;
@@ -127,7 +127,7 @@ div#qTip {
 
 .tmblr-iframe {
     top: 14px!important;
-    right: 8px!important;
+    right: 10px!important;
     position: fixed!important;
     opacity: 0.2!important;
     {block:IfInvertedControls}
@@ -138,7 +138,7 @@ div#qTip {
 }
     
 body {
-    font-family: Karla, Arial;
+    font-family: Karla, Calibri;
     color: {color:Body Font};
     font-size: {select:Body Font Size};
     background: {color:Background} url({image:Background});
@@ -188,7 +188,7 @@ nav#top {
     height: 40px;
     top: 5px;
     position: fixed;
-    font-size: 8px;
+    font-size: 10px;
     letter-spacing: 1px;
     border-bottom: 1px solid {color:Border};
     text-transform: uppercase;
@@ -250,8 +250,8 @@ aside {
 }
 
 #avatar img {
-    width: 120px;
-    height: 120px;
+    width: 210px;
+    height: 102px;
     margin: 0 auto;
     position: relative;
     border-radius: 3px;
@@ -263,7 +263,7 @@ aside {
 #title {
     font-size: 24px;
     text-transform: lowercase;
-    letter-spacing: -1px;
+    letter-spacing: -2px;
     font-family: montserrat;
     line-height: 24px;
     width: 270px;
