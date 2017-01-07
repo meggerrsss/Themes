@@ -704,7 +704,7 @@ ol.notes li.note img.avatar {
     position: relative;
     margin-top: 40px;
     display: block;
-    font-size: 9px;
+    font-size: 12px;
     {block:IfInfiniteScroll}
     display: none;
     {/block:IfInfiniteScroll}
@@ -800,7 +800,7 @@ ol.notes li.note img.avatar {
 </svg></a>
 {/block:PreviousPage}
 
-{block:JumpPagination length="3"}
+{block:JumpPagination length="4"}
 {block:CurrentPage}
 <span class="current_page">{PageNumber}</span>
 {/block:CurrentPage}
