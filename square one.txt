@@ -30,6 +30,23 @@
 
 -->
 
+
+<script language="JavaScript" type="text/javascript">
+function changeFontSize(inc)
+{
+  var p = document.getElementsByTagName('p');
+  for(n=0; n<p.length; n++) {
+    if(p[n].style.fontSize) {
+       var size = parseInt(p[n].style.fontSize.replace("px", ""));
+    } else {
+       var size = 14;
+    }
+    p[n].style.fontSize = size+inc + 'px';
+   }
+}
+</script>
+
+
 <title>{Title}</title>
 <link rel="shortcut icon" href="{Favicon}">
 <link rel="alternate" type="application/rss+xml" href="{RSS}">
@@ -84,6 +101,7 @@
 <meta name="select:Body Font Size" content="11px" title="11px">
 <meta name="select:Body Font Size" content="12px" title="12px">
 <meta name="select:Body Font Size" content="13px" title="13px">
+<meta name="select:Body Font Size" content="13px" title="14px">
  
 <meta name="text:Title" content="Square One.">
 <meta name="text:Subtitle" content="● Whistle like a missle bomb ●">
@@ -108,7 +126,7 @@
 <style>
 
 div#qTip {
-    font: 10px/10px Karla;
+    font: 12px/12px Karla;
     color: {color:Body Font};
     text-align: center;
     text-transform: uppercase;
@@ -126,10 +144,10 @@ div#qTip {
 }
 
 .tmblr-iframe {
-    top: 14px!important;
+    top: 12px!important;
     right: 10px!important;
     position: fixed!important;
-    opacity: 0.2!important;
+    opacity: 0.3!important;
     {block:IfInvertedControls}
     white-space: nowrap;
     -webkit-filter: invert(100%);
@@ -162,7 +180,7 @@ a:hover {
 }
 
 h1 {
-    font: normal 14px/14px Montserrat;
+    font: normal 16px/16px Montserrat;
     text-align: center;
     width: calc(100% + 20px);
     margin-left: -10px;
@@ -188,7 +206,7 @@ nav#top {
     height: 40px;
     top: 5px;
     position: fixed;
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 1px;
     border-bottom: 1px solid {color:Border};
     text-transform: uppercase;
@@ -261,7 +279,7 @@ aside {
 }
 
 #title {
-    font-size: 24px;
+    font-size: 26px;
     text-transform: lowercase;
     letter-spacing: -2px;
     font-family: montserrat;
@@ -283,7 +301,7 @@ aside {
     padding: 2px 5px;
     letter-spacing: 2px;
     border-radius: 2px;
-    font-size: 9px;
+    font-size: 10px;
     font-style: italic;
     text-transform: uppercase;
     display: inline;
@@ -319,7 +337,7 @@ nav#main li {
     width: 100px;
     display: inline-block;
     text-transform: uppercase;
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 1px;
     border-bottom: 1px solid {color:Border};
     padding: 7px;
@@ -368,7 +386,7 @@ nav#main a:hover {
     border-radius: 2px;
     color: {color:Title};
     line-height: 15px;
-    font-size: 11px;
+    font-size: 12px;
     font-style: bold;
     background: {color:Background};
     text-align: right;
@@ -493,7 +511,7 @@ nav#main a:hover {
 
 .quote {
     text-align: center;
-    font-size: 16px;
+    font-size: 17px;
     font-style: italic;
     padding: 5px 0;
 }
@@ -533,7 +551,7 @@ nav#main a:hover {
 .asker {
     margin-bottom: 10px;
     font-family: Montserrat;
-    font-size: 15px;
+    font-size: 16px;
     text-transform: lowercase;
 }
 
@@ -558,7 +576,7 @@ nav#main a:hover {
 
 #permalink {
     text-transform: uppercase;
-    font-size: 11px;
+    font-size: 12px;
     line-height: 18px;
     height: 18px;
     border-top: 1px solid {color:Border};
@@ -583,7 +601,7 @@ nav#main a:hover {
     padding: 1px 2px 1px 4px;
     border-radius: 2px;
     margin-right: 2px;
-    font-size: 11px;
+    font-size: 12px;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
@@ -648,7 +666,7 @@ nav#main a:hover {
     text-align: center;
     margin-top: 5px;
     line-height: 16px;
-    font-size: 9px;
+    font-size: 12px;
     border-top: 1px solid {color:Border};
     border-bottom: 1px solid {color:Border};
     width: 520px;
@@ -657,11 +675,10 @@ nav#main a:hover {
 }
 
 .tags {
-    //text-transform: uppercase;
     text-align: center;
     {block:IndexPage}
     position: absolute;
-    font-size: 11px;
+    font-size: 12px;
     width: {select:Post Size};
     margin-top: 10px;
     letter-spacing: 1px;
