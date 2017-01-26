@@ -966,7 +966,7 @@ width="{LogoWidth}" height="{LogoHeight}" alt="{SourceTitle}" />
 {block:PermalinkPage}
 {block:IfNotShowCaption}{block:Caption}{Caption}{/block:Caption}{block:IfNotShowCaption}
 {block:Date}<div id="permpage">
-Posted {TimeAgo} {block:NoteCount}with {NoteCountWithLabel}{/block:NoteCount}<br>
+Posted {TimeAgo} on {block:Date} {DayOfMonthWithZero} / {MonthNumberWithZero} / {ShortYear} {block:NoteCount}with {NoteCountWithLabel}{/block:NoteCount}<br>
 {block:RebloggedFrom}Via: <a href="{ReblogParentURL}">{ReblogParentName}</a>, Source: <a href="{ReblogRootURL}">{ReblogRootName}</a><br>{/block:RebloggedFrom}
 {block:HasTags}Tagged: {block:Tags}<a href="{TagURL}">#{Tag} </a>{/block:Tags}{/block:HasTags}
 </div>{/block:Date}
