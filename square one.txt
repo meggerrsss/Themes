@@ -344,6 +344,23 @@ aside {
     margin-bottom: -1px;
 }
 
+#trackedtags {
+    border: 1px solid {color:Border};
+    padding: 0 12px;
+    margin: 10px auto;
+    width: 70%;
+}
+
+#trackedtags span {
+    display: block;
+    background: {color:Sidebar Background};
+    padding: 9px;
+    position: relative;
+    line-height: 16px;
+    margin-top: -1px;
+    margin-bottom: -1px;
+}
+
 nav#main {
     list-style-type: none;
     margin: 0 auto;
@@ -815,6 +832,7 @@ ol.notes li.note img.avatar {
 {block:IfShowTitle}<div id="title">{text:Title}</div>{/block:IfShowTitle}
 {block:IfShowSubtitle}<div id="subtitle">{text:Subtitle}</div>{/block:IfShowSubtitle}
 {block:IfShowDescription}<div id="description"><span>{Description}</span></div>{/block:IfShowDescription}
+<div id="trackedtags"><span> <strong>#calmandcalculating</strong> & #meggerrsss </span></div>
 {block:IfShowFontSizeChanger}<div id="fontsizechanger"><span><a href="javascript:changeFontSize(1)"> Increase Font Size</a> <br> <a href="javascript:changeFontSize(-1)">Decrease Font Size</a></span></div>{/block:IfShowFontSizeChanger}
 
 <nav id="main">
