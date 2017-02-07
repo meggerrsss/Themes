@@ -43,6 +43,15 @@ function changeFontSize(inc)
     }
     p[n].style.fontSize = size+inc + 'px';
    }
+   p = document.getElementsByTagName('small');
+  for(n=0; n<p.length; n++) {
+    if(p[n].style.fontSize) {
+       var size = parseInt(p[n].style.fontSize.replace("px", ""));
+    } else {
+       var size = 14;
+    }
+    p[n].style.fontSize = size+inc + 'px';
+   }
 }
 </script>
 
