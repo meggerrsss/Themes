@@ -832,8 +832,9 @@ ol.notes li.note img.avatar {
 {block:IfShowTitle}<div id="title">{text:Title}</div>{/block:IfShowTitle}
 {block:IfShowSubtitle}<div id="subtitle">{text:Subtitle}</div>{/block:IfShowSubtitle}
 {block:IfShowDescription}<div id="description"><span>{Description}</span></div>{/block:IfShowDescription}
-<div id="trackedtags"><span> <strong>#calmandcalculating</strong> & #meggerrsss </span></div>
-{block:IfShowFontSizeChanger}<div id="fontsizechanger"><span><a href="javascript:changeFontSize(1)"> Increase Font Size</a> <br> <a href="javascript:changeFontSize(-1)">Decrease Font Size</a></span></div>{/block:IfShowFontSizeChanger}
+<div id="trackedtags"><span> <strong>#calmandcalculating</strong> & #meggerrsss 
+</span></div>
+{block:IfShowFontSizeChanger}<div id="fontsizechanger"><span><a href="javascript:changeFontSize(1)"> Increase Font Size</a> | <a href="javascript:changeFontSize(-1)">Decrease Font Size</a><script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "3224268";fhsh.src = "//s1.freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=sheep&a=1";document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span>");</script></span></div>{/block:IfShowFontSizeChanger}
 
 <nav id="main">
 <a href="{text:Link One URL}"><li><b>01.</b> {text:Link One}</li></a>
