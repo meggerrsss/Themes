@@ -69,13 +69,13 @@ function changeFontSize(inc)
 
 <meta name="color:Body Font" content="#979797">
 <meta name="color:Background" content="#F5F8F8">
-<meta name="color:Title" content="#F3B0A6">
-<meta name="color:Accent One" content="#D2EB9A">
-<meta name="color:Accent Two" content="#F3B0A6">
+<meta name="color:Title" content="#008581">
+<meta name="color:Accent One" content="#81b300">
+<meta name="color:Accent Two" content="#910061">
 <meta name="color:Accent Font" content="#FFFFFF">
-<meta name="color:Link" content="#F3B0A6">
-<meta name="color:Hover Link" content="#D2EB9A">
-<meta name="color:Sidebar Background" content="#FFFFFF">
+<meta name="color:Link" content="#81b300">
+<meta name="color:Hover Link" content="#910061">
+<meta name="color:Sidebar Background" content="#3f3932">
 <meta name="color:Post Background" content="#FFFFFF">
 <meta name="color:Border" content="#EEEEEE">
  
@@ -176,6 +176,10 @@ body {
 
 sub, sup, small {
     font-size: {select:Body Font Size};
+}
+
+b, strong {
+    color: {color:Accent Two};
 }
 
 a {
