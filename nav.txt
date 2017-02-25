@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<head>
+ 
+<!--
+ 
+    TAGS II
+        by alydae
+        
+            - do not steal any part of this code
+            - do not even TOUCH the credit
+            - direct questions to enchantedthemes.tumblr.com
+            - tabs tutorial by @phoenixthemes
+            
+    thank you for using!!!
+ 
+-->
+ 
+<title>navigation</title>
+<link rel="shortcut icon" href="{Favicon}">
+ 
+<!-- scripts - DO NOT TOUCH -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<script src="http://static.tumblr.com/rzl30kg/eAxm7a751/jquery.style-my-tooltips.js"></script>
+<script>
+   (function($){
+       $(document).ready(function(){
+           $("[title]").style_my_tooltips({
+               tip_follows_cursor:true,
+               tip_delay_time:200,
+               tip_fade_speed:300
+           }
+               );
+       });
+   })(jQuery);
+</script>
+
+<!-- custom font -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'> 
+ 
+ 
+<meta name="color:Body Font" content="#848280">
+<meta name="color:Background" content="#dadada">
+<meta name="color:Title" content="#419d40">
+<meta name="color:Accent One" content="#81b300">
+<meta name="color:Accent Two" content="#008581">
+<meta name="color:Accent Font" content="#FFFFFF">
+<meta name="color:Link" content="#81b300">
+<meta name="color:Hover Link" content="#910061">
+<meta name="color:Sidebar Background" content="#332921">
+<meta name="color:Post Background" content="#f3f3f3">
+<meta name="color:Border" content="#bdbdbd"> 
+ 
+<style type="text/css">
+
+@keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-moz-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-webkit-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-ms-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-o-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+/*-- selection --*/
+
+::-moz-selection { background:#eee; color:#444; }
+::selection { background:#eee; color:#444; }
+
+/*-- scrollbar --*/
+
+::-webkit-scrollbar {  
+    width:1px;  
+    height:2px;
+}  
+   
+::-webkit-scrollbar-thumb { background-color:#dadada; } /* scrollbar colour */
+ 
+/*-- tooltips --*/
+
+#s-m-t-tooltip {
+    color:#aaa;
+    background-color:#f3f3f3; 
+    font-size:8px;
+    font-family:'Open Sans', helvetica, sans-serif;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    text-align:center;
+    position:absolute;
+    padding:0px 5px 0px 5px;
+    border:1px solid #eee;
+    margin-top:30px;
+    z-index:9999;
+}
+
+/*-- tumblr controls --*/
+
+.tmblr-iframe--desktop-logged-in-controls, #tumblr_controls {
+    display:none!important;
+}
+
+
+/*-- general customisation --*/
+
+body {
+    color:#848280; /* text colour */
+    background-color:#fafafa; /* background colour */
+    font-style:normal; 
+    font-family:'Open Sans', helvetica, sans-serif; 
+    font-size:14px; 
+    font-weight:400;
+    text-decoration:none; 
+    line-height:180%; 
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    -webkit-animation: fadein 1.5s;
+    -moz-animation: fadein 1.5s;
+    -o-animation: fadein 1.5s; 
+    animation: fadein 1.5s;
+}
+
+a {
+    text-decoration:none;
+    color:#444; /* links colour */
+    transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}   
+    
+a:hover {
+    color:#81b300; /* links hover colour */
+    cursor:pointer;
+    transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}
+
+b, strong { 
+    font-weight:700; 
+    color:#008581; 
+}
+
+i, em { font-style:italic; }
+
+/*-- header --*/
+
+#header {
+    position:absolute;
+    width:400px;
+    top:100px;
+    padding:15px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:left;
+}
+
+.icon {
+    position:fixed;
+    margin-top:40px;
+    height:60px;
+    width:60px;
+    border:1px solid #bdbdbd;
+}
+
+.icon img {
+    height:60px;
+    width:60px;
+    border-radius:50%;
+}
+
+.title {
+    position:relative;
+    margin-left:90px;
+    text-transform:uppercase;
+    font-size:18px;
+    font-weight:700;
+    letter-spacing:1px;
+    color:#419d40; /* title colour */   
+}
+
+.desc {
+    width:270px;
+    max-height:100px;
+    margin:15px 90px 15px;
+    padding:10px;
+    background-color:#f3f3f3; /* description background colour */
+    color:#848280;
+    border:1px solid #bdbdbd;
+    overflow-y:scroll!important;
+}
+
+.links { 
+    width:300px;
+    margin:10px 90px;
+}
+
+.links a {
+    display:inline;
+    margin-right:10px;
+    letter-spacing:.5px;
+    text-transform:uppercase;
+    color:#008581;
+}
+
+/*-- tags --*/
+
+.content {
+    position:absolute;
+    width:801px;
+    margin-top:330px;
+    left:50%;
+    transform:translateX(-50%);
+}
+
+.tab label {
+    width:140px;
+    padding:20px;
+    padding-right:40px;
+    background-color:#332921; /* tab label background colour */
+    border-left:1px solid #bdbdbd;
+    border-bottom:1px solid #bdbdbd;
+    font-size:16px;
+    font-weight:600;
+    letter-spacing:0.5px;  
+    line-height:100%;
+    text-align:right;
+    text-transform:uppercase;
+    display:block;
+    cursor:pointer;
+    color:#848280; /* tab text colour */
+    transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}
+
+.tab label:first-of-type { border-top:1px solid #bdbdbd; }
+
+.tab label:hover {
+    color:#81b300; /* links hover colour */
+    cursor:pointer;
+    transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}
+
+.tags {
+    position:absolute;
+    width:535px;
+    height:250px; 
+    /* if you want the height of the tabs to match the height of the main tag body, replace height:300px; with the line below
+        height:calc((52px * 5) - 27px); 
+    change the 5 according to how many tabs you have */
+    top:0px;
+    margin:0px 201px 150px;
+    padding:15px;
+    padding-left:50px;
+    overflow-y:scroll;
+    border:1px solid #bdbdbd;
+    background-color:#f3f3f3; /* tags section background colour */
+}
+
+.tags a::before {
+    content:'>';
+    padding-right:7px;
+}
+
+.tags a {
+    width:calc(700px / 3); /* change the 3 to 2 for the tags to be in two columns */
+    display:inline-block;
+    padding:5px;
+    text-transform:lowercase;
+}
+
+.tags h8 {
+    color:#008581; /* subtitle colour */
+    font-size:15px;
+    font-weight:600;
+    letter-spacing:0.5px;
+    text-transform:uppercase;
+    display:block;
+    margin-top:20px;
+    margin-bottom:5px;
+}
+
+[type=radio]:checked ~ label { 
+    z-index:2;
+    color:#81b300; /* text colour of selected tab */
+    background-color:#f3f3f3; /* background colour of selected tab */
+}
+ 
+[type=radio]:checked ~ label ~ .tags { z-index:1; }
+
+.tab [type=radio] { display:none; } 
+
+
+/*-- credit - DO NOT TOUCH --*/
+
+.credit a {
+    font-size:14px;
+    bottom:15px;
+    right:20px;
+    position:fixed;
+    text-transform:uppercase;
+}
+
+
+</style>
+</head>
+
+
+<body>
+
+
+<div id="header">
+<!-- the default is your icon. if you want to change it, remove {PortraitURL-64} and replace it with the image url of the one you want -->
+    <div class="icon"><img src="{PortraitURL-64}"/></div>
+    <div class="title">creations</div> <!-- title -->
+    <div class="desc"> <!-- you cannot delete or leave this section blank! it will mess up the entire layout. -->
+I have a mess of a tagging system that sometimes only I understand, hopefully this helps you comb through. Requests are open.
+    </div>
+    <div class="links">
+    <!-- this is where your header links are. feel free to add more. -->
+        <a href="http://calmandcalculating.tumblr.com">home</a>
+        <a href="http://calmandcalculating.tumblr.com/ask">inbox</a>
+        <a href="http://calmandcalculating.tumblr.com/about">about</a>
+        <a href="http://calmandcalculating.tumblr.com/tags">tags</a>
+        <!-- do not remove this one!!! -->
+        <a href="http://alydae.tumblr.com">credit</a>
+    </div>
+</div>
+
+
+<div class="content">
+
+<!-- 
+INSTRUCTIONS ON HOW TO ADD MORE TABS 
+1. copy the template below
+
+<div class="tab">
+    <input type="radio" id="tab-1" name="tab-group-1">
+    <label for="tab-1">tab title</label> 
+<div class="tags"> 
+    <a href="/tagged/">tag name</a>
+<h8>optional subtitle</h8>
+    <a href="/tagged/">tag name</a>
+</div>
+</div>
+
+2. once you have done that, you need to change the number after the tab in id="tab-1" and label for="tab-1" - so if you were copying your third tab, it would be id="tab-3" and label for="tab-3". 
+DO NOT TOUCH THE name="tab-group-1"
+-->
+
+<div class="tab">
+    <input type="radio" id="tab-1" name="tab-group-1" checked>
+    <label for="tab-1">gifs</label> 
+<div class="tags"> 
+    <a href="/tagged/meggifs">all my gifs</a>
+	<a href="/tagged/**">my favourite gifs</a>
+	<a href="/tagged/requests">requests</a>
+	<a href="/tagged/about-gifmaking">talking about gifmaking</a>
+	<a href="/tagged/used">resources</a>
+	<a href="/tagged/panels">comic panels</a>
+<h8>notes count</h8>
+    <a href="/tagged/2k">2000</a>
+    <a href="/tagged/1k">1000</a>
+    <a href="/tagged/500">500</a>
+    <a href="/tagged/250">250</a>
+    <a href="/tagged/100">100</a>
+    <a href="/tagged/*new">1</a>
+</div>
+</div>
+
+<div class="tab">
+    <input type="radio" id="tab-2" name="tab-group-1">
+    <label for="tab-2">projects</label> 
+<div class="tags"> 
+    <a href="/tagged/jaxjacksonappreciationweekend">Jax Appreciation Weekend</a>
+    <a href="/tagged/wrrooms">Rooms of the Waverider</a>
+    <a href="/tagged/jax's-team">Jax's Team</a>
+	<a href="/tagged/teamlot">team legends</a>
+	<a href="/tagged/alpbabet">arrowverse alphabet</a>
+	<a href="/tagged/rogues-rewatch">rogues rewatch</a>
+	<a href="/tagged/gpm">one gif per movie</a>
+<h8>inactive / complete</h8>
+    <a href="/tagged/dctvladiesappreciation">dctv ladies appreciation week</a>
+    <a href="/tagged/teaminvasion">team invasion</a>
+    <a href="/tagged/laurel-weeks">laurel lance weeks</a>
+    <a href="/tagged/gibbsrule">gibbs rules</a>
+    <a href="/tagged/countdown">countdown</a>
+    <a href="/tagged/imalog">countdown sets</a>
+</div>
+</div>
+
+<div class="tab">
+    <input type="radio" id="tab-3" name="tab-group-1">
+    <label for="tab-3">media</label> 
+<div class="tags"> 
+    <a href="/search/meggifs+lotedit">dc's legends of tomorrow</a>
+    <a href="/search/meggifs+theflashedit">the flash</a>
+    <a href="/search/meggifs+arrowedit">arrow</a>
+    <a href="/search/meggifs+supergirledit">supergirl</a>
+    <a href="/search/meggifs+dcau">dc animated</a>
+    <a href="/search/meggifs+dceu">dc cinematic</a>
+    <a href="/search/meggifs+pbedit">prison break</a>
+    <a href="/search/meggifs+yjedit">young justice</a>
+<h8>less frequently giffed</h8>
+    <a href="/search/meggifs+ncis">ncis</a>
+    <a href="/search/meggifs+frequencyedit">frequency</a>
+    <a href="/search/meggifs+h50edit">hawaii five-0</a>
+    <a href="/search/meggifs+shadowhunters">shadowhunters</a>
+    <a href="/search/meggifs+cpdedit">chicago p.d.</a>
+    <a href="/search/meggifs+constantineedit">constantine</a>
+    <a href="/search/meggifs+gotham">gotham</a>
+    <a href="/search/meggifs+izombieedit">izombie</a>
+    <a href="/search/meggifs+luciferedit">lucifer</a>
+    <a href="/search/meggifs+wliiaedit">whose line is it anyway</a>
+</div>
+</div>
+
+<div class="tab">
+    <input type="radio" id="tab-4" name="tab-group-1">
+    <label for="tab-4">sideblogs</label> 
+<div class="tags"> 
+    <a href="http://meggerrsss.tumblr.com/">meggerrsss</a>
+	<a href="http://dctvcountdown.tumblr.com/">dctvcountdown</a>
+	<a href="http://icedcapcold.tumblr.com/">icedcapcold</a>
+	<a href="http://coldnglider.tumblr.com/">coldnglider</a>
+<h8>networks</h8>
+    <a href="/">leonardsnartdefensesquad</a>
+</div>
+</div>
+
+
+</div>
+
+
+<!-- credit - DO NOT TOUCH -->
+
+<div class="credit">
+    <a href="http://alydae.tumblr.com" title="enchantedthemes">A.</a>
+</div>
+
+
+</body>
+</html>
