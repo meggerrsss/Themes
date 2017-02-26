@@ -134,7 +134,7 @@ a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
 </span><!-- airing --><span class="button filter" filter=".airing">airing
 </span><!-- caught-up --><span class="button filter" filter=".caught-up">caught up
 </span><!-- complete --><span class="button filter" filter=".complete">complete
-</span><!-- dctv --><span class="button filter" filter=".complete">dctv
+</span><!-- dctv --><span class="button filter" filter=".dctv">dctv
 </span><!-- to-watch --><span class="button filter" filter=".to-watch">to watch
 </span><!-- toggle info --><span class="button toggle">toggle info
 </span><!-- search --><input type="text" id="ss" placeholder="search page" />
@@ -148,1004 +148,848 @@ on the following line! -->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up airing dctv" name="arrow">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
 <div class="title">
     <a href="/tagged/arrow">Arrow</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> lauriver, thearoy, nyssara, merlance <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="3p">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item caught-up" name="3p">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/f3orLa/3.jpg" />
 <div class="title">
     <a href="/tagged/3percent">3%</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> joana/rafael <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up complete" name="avatar">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info complete" name="avatar">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/ddj96F/atla.jpg" />
 <div class="title">
     <a href="/tagged/atla">Avatar: The Last Airbender</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> kataang, zumai, tokka <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete dctv" name="battas">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info complete dctv" name="battas">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/kz6d0a/btas.png" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/btas">Batman: The Animated Series</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> dickbabs <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing" name="blindspot">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/b6vtYv/blindspot.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/blindspot">Blindspot</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> patterson/david <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="chicagofire">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info caught-up airing" name="chicago1fire">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cJWNRF/chicagofire.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/chf">Chicago Fire</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> dawsey, brittonio <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing" name="chicagomed">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info caught-up airing" name="chicago3med">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mgqGmF/chicagomed.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/chm">Chicago Med</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> connor/robin <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info to-watch" name="chicagojustice">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item to-watch" name="chicago4justice">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cMDQfa/justice.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/chj">Chicago Justice</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="chicagopd">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info caught-up airing" name="chicago2pd">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hDGYYv/chicagopd.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/cpd">Chicago P.D.</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> linstead <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete dctv" name="constantine">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info complete dctv" name="constantine">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/eQ4y0a/constantine_poster.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/constantine">Constantine</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> zedstantine <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="containment">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info complete" name="containment">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/b5DDYv/containment.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/containment">Containment</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> jatie <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing" name="criminalminds">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/jMaStv/criminalminds.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/cm">Criminal Minds</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="criminalminds3beyond">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item caught-up airing" name="criminalminds3beyond">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/bPjLDv/cb.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/cmbb">Criminal Minds: Beyond Borders</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="criminalminds2suspect">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="criminalminds2suspect">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mDFhRF/cms.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/cmsb">Criminal Minds: Suspect Behavior</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="csicyber">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="csicyber">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mKVhRF/cyber.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/csicyber">CSI: Cyber</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> raven/brody <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="dannyphantom">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="dannyphantom">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/c9Q5fa/dp.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/dp">Danny Phantom</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up airing dctv" name="dcslegends">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/dCE3Yv/legendsoftomorrow.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/lot">DC's Legends of Tomorrow</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> rogue canary, atomic hawk, steelvixen <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="digimontri">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info caught-up airing" name="digimontri">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/crqo0a/tri.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/tri">Digimon Adventure Tri</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> sorato, takari <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="drakeandjosh">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="drakeandjosh">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cq32RF/daj.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/daj">Drake and Josh</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> josh/mindy <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up complete" name="fatestayubw">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info complete" name="fatestayubw">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/bTWNRF/fsn.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/fate">FateStay Night: Unlimited Blade Works</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up airing dctv" name="flash">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hZGp6F/flash.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/flash">The Flash</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> westallen, snowstorm, goldenvibe <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="free">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="free">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/jXK96F/free.jpg"/>
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/free">Free! Iwatobi Swim Club</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="frequency">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info caught-up" name="frequency">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/fftrLa/frequency.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/frequency">Frequency</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> raimy/kyle <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up complete" name="fullmetal">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info complete" name="fullmetal">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/nMJ2RF/fma.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/fma">Fullmetal Alchemist (Brotherhood)</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> royai, winward <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="glee">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="glee">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/iZgd0a/glee.jpg">
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/glee">Glee</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing dctv" name="gotham">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info caught-up dctv" name="gotham">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mHL5fa/gotham.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/gotham">Gotham</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> batcat, nygmobblepot, babs/tabs <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="greek">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info complete" name="greek">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/gmKy0a/greek.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/greek">Greek</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> casey/cappie <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="house">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="house">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/bsQhRF/house.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/house">House</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="icarly">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info complete" name="icarly">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/jjskfa/icarly.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/icarly">iCarly</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> seddie <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="inuyasha">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info complete" name="inuyasha">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cDeWLa/iy.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/iy">InuYasha</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> miroku/sango, inuyasha/kagome <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up dctv" name="izombie">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/f5VtYv/izombie.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/iZombie">iZombie</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up complete" name="legendofkorra">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info complete" name="avatar2legendofkorra">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/nQhCRF/lok.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/lok">The Legend of Korra</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> korrasami, kainora, pemzin, zhurrick <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up" name="librarians">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/ctfStv/lb.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/librarians">The Librarians</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> castrella <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up dctv" name="lucifer">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mEBiYv/luci.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/lucifer">Lucifer</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> deckerstar <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up" name="daredevil">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/kqzLDv/dd.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/dd">Marvel's Daredevil</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up" name="jessicajones">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cScU6F/jj.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/jj">Marvel's Jessica Jones</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up" name="lukecage">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/nvOxtv/lc.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/lc">Marvel's Luke Cage</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> luke/misty <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info airing to-watch" name="ironfist">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item airing to-watch" name="ironfist">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mxahRF/ironfist.png" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/if">Marvel's Iron Fist</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info to-watch" name="defenders">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item to-watch" name="defenders">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hdrYYv/def.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/defenders">Marvel's The Defenders</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up complete" name="motive">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="motive">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hO5z6F/motive.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/motive">Motive</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="ncis1">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info caught-up airing" name="ncis1">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/h8QMLa/ncis.jpg"/>
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/ncis">NCIS</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> mcabby, mclilah <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing" name="ncis2la">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/d8HU6F/la.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/ncis-la">NCIS: Los Angeles</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> neric, densi <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing" name="ncis3nola">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cxYafa/nola.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/ncis-nola">NCIS: New Orleans</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> persalle <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing " name="newgirl">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/eqCqDv/newgirl.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/ng">New Girl</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> cece/schmidt <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up" name="nightshift">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave caught-up" name="nightshift">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/gDxe6F/ns.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/tns">The Night Shift</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete" name="numb3rs">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="numb3rs">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/h1n1La/numb3rs.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/numb3rs">Numb3rs</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="once">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item caught-up airing" name="once">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hokctv/ouat.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/ouat">Once Upon a Time</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete" name="once2wonderland">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="once2wonderland">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/nDNe6F/ouat2.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/ouatiw">Once Upon a Time in Wonderland</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info complete" name="ouran">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/gjPgLa/ouarn.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/ouran">Ouran High School Host Club</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> tamaharu <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing dctv" name="powerless">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info caught-up airing dctv" name="powerless">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/gEoafa/powerless.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/powerless">Powerless</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
-
-
-
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up airing" name="prisonbreak">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hi7qDv/pb.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/pb">Prison Break</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> misa <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete" name="redbandsociety">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item complete" name="redbandsociety">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/krO80a/rbs.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/rbs">Red Band Society</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete" name="sailormooncrystal">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item airing" name="riverdale">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mYKsRF/riverdale.png" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/riverdale">Riverdale</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item complete" name="sailormooncrystal">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/fkCJ0a/crystal.jpg" />
+<div class="title">
+    <a href="/tagged/sm">Sailor Moon Crystal</a>
+</div><div class="bottom">
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing" name="scorpion">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/jPg6mF/scorpion.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/scorpion">Scorpion</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> quintis <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info complete" name="scrubs">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/eGpsRF/scrubs.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/scrubs">Scrubs</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> jd/eliot, perry/jordan, turk/carla <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up airing" name="shadowhunters">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/gTXqDv/shadowhunters.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/shadowhunters">Shadowhunters: The Mortal Instruments</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> malec <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1153,192 +997,286 @@ on the following line! -->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info complete" name="sherlock">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/h0Az6F/sl.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/sherlock">Sherlock</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> john/mary <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info complete dctv" name="smallville">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hkVMLa/smallville.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/smallville">Smallville</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> clois, lexana <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up airing dctv" name="supergirl">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/dJxe6F/supergirl.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/supergirl">Supergirl</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> karolsen <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info complete" name="swordartonline">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item fave info caught-up" name="swordartonline">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mf4RmF/sao.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/sao">Sword Art Online</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> kirito/asuna <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info complete dctv" name="teentitans">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/mVJK6F/tt.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/tt">Teen Titans</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> robstar, bbrae, vic/karen <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete" name="vampirediaries">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item info caught-up" name="vampirediaries">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/eKzgLa/tvd.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/tvd">The Vampire Diaries</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> steroline <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing" name="vampirediaries2originals">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/bV0o0a/tvd2.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/originals">The Originals</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> klaus/cami <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up dctv" name="vixen">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item caught-up dctv" name="vixen">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cmHe6F/v.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/vixen">Vixen</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item  info caught-up" name="whoseline">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item caught-up" name="whoseline">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/hB7OYv/wl.jpg" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/wliia">Whose Line is it Anyway?</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item fave info caught-up airing dctv" name="youngjustice">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/cBy80a/yjj.png" />
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/yj">Young Justice</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> dickbabs, spitfire, wonderbird <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing dctv" name="justiceleagueaction">
-    <!-- ** for a big icon put fave after the word item, e.g.
-            <div class="item fave info filter1 filter2" name="text here">
-         ** you only need the name="..." part if you want the page to sort
-            everything alphabetically for you on load -->
+<div class="item caught-up airing dctv" name="justiceleagueaction">
+ 
 <div class="content">
-    <img src="http://68.media.tumblr.com/4807a2ff2ed8ac152d8196aed2c226ed/tumblr_og11rvRyJo1ubszlfo1_1280.png" />
+    <img src="https://image.ibb.co/da7kfa/jla.jpg" /> 
 <div class="title">
-    <a href="/tagged/TAG">SHOWNAME</a>
+    <a href="/tagged/jlaction">Justice League Action</a>
 </div><div class="bottom">
-    <b>status:</b> STATUS <br />
-    <b>rating:</b> RATING&#9733;&#9734;<br />
-    <!-- copy and paste as needed -->
+    <b>status:</b> caught up <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch" name="sweetvicious">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/eOqADv/svvv.jpg" />
+<div class="title">
+    <a href="/tagged/sweet-vicious">Sweet Vicious</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch airing" name="madamsecretary">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/hxrvfa/madam.jpg" />
+<div class="title">
+    <a href="/tagged/madam-secretary">Madam Secretary</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch complete" name="tomorrowpeople">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/cTs1La/tpp.jpg" />
+<div class="title">
+    <a href="/tagged/ttp">The Tomorrow People</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch" name="seriesofunf">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/hruRmF/series.jpg" />
+<div class="title">
+    <a href="/tagged/asoue">A Series of Unfortunate Events</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch airing" name="legion">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/gKymmF/legion.jpg" />
+<div class="title">
+    <a href="/tagged/legion">Legion</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch" name="preacher">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/iJ1Htv/preacher.jpg" />
+<div class="title">
+    <a href="/tagged/preacher">Preacher</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch complete" name="leverage">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/ffCqDv/leverage.jpg" />
+<div class="title">
+    <a href="/tagged/leverage">Leverage</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item fave info airing" name="hawaii">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/dGrBLa/h50.jpg" />
+<div class="title">
+    <a href="/tagged/h50">Hawaii Five-0</a>
+</div><div class="bottom">
+    <b>status:</b> finished season 4 <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch complete" name="attackontitan">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/cLzLDv/aot.png" />
+<div class="title">
+    <a href="/tagged/aot">Attack On Titan</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1346,9 +1284,7 @@ on the following line! -->
 
 
 
-
-
-
+ 
 
 
 
