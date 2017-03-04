@@ -92,7 +92,7 @@
     height:2px;
 }  
    
-::-webkit-scrollbar-thumb { background-color:#dadada; } /* scrollbar colour */
+::-webkit-scrollbar-thumb { background-color:#f3f3f3; } /* scrollbar colour */
  
 /*-- tooltips --*/
 
@@ -339,13 +339,13 @@ i, em { font-style:italic; }
     <div class="icon"><img src="{PortraitURL-64}"/></div>
     <div class="title">creations</div> <!-- title -->
     <div class="desc"> <!-- you cannot delete or leave this section blank! it will mess up the entire layout. -->
-I have a mess of a tagging system that sometimes only I understand, hopefully this helps you comb through. Requests are open.
+I have a mess of a tagging system that sometimes only I understand, hopefully this helps you comb through. 
     </div>
     <div class="links">
     <!-- this is where your header links are. feel free to add more. -->
         <a href="http://calmandcalculating.tumblr.com">home</a>
         <a href="http://calmandcalculating.tumblr.com/ask">inbox</a>
-        <a href="http://calmandcalculating.tumblr.com/about">about</a>
+        <a href="http://calmandcalculating.tumblr.com/shows">shows</a>
         <a href="http://calmandcalculating.tumblr.com/tags">tags</a>
         <!-- do not remove this one!!! -->
         <a href="http://alydae.tumblr.com">credit</a>
@@ -397,13 +397,16 @@ DO NOT TOUCH THE name="tab-group-1"
     <input type="radio" id="tab-2" name="tab-group-1">
     <label for="tab-2">projects</label> 
 <div class="tags"> 
-    <a href="/tagged/jaxjacksonappreciationweekend">Jax Appreciation Weekend</a>
-    <a href="/tagged/wrrooms">Rooms of the Waverider</a>
     <a href="/tagged/jax's-team">Jax's Team</a>
 	<a href="/tagged/teamlot">team legends</a>
 	<a href="/tagged/alpbabet">arrowverse alphabet</a>
 	<a href="/tagged/rogues-rewatch">rogues rewatch</a>
 	<a href="/tagged/gpm">one gif per movie</a>
+<h8>upcoming</h8>
+    <a href="/tagged/jaxjacksonappreciationweekend">Jax Appreciation Weekend</a>
+    <a href="/tagged/pbaw17">Prison Break Appreciation Week</a>
+    <a href="/tagged/wrrooms">Rooms of the Waverider</a>
+    <a href="/tagged/top3dctv">Top 3 DCTV episodes per season</a>
 <h8>inactive / complete</h8>
     <a href="/tagged/dctvladiesappreciation">dctv ladies appreciation week</a>
     <a href="/tagged/teaminvasion">team invasion</a>
@@ -446,10 +449,10 @@ DO NOT TOUCH THE name="tab-group-1"
 <div class="tags"> 
     <a href="http://meggerrsss.tumblr.com/">meggerrsss</a>
 	<a href="http://dctvcountdown.tumblr.com/">dctvcountdown</a>
+<h8>saved and networks</h8>
 	<a href="http://icedcapcold.tumblr.com/">icedcapcold</a>
 	<a href="http://coldnglider.tumblr.com/">coldnglider</a>
-<h8>networks</h8>
-    <a href="/">leonardsnartdefensesquad</a>
+	<a href="/">leonardsnartdefensesquad</a>
 </div>
 </div>
 
