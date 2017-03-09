@@ -131,6 +131,7 @@ a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
         
 <!-- show all --><span class="button filter active" filter="">all
 </span><!-- fave --><span class="button filter" filter=".fave">favourites
+</span><!-- can gif --><span class="button filter" filter=".req">can gif
 </span><!-- airing --><span class="button filter" filter=".airing">airing
 </span><!-- caught-up --><span class="button filter" filter=".caught-up">caught up
 </span><!-- complete --><span class="button filter" filter=".complete">complete
@@ -147,7 +148,7 @@ on the following line! -->
 
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing dctv" name="arrow">
+<div class="item fave req info caught-up airing dctv" name="arrow">
  
 <div class="content">
     <img src="https://image.ibb.co/myVStv/arrow.png" />
@@ -162,7 +163,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up" name="3p">
+<div class="item req caught-up" name="3p">
  
 <div class="content">
     <img src="https://image.ibb.co/f3orLa/3.jpg" />
@@ -177,7 +178,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info complete" name="avatar">
+<div class="item req fave info complete" name="avatar">
  
 <div class="content">
     <img src="https://image.ibb.co/ddj96F/atla.jpg" />
@@ -222,7 +223,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="chicago1fire">
+<div class="item req info caught-up airing" name="chicago1fire">
  
 <div class="content">
     <img src="https://image.ibb.co/cJWNRF/chicagofire.jpg" />
@@ -237,7 +238,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing" name="chicago3med">
+<div class="item req fave info caught-up airing" name="chicago3med">
  
 <div class="content">
     <img src="https://image.ibb.co/mgqGmF/chicagomed.jpg" />
@@ -251,7 +252,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item airing to-watch" name="chicago4justice">
+<div class="item req airing to-watch" name="chicago4justice">
  
 <div class="content">
     <img src="https://image.ibb.co/cMDQfa/justice.jpg" />
@@ -265,7 +266,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="chicago2pd">
+<div class="item req info caught-up airing" name="chicago2pd">
  
 <div class="content">
     <img src="https://image.ibb.co/hDGYYv/chicagopd.jpg" />
@@ -279,7 +280,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info complete dctv" name="constantine">
+<div class="item fave req info complete dctv" name="constantine">
  
 <div class="content">
     <img src="https://image.ibb.co/eQ4y0a/constantine_poster.jpg" />
@@ -294,7 +295,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete" name="containment">
+<div class="item info req complete" name="containment">
  
 <div class="content">
     <img src="https://image.ibb.co/b5DDYv/containment.jpg" />
@@ -384,7 +385,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing dctv" name="dcslegends">
+<div class="item fave req info caught-up airing dctv" name="dcslegends">
  
 <div class="content">
     <img src="https://image.ibb.co/dCE3Yv/legendsoftomorrow.jpg" />
@@ -399,7 +400,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up" name="digimontri">
+<div class="item fave req info caught-up" name="digimontri">
  
 <div class="content">
     <img src="https://image.ibb.co/crqo0a/tri.jpg" />
@@ -444,7 +445,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing dctv" name="flash">
+<div class="item fave req info caught-up airing dctv" name="flash">
  
 <div class="content">
     <img src="https://image.ibb.co/hZGp6F/flash.jpg" />
@@ -474,7 +475,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up" name="frequency">
+<div class="item info req  caught-up" name="frequency">
  
 <div class="content">
     <img src="https://image.ibb.co/fftrLa/frequency.jpg" />
@@ -519,7 +520,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up dctv" name="gotham">
+<div class="item info req caught-up dctv" name="gotham">
  
 <div class="content">
     <img src="https://image.ibb.co/mHL5fa/gotham.jpg" />
@@ -594,7 +595,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up dctv" name="izombie">
+<div class="item info req caught-up dctv" name="izombie">
  
 <div class="content">
     <img src="https://image.ibb.co/f5VtYv/izombie.jpg" />
@@ -609,7 +610,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info complete" name="avatar2legendofkorra">
+<div class="item fave req info complete" name="avatar2legendofkorra">
  
 <div class="content">
     <img src="https://image.ibb.co/nQhCRF/lok.jpg" />
@@ -639,7 +640,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up dctv" name="lucifer">
+<div class="item fave req info caught-up dctv" name="lucifer">
  
 <div class="content">
     <img src="https://image.ibb.co/mEBiYv/luci.jpg" />
@@ -654,7 +655,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up" name="daredevil">
+<div class="item info req caught-up" name="daredevil">
  
 <div class="content">
     <img src="https://image.ibb.co/kqzLDv/dd.jpg" />
@@ -669,7 +670,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up" name="jessicajones">
+<div class="item fave req info caught-up" name="jessicajones">
  
 <div class="content">
     <img src="https://image.ibb.co/cScU6F/jj.jpg" />
@@ -684,7 +685,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up" name="lukecage">
+<div class="item info req caught-up" name="lukecage">
  
 <div class="content">
     <img src="https://image.ibb.co/nvOxtv/lc.jpg" />
@@ -744,7 +745,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing" name="ncis1">
+<div class="item fave req info caught-up airing" name="ncis1">
  
 <div class="content">
     <img src="https://image.ibb.co/h8QMLa/ncis.jpg"/>
@@ -759,7 +760,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="ncis2la">
+<div class="item info req caught-up airing" name="ncis2la">
  
 <div class="content">
     <img src="https://image.ibb.co/d8HU6F/la.jpg" />
@@ -774,7 +775,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="ncis3nola">
+<div class="item info req caught-up airing" name="ncis3nola">
  
 <div class="content">
     <img src="https://image.ibb.co/cxYafa/nola.jpg" />
@@ -789,7 +790,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing " name="newgirl">
+<div class="item info req caught-up airing " name="newgirl">
  
 <div class="content">
     <img src="https://image.ibb.co/eqCqDv/newgirl.jpg" />
@@ -804,7 +805,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave caught-up" name="nightshift">
+<div class="item fave req caught-up" name="nightshift">
  
 <div class="content">
     <img src="https://image.ibb.co/gDxe6F/ns.jpg" />
@@ -833,7 +834,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up airing" name="once">
+<div class="item req caught-up airing" name="once">
  
 <div class="content">
     <img src="https://image.ibb.co/hokctv/ouat.jpg" />
@@ -876,7 +877,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing dctv" name="powerless">
+<div class="item fave req info caught-up airing dctv" name="powerless">
  
 <div class="content">
     <img src="https://image.ibb.co/gEoafa/powerless.jpg" />
@@ -891,7 +892,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing" name="prisonbreak">
+<div class="item fave req info caught-up airing" name="prisonbreak">
  
 <div class="content">
     <img src="https://image.ibb.co/hi7qDv/pb.jpg" />
@@ -951,7 +952,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="scorpion">
+<div class="item info req caught-up airing" name="scorpion">
  
 <div class="content">
     <img src="https://image.ibb.co/jPg6mF/scorpion.jpg" />
@@ -980,7 +981,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing" name="shadowhunters">
+<div class="item fave req info caught-up airing" name="shadowhunters">
  
 <div class="content">
     <img src="https://image.ibb.co/gTXqDv/shadowhunters.jpg" />
@@ -1025,7 +1026,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing dctv" name="supergirl">
+<div class="item fave info req caught-up airing dctv" name="supergirl">
  
 <div class="content">
     <img src="https://image.ibb.co/dJxe6F/supergirl.jpg" />
@@ -1053,6 +1054,7 @@ on the following line! -->
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
+
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info complete dctv" name="teentitans">
  
@@ -1069,19 +1071,20 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up" name="vampirediaries">
+<div class="item info complete caught-up" name="vampirediaries">
  
 <div class="content">
     <img src="https://image.ibb.co/eKzgLa/tvd.jpg" />
 <div class="title">
     <a href="/tagged/tvd">The Vampire Diaries</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> steroline <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
+
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item info caught-up airing" name="vampirediaries2originals">
  
@@ -1098,7 +1101,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up dctv" name="vixen">
+<div class="item caught-up req dctv" name="vixen">
  
 <div class="content">
     <img src="https://image.ibb.co/cmHe6F/v.jpg" />
@@ -1111,6 +1114,7 @@ on the following line! -->
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
+
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item caught-up" name="whoseline">
  
@@ -1125,8 +1129,9 @@ on the following line! -->
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
+
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing dctv" name="youngjustice">
+<div class="item fave info req caught-up airing dctv" name="youngjustice">
  
 <div class="content">
     <img src="https://image.ibb.co/cBy80a/yjj.png" />
@@ -1139,8 +1144,9 @@ on the following line! -->
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
+
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up airing dctv" name="justiceleagueaction">
+<div class="item caught-up req airing dctv" name="justiceleagueaction">
  
 <div class="content">
     <img src="https://image.ibb.co/da7kfa/jla.jpg" /> 
@@ -1253,7 +1259,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info airing" name="hawaii">
+<div class="item fave req info airing" name="hawaii">
  
 <div class="content">
     <img src="https://image.ibb.co/dGrBLa/h50.jpg" />
