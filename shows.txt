@@ -251,14 +251,14 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item to-watch" name="chicago4justice">
+<div class="item airing to-watch" name="chicago4justice">
  
 <div class="content">
     <img src="https://image.ibb.co/cMDQfa/justice.jpg" />
 <div class="title">
     <a href="/tagged/chj">Chicago Justice</a>
 </div><div class="bottom">
-    <b>status:</b> unstarted <br />
+    <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -393,13 +393,13 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> rogue canary, atomic hawk, steelvixen <br />
+    <b>ships:</b> rogue canary, atomic hawk, steelvixen, timeship <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info caught-up airing" name="digimontri">
+<div class="item fave info caught-up" name="digimontri">
  
 <div class="content">
     <img src="https://image.ibb.co/crqo0a/tri.jpg" />
@@ -408,7 +408,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> sorato, takari <br />
+    <b>ships:</b> sorato, takari, taiorato <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -453,7 +453,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> westallen, snowstorm, goldenvibe <br />
+    <b>ships:</b> westallen, goldenvibe, snowstorm <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -543,7 +543,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> finished <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> casey/cappie <br />
+    <b>ships:</b> capsey <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -898,7 +898,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/pb">Prison Break</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
+    <b>status:</b> rewatching <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> misa <br />
 
@@ -1034,7 +1034,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> karolsen <br />
+    <b>ships:</b> karolsen, sanvers <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1063,7 +1063,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> finished <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> robstar, bbrae, vic/karen <br />
+    <b>ships:</b> robstar, bbrae, cybee <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1149,7 +1149,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> -- <br />
+    <b>ships:</b> wonderbat <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->

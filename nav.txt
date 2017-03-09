@@ -15,7 +15,7 @@
  
 -->
  
-<title>navigation</title>
+<title>creations</title>
 <link rel="shortcut icon" href="{Favicon}">
  
 <!-- scripts - DO NOT TOUCH -->
@@ -397,13 +397,13 @@ DO NOT TOUCH THE name="tab-group-1"
     <input type="radio" id="tab-2" name="tab-group-1">
     <label for="tab-2">projects</label> 
 <div class="tags"> 
+    <a href="/tagged/jaxjacksonappreciationweekend">Jax Appreciation Weekend</a>
     <a href="/tagged/jax's-team">Jax's Team</a>
 	<a href="/tagged/teamlot">team legends</a>
 	<a href="/tagged/alpbabet">arrowverse alphabet</a>
 	<a href="/tagged/rogues-rewatch">rogues rewatch</a>
-	<a href="/tagged/gpm">one gif per movie</a>
+	<a href="/tagged/gpm">one gifset per movie</a>
 <h8>upcoming</h8>
-    <a href="/tagged/jaxjacksonappreciationweekend">Jax Appreciation Weekend</a>
     <a href="/tagged/pbaw17">Prison Break Appreciation Week</a>
     <a href="/tagged/wrrooms">Rooms of the Waverider</a>
     <a href="/tagged/top3dctv">Top 3 DCTV episodes per season</a>
