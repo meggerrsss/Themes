@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<head>
+ 
+<title>Icons</title>
+<link rel="shortcut icon" href="{Favicon}">
+ 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+
+<script src="http://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js"></script>
+
+<script src="http://static.tumblr.com/7bmjmb1/7alncayzs/jquery-1.11.1.min.js"></script>
+
+<!-- filter script --> 
+<script>
+$(document).ready(function(){
+$(".filters").click(function(e) {
+e.preventDefault();
+$(".all").not("." + $(this).attr("rel")).hide(500); 
+$("." + $(this).attr("rel")).show(500);
+});
+});
+</script>
+<!-- filter script --> 
+
+<!-- tooltip script -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+
+<script src="http://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js"></script>
+
+<script>
+
+(function($){
+
+$(document).ready(function(){
+
+$("a[title]").style_my_tooltips({
+
+tip_follows_cursor:true,
+
+tip_delay_time:90,
+
+tip_fade_speed:600,
+
+attribute:"title"
+
+});
+
+});
+
+})(jQuery);
+
+</script>
+<!-- tooltip script -->
+
+<style type="text/css">
+
+#s-m-t-tooltip {
+    max-width:300px; 
+    background-color:#ddd;
+    font-size:0.4em; 
+    color:#fff;
+    letter-spacing:1px;
+    text-transform:lowercase;
+    padding:5px;
+    margin:20px 0px 0px 20px;
+    z-index:9999999999999999999999;
+    border-radius: 2px;
+
+}
+ 
+body {
+    font-family:avalon;
+    background:#f9f9f9;
+}
+
+::-webkit-scrollbar {
+    width:5px;
+    height:0px;
+    background-color:#eee;
+}
+ 
+::-webkit-scrollbar-thumb {
+    background-color:#ddd;
+    margin-top:6px;
+    height:20px;
+}
+
+a {
+    text-decoration:none;
+    padding:2px 3px;
+    color:#81b300;
+    font-size:0.4em;
+    display:inline-block;
+    -webkit-transition-duration:.6s;
+    -moz-transition-duration:.6s;
+    -o-transition-duration:.6s;
+    -ms-transition-duration:.6s;
+}
+
+#title {
+    position:absolute;
+    top:90px;
+    left:640px;
+    width:700px;
+    color:#008581;
+    font-size:2em;
+    text-align:right;
+    text-transform:uppercase;
+}
+
+#title a{
+    color:#008581;
+    font-size:1em;
+}
+
+#title a:hover {
+    color:#81b300;
+}
+
+
+#filters {
+    position:absolute;
+    top:130px;
+    height:330px;
+    left:1100px;
+    width:250px;
+    background:#fff;
+    font-family:avalon;
+    font-size:0.4em;
+    letter-spacing:1px;
+    line-height:10px;
+    overflow-y:scroll;
+    padding:10px;
+    border-top:solid #fff 3px;
+    -webkit-transition-duration:.6s;
+    -moz-transition-duration:.6s;
+    -o-transition-duration:.6s;
+    -ms-transition-duration:.6s;
+}
+
+#filters:hover{
+    border-top:solid #81b300 3px;
+    -webkit-transition-duration:.6s;
+    -moz-transition-duration:.6s;
+    -o-transition-duration:.6s;
+    -ms-transition-duration:.6s;
+}
+
+#filters a{
+    margin:2px;
+    padding:5px;
+    color:#999;
+    font-size:16px;
+}
+
+#filters a:hover{
+    color:#008581;
+    font-weight:bold;
+}
+
+#credit {
+    position:absolute;
+    top:635px;
+    left:1000px;
+    width:140px;
+    font-family:avalon;
+    font-size:10px;
+    letter-spacing:1px;
+    line-height:12px;
+    padding:10px;
+}
+   
+
+#icons {
+    position:absolute;
+    top:130px;
+    height:525px;
+    left:110px;
+    width:964px;
+    background:#fff;
+    padding-right:5px;
+    text-align:left;
+    overflow-y:scroll;
+    border-top:solid #fff 3px;
+    -webkit-transition-duration:.6s;
+    -moz-transition-duration:.6s;
+    -o-transition-duration:.6s;
+    -ms-transition-duration:.6s;
+}
+
+#icons:hover{
+    border-top:solid #81b300 3px;
+    -webkit-transition-duration:.6s;
+    -moz-transition-duration:.6s;
+    -o-transition-duration:.6s;
+    -ms-transition-duration:.6s;
+}
+ 
+#icons img {
+    width:100px;
+    margin:5px;
+    background:none;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div id="title">
+    <a href="/" title="back">⩤</a>
+    <a href="/shows" title="shows">|</a>
+    <a href="/creations2" title="creations">||</a>
+    icons
+    </div>
+
+<div id="filters">
+<a href="#" rel="all" class="filters">all</a><br>
+<a href="#" rel="new" class="filters"><b>new</b></a><br>
+<br>
+<a href="#" rel="panels" class="filters">comic panels</a><br>
+<a href="#" rel="lot" class="filters">legends of tomorrow</a><br>
+<br>
+<a href="#" rel="gordon" class="filters">barbara gordon/batgirl</a></a><br>
+<a href="#" rel="allen" class="filters">barry allen/the flash</a></a><br>
+<a href="#" rel="lance" class="filters">dinah lance/black canary</a><br>
+<a href="#" rel="bertinelli" class="filters">helena bertinelli/huntress</a></a><br>
+<a href="#" rel="zorel" class="filters">kara zor el/supergirl</a><br>
+<a href="#" rel="snart" class="filters">leonard snart/captain cold</a><br>
+<a href="#" rel="trent" class="filters">lucas trent/midnighter</a><br>
+<a href="#" rel="rory" class="filters">mick rory/heat wave</a><br>
+</div>
+
+<div id="credit"><a href="https://aryawhiteyes.tumblr.com/post/157853365414/i-got-a-request-for-help-with-icon-pages-and-im-a">x</a>
+</div>
+
+<div id="icons">
+
+<!-- RED RED RED -->
+<!-- RED RED RED -->
+<span class="all panels snart"><a href="https://ibb.co/eexw6F"><img src="https://thumb.ibb.co/eexw6F/ohboy.jpg" alt="ohboy" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/irTBQa"><img src="https://thumb.ibb.co/irTBQa/iconcoldwavepink.jpg" alt="iconcoldwavepink" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/cwmbrF"><img src="https://thumb.ibb.co/cwmbrF/iconcoldwavewavred.jpg" alt="iconcoldwavewavred" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/mueCWF"><img src="https://thumb.ibb.co/mueCWF/iconcoldwavered.jpg" alt="iconcoldwavered" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/kG1vJv"><img src="https://thumb.ibb.co/kG1vJv/iconleonardpink.jpg" alt="iconleonardpink" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/jpW6Qa"><img src="https://thumb.ibb.co/jpW6Qa/iconleonardpink2.jpg" alt="iconleonardpink2" border="0" /></a></span>
+<!-- RED RED RED -->
+<!-- RED RED RED -->
+
+
+<!-- ORANGE ORANGE -->
+<!-- ORANGE ORANGE -->
+<span class="all panels allen rory snart"><a href="https://ibb.co/kevcDv"><img src="https://image.ibb.co/hgRTLa/coldflashwave.png" alt="coldflashwave" border="0" /></a></span>
+<span class="all panels trent"><a href="https://ibb.co/kHi8La"><img src="https://thumb.ibb.co/kHi8La/mid3i.jpg" alt="mid3i" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/d7krQa"><img src="https://thumb.ibb.co/d7krQa/iconcoldwaveredr.jpg" alt="iconcoldwaveredr" border="0" /></a></span>
+<!-- RED RED RED -->
+<!-- ORANGE ORANGE -->
+<!-- ORANGE ORANGE -->
+
+
+<!-- YELLOW YELLOW -->
+<!-- YELLOW YELLOW -->
+<span class="all panels lance"><a href="https://ibb.co/ijwTLa"><img src="https://preview.ibb.co/cLs2fa/Dinah_Lance_jlnf.jpg" alt="Dinah Lance jlnf" border="0" /></a></span>
+<span class="all panels trent"><a href="https://ibb.co/gWQcDv"><img src="https://thumb.ibb.co/gWQcDv/mid2i.jpg" alt="mid2i" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/cN0fJv"><img src="https://thumb.ibb.co/cN0fJv/iconcoldwaveyellow2.jpg" alt="iconcoldwaveyellow2" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/jwH5ka"><img src="https://thumb.ibb.co/jwH5ka/iconcoldwaveyellow.jpg" alt="iconcoldwaveyellow" border="0" /></a></span>
+<!-- YELLOW YELLOW -->
+<!-- YELLOW YELLOW -->
+
+
+<!-- GREEN GREEN -->
+<!-- GREEN GREEN -->
+<span class="all panels snart"><a href="https://ibb.co/faGZtv"><img src="https://thumb.ibb.co/faGZtv/len.jpg" alt="len" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/doKqJv"><img src="https://thumb.ibb.co/doKqJv/coldwavegreen.jpg" alt="coldwavegreen" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/d2NPBF"><img src="https://thumb.ibb.co/d2NPBF/iconleonardaqua2.jpg" alt="iconleonardaqua2" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/gdKt5a"><img src="https://thumb.ibb.co/gdKt5a/iconleonardaqua.jpg" alt="iconleonardaqua" border="0" /></a></span>
+<!-- GREEN GREEN -->
+<!-- GREEN GREEN -->
+
+
+<!-- BLUE BLUE BLUE -->
+<!-- BLUE BLUE BLUE -->
+<span class="all panels snart"><a href="https://ibb.co/kmhURF"><img src="https://preview.ibb.co/mJJ3mF/cold4.jpg" alt="cold4" border="0" /></a></span>
+<span class="all panels snart"><a href="https://ibb.co/nMo3mF"><img src="https://preview.ibb.co/eNPLYv/cold3.jpg" alt="cold3" border="0" /></a></span>
+<span class="all panels zorel"><a href="https://ibb.co/fD550a"><img src="https://thumb.ibb.co/fD550a/kara.jpg" alt="kara" border="0" /></a></span>
+<span class="all panels snart"><a href="https://ibb.co/fkT8La"><img src="https://preview.ibb.co/e7tKRF/cold1.jpg" alt="cold1" border="0" /></a></span>
+<span class="all panels snart"><a href="https://ibb.co/cwUF0a"><img src="https://preview.ibb.co/cpmHDv/cold2.jpg" alt="cold2" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/g3hw6F"><img src="https://thumb.ibb.co/g3hw6F/iconleonard1.jpg" alt="iconleonard1" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/iNMZtv"><img src="https://thumb.ibb.co/iNMZtv/iconleonard2.jpg" alt="iconleonard2" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/nb2w6F"><img src="https://thumb.ibb.co/nb2w6F/iconleonard3.jpg" alt="iconleonard3" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/hrH5ka"><img src="https://thumb.ibb.co/hrH5ka/iconcoldwavebluess.jpg" alt="iconcoldwavebluess" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/hXBnyv"><img src="https://thumb.ibb.co/hXBnyv/iconcoldwavebblue.jpg" alt="iconcoldwavebblue" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/j7LY5a"><img src="https://thumb.ibb.co/j7LY5a/iconleonardlb2.jpg" alt="iconleonardlb2" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/cgMHWF"><img src="https://thumb.ibb.co/cgMHWF/iconleonardlb.jpg" alt="iconleonardlb" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/nyZhyv"><img src="https://thumb.ibb.co/nyZhyv/iconleonardlegaw2.jpg" alt="iconleonardlegaw2" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/gEeFJv"><img src="https://thumb.ibb.co/gEeFJv/iconleonardlegaq.jpg" alt="iconleonardlegaq" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/ieOmQa"><img src="https://thumb.ibb.co/ieOmQa/iconleonardbl.jpg" alt="iconleonardbl" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/nOLpdv"><img src="https://thumb.ibb.co/nOLpdv/iconleonardbl2.jpg" alt="iconleonardbl2" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/hgRvJv"><img src="https://thumb.ibb.co/hgRvJv/iconleonardblueleg2.jpg" alt="iconleonardblueleg2" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/kWND5a"><img src="https://thumb.ibb.co/kWND5a/iconleonardbluleg.jpg" alt="iconleonardbluleg" border="0" /></a></span>
+<!-- BLUE BLUE BLUE -->
+<!-- BLUE BLUE BLUE -->
+
+
+<!-- PURPLE PURPLE -->
+<!-- PURPLE PURPLE -->
+<span class="all panels gordon"><a href="https://ibb.co/fAAcDv"><img src="https://thumb.ibb.co/fAAcDv/babs.jpg" alt="babs" border="0" /></a></span>
+<span class="all panels bertinelli"><a href="https://ibb.co/iBZLYv"><img src="https://image.ibb.co/i4rOmF/hel1.jpg" alt="hel1" border="0" /></a></span>
+<span class="all panels gordon bertinelli lance"><a href="https://ibb.co/b6LzRF"><img src="https://image.ibb.co/byrjtv/bop.jpg" alt="bop" border="0" /></a></span>
+<span class="all panels gordon bertinelli lance"><a href="https://ibb.co/dd9F0a"><img src="https://image.ibb.co/ifr66F/bop2.jpg" alt="bop2" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/cYpLYv"><img src="https://image.ibb.co/nw6dLa/iconcoldwave4.jpg" alt="iconcoldwave4" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/gtdZdv"><img src="https://thumb.ibb.co/gtdZdv/iconcoldwaveblue.jpg" alt="iconcoldwaveblue" border="0" /></a></span>
+<!-- PURPLE PURPLE -->
+<!-- PURPLE PURPLE -->
+
+
+<!-- NEUTRAL NEUTRAL -->
+<!-- NEUTRAL NEUTRAL -->
+
+<span class="all panels lance"><a href="https://ibb.co/jUetmF"><img src="https://image.ibb.co/nBg66F/dinah2.jpg" alt="dinah2" border="0" /></a></span>
+<span class="all panels gordon"><a href="https://ibb.co/gT5YmF"><img src="https://image.ibb.co/gLOa0a/babs2.jpg" alt="babs2" border="0" /></a></span>
+<span class="all panels trent"><a href="https://ibb.co/ngpR6F"><img src="https://image.ibb.co/doQzRF/mid1i.jpg" alt="mid1i" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/nCJsfa"><img src="https://image.ibb.co/bGR0Yv/iconcoldwave5.jpg" alt="iconcoldwave5" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/huOHfa"><img src="https://image.ibb.co/jMzZRF/iconcoldwave1.jpg" alt="iconcoldwave1" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/hXComF"><img src="https://image.ibb.co/eoRsDv/iconcoldwave2.jpg" alt="iconcoldwave2" border="0" /></a></span>
+<span class="all new lot snart rory"><a href="https://ibb.co/iKGOmF"><img src="https://image.ibb.co/jhQG6F/iconcoldwave3.jpg" alt="iconcoldwave3" border="0" /></a></span>
+<span class="all new lot snart"><a href="https://ibb.co/iGBCfa"><img src="https://thumb.ibb.co/iGBCfa/iconleonard4.jpg" alt="iconleonard4" border="0" /></a></span>
+<!-- NEUTRAL NEUTRAL -->
+<!-- NEUTRAL NEUTRAL -->
+<br><br>
+
+
+
+<!-- base icon code:
+
+<span class="all "><img src=""></span>
+
+end base icon code -->
+
+</div> 
+ 
+</body>
+
+
+</html>

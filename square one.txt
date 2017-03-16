@@ -67,17 +67,17 @@ function changeFontSize(inc)
 <meta name="image:Background" content="">
 <meta name="image:Avatar" content="http://i.imgur.com/98g9yMP.png">
 
-<meta name="color:Body Font" content="#979797">
-<meta name="color:Background" content="#F5F8F8">
-<meta name="color:Title" content="#008581">
+<meta name="color:Body Font" content="#848280">
+<meta name="color:Background" content="#dadada">
+<meta name="color:Title" content="#419d40">
 <meta name="color:Accent One" content="#81b300">
-<meta name="color:Accent Two" content="#910061">
+<meta name="color:Accent Two" content="#008581">
 <meta name="color:Accent Font" content="#FFFFFF">
 <meta name="color:Link" content="#81b300">
 <meta name="color:Hover Link" content="#910061">
-<meta name="color:Sidebar Background" content="#3f3932">
-<meta name="color:Post Background" content="#FFFFFF">
-<meta name="color:Border" content="#EEEEEE">
+<meta name="color:Sidebar Background" content="#332921">
+<meta name="color:Post Background" content="#f3f3f3">
+<meta name="color:Border" content="#434343">
  
 <meta name="select:Background Type" content="background-repeat: repeat;" title="Repeat Background">
 <meta name="select:Background Type" content="background-size: cover;" title="Full Page Background">
@@ -106,12 +106,12 @@ function changeFontSize(inc)
 <meta name="select:Post Size" content="500px" title="500px">
 <meta name="select:Post Size" content="540px" title="540px">
 
-<meta name="select:Body Font Size" content="9px" title="9px">
-<meta name="select:Body Font Size" content="10px" title="10px">
-<meta name="select:Body Font Size" content="11px" title="11px">
-<meta name="select:Body Font Size" content="12px" title="12px">
-<meta name="select:Body Font Size" content="13px" title="13px">
-<meta name="select:Body Font Size" content="13px" title="14px">
+<meta name="select:Body Font Size" content="0.80em" title="9px">
+<meta name="select:Body Font Size" content="0.85em" title="10px">
+<meta name="select:Body Font Size" content="0.90em" title="11px">
+<meta name="select:Body Font Size" content="0.95em" title="12px">
+<meta name="select:Body Font Size" content="1em" title="13px">
+<meta name="select:Body Font Size" content="1.1em" title="14px">
  
 <meta name="text:Title" content="Square One.">
 <meta name="text:Subtitle" content="● Whistle like a missle bomb ●">
@@ -136,7 +136,7 @@ function changeFontSize(inc)
 <style>
 
 div#qTip {
-    font: 12px/12px Karla;
+    font: .75em/.75em Karla;
     color: {color:Body Font};
     text-align: center;
     text-transform: uppercase;
@@ -174,7 +174,7 @@ body {
     line-height: 18px;
 }
 
-sub, sup, small {
+sub, sup, small, ul, li {
     font-size: {select:Body Font Size};
 }
 
@@ -194,7 +194,7 @@ a:hover {
 }
 
 h1 {
-    font: normal 16px/16px Montserrat;
+    font: normal 1em/1em Montserrat;
     text-align: center;
     width: calc(100% + 20px);
     margin-left: -10px;
@@ -220,7 +220,7 @@ nav#top {
     height: 40px;
     top: 5px;
     position: fixed;
-    font-size: 12px;
+    font-size: .75em;
     letter-spacing: 1px;
     border-bottom: 1px solid {color:Border};
     text-transform: uppercase;
@@ -293,7 +293,7 @@ aside {
 }
 
 #title {
-    font-size: 26px;
+    font-size: 2em;
     text-transform: lowercase;
     letter-spacing: -2px;
     font-family: montserrat;
@@ -315,7 +315,7 @@ aside {
     padding: 2px 5px;
     letter-spacing: 2px;
     border-radius: 2px;
-    font-size: 10px;
+    font-size: 0.75em;
     font-style: italic;
     text-transform: uppercase;
     display: inline;
@@ -385,7 +385,7 @@ nav#main li {
     width: 100px;
     display: inline-block;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 0.9em;
     letter-spacing: 1px;
     border-bottom: 1px solid {color:Border};
     padding: 7px;
@@ -434,7 +434,7 @@ nav#main a:hover {
     border-radius: 2px;
     color: {color:Title};
     line-height: 15px;
-    font-size: 12px;
+    font-size: 0.9em;
     font-style: bold;
     background: {color:Background};
     text-align: right;
@@ -559,7 +559,7 @@ nav#main a:hover {
 
 .quote {
     text-align: center;
-    font-size: 17px;
+    font-size: 1.3em;
     font-style: italic;
     padding: 5px 0;
 }
@@ -599,7 +599,7 @@ nav#main a:hover {
 .asker {
     margin-bottom: 10px;
     font-family: Montserrat;
-    font-size: 16px;
+    font-size: 1.25em;
     text-transform: lowercase;
 }
 
@@ -624,7 +624,7 @@ nav#main a:hover {
 
 #permalink {
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 0.9em;
     line-height: 18px;
     height: 18px;
     border-top: 1px solid {color:Border};
@@ -649,7 +649,7 @@ nav#main a:hover {
     padding: 1px 2px 1px 4px;
     border-radius: 2px;
     margin-right: 2px;
-    font-size: 12px;
+    font-size: 0.9em;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
@@ -710,11 +710,10 @@ nav#main a:hover {
 }
 
 #permpage {
-   
     text-align: center;
     margin-top: 5px;
     line-height: 16px;
-    font-size: 12px;
+    font-size: 0.9em;
     border-top: 1px solid {color:Border};
     border-bottom: 1px solid {color:Border};
     width: 520px;
@@ -726,11 +725,11 @@ nav#main a:hover {
     text-align: center;
     {block:IndexPage}
     position: absolute;
-    font-size: 12px;
+    font-size: 0.9em;
     width: {select:Post Size};
     margin-top: 10px;
     letter-spacing: 1px;
-    line-height: 11px;
+    line-height: 0.825em;
     {/block:IndexPage}
 }
 
@@ -769,7 +768,7 @@ ol.notes li.note img.avatar {
     position: relative;
     margin-top: 40px;
     display: block;
-    font-size: 14px;
+    font-size: 1.1em;
     {block:IfInfiniteScroll}
     display: none;
     {/block:IfInfiniteScroll}

@@ -64,7 +64,7 @@
 /* font size */
 
 html {/* changing this will scale all of the font sizes */
-    font-size:14px;} 
+    font-size:16px;} 
     
     
 /* background colour */
@@ -132,9 +132,7 @@ a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
 <!-- show all --><span class="button filter active" filter="">all
 </span><!-- fave --><span class="button filter" filter=".fave">favourites
 </span><!-- can gif --><span class="button filter" filter=".req">can gif
-</span><!-- airing --><span class="button filter" filter=".airing">airing
 </span><!-- caught-up --><span class="button filter" filter=".caught-up">caught up
-</span><!-- complete --><span class="button filter" filter=".complete">complete
 </span><!-- dctv --><span class="button filter" filter=".dctv">dctv
 </span><!-- to-watch --><span class="button filter" filter=".to-watch">to watch
 </span><!-- toggle info --><span class="button toggle">toggle info
@@ -545,6 +543,21 @@ on the following line! -->
     <b>status:</b> finished <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> capsey <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info dctv complete" name="greenlanterntas">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/igeM6F/gltas.jpg"  />
+<div class="title">
+    <a href="/tagged/gltas">Green Lantern: The Animated Series</a>
+</div><div class="bottom">
+    <b>status:</b> finished <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> halcarol, razaya <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1071,7 +1084,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete caught-up" name="vampirediaries">
+<div class="item info complete" name="vampirediaries">
  
 <div class="content">
     <img src="https://image.ibb.co/eKzgLa/tvd.jpg" />
@@ -1095,7 +1108,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> klaus/cami <br />
+    <b>ships:</b> klami <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1131,7 +1144,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info req caught-up airing dctv" name="youngjustice">
+<div class="item fave info req caught-up dctv" name="youngjustice">
  
 <div class="content">
     <img src="https://image.ibb.co/cBy80a/yjj.png" />
@@ -1231,14 +1244,14 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item to-watch" name="preacher">
+<div class="item to-watch dctv" name="preacher">
  
 <div class="content">
     <img src="https://image.ibb.co/iJ1Htv/preacher.jpg" />
 <div class="title">
     <a href="/tagged/preacher">Preacher</a>
 </div><div class="bottom">
-    <b>status:</b> unstarted <br />
+    <b>status:</b> started <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
