@@ -15,7 +15,7 @@
  
 -->
  
-<title>navigation</title>
+<title>creations</title>
 <link rel="shortcut icon" href="{Favicon}">
  
 <!-- scripts - DO NOT TOUCH -->
@@ -168,7 +168,7 @@ i, em { font-style:italic; }
 #header {
     position:absolute;
     width:400px;
-    top:100px;
+    top:10px;
     padding:15px;
     left:50%;
     transform:translateX(-50%);
@@ -211,7 +211,7 @@ i, em { font-style:italic; }
 }
 
 .links { 
-    width:300px;
+    width:350px;
     margin:10px 90px;
 }
 
@@ -228,7 +228,7 @@ i, em { font-style:italic; }
 .content {
     position:absolute;
     width:801px;
-    margin-top:330px;
+    margin-top:210px;
     left:50%;
     transform:translateX(-50%);
 }
@@ -269,9 +269,11 @@ i, em { font-style:italic; }
 .tags {
     position:absolute;
     width:535px;
-    height:250px; 
+    height:calc((57px * 5) - 28px); 
     /* if you want the height of the tabs to match the height of the main tag body, replace height:300px; with the line below
         height:calc((52px * 5) - 27px); 
+        default
+        height:250px; 
     change the 5 according to how many tabs you have */
     top:0px;
     margin:0px 201px 150px;
@@ -346,9 +348,10 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
         <a href="http://calmandcalculating.tumblr.com">home</a>
         <a href="http://calmandcalculating.tumblr.com/ask">inbox</a>
         <a href="http://calmandcalculating.tumblr.com/shows">shows</a>
+        <a href="http://calmandcalculating.tumblr.com/icons">icons</a>
         <a href="http://calmandcalculating.tumblr.com/tags">tags</a>
         <!-- do not remove this one!!! -->
-        <a href="http://alydae.tumblr.com">credit</a>
+        <a href="http://alydae.tumblr.com">x</a>
     </div>
 </div>
 
@@ -375,21 +378,23 @@ DO NOT TOUCH THE name="tab-group-1"
 
 <div class="tab">
     <input type="radio" id="tab-1" name="tab-group-1" checked>
-    <label for="tab-1">gifs</label> 
+    <label for="tab-1">main</label> 
 <div class="tags"> 
     <a href="/tagged/meggifs">all my gifs</a>
-	<a href="/tagged/**">my favourite gifs</a>
+	<a href="/tagged/%2A%2A">my favourite gifs</a>
+	<a href="/tagged/gifquote">from quotes</a>
 	<a href="/tagged/requests">requests</a>
-	<a href="/tagged/about-gifmaking">talking about gifmaking</a>
-	<a href="/tagged/used">resources</a>
+	<a href="/tagged/icons">icons</a>
+	<a href="/tagged/comicedit">comic edits</a>
 	<a href="/tagged/panels">comic panels</a>
+	<a href="/tagged/%2A">all posts</a>
 <h8>notes count</h8>
     <a href="/tagged/2k">2000</a>
     <a href="/tagged/1k">1000</a>
     <a href="/tagged/500">500</a>
     <a href="/tagged/250">250</a>
     <a href="/tagged/100">100</a>
-    <a href="/tagged/*new">1</a>
+    <a href="/tagged/%2Anew">1</a>
 </div>
 </div>
 
@@ -397,15 +402,18 @@ DO NOT TOUCH THE name="tab-group-1"
     <input type="radio" id="tab-2" name="tab-group-1">
     <label for="tab-2">projects</label> 
 <div class="tags"> 
+	<a href="/tagged/twnllweek">twn laurel lance week</a>
 	<a href="/tagged/teamlot">team legends</a>
 	<a href="/tagged/alpbabet">arrowverse alphabet</a>
 	<a href="/tagged/rogues-rewatch">rogues rewatch</a>
 	<a href="/tagged/gpm">one gifset per movie</a>
 <h8>upcoming</h8>
-    <a href="/tagged/pbaw17">Prison Break Appreciation Week</a>
-    <a href="/tagged/wrrooms">Rooms of the Waverider</a>
+	<a href="/tagged/night-and-day">night and day</a>
+	<a href="/tagged/losfpolyamweek">flarrow polyamory week</a>
     <a href="/tagged/top3dctv">Top 3 DCTV episodes per season</a>
 <h8>inactive / complete</h8>
+	<a href="/tagged/pbaw17">Prison Break Appreciation Week</a>
+	<a href="/tagged/wrrooms">Rooms of the Waverider</a>
     <a href="/tagged/jaxjacksonappreciationweekend">Jax Appreciation Weekend</a>
 	<a href="/tagged/jax's-team">Jax's Team</a>
     <a href="/tagged/dctvladiesappreciation">dctv ladies appreciation week</a>
@@ -448,6 +456,7 @@ DO NOT TOUCH THE name="tab-group-1"
     <input type="radio" id="tab-4" name="tab-group-1">
     <label for="tab-4">sideblogs</label> 
 <div class="tags"> 
+	<a href="http://ccrogues.tumblr.com/">ccrogues</a>
     <a href="http://dailydcheroes.tumblr.com/">dailydcheroes</a>
     <a href="http://meggerrsss.tumblr.com/">meggerrsss</a>
 	<a href="http://dctvcountdown.tumblr.com/">dctvcountdown</a>
@@ -455,6 +464,19 @@ DO NOT TOUCH THE name="tab-group-1"
 	<a href="http://icedcapcold.tumblr.com/">icedcapcold</a>
 	<a href="http://coldnglider.tumblr.com/">coldnglider</a>
 	<a href="/">leonardsnartdefensesquad</a>
+</div>
+</div>
+
+<div class="tab">
+    <input type="radio" id="tab-5" name="tab-group-1">
+    <label for="tab-5">background</label> 
+<div class="tags"> 
+	<a href="/tagged/about-gifmaking">talking about gifmaking</a>
+	<a href="/tagged/to-make">to make list</a>
+	<a href="/tagged/used">resources</a>
+	<a href="/tagged/quotes">quotes</a>
+    <a href="/tagged/meghan's-life">personal</a>
+	<a href="/tagged/meghan-has-opinions">opinions</a>
 </div>
 </div>
 

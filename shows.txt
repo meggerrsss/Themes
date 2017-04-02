@@ -125,6 +125,7 @@ a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
     <a href="/">back</a>
     <a href="/ask">ask</a>
     <a href="/creations">creations</a>
+    <a href="/icons">icons</a>
     <a href="/tags">tags</a>
     
 </div></div>
@@ -383,7 +384,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info caught-up airing dctv" name="dcslegends">
+<div class="item fave req info caught-up dctv" name="dcslegends">
  
 <div class="content">
     <img src="https://image.ibb.co/dCE3Yv/legendsoftomorrow.jpg" />
@@ -608,7 +609,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up dctv" name="izombie">
+<div class="item info req airing caught-up dctv" name="izombie">
  
 <div class="content">
     <img src="https://image.ibb.co/f5VtYv/izombie.jpg" />
@@ -812,7 +813,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> cece/schmidt <br />
+    <b>ships:</b> schmece <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -912,7 +913,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/pb">Prison Break</a>
 </div><div class="bottom">
-    <b>status:</b> rewatching <br />
+    <b>status:</b> caught up  <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> misa <br />
 
@@ -1244,14 +1245,14 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item to-watch dctv" name="preacher">
+<div class="item caught-up req to-watch dctv" name="preacher">
  
 <div class="content">
     <img src="https://image.ibb.co/iJ1Htv/preacher.jpg" />
 <div class="title">
     <a href="/tagged/preacher">Preacher</a>
 </div><div class="bottom">
-    <b>status:</b> started <br />
+    <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 

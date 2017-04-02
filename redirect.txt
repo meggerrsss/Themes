@@ -117,15 +117,16 @@ table
 </head>
 <body>
 
-<table>
-<tr>
-<td>
-<span style="font-family: Georgia; font-style: italic; letter-spacing: 10px; font-size: 20px;">over at</span>
-<div id="title"><a href="{text:New URL}">{text:New Username}</a></div></td>
-</tr>
-</table>
+	<table>
+		<tr>
+			<td>
+				<span style="font-family: Georgia; font-style: italic; letter-spacing: 10px; font-size: 20px;">over at</span>
+				<div id="title"><a href="{text:New URL}">{text:New Username}</a></div>
+			</td>
+		</tr>
+	</table>
 
-<div id="c">codes by<br /><a href="http://pohroro.tumblr.com">pohroro</a></div>
+	<div id="c">codes by<br /><a href="http://pohroro.tumblr.com">pohroro</a></div>
 
 </body>
 </html>
