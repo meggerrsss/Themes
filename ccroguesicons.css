@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-----------------------------------------------------------------------
+ 
+            THEME BY SAARAA @ CYANTISTS.TUMBLR.COM
+           
+            Please observe common theme sharing etiquette:
+                http://cyantists.tumblr.com/terms
+            Thank you.
+   
+------------------------------------------------------------------------>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+<title>icons</title>
+<link rel="shortcut icon" href="{Favicon}">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.1/SmoothScroll.min.js"></script><script src="http://static.tumblr.com/rzl30kg/eAxm7a751/jquery.style-my-tooltips.js"></script><script src="http://static.tumblr.com/ycrkdqn/ZFIn8dcjx/isotope.pkgd.min.js"></script><script src="http://static.tumblr.com/ycrkdqn/epEn8dclr/isotope-docs.js"></script>
+
+<script>$(document).ready(function(){$("[title]").style_my_tooltips({
+  tip_follows_cursor:true, tip_delay_time:50, tip_fade_speed:800
+}); }); $( function() {
+  var qsRegex; var buttonFilter; var $container = $('.ic').isotope({
+    itemSelector: '.icon', transitionDuration: '0.6s', filter:function() {
+      console.log('filtering'); var $this = $(this);
+      var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
+      var buttonResult = buttonFilter ? $this.is( buttonFilter ) : true;
+      return searchResult && buttonResult;
+}});var filters = {};$('.filters').on( 'click', '.button', function() {
+  var $this = $(this); var $buttonGroup = $this.parents('.buttons');
+  var filterGroup = $buttonGroup.attr('filters');
+  filters[ filterGroup ] = $this.attr('filter'); var filterValue = '';
+  for ( var prop in filters ) {filterValue += filters[ prop ];}
+  buttonFilter = filterValue; $container.isotope();
+});var $quicksearch = $('#ss').keyup( debounce( function() {
+  qsRegex = new RegExp( $quicksearch.val(), 'gi' ); $container.isotope();
+}) );$('.buttons').each( function( i, buttonGroup ) {
+  var $buttonGroup = $( buttonGroup );
+  $buttonGroup.on( 'click', 'button', function() {
+    $buttonGroup.find('.active').removeClass('active');
+    $( this ).addClass('active');
+});});});function debounce( fn, threshold ) {
+  var timeout; return function debounced() {
+    if ( timeout ) {clearTimeout( timeout );}
+    function delayed() {fn(); timeout = null;}
+    setTimeout( delayed, threshold || 100 );};}
+</script>
+
+<link href="http://static.tumblr.com/w3dcevg/xqDoa2kba/cycr.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
+
+<style type="text/css">
+
+a, a:hover, iframe.tmblr-iframe, iframe.tmblr-iframe:hover, .button, .button.active {
+    transition:all 0.4s ease-in-out;
+    -webkit-transition:all 0.4s ease-in-out;
+    -o-transition:all 0.4s ease-in-out;
+    -moz-transition:all 0.4s ease-in-out;
+    -ms-transition:all 0.4s ease-in-out;}
+ 
+body {
+    margin:0px;
+    background:#fff;
+    color:#bbb;
+    font-family:calibri, sans-serif;
+    font-size:1em;
+    font-style:italic;
+    line-height:1.3;}
+html {
+    overflow-y:scroll;}
+a:link, a:active, a:visited {
+    text-decoration:none;
+    color:#bbb;}
+a:hover {
+    color:#888;}
+*:focus {
+    outline:0!important;}
+    
+::-webkit-scrollbar {
+    height:0px;
+    width:7px;
+    background:#fff;}
+::-webkit-scrollbar-thumb:vertical {
+    width:3px;
+    background:#bbb;
+    border:2px solid #fff;}
+::-webkit-scrollbar-thumb:hotizontal {
+    display:none;}
+iframe.tmblr-iframe {
+    z-index:999999!important;
+    opacity:0.5;
+    top:3px!important;
+    right:3px!important;
+    filter:invert(1);
+    -webkit-filter:invert(1);
+    -o-filter:invert(1);
+    -moz-filter:invert(1);
+    -ms-filter:invert(1);}
+iframe.tmblr-iframe:hover {
+    opacity:1;}
+#s-m-t-tooltip {
+    margin-top:20px;
+    margin-left:16px;
+    display:inline-block;
+    position:absolute;
+    z-index:9999999999;
+    background:#f6f6f6;
+    color:#aaa;
+    font-family:calibri, sans-serif;
+    font-size:1em;
+    font-style:italic;
+    padding:3px 6px;}
+/** PLEASE DO NOT EDIT OR DELETE **/
+.cred {right:8px;}
+.cred:before {left:0; margin-left:-59px;}
+.cred:before, .clogo:before {color:#aaaaaa;}
+.clogo:after {color:#888888;}
+.clogo, .cred:before, .clogo:after {background:#ffffff;}
+.clogo, .cred:before {border:1px solid #f8f8f8;}
+/*********** THANK YOU! ***********/
+    
+.container {
+    width:966px;
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:0px auto;}
+
+.filters {
+    border-top:40px solid #fff;
+    background:#fff;
+    position:fixed;
+    margin-top:0px;
+    z-index:999;
+    width:966px;
+    border-bottom:10px solid #fff;}
+.f2 {
+    width:820px;
+    padding:10px;
+    position:relative;
+    margin-top:0px;
+    margin-left:116px;}
+.f1 {
+    position:absolute;
+    margin-top:84px;
+    width:120px;
+    text-align:center;
+}
+.top {
+    width:778px;
+    position:relative;
+    margin-left:136px;
+    padding:10px 15px;
+    border:1px solid #f8f8f8; 
+    margin-bottom:5px;
+    min-height:13px;}
+a.link {
+    margin-right:10px;}
+input[type="text"] {
+    position:absolute;
+    top:10px;
+    right:15px;
+    width:200px;
+    border:none;
+    text-align:right;
+    color:#bbb;
+    font-family:calibri, sans-serif;
+    font-size:1em;
+    font-style:italic;}
+::-webkit-input-placeholder {
+    color:#bbb;}
+::-moz-placeholder {
+    color:#bbb;}
+::-moz-placeholder {
+    color:#bbb;}
+::-ms-input-placeholder {
+    color:#bbb;}
+
+.button {
+    display:inline-block;
+    width:72px;
+    background:#fff;
+    cursor:pointer;
+    font-weight:400;
+    font-family:'Lato', sans-serif;
+    border:1px solid #f8f8f8;
+    padding:6px 0px;
+    font-size:0.8em;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    color:#aaa;}
+.f2 .button {
+    margin-right:10px;
+}
+.f1 .button {
+    margin-bottom:10px;
+    display:block;
+    padding:10px;
+    width:120px;}
+.button:last-of-type {
+    margin:0px;}
+.button.c01 {
+    color:#ff6868;}
+.button.c02 {
+    color:#ff9a74;}
+.button.c03 {
+    color:#ffdb70;}
+.button.c04 {
+    color:#75dc6a;}
+.button.c05 {
+    color:#52c6d5;}
+.button.c06 {
+    color:#7c92ff;}
+.button.c07 {
+    color:#c17bff;}
+.button.c08 {
+    color:#ff81c2;}
+.button.c09 {
+    color:#888;}
+.button.active {
+    font-weight:900; background:#f8f8f8;}
+    
+.ic {
+    width:850px;
+    position:relative;
+    margin:144px 0px 40px 116px;
+    z-index:1;}
+.ic:after {
+    content:'';
+    display:block;
+    clear:both;}
+.icon {
+    position:relative;
+    float:left;
+    width:75px;
+    height:75px;
+    margin:5px;
+    font-size:0px;}
+.icon img {
+    width:75px;}
+
+</style></head><body>
+
+<div class="container"><div class="filters">
+
+    <div class="top">
+    
+        <a class="link" href="/">home</a>
+		<a class="link" href="/creations">creations</a>
+		<a class="link" href="/tags">tags</a>
+		<a class="link" href="/eps">episodes</a>
+        <!-- copy and paste as needed -->
+        
+        <span style="margin-right:10px;">/</span>like the original post if you take any, please!
+    
+        <!-- to remove the search bar delete the line below -->
+        <input type="text" id="ss" placeholder="search icons" />
+    
+    </div>
+    
+    <!------ TO DELETE THE 'CATEGORY' FITLERS:
+        delete from here to the next </div>
+    ------------------------------------------>
+    <div class="buttons f1" filters="categories">
+        
+        <button class="button active" filter="">all</button>
+        <button class="button" filter=".panels">comics</button>
+		<button class="button" filter=".n52">> new 52</button>
+		<button class="button" filter=".rebirth">> rebirth</button>
+		<button class="button" filter=".live">live action</button>
+        <button class="button" filter=".lot">> legends of tomorrow</button>
+        <!-- copy and paste as needed -->
+        
+    </div>
+
+
+    <div class="buttons f2" filters="colours"><center>
+
+<button class="button c00 active" filter="">all</button><!-- // ALL--><button class="button c01" filter=".red">red</button><!-- // RED --><button class="button c02" filter=".orange">orange</button><!-- // ORANGE --><button class="button c03" filter=".yellow">yellow</button><!-- // YELLOW --><button class="button c04" filter=".green">green</button><!-- // GREEN --><button class="button c05" filter=".cyan">cyan</button><!-- // CYAN --><button class="button c06" filter=".blue">blue</button><!-- // BLUE --><button class="button c07" filter=".purple">purple</button><!-- // PURPLE --><button class="button c08" filter=".pink">pink</button><!-- // PINK --><button class="button c09" filter=".other">other</button><!-- // OTHER -->
+
+        <!-- NOTE FROM THEME MAKER: I realise the layout above is kind
+        of irritating but putting the code for each button on seperate
+        lines messes up the space between them on the page, sorry for
+        the nuisance! -->
+    
+    </center></div>
+
+</div><div class="ic">
+
+<!-- ORANGE ORANGE -->
+<!-- ORANGE ORANGE -->
+<div class="icon rebirth panels allen orange rory snart"><a href="https://ibb.co/kevcDv"><img src="https://image.ibb.co/hgRTLa/coldflashwave.png" alt="coldflashwave" border="0" />captain cold leonard snart mick rory heatwave heat wave barry allen flash </a></div>
+<div class="icon rebirth panels orange rory"><a href="https://ibb.co/cMZXFa"><img src="https://thumb.ibb.co/cMZXFa/hw.jpg" alt="hw" border="0" />mick rory heatwave heat wave</a></div>
+<!-- ORANGE ORANGE -->
+<!-- ORANGE ORANGE -->
+
+
+<!-- YELLOW YELLOW -->
+<!-- YELLOW YELLOW -->
+<div class="icon new live lot orange yellow lot215 snart"><a href="https://ibb.co/cnVfmF"><img src="https://thumb.ibb.co/cnVfmF/lsboom11.jpg" alt="lsboom11" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live lot lot215 orange yellow snart"><a href="https://ibb.co/i5oY6F"><img src="https://thumb.ibb.co/i5oY6F/lsboom10.jpg" alt="lsboom10" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new fave live lot lot215 orange yellow snart"><a href="https://ibb.co/cZipfa"><img src="https://thumb.ibb.co/cZipfa/lsboom1.jpg" alt="lsboom1" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live lot yellow lot216 snart"><a href="https://ibb.co/k8jJov"><img src="https://thumb.ibb.co/k8jJov/lot216iconsly.jpg" alt="lot216iconsly" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon panels new rebirth yellow lisa"><a href="https://ibb.co/m3AgQa"><img src="https://thumb.ibb.co/m3AgQa/lisay.jpg" alt="lisay" border="0" />lisa snart golden glider </a></div>
+<div class="icon new rebirth yellow cyan panels snart lisa"><a href="https://ibb.co/jxc6rF"><img src="https://thumb.ibb.co/jxc6rF/snartsicon.jpg" alt="snartsicon" border="0" />lisa leonard captain cold snart golden glider </a></div>
+<div class="icon panels yellow new rebirth lisa"><a href="https://ibb.co/bwuVJv"><img src="https://thumb.ibb.co/bwuVJv/lisaicosn.jpg" alt="lisaicosn" border="0" />lisa snart golden glider </a></div>
+<div class="icon fave yellow panels new rebirth lisa"><a href="https://ibb.co/cFgMQa"><img src="https://thumb.ibb.co/cFgMQa/lisa2e.jpg" alt="lisa2e" border="0" />lisa snart golden glider </a></div>
+<div class="icon fave new yellow rebirth panels lisa"><a href="https://ibb.co/nmSvka"><img src="https://thumb.ibb.co/nmSvka/lisay2.jpg" alt="lisay2" border="0" />lisa snart golden glider </a></div>
+<div class="icon live lot lot215 yellow snart rory"><a href="https://ibb.co/cN0fJv"><img src="https://thumb.ibb.co/cN0fJv/iconcoldwaveyellow2.jpg" alt="iconcoldwaveyellow2" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon live lot lot215 yellow snart rory"><a href="https://ibb.co/jwH5ka"><img src="https://thumb.ibb.co/jwH5ka/iconcoldwaveyellow.jpg" alt="iconcoldwaveyellow" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<!-- YELLOW YELLOW -->
+<!-- YELLOW YELLOW -->
+
+
+<!-- GREEN GREEN -->
+<!-- GREEN GREEN -->
+<div class="icon new live lot green lot215 snart"><a href="https://ibb.co/dEqD6F"><img src="https://thumb.ibb.co/dEqD6F/lsboom3.jpg" alt="lsboom3" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live lot green lot215 snart"><a href="https://ibb.co/eChRRF"><img src="https://thumb.ibb.co/eChRRF/lsboom8.jpg" alt="lsboom8" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live lot lot215 green snart"><a href="https://ibb.co/nzOcYv"><img src="https://thumb.ibb.co/nzOcYv/lsboom13.jpg" alt="lsboom13" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live lot lot216 green snart"><a href="https://ibb.co/bNCtMF"><img src="https://thumb.ibb.co/bNCtMF/lot216iconslg.jpg" alt="lot216iconslg" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new live lot lot216 green snart"><a href="https://ibb.co/i0MngF"><img src="https://thumb.ibb.co/i0MngF/lot216iconsg.jpg" alt="lot216iconsg" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new live lot lot216 green snart"><a href="https://ibb.co/f26L1F"><img src="https://thumb.ibb.co/f26L1F/lot216iconsg2.jpg" alt="lot216iconsg2" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new rebirth green yellow panels lisa"><a href="https://ibb.co/d79VJv"><img src="https://thumb.ibb.co/d79VJv/lisa4a.jpg" alt="lisa4a" border="0" />lisa snart golden glider </a></div>
+<div class="icon panels n52 green snart"><a href="https://ibb.co/faGZtv"><img src="https://thumb.ibb.co/faGZtv/len.jpg" alt="len" border="0" />leonard snart captain cold </a></div>
+<div class="icon panels green rory"><a href="https://ibb.co/hOGOMF"><img src="https://thumb.ibb.co/hOGOMF/hw2.jpg" alt="hw2" border="0" />mick rory heatwave heat wave</a></div>
+<div class="icon fave green panels mardon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/ja6ZTv/marco.jpg" alt="marco" border="0" />weather wizard marco mardon mark</a></div>
+<div class="icon panels green rebirth snart"><a href="https://ibb.co/dvkHgF"><img src="https://thumb.ibb.co/dvkHgF/chillyg.jpg" alt="chillyg" border="0" />leonard snart captain cold</a></div>
+<div class="icon live lot green lot215 snart rory"><a href="https://ibb.co/doKqJv"><img src="https://thumb.ibb.co/doKqJv/coldwavegreen.jpg" alt="coldwavegreen" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon live lot green lot215 snart"><a href="https://ibb.co/d2NPBF"><img src="https://thumb.ibb.co/d2NPBF/iconleonardaqua2.jpg" alt="iconleonardaqua2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot green lot215 snart"><a href="https://ibb.co/gdKt5a"><img src="https://thumb.ibb.co/gdKt5a/iconleonardaqua.jpg" alt="iconleonardaqua" border="0" />leonard snart captain cold lot215 </a></div>
+<!-- GREEN GREEN -->
+<!-- GREEN GREEN -->
+
+
+<!-- CYAN CYAN CYAN-->
+<!-- CYAN CYAN CYAN-->
+<div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/fFzjDv"><img src="https://thumb.ibb.co/fFzjDv/lsboom2.jpg" alt="lsboom2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/esVfmF"><img src="https://thumb.ibb.co/esVfmF/lsboom12.jpg" alt="lsboom12" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/bswLmF"><img src="https://thumb.ibb.co/bswLmF/lsboom9.jpg" alt="lsboom9" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new cyan live lot lot216 snart"><a href="https://ibb.co/mSDpva"><img src="https://thumb.ibb.co/mSDpva/lot216iconssnowbl.jpg" alt="lot216iconssnowbl" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new cyan live lot lot216 snart"><a href="https://ibb.co/ci2tMF"><img src="https://thumb.ibb.co/ci2tMF/lot216iconslb.jpg" alt="lot216iconslb" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new cyan live lot lot216 snart"><a href="https://ibb.co/hc1ngF"><img src="https://thumb.ibb.co/hc1ngF/lot216iconslb2.jpg" alt="lot216iconslb2" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new cyan yellow pink rebirth panels snart lisa"><a href="https://ibb.co/ke3Pdv"><img src="https://thumb.ibb.co/ke3Pdv/snarts.jpg" alt="snarts" border="0" />lisa leonard snart captain cold golden glider </a></div>
+<div class="icon new cyan pink rebirth panels snart lisa"><a href="https://ibb.co/g0vFka"><img src="https://thumb.ibb.co/g0vFka/snartsicon2.jpg" alt="snartsicon2" border="0" />lisa leonard snart captain cold golden glider </a></div>
+<div class="icon new cyan yellow rebirth panels snart lisa"><a href="https://ibb.co/nhp85a"><img src="https://thumb.ibb.co/nhp85a/snartsicon4.jpg" alt="snartsicon4" border="0" />lisa leonard snart captain cold golden glider </a></div>
+<div class="icon new cyan pink rebirth panels lisa"><a href="https://ibb.co/k4WAJv"><img src="https://thumb.ibb.co/k4WAJv/lisa2b.jpg" alt="lisa2b" border="0" />lisa snart golden glider </a></div>
+<div class="icon new cyan rebirth panels lisa"><a href="https://ibb.co/f94KBF"><img src="https://thumb.ibb.co/f94KBF/lisa2c.jpg" alt="lisa2c" border="0" />lisa snart golden glider </a></div>
+<div class="icon fave cyan new rebirth panels lisa"><a href="https://ibb.co/bBemrF"><img src="https://thumb.ibb.co/bBemrF/lisa4d.jpg" alt="lisa4d" border="0" />lisa snart golden glider </a></div>
+<div class="icon fave cyan panels snart"><a href="https://ibb.co/hdkuTv"><img src="https://thumb.ibb.co/hdkuTv/chillyw.jpg" alt="chillyw" border="0" />leonard snart captain cold</a></div>
+<div class="icon panels cyan n52 snart"><a href="https://ibb.co/bMiZBF"><img src="https://thumb.ibb.co/bMiZBF/shots.jpg" alt="shots" border="0" />leonard snart captain cold</a></div>
+<div class="icon panels blue n52 snart"><a href="https://ibb.co/nsuwQa"><img src="https://thumb.ibb.co/nsuwQa/shotss2.jpg" alt="shotss2" border="0" />leonard snart captain cold</a></div>
+<div class="icon fave blue n52 panels snart"><a href="https://ibb.co/jJMzdv"><img src="https://thumb.ibb.co/jJMzdv/shotss.jpg" alt="shotss" border="0" />leonard snart captain cold</a></div>
+<div class="icon panels n52 blue snart"><a href="https://ibb.co/f8KA1F"><img src="https://thumb.ibb.co/f8KA1F/capww3.jpg" alt="capww3" border="0" />leonard snart captain cold</a></div>
+<div class="icon live lot cyan lot215 snart"><a href="https://ibb.co/g3hw6F"><img src="https://thumb.ibb.co/g3hw6F/iconleonard1.jpg" alt="iconleonard1" border="0" /></a>leonard snart captain cold lot215 </div>
+<div class="icon live lot cyan blue lot215 snart rory"><a href="https://ibb.co/hrH5ka"><img src="https://thumb.ibb.co/hrH5ka/iconcoldwavebluess.jpg" alt="iconcoldwavebluess" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/j7LY5a"><img src="https://thumb.ibb.co/j7LY5a/iconleonardlb2.jpg" alt="iconleonardlb2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/cgMHWF"><img src="https://thumb.ibb.co/cgMHWF/iconleonardlb.jpg" alt="iconleonardlb" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon fave panels cyan n52 snart"><a href="https://ibb.co/fkT8La"><img src="https://preview.ibb.co/e7tKRF/cold1.jpg" alt="cold1" border="0" />leonard snart captain cold</a></div>
+<div class="icon panels cyan n52 snart"><a href="https://ibb.co/cwUF0a"><img src="https://preview.ibb.co/cpmHDv/cold2.jpg" alt="cold2" border="0" />leonard snart captain cold</a></div>
+<div class="icon panels blue cyan n52 snart"><a href="https://ibb.co/kmhURF"><img src="https://preview.ibb.co/mJJ3mF/cold4.jpg" alt="cold4" border="0" />leonard snart captain cold</a></div>
+<div class="icon panels blue cyan n52 snart"><a href="https://ibb.co/nMo3mF"><img src="https://preview.ibb.co/eNPLYv/cold3.jpg" alt="cold3" border="0" />leonard snart captain cold</a></div>
+<!-- CYAN CYAN CYAN-->
+<!-- CYAN CYAN CYAN-->
+
+
+<!-- BLUE BLUE BLUE -->
+<!-- BLUE BLUE BLUE -->
+<div class="icon new blue live lot lot215 snart"><a href="https://ibb.co/kwraLa"><img src="https://thumb.ibb.co/kwraLa/lsboom4.jpg" alt="lsboom4" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new blue live lot lot215 snart"><a href="https://ibb.co/jSJcYv"><img src="https://thumb.ibb.co/jSJcYv/lsboom7.jpg" alt="lsboom7" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new blue live lot lot215 snart"><a href="https://ibb.co/k4PUfa"><img src="https://thumb.ibb.co/k4PUfa/lsboom14.jpg" alt="lsboom14" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon panels n52 blue snart allen"><a href="https://ibb.co/ey6CFa"><img src="https://thumb.ibb.co/ey6CFa/colt.jpg" alt="colt" border="0" />leonard snart captain cold barry allen flash</a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/iNMZtv"><img src="https://thumb.ibb.co/iNMZtv/iconleonard2.jpg" alt="iconleonard2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/nb2w6F"><img src="https://thumb.ibb.co/nb2w6F/iconleonard3.jpg" alt="iconleonard3" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot blue lot215 snart rory"><a href="https://ibb.co/hXBnyv"><img src="https://thumb.ibb.co/hXBnyv/iconcoldwavebblue.jpg" alt="iconcoldwavebblue" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon live lot cyan lot215 snart"><a href="https://ibb.co/nyZhyv"><img src="https://thumb.ibb.co/nyZhyv/iconleonardlegaw2.jpg" alt="iconleonardlegaw2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot cyan lot215 snart"><a href="https://ibb.co/gEeFJv"><img src="https://thumb.ibb.co/gEeFJv/iconleonardlegaq.jpg" alt="iconleonardlegaq" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/ieOmQa"><img src="https://thumb.ibb.co/ieOmQa/iconleonardbl.jpg" alt="iconleonardbl" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/nOLpdv"><img src="https://thumb.ibb.co/nOLpdv/iconleonardbl2.jpg" alt="iconleonardbl2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/hgRvJv"><img src="https://thumb.ibb.co/hgRvJv/iconleonardblueleg2.jpg" alt="iconleonardblueleg2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot blue lot215 snart"><a href="https://ibb.co/kWND5a"><img src="https://thumb.ibb.co/kWND5a/iconleonardbluleg.jpg" alt="iconleonardbluleg" border="0" />leonard snart captain cold lot215 </a></div>
+<!-- BLUE BLUE BLUE -->
+<!-- BLUE BLUE BLUE -->
+
+
+<!-- PURPLE PURPLE -->
+<!-- PURPLE PURPLE -->
+<div class="icon new live blue purple lot lot216 snart"><a href="https://ibb.co/hpfr8v"><img src="https://thumb.ibb.co/hpfr8v/lot216iconspurp2.jpg" alt="lot216iconspurp2" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new live blue purple lot lot216 snart"><a href="https://ibb.co/gQkf1F"><img src="https://thumb.ibb.co/gQkf1F/lot216iconspurp.jpg" alt="lot216iconspurp" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new live blue purple lot lot216 snart"><a href="https://ibb.co/kJXSgF"><img src="https://thumb.ibb.co/kJXSgF/lot216iconssnowpurp.jpg" alt="lot216iconssnowpurp" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon live lot lot215 purple snart rory"><a href="https://ibb.co/gtdZdv"><img src="https://thumb.ibb.co/gtdZdv/iconcoldwaveblue.jpg" alt="iconcoldwaveblue" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon fave live lot purple lot215 snart rory"><a href="https://ibb.co/cYpLYv"><img src="https://image.ibb.co/nw6dLa/iconcoldwave4.jpg" alt="iconcoldwave4" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<!-- PURPLE PURPLE -->
+<!-- PURPLE PURPLE -->
+
+<!-- PINK PINK PINK -->
+<!-- PINK PINK PINK -->
+<div class="icon new pink live lot lot215 snart"><a href="https://ibb.co/h8icYv"><img src="https://thumb.ibb.co/h8icYv/lsboom15.jpg" alt="lsboom15" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new pink live lot lot215 snart"><a href="https://ibb.co/cVrLmF"><img src="https://thumb.ibb.co/cVrLmF/lsboom6.jpg" alt="lsboom6" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live pink lot lot215 snart"><a href="https://ibb.co/mivfmF"><img src="https://thumb.ibb.co/mivfmF/lsboom5.jpg" alt="lsboom5" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon panels snart pink blue new rebirth lisa"><a href="https://ibb.co/fEY1Qa"><img src="https://thumb.ibb.co/fEY1Qa/snartsicon5dot.jpg" alt="snartsicon5dot" border="0" />lisa snart golden glider </a></div>
+<div class="icon panels new pink rebirth lisa"><a href="https://ibb.co/gBVgQa"><img src="https://thumb.ibb.co/gBVgQa/lisap.jpg" alt="lisap" border="0" />lisa snart golden glider </a></div>
+<div class="icon panels fave pink new rebirth lisa"><a href="https://ibb.co/h06MQa"><img src="https://thumb.ibb.co/h06MQa/lisa2p.jpg" alt="lisa2p" border="0" />lisa snart golden glider </a></div>
+<div class="icon live lot lot215 pink snart"><a href="https://ibb.co/kG1vJv"><img src="https://thumb.ibb.co/kG1vJv/iconleonardpink.jpg" alt="iconleonardpink" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot lot215 pink snart"><a href="https://ibb.co/jpW6Qa"><img src="https://thumb.ibb.co/jpW6Qa/iconleonardpink2.jpg" alt="iconleonardpink2" border="0" />leonard snart captain cold lot215 </a></div>
+<!-- PINK PINK PINK -->
+<!-- PINK PINK PINK -->
+
+<!-- RED RED RED -->
+<!-- RED RED RED -->
+<div class="icon red pink live lot  lot215 snart rory"><a href="https://ibb.co/irTBQa"><img src="https://thumb.ibb.co/irTBQa/iconcoldwavepink.jpg" alt="iconcoldwavepink" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon live lot red  orange lot215 snart rory"><a href="https://ibb.co/cwmbrF"><img src="https://thumb.ibb.co/cwmbrF/iconcoldwavewavred.jpg" alt="iconcoldwavewavred" border="0" />leonard snart captain cold mick rory coldwave heatwave heat wave l0t215</a></div>
+<div class="icon live red  lot lot215 snart rory"><a href="https://ibb.co/mueCWF"><img src="https://thumb.ibb.co/mueCWF/iconcoldwavered.jpg" alt="iconcoldwavered" border="0" />leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon panels preboot red orange other snart"><a href="https://ibb.co/eexw6F"><img src="https://thumb.ibb.co/eexw6F/ohboy.jpg" alt="ohboy" border="0" /></a></div>
+<div class="icon live lot lot215 snart red orange rory"><a href="https://ibb.co/d7krQa"><img src="https://thumb.ibb.co/d7krQa/iconcoldwaveredr.jpg" alt="iconcoldwaveredr" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<!-- RED RED RED -->
+<!-- RED RED RED -->
+
+
+<!-- NEUTRAL NEUTRAL -->
+<!-- NEUTRAL NEUTRAL -->
+<div class="icon new live other lot lot215 snart"><a href="https://ibb.co/kioBtv"><img src="https://thumb.ibb.co/kioBtv/lsboom16.jpg" alt="lsboom16" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live other lot lot215 snart"><a href="https://ibb.co/mm96RF"><img src="https://thumb.ibb.co/mm96RF/lsboom17.jpg" alt="lsboom17" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live other lot lot215 snart"><a href="https://ibb.co/kG3Y6F"><img src="https://thumb.ibb.co/kG3Y6F/lsboom18.jpg" alt="lsboom18" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon fave new other live lot lot216 snart"><a href="https://ibb.co/jniB8v"><img src="https://thumb.ibb.co/jniB8v/lot216iconssnowwhite.jpg" alt="lot216iconssnowwhite" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new rebirth other panels lisa"><a href="https://ibb.co/h2jaka"><img src="https://thumb.ibb.co/h2jaka/lisap2.jpg" alt="lisap2" border="0" />lisa snart golden glider rebirth </a></div>
+<div class="icon fave new other rebirth panels snart lisa"><a href="https://ibb.co/npmo5a"><img src="https://thumb.ibb.co/npmo5a/snartsicon3.jpg" alt="snartsicon3" border="0" />lisa leonard snart captain cold golden glider rebirth</a></div>
+<div class="icon live lot other lot215 snart rory"><a href="https://ibb.co/nCJsfa"><img src="https://image.ibb.co/bGR0Yv/iconcoldwave5.jpg" alt="iconcoldwave5" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon fave live other lot lot215 snart rory"><a href="https://ibb.co/huOHfa"><img src="https://image.ibb.co/jMzZRF/iconcoldwave1.jpg" alt="iconcoldwave1" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon live lot other lot215 snart rory"><a href="https://ibb.co/hXComF"><img src="https://image.ibb.co/eoRsDv/iconcoldwave2.jpg" alt="iconcoldwave2" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon fave live other lot lot215 snart rory"><a href="https://ibb.co/iKGOmF"><img src="https://image.ibb.co/jhQG6F/iconcoldwave3.jpg" alt="iconcoldwave3" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
+<div class="icon live lot other lot215 snart"><a href="https://ibb.co/iGBCfa"><img src="https://thumb.ibb.co/iGBCfa/iconleonard4.jpg" alt="iconleonard4" border="0" />leonard snart captain cold lot215 </a></div>
+<!-- NEUTRAL NEUTRAL -->
+<!-- NEUTRAL NEUTRAL -->
+
+<!----------- TEMPLATE: w/o link ------------
+<div class="icon colour category">
+    <img src="IMAGE URL" />
+    SEARCH TERMS
+</div>
+<!------------------------------------------>
+
+
+<!----------- TEMPLATE: w/ link ------------
+<div class="icon colour category"><a href="LINK">
+    <img src="IMAGE URL" />
+    SEARCH TERMS
+</a></div>
+<!----------------------------------------->
+
+
+
+    <!-- NOTE: you can have as many colours, categories and search
+    terms per icon as you want. -->
+    
+    
+    
+    
+</div></div>
+
+<!-- PLEASE DO NOT EDIT OR DELETE -->
+<a class="cred" href="http://yearsandsyears.tumblr.com" target="_blank"><div class="clogo"></div></a>
+<!----------- THANK YOU! ----------->
+ 
+</body></html>

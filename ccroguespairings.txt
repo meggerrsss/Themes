@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<head>
+
+<!--
+ 
+TAGS PAGE #2 
+By Paige @ neonbikethemes.tumblr.com
+Last updated 08.05.16
+
+Rules:
+
+    - Do not steal code or design
+    - Do not remove/alter credit
+    - Please like/reblog the post 
+    
+Thanks!
+ 
+-->
+
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<title>{Title}</title>
+<link rel="shortcut icon" href="{Favicon}">
+<link rel="alternate" type="application/rss+xml" href="{RSS}">
+
+<!-- JQUERY -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<!-- MASONRY -->
+<script src="https://static.tumblr.com/kfhytre/ZiDo96g3z/masonry.pkgd.min.js"></script>
+ 
+<script>
+$(document).ready(function(){
+    var $container = $('.container');
+    $container.masonry({
+        itemSelector: 'article',
+        columnWidth: 200
+    });
+});
+</script>
+
+
+<!-- FONT SCRIPTS -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700|PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+
+<!-- CSS -->
+ 
+<style type=text/css>
+ 
+ 
+/* STUFF */
+
+body{
+    font-family:'Open Sans', Helvetica, sans-serif;
+    color:#000000;
+    margin:0;
+    background:#f0f0f0 url('');
+    background-attachment:fixed;
+}
+
+a {
+    text-decoration:none;
+    color:#000;
+}
+
+a:hover {
+    text-decoration:none;
+    color:#a0a0a0;
+}
+
+.navbar{
+    position:fixed;
+    background:#fff;
+    text-align:left;
+    width:100%;
+    height:55px;
+    top:0px;
+    z-index:99999999999999;
+	border-bottom: 2px solid #9cdfed;
+}
+
+#title{
+    float:left;
+    margin-left:25px;
+    margin-top:18px;
+    text-transform:uppercase;
+    text-align:center;
+    font-size:1em;
+    letter-spacing:1px;
+    font-weight:bold;
+    z-index:9999999999;
+}
+
+#navlinks{
+    float:right;
+    margin-top:13px;
+    margin-right:20px;
+    text-align:right;
+    z-index:999999999;
+}
+ 
+.navlink{
+    background:#fff;
+    border:0px solid #a0a0a0;
+    padding:4px;
+    padding-left:8px;
+    padding-right:8px;
+    margin-left:3px;
+    margin-right:3px;
+    font-size:1em;
+    letter-spacing:1px;
+    position:relative;
+    display:inline-block;
+    text-transform:uppercase;
+}
+
+
+
+.container{
+    width:90%;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:120px;
+    margin-bottom:100px;
+}
+
+article{
+    float:center;
+    width:170px;
+    border: 0px solid #dbdbdb;
+    padding:0px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:30px;
+    background:;
+    font-size:0.9em;
+    text-align:center;
+}
+ 
+.sectiontitle{
+    background:#fff;
+    font-size:1em;
+    padding:10px;
+    margin:0px;
+    margin-bottom:1px;
+    text-align:center;
+    text-transform:uppercase;
+    font-weight:bold;
+    letter-spacing:2px;
+    border-bottom: 2px solid #9cdfed;
+}
+ 
+.tag{
+    font-size:0.9em;
+    font-style:italic;
+    letter-spacing:1px;
+    margin-bottom:-1px;
+    padding:7px;
+    padding-left:11px;
+    background:#fff;
+    border-bottom:1px solid #eeeeee;
+    margin-bottom:0px;
+    -webkit-transition: all .5s;
+    text-align:left;
+    text-transform:lowercase;
+}
+ 
+.tag:hover{
+    color:#9cdfed;
+    padding-left:18px;
+    -webkit-transition: all .5s;
+}
+
+.taginact{
+    font-size:0.7em;
+    font-style:italic;
+    letter-spacing:1px;
+    margin-bottom:-1px;
+    padding:7px;
+    padding-left:11px;
+    background:#fff;
+    border-bottom:1px solid #eeeeee;
+    margin-bottom:0px;
+    -webkit-transition: all .5s;
+    text-align:left;
+    text-transform:lowercase;
+	text-decoration: line-through;
+	color:#919191;
+}
+ 
+.taginact:hover{
+    color:#919191;
+    padding-left:18px;
+    -webkit-transition: all .5s;
+	text-decoration: line-through;
+}
+ 
+</style>
+
+</head>
+
+<body>
+
+
+
+<div class="navbar">
+    
+    <div id="title">Interactions (romantic, platonic, and familial)</div>  
+   
+    <div id="navlinks">
+            
+        <a href="/">
+        <div class="navlink">home</div></a>
+        
+        <a href="/tags">
+        <div class="navlink">tags</div></a>
+        
+		<a href="/eps">
+        <div class="navlink">episodes</div></a>
+		
+		<a href="/creations">
+        <div class="navlink">creations</div></a>
+		
+        <a href="http://neonbikethemes.tumblr.com">
+        <div class="navlink">x</div></a>
+            
+    </div>
+
+</div>
+
+
+
+ 
+<div class="container">
+
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">axel walker</div>
+	<a href="/tagged/pairing%3A+pipebomb"><div class="tag">hartley rathaway (pipebomb)</div></a>
+    <a href="/tagged/pairing%3A+tricksters"><div class="tag">james jesse (tricksters)</div></a>
+	<a href="/tagged/pairing%3A+mickster"><div class="tag">mick rory (mickster)</div></a>
+	<a href="/tagged/pairing%3A+boomster"><div class="taginact">owen mercer (boomster)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">Clyde Mardon</div>
+    <a href="/tagged/pairing%3A+mardons"><div class="tag">Mark Mardon (Mardon brothers)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION -->
+<article>
+<div class="sectiontitle">digger harkness</div>
+	<a href="/tagged/pairing%3A+wallboom"><div class="tag">amandra waller (wallboom)</div></a>
+	<a href="/tagged/pairing%3A+flasharang"><div class="tag">barry allen (flasharang)</div></a>
+	<a href="/tagged/pairing%3A+diaboom"><div class="tag">chato santana (diaboom)</div></a>  
+	<a href="/tagged/pairing%3A+boomerknot"><div class="tag">christopher weiss (boomerknot)</div></a>  
+    <a href="/tagged/pairing%3A+boomshot"><div class="tag">floyd lawton (boomshot)</div></a>
+	<a href="/tagged/pairing%3A+quinnarang"><div class="tag">harley quinn (quinnarang)</div></a>
+	<a href="/tagged/pairing%3A+powerang"><div class="tag">karen starr (powerang)</div></a>
+	<a href="/tagged/pairing%3A+mirrorang"><div class="taginact">sam scudder (mirrorang)</div></a>
+	<a href="/tagged/pairing%3A+katanarang"><div class="taginact">tatsu yamashiro (katanarang)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">evan mcculloch</div>
+    <a href="/tagged/pairing%3A+bagpipes"><div class="taginact">hartley rathaway (bagpipes)</div></a>
+	<a href="/tagged/pairing%3A+mcmardon"><div class="taginact">mark mardon (mcmardon)</div></a>
+	<a href="/tagged/pairing%3A+mirrorcest"><div class="taginact">sam scudder (mirrorcest)</div></a>
+</article>
+<!-- END SECTION -->
+    
+<!-- START SECTION -->
+<article>
+<div class="sectiontitle">hartley rathaway</div>
+    <a href="/tagged/pairing%3A+pipebomb"><div class="tag">axel walker (pipebomb)</div></a>
+	<a href="/tagged/pairing%3A+flashpiper"><div class="tag">barry allen (flashpiper)</div></a>
+    <a href="/tagged/pairing%3A+hartmon"><div class="tag">cisco ramon (hartmon)</div></a>
+    <a href="/tagged/pairing%3A+singaway"><div class="tag">david singh (singaway)</div></a>
+	<a href="/tagged/pairing%3A+bagpipes"><div class="taginact">evan mcculloch (bagpipes)</div></a>
+    <a href="/tagged/pairing%3A+pipster"><div class="tag">james jesse (pipster)</div></a>
+	<a href="/tagged/pairing%3A+snartaway"><div class="taginact">leonard snart (snartaway)</div></a>
+	<a href="/tagged/pairing%3A+weatherpiper"><div class="taginact">mark mardon (weatherpiper)</div></a>
+    <a href="/tagged/pairing%3A+westaway"><div class="taginact">wally west (westaway)</div></a>
+</article>
+
+<!-- START SECTION -->           
+<article>
+<div class="sectiontitle">james jesse</div>
+    <a href="/tagged/pairing%3A+tricksters"><div class="tag">axel walker (tricksters)</div></a>
+	<a href="/tagged/pairing%3A+pipster"><div class="tag">hartley rathaway (pipster)</div></a>
+    <a href="/tagged/pairing%3A+trickweather"><div class="tag">mark mardon (trickweather)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION -->           
+<article>
+<div class="sectiontitle">leonard snart</div>
+    <a href="/tagged/pairing%3A+snarts"><div class="tag">lisa snart (snart siblings)</div></a>
+	<a href="/tagged/pairing%3A+coldflash"><div class="tag">barry allen (coldflash)</div></a>
+	<a href="/tagged/pairing%3A+cassnart"><div class="tag">cassandra savage (cassnart)</div></a>
+	<a href="/tagged/pairing%3A+coldvibe"><div class="tag">cisco ramon (coldvibe)</div></a>
+	<a href="/tagged/pairing%3A+wondercold"><div class="tag">diana prince (wondercold)</div></a>
+    <a href="/tagged/pairing%3A+reversecold"><div class="tag">eobard thawne (reversecold)</div></a>
+	<a href="/tagged/pairing%3A+snartaway"><div class="taginact">hartley rathaway (snartaway)</div></a>
+    <a href="/tagged/pairing%3A+coldnews"><div class="taginact">iris west (coldnews)</div></a>
+    <a href="/tagged/pairing%3A+coldstorm"><div class="tag">jax jackson (coldstorm)</div></a>
+    <a href="/tagged/pairing%3A+livecold"><div class="tag">leslie willis (livecold)</div></a>
+	<a href="/tagged/pairing%3A+cold+archer"><div class="tag">malcolm merlyn (cold archer)</div></a>
+    <a href="/tagged/pairing%3A+coldweather"><div class="tag">mark mardon (coldweather)</div></a>
+    <a href="/tagged/pairing%3A+coldstein"><div class="tag">martin stein (coldstein)</div></a>
+    <a href="/tagged/pairing%3A+coldwave"><div class="tag">mick rory (coldwave)</div></a>
+	<a href="/tagged/pairing%3A+lenowen"><div class="taginact">owen mercer (lenowen)</div></a>
+    <a href="/tagged/pairing%3A+coldatom"><div class="tag">ray palmer (coldatom)</div></a>
+    <a href="/tagged/pairing%3A+coldtime"><div class="tag">rip hunter (coldtime)</div></a>
+    <a href="/tagged/pairing%3A+coldmirror"><div class="tag">sam scudder (coldmirror)</div></a>
+    <a href="/tagged/pairing%3A+captain-canary"><div class="tag">sara lance (captain canary)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">lisa snart</div>
+    <a href="/tagged/pairing%3A+snarts"><div class="tag">leonard snart (snart siblings)</div></a>
+    <a href="/tagged/pairing%3A+goldflash"><div class="tag">barry allen (goldflash)</div></a>
+    <a href="/tagged/pairing%3A+killergold"><div class="tag">caitlin snow (killergold)</div></a>
+    <a href="/tagged/pairing%3A+goldenvibe"><div class="tag">cisco ramon (goldenvibe)</div></a>
+	<a href="/tagged/pairing%3A+goldwave"><div class="tag">mick rory (goldwave)</div></a>
+	<a href="/tagged/pairing%3A+goldentop"><div class="taginact">rosa dillon (goldentop)</div></a>
+    <a href="/tagged/pairing%3A+liscoe"><div class="taginact">roscoe dillon (liscoe)</div></a>  
+    <a href="/tagged/pairing%3A+goldmirror"><div class="tag">sam scudder (goldmirror)</div></a> 	
+    <a href="/tagged/pairing%3A+whitegold"><div class="tag">sara lance (whitegold)</div></a>
+    <a href="/tagged/pairing%3A+goldenboo"><div class="tag">shawna baez (goldenboo)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION -->
+<article>
+<div class="sectiontitle">mark mardon</div>
+    <a href="/tagged/pairing%3A+mardons"><div class="tag">clyde mardon (mardon brothers)</div></a>
+    <a href="/tagged/pairing%3A+flashweather"><div class="tag">barry allen (flashweather)</div></a>
+	<a href="/tagged/pairing%3A+mcmardon"><div class="taginact">evan mcculloch (mcmardon)</div></a>
+	<a href="/tagged/pairing%3A+weatherpiper"><div class="taginact">hartley rathaway (weatherpiper)</div></a>
+    <a href="/tagged/pairing%3A+trickweather"><div class="tag">james jesse (trickweather)</div></a>
+    <a href="/tagged/pairing%3A+coldweather"><div class="tag">leonard snart (coldweather)</div></a>
+	<a href="/tagged/pairing%3A+torrainbow"><div class="tag">roy bivolo (torrainbow)</div></a>
+	<a href="/tagged/pairing%3A+weatherboo"><div class="tag">shawna baez (weatherboo)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">mick rory</div>
+    <a href="/tagged/pairing%3A+vixenwave"><div class="tag">amaya jiwe (vixenwave)</div></a>
+	<a href="/tagged/pairing%3A+mickster"><div class="tag">axel walker (mickster)</div></a>
+    <a href="/tagged/pairing%3A+flashwave"><div class="taginact">barry allen (flashwave)</div></a>
+    <a href="/tagged/pairing%3A+killerwave"><div class="tag">caitlin snow (killerwave)</div></a>
+    <a href="/tagged/pairing%3A+heatwatch"><div class="tag">felicity smoak (heatwatch)</div></a>
+	<a href="/tagged/pairing%3A+mickington"><div class="tag">george washington (mickington)</div></a>
+    <a href="/tagged/pairing%3A+stormwave"><div class="tag">jax jackson (stormwave)</div></a>		
+    <a href="/tagged/pairing%3A+superwave"><div class="tag">kara danvers (superwave)</div></a>	
+	<a href="/tagged/pairing%3A+hawkwave"><div class="tag">kendra saunders (hawkwave)</div></a>
+    <a href="/tagged/pairing%3A+coldwave"><div class="tag">leonard snart (coldwave)</div></a>
+	<a href="/tagged/pairing%3A+goldwave"><div class="tag">lisa snart (goldwave)</div></a>
+    <a href="/tagged/pairing%3A+steinwave"><div class="tag">martin stein (steinwave)</div></a>
+    <a href="/tagged/pairing%3A+steelwave"><div class="tag">nate heywood (steelwave)</div></a>
+    <a href="/tagged/pairing%3A+arrowwave"><div class="tag">oliver queen (arrowwave)</div></a>
+    <a href="/tagged/pairing%3A+atomwave"><div class="tag">ray palmer (atomwave)</div></a>
+    <a href="/tagged/pairing%3A+wavetime"><div class="tag">rip hunter (wavetime)</div></a>
+	<a href="/tagged/pairing%3A+mirrorwave"><div class="taginact">sam scudder (mirrorwave)</div></a>
+    <a href="/tagged/pairing%3A+canarywave"><div class="tag">sara lance (canarywave)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">owen mercer</div>
+    <a href="/tagged/pairing%3A+boomster"><div class="taginact">axel walker (boomster)</div></a>
+	<a href="/tagged/pairing%3A+lenowen"><div class="taginact">leonard snart (lenowen)</div></a>
+	<a href="/tagged/pairing%3A+superang"><div class="tag">kara zor el (superang)</div></a>     
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">rosa dillon</div>
+	<a href="/tagged/pairing%3A+goldentop"><div class="taginact">lisa snart (goldentop)</div></a> 
+    <a href="/tagged/pairing%3A+mirrortop"><div class="tag">sam scudder (mirrortop)</div></a>    
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">roscoe dillon</div>
+    <a href="/tagged/pairing%3A+liscoe"><div class="taginact">lisa snart (liscoe)</div></a>    
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">roy bivolo</div>
+    <a href="/tagged/pairing%3A+torrainbow"><div class="tag">mark mardon (torrainbow)</div></a>    
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">sam scudder</div>
+	<a href="/tagged/pairing%3A+flashmirror"><div class="tag">barry allen (flashmirror)</div></a>
+	<a href="/tagged/pairing%3A+mirrorang"><div class="taginact">digger harkness (mirrorang)</div></a>
+	<a href="/tagged/pairing%3A+mirrorcest"><div class="taginact">evan mcculloch (mirrorcest)</div></a>
+    <a href="/tagged/pairing%3A+coldmirror"><div class="tag">leonard snart (coldmirror)</div></a>
+    <a href="/tagged/pairing%3A+goldmirror"><div class="tag">lisa snart (goldmirror)</div></a>
+	<a href="/tagged/pairing%3A+mirrorwave"><div class="taginact">mick rory (mirrorwave)</div></a>
+    <a href="/tagged/pairing%3A+mirrortop"><div class="tag">rosa dillon (mirrortop)</div></a>
+</article>
+<!-- END SECTION -->
+    
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">shawna baez</div>
+    <a href="/tagged/pairing%3A+flashaboo"><div class="tag">barry allen (flashaboo)</div></a>
+    <a href="/tagged/pairing%3A+peekavibe"><div class="tag">cisco ramon (peekavibe)</div></a>
+    <a href="/tagged/pairing%3A+goldenboo"><div class="tag">lisa snart (goldenboo)</div></a>
+	<a href="/tagged/pairing%3A+weatherboo"><div class="tag">mark mardon (weatherboo)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">trios</div>
+    <a href="/tagged/trio%3A+coldatomwave"><div class="tag">coldatomwave</div></a>
+    <a href="/tagged/trio%3A+coldflashwave"><div class="tag">coldflashwave</div></a>
+    <a href="/tagged/trio%3A+coldvixenwave"><div class="tag">coldvixenwave</div></a>
+    <a href="/tagged/trio%3A+coldwestallen"><div class="tag">coldwestallen</div></a>
+	<a href="/tagged/trio%3A+parkwestaway"><div class="taginact">parkwestaway</div></a>
+	<a href="/tagged/trio%3A+peekatornabow"><div class="taginact">peekatornabow</div></a>
+	<a href="/tagged/trio%3A+rogue-canary"><div class="tag">rogue canary</div></a>
+</article>
+<!-- END SECTION -->
+</div>
+
+</div>
+
+
+ 
+</body>
