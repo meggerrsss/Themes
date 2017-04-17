@@ -359,21 +359,21 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
 <div class="content">
 
 <!-- 
-INSTRUCTIONS ON HOW TO ADD MORE TABS 
-1. copy the template below
+	INSTRUCTIONS ON HOW TO ADD MORE TABS 
+	1. copy the template below
 
-<div class="tab">
-    <input type="radio" id="tab-1" name="tab-group-1">
-    <label for="tab-1">tab title</label> 
-<div class="tags"> 
-    <a href="/tagged/">tag name</a>
-<h8>optional subtitle</h8>
-    <a href="/tagged/">tag name</a>
-</div>
-</div>
+	<div class="tab">
+		<input type="radio" id="tab-1" name="tab-group-1">
+		<label for="tab-1">tab title</label> 
+	<div class="tags"> 
+		<a href="/tagged/">tag name</a>
+	<h8>optional subtitle</h8>
+		<a href="/tagged/">tag name</a>
+	</div>
+	</div>
 
-2. once you have done that, you need to change the number after the tab in id="tab-1" and label for="tab-1" - so if you were copying your third tab, it would be id="tab-3" and label for="tab-3". 
-DO NOT TOUCH THE name="tab-group-1"
+	2. once you have done that, you need to change the number after the tab in id="tab-1" and label for="tab-1" - so if you were copying your third tab, it would be id="tab-3" and label for="tab-3". 
+	DO NOT TOUCH THE name="tab-group-1"
 -->
 
 <div class="tab">
@@ -402,16 +402,22 @@ DO NOT TOUCH THE name="tab-group-1"
     <input type="radio" id="tab-2" name="tab-group-1">
     <label for="tab-2">projects</label> 
 <div class="tags"> 
-	<a href="/tagged/twnllweek">twn laurel lance week</a>
+	<a href="/tagged/iriswestweek">iris west week</a>
+	<a href="/tagged/sgs1aw">supergirl s1 appreciation week</a>
 	<a href="/tagged/teamlot">team legends</a>
 	<a href="/tagged/alpbabet">arrowverse alphabet</a>
 	<a href="/tagged/rogues-rewatch">rogues rewatch</a>
 	<a href="/tagged/gpm">one gifset per movie</a>
 <h8>upcoming</h8>
-	<a href="/tagged/night-and-day">night and day</a>
+	<a href="/tagged/ripappreciationweek">rip hunter week</a>
+	<a href="/tagged/dcvw">dc villains week</a>
+	<a href="/tagged/cwaspring17">coldwestallen week</a>
 	<a href="/tagged/losfpolyamweek">flarrow polyamory week</a>
+	<a href="/tagged/topfemvills">top x dctv female villains</a>
     <a href="/tagged/top3dctv">Top 3 DCTV episodes per season</a>
 <h8>inactive / complete</h8>
+	<a href="/tagged/night-and-day">night and day</a>
+	<a href="/tagged/twnllweek">twn laurel lance week</a>
 	<a href="/tagged/pbaw17">Prison Break Appreciation Week</a>
 	<a href="/tagged/wrrooms">Rooms of the Waverider</a>
     <a href="/tagged/jaxjacksonappreciationweekend">Jax Appreciation Weekend</a>
@@ -463,6 +469,9 @@ DO NOT TOUCH THE name="tab-group-1"
 <h8>saved and networks</h8>
 	<a href="http://icedcapcold.tumblr.com/">icedcapcold</a>
 	<a href="http://coldnglider.tumblr.com/">coldnglider</a>
+	<a href="http://coldsnapper.tumblr.com/">coldsnapper</a>
+	<a href="http://isotherms.tumblr.com/">isotherms</a>
+	<a href="http://abszero.tumblr.com/">abszero</a>
 	<a href="/">leonardsnartdefensesquad</a>
 </div>
 </div>

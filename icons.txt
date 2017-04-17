@@ -245,6 +245,12 @@ a {
 
 <div id="icons">
 
+<!-- TRURED TRURED -->
+<!-- TRURED TRURED -->
+<span class="all new rebirth mardon panels"><img src="https://image.ibb.co/dLD9iv/marcoicon4.png" alt="marcoicon4" border="0"></span>
+<!-- TRURED TRURED -->
+<!-- TRURED TRURED -->
+
 
 
 <!-- ORANGE ORANGE -->
@@ -261,6 +267,7 @@ a {
 
 <!-- YELLOW YELLOW -->
 <!-- YELLOW YELLOW -->
+<span class="all new rebirth mardon panels"><img src="https://image.ibb.co/cqwUiv/marcoicon7.png" alt="marcoicon7" border="0</span>
 <span class="all new lot lot215 snart"><a href="https://ibb.co/cnVfmF"><img src="https://thumb.ibb.co/cnVfmF/lsboom11.jpg" alt="lsboom11" border="0" /></a></span>
 <span class="all new lot lot215 snart"><a href="https://ibb.co/i5oY6F"><img src="https://thumb.ibb.co/i5oY6F/lsboom10.jpg" alt="lsboom10" border="0" /></a></span>
 <span class="all new fave lot lot215 snart"><a href="https://ibb.co/cZipfa"><img src="https://thumb.ibb.co/cZipfa/lsboom1.jpg" alt="lsboom1" border="0" /></a></span>
@@ -306,6 +313,7 @@ a {
 
 <!-- CYAN CYAN CYAN-->
 <!-- CYAN CYAN CYAN-->
+<span class="all new rebirth mardon panels"><img src="https://image.ibb.co/j9z4GF/marcoicon6.png" alt="marcoicon6" border="0"></span>
 <span class="all new lot lot215 snart"><a href="https://ibb.co/fFzjDv"><img src="https://thumb.ibb.co/fFzjDv/lsboom2.jpg" alt="lsboom2" border="0" /></a></span>
 <span class="all new lot lot215 snart"><a href="https://ibb.co/esVfmF"><img src="https://thumb.ibb.co/esVfmF/lsboom12.jpg" alt="lsboom12" border="0" /></a></span>
 <span class="all new lot lot215 snart"><a href="https://ibb.co/bswLmF"><img src="https://thumb.ibb.co/bswLmF/lsboom9.jpg" alt="lsboom9" border="0" /></a></span>
@@ -405,6 +413,11 @@ a {
 
 <!-- NEUTRAL NEUTRAL -->
 <!-- NEUTRAL NEUTRAL -->
+<span class="all new rebirth mardon panels"><img src="https://image.ibb.co/heJaOv/marcoicon.png" alt="marcoicon" border="0"></span>
+<span class="all new rebirth mardon panels"><img src="https://image.ibb.co/nn5BwF/marcoicon2.png" alt="marcoicon2" border="0"></span>
+<span class="all new fave rebirth mardon panels"><img src="https://image.ibb.co/gXMvOv/marcoicon3.png" alt="marcoicon3" border="0"></span>
+<span class="all new rebirth mardon panels"><img src="https://image.ibb.co/d5YWwF/marcoicon5.png" alt="marcoicon5" border="0"></span>
+
 <span class="all new lot lot215 snart"><a href="https://ibb.co/kioBtv"><img src="https://thumb.ibb.co/kioBtv/lsboom16.jpg" alt="lsboom16" border="0" /></a></span>
 <span class="all new lot lot215 snart"><a href="https://ibb.co/mm96RF"><img src="https://thumb.ibb.co/mm96RF/lsboom17.jpg" alt="lsboom17" border="0" /></a></span>
 <span class="all new lot lot215 snart"><a href="https://ibb.co/kG3Y6F"><img src="https://thumb.ibb.co/kG3Y6F/lsboom18.jpg" alt="lsboom18" border="0" /></a></span>
@@ -426,9 +439,8 @@ a {
 
 
 <!-- base icon code:
-
 <span class="all "><img src=""></span>
-<span class="all new lot lot215 snart"></span>
+<span class="all new rebirth mardon panels"></span>
 end base icon code -->
 
 </div> 

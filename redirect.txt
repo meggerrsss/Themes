@@ -29,15 +29,15 @@
 <link rel="alternate" type="application/rss+xml" href="{RSS}">
 
 <meta name="color:Body Font" content="#000000" />
-<meta name="color:Background" content="#00a273" />
+<meta name="color:Background" content="#b9dfd4" />
 <meta name="color:Title" content="#000000" />
 <meta name="color:Border" content="#000000" />
 
 <meta name="image:Title Background" content="http://i.imgur.com/qevKxlw.jpg?3" />
 <meta name="image:Background" content="" />
 
-<meta name="text:New Username" content="Username" />
-<meta name="text:New URL" content="http://username.tumblr.com" />
+<meta name="text:New Username" content="calmandcalculating" />
+<meta name="text:New URL" content="http://calmandcalculating.tumblr.com" />
 
 <style type="text/css">
 

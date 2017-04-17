@@ -960,7 +960,7 @@ ol.notes li.note img.avatar {
 						<div class="player">{AudioPlayerGrey}</div>
 						<div class="art">{block:AlbumArt}<img src="{AlbumArtURL}">{/block:AlbumArt}</div>
 						<div class="details">
-						{block:TrackNa	me}<span class="title">{TrackName}</span>{/block:TrackName}<br>
+						{block:TrackName}<span class="title">{TrackName}</span>{/block:TrackName}<br>
 						by {block:Artist}<span class="artist">{Artist}</span>{/block:Artist}</div>
 					</div>
 					<div class="post-pad"></div>
