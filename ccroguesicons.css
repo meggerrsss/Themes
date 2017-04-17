@@ -266,11 +266,13 @@ input[type="text"] {
     <div class="buttons f1" filters="categories">
         
         <button class="button active" filter="">all</button>
+		<button class="button" filter=".new">new</button>
         <button class="button" filter=".panels">comics</button>
-		<button class="button" filter=".n52">> new 52</button>
-		<button class="button" filter=".rebirth">> rebirth</button>
-		<button class="button" filter=".live">live action</button>
-        <button class="button" filter=".lot">> legends of tomorrow</button>
+        <button class="button" filter=".lot">legends of tomorrow</button>
+		<button class="button" filter=".snart">leonard snart / captain cold</button>
+		<button class="button" filter=".lisa">lisa snart / golden glider</button>
+		<button class="button" filter=".mardon">marco mardon / weather wizard</button>
+		<button class="button" filter=".rory">mick rory / heat wave</button>
         <!-- copy and paste as needed -->
         
     </div>
@@ -289,6 +291,15 @@ input[type="text"] {
 
 </div><div class="ic">
 
+
+
+<!-- TRURED TRURED -->
+<!-- TRURED TRURED -->
+<div class="icon panels mardon rebirth red new"><img src="https://image.ibb.co/dLD9iv/marcoicon4.png" alt="marcoicon4" border="0">marco mardon weather wizard rebirth mark</div>
+<!-- TRURED TRURED -->
+<!-- TRURED TRURED -->
+
+
 <!-- ORANGE ORANGE -->
 <!-- ORANGE ORANGE -->
 <div class="icon rebirth panels allen orange rory snart"><a href="https://ibb.co/kevcDv"><img src="https://image.ibb.co/hgRTLa/coldflashwave.png" alt="coldflashwave" border="0" />captain cold leonard snart mick rory heatwave heat wave barry allen flash </a></div>
@@ -299,6 +310,7 @@ input[type="text"] {
 
 <!-- YELLOW YELLOW -->
 <!-- YELLOW YELLOW -->
+<div class="icon panels mardon rebirth yellow new"><img src="https://image.ibb.co/cqwUiv/marcoicon7.png" alt="marcoicon7" border="0" />marco mardon weather wizard rebirth mark</div>
 <div class="icon new live lot orange yellow lot215 snart"><a href="https://ibb.co/cnVfmF"><img src="https://thumb.ibb.co/cnVfmF/lsboom11.jpg" alt="lsboom11" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon new live lot lot215 orange yellow snart"><a href="https://ibb.co/i5oY6F"><img src="https://thumb.ibb.co/i5oY6F/lsboom10.jpg" alt="lsboom10" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon new fave live lot lot215 orange yellow snart"><a href="https://ibb.co/cZipfa"><img src="https://thumb.ibb.co/cZipfa/lsboom1.jpg" alt="lsboom1" border="0" />leonard snart captain cold lot215 </a></div>
@@ -336,6 +348,7 @@ input[type="text"] {
 
 <!-- CYAN CYAN CYAN-->
 <!-- CYAN CYAN CYAN-->
+<div class="icon panels mardon rebirth cyan new"><img src="https://image.ibb.co/j9z4GF/marcoicon6.png" alt="marcoicon6" border="0">marco mardon weather wizard rebirth mark</div>
 <div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/fFzjDv"><img src="https://thumb.ibb.co/fFzjDv/lsboom2.jpg" alt="lsboom2" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/esVfmF"><img src="https://thumb.ibb.co/esVfmF/lsboom12.jpg" alt="lsboom12" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/bswLmF"><img src="https://thumb.ibb.co/bswLmF/lsboom9.jpg" alt="lsboom9" border="0" />leonard snart captain cold lot215 </a></div>
@@ -394,6 +407,7 @@ input[type="text"] {
 <!-- PURPLE PURPLE -->
 <!-- PURPLE PURPLE -->
 
+
 <!-- PINK PINK PINK -->
 <!-- PINK PINK PINK -->
 <div class="icon new pink live lot lot215 snart"><a href="https://ibb.co/h8icYv"><img src="https://thumb.ibb.co/h8icYv/lsboom15.jpg" alt="lsboom15" border="0" />leonard snart captain cold lot215 </a></div>
@@ -412,7 +426,7 @@ input[type="text"] {
 <div class="icon red pink live lot  lot215 snart rory"><a href="https://ibb.co/irTBQa"><img src="https://thumb.ibb.co/irTBQa/iconcoldwavepink.jpg" alt="iconcoldwavepink" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <div class="icon live lot red  orange lot215 snart rory"><a href="https://ibb.co/cwmbrF"><img src="https://thumb.ibb.co/cwmbrF/iconcoldwavewavred.jpg" alt="iconcoldwavewavred" border="0" />leonard snart captain cold mick rory coldwave heatwave heat wave l0t215</a></div>
 <div class="icon live red  lot lot215 snart rory"><a href="https://ibb.co/mueCWF"><img src="https://thumb.ibb.co/mueCWF/iconcoldwavered.jpg" alt="iconcoldwavered" border="0" />leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
-<div class="icon panels preboot red orange other snart"><a href="https://ibb.co/eexw6F"><img src="https://thumb.ibb.co/eexw6F/ohboy.jpg" alt="ohboy" border="0" /></a></div>
+<div class="icon panels preboot red other snart"><a href="https://ibb.co/eexw6F"><img src="https://thumb.ibb.co/eexw6F/ohboy.jpg" alt="ohboy" border="0" /></a></div>
 <div class="icon live lot lot215 snart red orange rory"><a href="https://ibb.co/d7krQa"><img src="https://thumb.ibb.co/d7krQa/iconcoldwaveredr.jpg" alt="iconcoldwaveredr" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <!-- RED RED RED -->
 <!-- RED RED RED -->
@@ -420,6 +434,10 @@ input[type="text"] {
 
 <!-- NEUTRAL NEUTRAL -->
 <!-- NEUTRAL NEUTRAL -->
+<div class="icon panels mardon rebirth other new"><img src="https://image.ibb.co/heJaOv/marcoicon.png" alt="marcoicon" border="0">marco mardon weather wizard rebirth mark</div>
+<div class="icon panels mardon rebirth other new"><img src="https://image.ibb.co/nn5BwF/marcoicon2.png" alt="marcoicon2" border="0">marco mardon weather wizard rebirth mark</div>
+<div class="icon panels fave mardon rebirth other new"><img src="https://image.ibb.co/gXMvOv/marcoicon3.png" alt="marcoicon3" border="0">marco mardon weather wizard rebirth mark</div>
+<div class="icon panels mardon rebirth other new"><img src="https://image.ibb.co/d5YWwF/marcoicon5.png" alt="marcoicon5" border="0">marco mardon weather wizard rebirth mark</div>
 <div class="icon new live other lot lot215 snart"><a href="https://ibb.co/kioBtv"><img src="https://thumb.ibb.co/kioBtv/lsboom16.jpg" alt="lsboom16" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon new live other lot lot215 snart"><a href="https://ibb.co/mm96RF"><img src="https://thumb.ibb.co/mm96RF/lsboom17.jpg" alt="lsboom17" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon new live other lot lot215 snart"><a href="https://ibb.co/kG3Y6F"><img src="https://thumb.ibb.co/kG3Y6F/lsboom18.jpg" alt="lsboom18" border="0" />leonard snart captain cold lot215 </a></div>
@@ -433,6 +451,11 @@ input[type="text"] {
 <div class="icon live lot other lot215 snart"><a href="https://ibb.co/iGBCfa"><img src="https://thumb.ibb.co/iGBCfa/iconleonard4.jpg" alt="iconleonard4" border="0" />leonard snart captain cold lot215 </a></div>
 <!-- NEUTRAL NEUTRAL -->
 <!-- NEUTRAL NEUTRAL -->
+
+
+
+
+
 
 <!----------- TEMPLATE: w/o link ------------
 <div class="icon colour category">

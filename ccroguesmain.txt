@@ -1722,9 +1722,9 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/cG4drF/ccroguesprojectlot2.jpg"  />
                         <section>
                             <h2>DC's Legends of Tomorrow (2016)</h2>
-                            <h3>season 2</h3>
+                            <h3>renewed for season 3</h3>
                             <ul>
-                                <li><span class="list-title">date</span>October 13, 2016 - present</li>
+                                <li><span class="list-title">date</span>on hiatus</li>
                                 <li><span class="list-title">type</span>tv</li>
                             </ul>
                             <p>
@@ -1790,18 +1790,6 @@ footer.post-tags span:before {
 				<h1 class="lnr lnr-{text:Category 5 Icon}">{text:Category 5 Title}</h1>
 				<div class="box updates">
 					<article>
-						<section class="date"><span>4th</span> Apr 17</section>
-						<section class="event">Legends of Tomorrow 2x17 <br />Aruba</section>
-					</article>
-					<article>
-						<section class="date"><span>12th</span> Apr 17</section>
-						<section class="event">The Flash #020<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>12th</span> Apr 17</section>
-						<section class="event">Suicide Squad #015<br />New Issue</section>
-					</article>
-					<article>
 						<section class="date"><span>25th</span> Apr 17</section>
 						<section class="event">The Flash 3x19 <br />The Once and Future Flash</section>
 					</article>
@@ -1815,7 +1803,7 @@ footer.post-tags span:before {
 					</article>
 					<article>
 						<section class="date"><span>2nd</span> May 17</section>
-						<section class="event">The Flash 3x20 <br />TBA</section>
+						<section class="event">The Flash 3x20 <br />I Know Who You Are</section>
 					</article>
 					<article>
 						<section class="date"><span>9th</span> May 17</section>
@@ -1865,6 +1853,22 @@ footer.post-tags span:before {
 						<section class="date"><span>28th</span> Jun 17</section>
 						<section class="event">Suicide Squad #020<br />New Issue</section>
 					</article>
+					<article>
+						<section class="date"><span>12th</span> Jul 17</section>
+						<section class="event">The Flash #026<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>12th</span> Jul 17</section>
+						<section class="event">Suicide Squad #021<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>26th</span> Jul 17</section>
+						<section class="event">The Flash #027<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>26th</span> Jul 17</section>
+						<section class="event">Suicide Squad #022<br />New Issue</section>
+					</article>
 			  </div>
 			</div>
 			<!-- CATEGORY FIVE -->
@@ -1874,9 +1878,15 @@ footer.post-tags span:before {
 				<h1 class="lnr lnr-{text:Category 6 Icon}">{text:Category 6 Title}</h1>
 				<div class="box affiliates affiliates-{select:Sidebar Width}">
 					<a href="http://dailyflarrowgifs.tumblr.com/" title="DAILYFLARROWGIFS"><img src="https://68.media.tumblr.com/avatar_b3ed1fe30112_128.png" />
-					<a href="http://ccrogues.tumblr.com/submit" title="become an affiliate!"><img src="" />
-					<a href="http://ccrogues.tumblr.com/submit" title="become an affiliate!"><img src="" />
-					<a href="http://ccrogues.tumblr.com/submit" title="become an affiliate!"><img src="" />
+					<a href="http://dailydcheroes.tumblr.com/" title="dailydcheroes"><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/64" />
+					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
+					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
+					<a href="http://gorogues.tumblr.com/" title="gorogues"><img src="https://api.tumblr.com/v2/blog/gorogues.tumblr.com/avatar/64" />
+					<a href="http://coldtomyflash.tumblr.com/" title="coldtomyflash"><img src="https://api.tumblr.com/v2/blog/coldtomyflash.tumblr.com/avatar/64" />
+					<a href="http://captaincanarys.tumblr.com/" title="captaincanarys"><img src="https://api.tumblr.com/v2/blog/captaincanarys.tumblr.com/avatar/64" />
+					<a href="http://coldwavelegends.tumblr.com/" title="coldwavelegends"><img src="https://api.tumblr.com/v2/blog/coldwavelegends.tumblr.com/avatar/64" />
+					<a href="http://fyroguecanary.tumblr.com/" title="fyroguecanary"><img src="https://api.tumblr.com/v2/blog/fyroguecanary.tumblr.com/avatar/64" />
+					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 				</div>
 			</div>
 			<!-- CATEGORY SIX -->
