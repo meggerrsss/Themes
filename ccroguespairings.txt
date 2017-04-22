@@ -214,9 +214,12 @@ article{
             
         <a href="/">
         <div class="navlink">home</div></a>
-        
+		
         <a href="/tags">
         <div class="navlink">tags</div></a>
+        
+		<a href="/characters">
+        <div class="navlink">rogues</div></a>
         
 		<a href="/eps">
         <div class="navlink">episodes</div></a>
@@ -267,8 +270,9 @@ article{
     <a href="/tagged/pairing%3A+boomshot"><div class="tag">floyd lawton (boomshot)</div></a>
 	<a href="/tagged/pairing%3A+quinnarang"><div class="tag">harley quinn (quinnarang)</div></a>
 	<a href="/tagged/pairing%3A+powerang"><div class="tag">karen starr (powerang)</div></a>
+	<a href="/tagged/pairing%3A+boomflag"><div class="tag">rick flag (boomflag)</div></a>
 	<a href="/tagged/pairing%3A+mirrorang"><div class="taginact">sam scudder (mirrorang)</div></a>
-	<a href="/tagged/pairing%3A+katanarang"><div class="taginact">tatsu yamashiro (katanarang)</div></a>
+	<a href="/tagged/pairing%3A+katanarang"><div class="tag">tatsu yamashiro (katanarang)</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -315,7 +319,7 @@ article{
 	<a href="/tagged/pairing%3A+wondercold"><div class="tag">diana prince (wondercold)</div></a>
     <a href="/tagged/pairing%3A+reversecold"><div class="tag">eobard thawne (reversecold)</div></a>
 	<a href="/tagged/pairing%3A+snartaway"><div class="taginact">hartley rathaway (snartaway)</div></a>
-    <a href="/tagged/pairing%3A+coldnews"><div class="taginact">iris west (coldnews)</div></a>
+    <a href="/tagged/pairing%3A+coldnews"><div class="tag">iris west (coldnews)</div></a>
     <a href="/tagged/pairing%3A+coldstorm"><div class="tag">jax jackson (coldstorm)</div></a>
     <a href="/tagged/pairing%3A+livecold"><div class="tag">leslie willis (livecold)</div></a>
 	<a href="/tagged/pairing%3A+cold+archer"><div class="tag">malcolm merlyn (cold archer)</div></a>
@@ -327,6 +331,7 @@ article{
     <a href="/tagged/pairing%3A+coldtime"><div class="tag">rip hunter (coldtime)</div></a>
     <a href="/tagged/pairing%3A+coldmirror"><div class="tag">sam scudder (coldmirror)</div></a>
     <a href="/tagged/pairing%3A+captain-canary"><div class="tag">sara lance (captain canary)</div></a>
+	<a href="/tagged/pairing%3A+vosnart"><div class="tag">valentina vostok (vosnart)</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -375,13 +380,16 @@ article{
 	<a href="/tagged/pairing%3A+mickster"><div class="tag">axel walker (mickster)</div></a>
     <a href="/tagged/pairing%3A+flashwave"><div class="taginact">barry allen (flashwave)</div></a>
     <a href="/tagged/pairing%3A+killerwave"><div class="tag">caitlin snow (killerwave)</div></a>
+	<a href="/tagged/pairing%3A+cassandrory"><div class="tag">cassandra savage (cassandrory)</div></a>
 	<a href="/tagged/pairing%3A+heatvibe"><div class="tag">cisco ramon (heatvibe)</div></a>
-    <a href="/tagged/pairing%3A+heatwatch"><div class="tag">felicity smoak (heatwatch)</div></a>
+    <a href="/tagged/pairing%3A+overwave"><div class="tag">felicity smoak (overwave)</div></a>
 	<a href="/tagged/pairing%3A+mickington"><div class="tag">george washington (mickington)</div></a>
-    <a href="/tagged/pairing%3A+stormwave"><div class="tag">jax jackson (stormwave)</div></a>		
+    <a href="/tagged/pairing%3A+stormwave"><div class="tag">jax jackson (stormwave)</div></a>	
+	<a href="/tagged/pairing%3A+hellwave"><div class="taginact">john constantine (hellwave)</div></a>	
     <a href="/tagged/pairing%3A+superwave"><div class="tag">kara danvers (superwave)</div></a>	
 	<a href="/tagged/pairing%3A+hawkwave"><div class="tag">kendra saunders (hawkwave)</div></a>
     <a href="/tagged/pairing%3A+coldwave"><div class="tag">leonard snart (coldwave)</div></a>
+	<a href="/tagged/pairing%3A+lilywave"><div class="tag">lily stein (lilywave)</div></a>
 	<a href="/tagged/pairing%3A+goldwave"><div class="tag">lisa snart (goldwave)</div></a>
     <a href="/tagged/pairing%3A+steinwave"><div class="tag">martin stein (steinwave)</div></a>
 	<a href="/tagged/pairing%3A+tidalwave"><div class="tag">mark mardon (tidalwave)</div></a>
@@ -459,9 +467,10 @@ article{
     <a href="/tagged/trio%3A+coldvixenwave"><div class="tag">coldvixenwave</div></a>
     <a href="/tagged/trio%3A+coldwestallen"><div class="tag">coldwestallen</div></a>
 	<a href="/tagged/trio%3A+golden+coldwave"><div class="tag">golden coldwave</div></a>
+	<a href="/tagged/trio%3A+goldtorrainbow"><div class="tag">goldtorrainbow</div></a>
 	<a href="/tagged/trio%3A+parkwestaway"><div class="taginact">parkwestaway</div></a>
 	<a href="/tagged/trio%3A+peekatornabow"><div class="taginact">peekatornabow</div></a>
-	<a href="/tagged/trio%3A+goldtorrainbow"><div class="tag">goldtorrainbow</div></a>
+	<a href="/tagged/trio%3A+quinnshotarang"><div class="tag">quinnshotarang</div></a>
 	<a href="/tagged/trio%3A+rogue+canary"><div class="tag">rogue canary</div></a>
 </article>
 <!-- END SECTION -->

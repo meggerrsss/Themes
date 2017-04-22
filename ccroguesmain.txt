@@ -1636,7 +1636,7 @@ footer.post-tags span:before {
 	<!--------------------->
 	<!--------------------->
 
-	<!-- START OF MAIN CONTENT categoryedit -->
+	<!-- START OF MAIN CONTENT catedit -->
 	<div id="main">
 
 		<!-- START OF LEFT SIDEBAR -->
@@ -1656,6 +1656,7 @@ footer.post-tags span:before {
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 3 Icon}">{text:Category 3 Title}</h1>
 				<div class="box extra-links">
+					<a href="/characters">the rogues</a>
 					<a href="/interactions">interactions</a>
 					<a href="/icons">icons by meghan</a>
 					<a href="/tagged/ep%3F">tag an episode</a>
@@ -1807,7 +1808,7 @@ footer.post-tags span:before {
 					</article>
 					<article>
 						<section class="date"><span>9th</span> May 17</section>
-						<section class="event">The Flash 3x21 <br />TBA</section>
+						<section class="event">The Flash 3x21 <br />Cause and Effect</section>
 					</article>
 					<article>
 						<section class="date"><span>10th</span> May 17</section>
@@ -1877,15 +1878,21 @@ footer.post-tags span:before {
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 6 Icon}">{text:Category 6 Title}</h1>
 				<div class="box affiliates affiliates-{select:Sidebar Width}">
-					<a href="http://dailyflarrowgifs.tumblr.com/" title="DAILYFLARROWGIFS"><img src="https://68.media.tumblr.com/avatar_b3ed1fe30112_128.png" />
+					<a href="http://dailyflarrowgifs.tumblr.com/" title="DAILYFLARROWGIFS"><img src="https://api.tumblr.com/v2/blog/dailyflarrowgifs.tumblr.com/avatar/64" />
+					<a href="http://westallengifs.tumblr.com/" title="WESTALLENGIFS"><img src="https://api.tumblr.com/v2/blog/westallengifs.tumblr.com/avatar/64" />
+					<a href="http://coldtomyflash.tumblr.com/" title="COLDTOMYFLASH"><img src="https://api.tumblr.com/v2/blog/coldtomyflash.tumblr.com/avatar/64" />
+					<a href="http://gotham-daily.tumblr.com/" title="GOTHAM-DAILY"><img src="https://api.tumblr.com/v2/blog/gotham-daily.tumblr.com/avatar/64" />
+					<a href="http://jaxappreciationnet.tumblr.com/" title="JAXAPPRECIATIONNET"><img src="https://api.tumblr.com/v2/blog/jaxappreciationnet.tumblr.com/avatar/64" />
 					<a href="http://dailydcheroes.tumblr.com/" title="dailydcheroes"><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/64" />
 					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
 					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
 					<a href="http://gorogues.tumblr.com/" title="gorogues"><img src="https://api.tumblr.com/v2/blog/gorogues.tumblr.com/avatar/64" />
-					<a href="http://coldtomyflash.tumblr.com/" title="coldtomyflash"><img src="https://api.tumblr.com/v2/blog/coldtomyflash.tumblr.com/avatar/64" />
-					<a href="http://captaincanarys.tumblr.com/" title="captaincanarys"><img src="https://api.tumblr.com/v2/blog/captaincanarys.tumblr.com/avatar/64" />
 					<a href="http://coldwavelegends.tumblr.com/" title="coldwavelegends"><img src="https://api.tumblr.com/v2/blog/coldwavelegends.tumblr.com/avatar/64" />
+					<a href="http://dailycaptaincanary.tumblr.com/" title="dailycaptaincanary"><img src="https://api.tumblr.com/v2/blog/dailycaptaincanary.tumblr.com/avatar/64" />
+					<a href="http://captaincanarys.tumblr.com/" title="captaincanarys"><img src="https://api.tumblr.com/v2/blog/captaincanarys.tumblr.com/avatar/64" />
 					<a href="http://fyroguecanary.tumblr.com/" title="fyroguecanary"><img src="https://api.tumblr.com/v2/blog/fyroguecanary.tumblr.com/avatar/64" />
+					<a href="http://coldsflash.tumblr.com/" title="coldsflash"><img src="https://api.tumblr.com/v2/blog/coldsflash.tumblr.com/avatar/64" />
+					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 				</div>
 			</div>

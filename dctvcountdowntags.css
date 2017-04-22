@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<head>
+
+<!--
+ 
+TAGS PAGE #2 
+By Paige @ neonbikethemes.tumblr.com
+Last updated 08.05.16
+
+Rules:
+
+    - Do not steal code or design
+    - Do not remove/alter credit
+    - Please like/reblog the post 
+    
+Thanks!
+ 
+-->
+
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<title>{Title}</title>
+<link rel="shortcut icon" href="{Favicon}">
+<link rel="alternate" type="application/rss+xml" href="{RSS}">
+
+<!-- JQUERY -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<!-- MASONRY -->
+<script src="https://static.tumblr.com/kfhytre/ZiDo96g3z/masonry.pkgd.min.js"></script>
+ 
+<script>
+$(document).ready(function(){
+    var $container = $('.container');
+    $container.masonry({
+        itemSelector: 'article',
+        columnWidth: 200
+    });
+});
+</script>
+
+
+<!-- FONT SCRIPTS -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700|PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+
+<!-- CSS -->
+ 
+<style type=text/css>
+ 
+ 
+/* STUFF */
+
+body{
+    font-family:'Open Sans', Helvetica, sans-serif;
+    color:#000000;
+    margin:0;
+    background:#f0f0f0 url('');
+    background-attachment:fixed;
+}
+
+a {
+    text-decoration:none;
+    color:#000;
+}
+
+a:hover {
+    text-decoration:none;
+    color:#a0a0a0;
+}
+
+.navbar{
+    position:fixed;
+    background:#fff;
+    text-align:left;
+    width:100%;
+    height:55px;
+    top:0px;
+    z-index:99999999999999;
+	border-bottom: 2px solid #9cdfed;
+}
+
+#title{
+    float:left;
+    margin-left:25px;
+    margin-top:18px;
+    text-transform:uppercase;
+    text-align:center;
+    font-size:1em;
+    letter-spacing:1px;
+    font-weight:bold;
+    z-index:9999999999;
+}
+
+#navlinks{
+    float:right;
+    margin-top:13px;
+    margin-right:20px;
+    text-align:right;
+    z-index:999999999;
+}
+ 
+.navlink{
+    background:#fff;
+    border:0px solid #a0a0a0;
+    padding:4px;
+    padding-left:8px;
+    padding-right:8px;
+    margin-left:3px;
+    margin-right:3px;
+    font-size:1em;
+    letter-spacing:1px;
+    position:relative;
+    display:inline-block;
+    text-transform:uppercase;
+}
+
+
+
+.container{
+    width:90%;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:120px;
+    margin-bottom:100px;
+}
+
+article{
+    float:center;
+    width:170px;
+    border: 0px solid #dbdbdb;
+    padding:0px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:30px;
+    background:;
+    font-size:0.9em;
+    text-align:center;
+}
+ 
+.sectiontitle{
+    background:#fff;
+    font-size:1em;
+    padding:10px;
+    margin:0px;
+    margin-bottom:1px;
+    text-align:center;
+    text-transform:uppercase;
+    font-weight:bold;
+    letter-spacing:2px;
+    border-bottom: 2px solid #9cdfed;
+}
+ 
+.tag{
+    font-size:0.9em;
+    font-style:italic;
+    letter-spacing:1px;
+    margin-bottom:-1px;
+    padding:7px;
+    padding-left:11px;
+    background:#fff;
+    border-bottom:1px solid #eeeeee;
+    margin-bottom:0px;
+    -webkit-transition: all .5s;
+    text-align:left;
+    text-transform:lowercase;
+}
+ 
+.tag:hover{
+    color:#9cdfed;
+    padding-left:18px;
+    -webkit-transition: all .5s;
+}
+
+.taginact{
+    font-size:0.7em;
+    font-style:italic;
+    letter-spacing:1px;
+    margin-bottom:-1px;
+    padding:7px;
+    padding-left:11px;
+    background:#fff;
+    border-bottom:1px solid #eeeeee;
+    margin-bottom:0px;
+    -webkit-transition: all .5s;
+    text-align:left;
+    text-transform:lowercase;
+	text-decoration: line-through;
+	color:#919191;
+}
+ 
+.taginact:hover{
+    color:#919191;
+    padding-left:18px;
+    -webkit-transition: all .5s;
+	text-decoration: line-through;
+}
+ 
+</style>
+
+</head>
+
+<body>
+
+
+
+<div class="navbar">
+    
+    <div id="title">Interactions (romantic, platonic, and familial)</div>  
+   
+    <div id="navlinks">
+            
+        <a href="/">
+        <div class="navlink">home</div></a>
+		
+        <a href="/info">
+        <div class="navlink">info</div></a>
+        
+        <a href="http://neonbikethemes.tumblr.com">
+        <div class="navlink">x</div></a>
+            
+    </div>
+
+</div>
+
+
+
+ 
+<div class="container">
+
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">arrow</div>
+	<a href="/tagged/team+arrow"><div class="tag">team arrow</div></a>
+	<a href="/tagged/oliver+queen"><div class="tag">oliver queen</div></a>
+    <a href="/tagged/laurel+lance"><div class="tag">laurel lance</div></a>
+	<a href="/tagged/felicity+smoak"><div class="tag">felicity smoak</div></a>
+	<a href="/tagged/john+diggle"><div class="tag">john diggle</div></a>
+	<a href="/tagged/thea+queen"><div class="tag">thea queen</div></a>
+	<a href="/tagged/quentin+lance"><div class="tag">quentin lance</div></a>
+	<a href="/tagged/roy+harper"><div class="tag">roy harper</div></a>
+	<a href="/tagged/lyla+michaels"><div class="tag">lyla michaels</div></a>
+	<a href="/tagged/e2+laurel+lance"><div class="tag">e2 laurel lance</div></a>
+	<a href="/tagged/curtis+holt"><div class="tag">curtis holt</div></a>
+	<a href="/tagged/slade+wilson"><div class="tag">slade wilson</div></a>
+	<a href="/tagged/moira queen"><div class="tag">moira queen</div></a>
+	<a href="/tagged/tommy merlyn"><div class="tag">tommy merlyn</div></a>
+	<a href="/tagged/damien darhk"><div class="tag">damien darhk</div></a>
+	<a href="/tagged/robert queen"><div class="tag">robert queen</div></a>
+	<a href="/tagged/john constantine"><div class="tag">john constantine</div></a>
+	<a href="/tagged/rene ramirez"><div class="tag">rene ramirez</div></a>
+	<a href="/tagged/rory regan"><div class="tag">rory regan</div></a>
+	<a href="/tagged/samantha clayton"><div class="tag">samantha clayton</div></a>
+	<a href="/tagged/mari mccabe"><div class="tag">mari mccabe</div></a>
+	<a href="/tagged/malcolm merlyn"><div class="tag">malcolm merlyn</div></a>
+	<a href="/tagged/shado"><div class="tag">shado</div></a>
+	<a href="/tagged/nyssa al ghul"><div class="tag">nyssa al ghul</div></a>
+	<a href="/tagged/walter steele"><div class="tag">walter steele</div></a>
+	<a href="/tagged/leviathan"><div class="tag">leviathan</div></a>
+	<a href="/tagged/floyd lawton"><div class="tag">floyd lawton</div></a>
+	<a href="/tagged/helena bertinelli"><div class="tag">helena bertinelli</div></a>
+	<a href="/tagged/amanda waller"><div class="tag">amanda waller</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">gotham</div>
+    <a href="/tagged/jim+gordon"><div class="tag">jim gordon</div></a>
+	<a href="/tagged/bruce+wayne"><div class="tag">bruce wayne</div></a>
+	<a href="/tagged/fish+mooney"><div class="tag">fish mooney</div></a>
+	<a href="/tagged/harvey+bullock"><div class="tag">harvey bullock</div></a>
+	<a href="/tagged/selina+kyle"><div class="tag">selina kyle</div></a>
+	<a href="/tagged/edward+nygma"><div class="tag">edward nygma</div></a>
+	<a href="/tagged/oswald+cobblepot"><div class="tag">oswald cobblepot</div></a>
+	<a href="/tagged/jerome valeska"><div class="tag">jerome valeska</div></a>
+	<a href="/tagged/leslie thompkins"><div class="tag">leslie thompkins</div></a>
+	<a href="/tagged/nathaniel barnes"><div class="tag">nathaniel barnes</div></a>
+	<a href="/tagged/alfred pennyworth"><div class="tag">alfred pennyworth</div></a>
+	<a href="/tagged/hugo strange"><div class="tag">hugo strange</div></a>
+	<a href="/tagged/ethel peabody"><div class="tag">ethel peabody</div></a>
+	<a href="/tagged/tabitha galavan"><div class="tag">tabitha galavan</div></a>
+	<a href="/tagged/barbara kean"><div class="tag">barbara kean</div></a>
+	<a href="/tagged/sarah essen"><div class="tag">sarah essen</div></a>
+	<a href="/tagged/theo galavan"><div class="tag">theo galavan</div></a>
+	<a href="/tagged/butch gilzean"><div class="tag">butch gilzean</div></a>
+	<a href="/tagged/mary grayson"><div class="tag">mary grayson</div></a>
+	<a href="/tagged/john grayson"><div class="tag">john grayson</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION -->
+<article>
+<div class="sectiontitle">the flash</div>
+	<a href="/tagged/barry+allen"><div class="tag">barry allen</div></a>
+	<a href="/tagged/cisco+ramon"><div class="tag">cisco ramon</div></a>
+	<a href="/tagged/caitlin+snow"><div class="tag">caitlin snow</div></a>  
+	<a href="/tagged/iris+west"><div class="tag">iris west</div></a>  
+    <a href="/tagged/joe+west"><div class="tag">joe west</div></a>
+	<a href="/tagged/jesse+wells"><div class="tag">jesse wells</div></a>
+	<a href="/tagged/harry+wells"><div class="tag">harry wells</div></a>
+	<a href="/tagged/wally west"><div class="tag">wally west</div></a>
+	<a href="/tagged/hunter zolomon"><div class="tag">hunter zolomon</div></a>
+	<a href="/tagged/hr wells"><div class="tag">hr wells</div></a>
+	<a href="/tagged/henry allen"><div class="tag">henry allen</div></a>
+	<a href="/tagged/harrison wells"><div class="tag">harrison wells</div></a>
+	<a href="/tagged/clyde mardon"><div class="tag">clyde mardon</div></a>
+	<a href="/tagged/eddie thawne"><div class="tag">eddie thawne</div></a>
+	<a href="/tagged/eobard thawne"><div class="tag">eobard thawne</div></a>
+	<a href="/tagged/hartley rathaway"><div class="tag">hartley rathaway</div></a>
+	<a href="/tagged/linda park"><div class="tag">linda park</div></a>
+	<a href="/tagged/e2 iris west"><div class="tag">e2 iris west</div></a>
+	<a href="/tagged/nora allen"><div class="tag">nora allen</div></a>
+	<a href="/tagged/hartley rathaway"><div class="tag">hartley rathaway</div></a>
+	<a href="/tagged/lisa snart"><div class="tag">lisa snart</div></a>
+	<a href="/tagged/e2 ronnie raymond"><div class="tag">e2 ronnie raymond</div></a>
+	<a href="/tagged/e2 caitlin snow"><div class="tag">e2 caitlin snow</div></a>
+	<a href="/tagged/ronnie raymond"><div class="tag">ronnie raymond</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">supergirl</div>
+    <a href="/tagged/kara+danvers"><div class="tag">kara zor el</div></a>
+	<a href="/tagged/hank+henshaw"><div class="tag">j'onn j'onzz</div></a>
+	<a href="/tagged/alex+danvers"><div class="tag">alex danvers</div></a>
+	<a href="/tagged/winn+schott"><div class="tag">winn schott</div></a>
+	<a href="/tagged/james+olsen"><div class="tag">james olsen</div></a>
+	<a href="/tagged/cat+grant"><div class="tag">cat grant</div></a>
+	<a href="/tagged/non in ze"><div class="tag">non in ze</div></a>
+	<a href="/tagged/lucy lane"><div class="tag">lucy lane</div></a>
+	<a href="/tagged/alura zor el"><div class="tag">alura zor el</div></a>
+	<a href="/tagged/bizarro"><div class="tag">bizarro</div></a>
+	<a href="/tagged/sam lane"><div class="tag">sam lane</div></a>
+	<a href="/tagged/siobhan smythe"><div class="tag">siobhan smythe</div></a>
+	<a href="/tagged/leslie willis"><div class="tag">leslie willis</div></a>
+	<a href="/tagged/master jailer"><div class="tag">master jailer</div></a>
+	<a href="/tagged/zor el"><div class="tag">zor el</div></a>
+</article>
+<!-- END SECTION -->
+    
+<!-- START SECTION -->
+<article>
+<div class="sectiontitle">izombie</div>
+</article>
+
+<!-- START SECTION -->           
+<article>
+<div class="sectiontitle">legends of tomorrow</div>
+    <a href="/tagged/team+legends"><div class="tag">team legends</div></a>
+	<a href="/tagged/sara+lance"><div class="tag">sara lance</div></a>
+	<a href="/tagged/ray+palmer"><div class="tag">ray palmer</div></a>
+    <a href="/tagged/leonard+snart"><div class="tag">leonard snart</div></a>
+	<a href="/tagged/mick+rory"><div class="tag">mick rory</div></a>
+	<a href="/tagged/martin+stein"><div class="tag">martin stein</div></a>
+	<a href="/tagged/jefferson+jackson"><div class="tag">jefferson jackson</div></a>
+	<a href="/tagged/kendra+saunders"><div class="tag">kendra saunders</div></a>
+	<a href="/tagged/rip+hunter"><div class="tag">rip hunter</div></a>
+	<a href="/tagged/carter+hall"><div class="tag">rip hunter</div></a>
+	<a href="/tagged/nate+heywood"><div class="tag">nate heywood</div></a>
+	<a href="/tagged/connor hawke"><div class="tag">connor hawke</div></a>
+	<a href="/tagged/amaya jiwe"><div class="tag">amaya jiwe</div></a>
+	<a href="/tagged/vandal savage"><div class="tag">vandal savage</div></a>
+	<a href="/tagged/gail knox"><div class="tag">gail knox</div></a>
+	<a href="/tagged/jonah hex"><div class="tag">jonah hex</div></a>
+	<a href="/tagged/gideon"><div class="tag">gideon</div></a>
+	<a href="/tagged/pilgrim"><div class="tag">pilgrim</div></a>
+	<a href="/tagged/time master druce"><div class="tag">time master druce</div></a>
+	<a href="/tagged/rex tyler"><div class="tag">rex tyler</div></a>
+	<a href="/tagged/chronos"><div class="tag">chronos</div></a>
+	<a href="/tagged/leo snart"><div class="tag">leo snart</div></a>
+	<a href="/tagged/shayera hol"><div class="tag">shayera hol</div></a>
+	<a href="/tagged/miranda coburn"><div class="tag">miranda coburn</div></a>
+	<a href="/tagged/valentina vostok"><div class="tag">valentina vostok</div></a>
+	<a href="/tagged/prince khufu"><div class="tag">prince khufu</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION -->           
+<article>
+<div class="sectiontitle">lucifer</div>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">preacher</div>
+	<a href="/tagged/jesse custer"><div class="tag">jesse custer</div></a>
+	<a href="/tagged/tulip o'hare"><div class="tag">tulip o'hare</div></a>
+	<a href="/tagged/proinsias cassidy"><div class="tag">proinsias cassidy</div></a>
+	<a href="/tagged/fiore"><div class="tag">fiore</div></a>
+	<a href="/tagged/deblanc"><div class="tag">deblanc</div></a>
+	<a href="/tagged/odin quincannon"><div class="tag">odin quincannon</div></a>
+	<a href="/tagged/eugene root"><div class="tag">eugene root</div></a>
+	<a href="/tagged/hugo root"><div class="tag">hugo root</div></a>
+	<a href="/tagged/emily woodrow"><div class="tag">emily woodrow</div></a>
+	<a href="/tagged/chris schenck"><div class="tag">chris schenck</div></a>
+	<a href="/tagged/donnie schenck"><div class="tag">donnie schenck</div></a>
+	<a href="/tagged/john custer"><div class="tag">john custer</div></a>
+	<a href="/tagged/miles person"><div class="tag">miles person</div></a>
+	<a href="/tagged/danni"><div class="tag">danni</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION -->
+<article>
+<div class="sectiontitle">powerless</div>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">krypton</div>
+</article>
+<!-- END SECTION -->
+
+
+</div>
+
+</div>
+
+
+ 
+</body>
