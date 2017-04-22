@@ -413,8 +413,7 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
 	<a href="/tagged/dcvw">dc villains week</a>
 	<a href="/tagged/cwaspring17">coldwestallen week</a>
 	<a href="/tagged/losfpolyamweek">flarrow polyamory week</a>
-	<a href="/tagged/topfemvills">top x dctv female villains</a>
-    <a href="/tagged/top3dctv">Top 3 DCTV episodes per season</a>
+	<a href="/tagged/topfemvills">top n dctv female villains</a>
 <h8>inactive / complete</h8>
 	<a href="/tagged/night-and-day">night and day</a>
 	<a href="/tagged/twnllweek">twn laurel lance week</a>
@@ -455,6 +454,7 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
     <a href="/search/meggifs+shadowhunters">shadowhunters</a>
     <a href="/search/meggifs+constantineedit">constantine</a>
     <a href="/search/meggifs+izombieedit">izombie</a>
+	<a href="/search/meggifs+kryptonedit">krypton</a>
 </div>
 </div>
 

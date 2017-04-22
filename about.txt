@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>About Me</title>
+    <link rel="shortcut icon" href="{Favicon}">
+    <link rel="alternate" type="application/rss+xml" href="{RSS}">
+   
+    <!---------
+    Introducing Me
+    about me page by
+    CIRALISM
+   
+    //typical theme rules apply
+    //don't touch the credit
+    //don't be a prick
+    //I'm available if you need help
+   
+    Customization options are written into the code, just look for grey text and use that to guide you.
+   
+    I churned this out in an hour when I should have been studying for AP's so it may be glitchy. Take it as you will. If you find problems, tell me.
+    ----------->
+   
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+ 
+   
+<style type="text/css">
+       
+  body {
+      background-color:#f3f3f3;
+      color:#000;
+      font:normal normal 10px 'Lato';
+      letter-spacing:1px;
+  }  
+ 
+  h1 {
+    text-transform:uppercase;
+    font-size:20px;
+    font-weight:600;
+    letter-spacing:3px;
+    text-align:center;
+    padding:17px 0px;
+    margin-top:5px;
+    background-color:rgba(0,0,0,.85);
+    color:#fff;
+    border-bottom:1px solid #e1e1e1;
+  }
+ 
+  h2 {
+    text-transform:uppercase;
+    font-size:14px;
+    font-weight:900;
+    letter-spacing:2px;
+    text-align:center;
+}
+ 
+  h3 {
+    text-transform:uppercase;
+    font-size:16px;
+    font-weight:700;
+    letter-spacing:2px;
+    text-align:right;
+  }
+ 
+  h4 {
+      text-align:center;
+      text-transform:uppercase;
+      font-size:14px;
+      letter-spacing:2px;
+  }
+ 
+  a, a:visited {
+      color:#000;
+      border-bottom:1px solid #81b300;/*ACCENT*/
+      text-decoration:none;
+  }
+ 
+  .containe {
+    background-color:transparent;
+    padding:20px;
+    padding-bottom:100px;
+    position:absolute;
+    left:50%;
+    margin-left:-440px;
+    width:840px;
+    top:50%;
+    margin-top:-340px;
+       -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+ 
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+ 
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+ 
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+ 
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+ 
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+ 
+.top {
+    width:600px;
+    display:inline-block;
+}
+ 
+.topleft{
+    background-color:white;
+    position:absolute;
+    padding:10px;
+    margin-top:10px;
+    border-bottom:1px solid #e1e1e1;
+    width:250px;  
+    height:250px;
+    display:inline-block;
+    text-align:center;
+    overflow-y:auto;
+    overflow-x:hidden;
+}  
+ 
+.topcenter {
+    background-color:white;
+    padding:10px;
+    margin-top:10px;
+    border-bottom:1px solid #e1e1e1;
+    width:250px;
+    margin-left:285px;
+    display:inline-block;
+    position:absolute;
+    height:250px;
+}
+ 
+.topcenter img {
+    width:225px;
+    height:225px;
+    padding:10px;
+}
+ 
+.topright {
+    background-color:white;
+    padding:10px;
+    margin-top:10px;
+    border-bottom:1px solid #e1e1e1;
+    margin-left:570px;
+    display:inline-block;
+    width:250px;
+    height:250px;
+    position:absolute;
+}
+ 
+.topic {
+    color:#b5b8e1;/*ACCENT*/
+    text-transform:uppercase;
+    font-size:13px;
+    display:block;
+    font-weight:700;
+    line-height:18px;
+}
+ 
+.response {
+    font-weight:300;
+    font-size:12px;
+    line-height:18px;
+}
+ 
+.q {
+    display:block;
+    text-align:center;
+    font-weight:300;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    line-height:180%;
+    padding-top:15px;
+}
+ 
+.m {
+    padding:5px;
+    font-weight:900;
+}
+ 
+#tumblr_controls{display:none;}
+ 
+.src {
+    font-weight:bold;
+    text-transform:lowercase;
+    font-style:italic;
+    text-shadow:1px 1px 1px #81b300;/*ACCENT*/
+    font-size:12px;
+    text-align:center;
+    padding-top:7px;
+}
+ 
+.midlinks {
+    display:block;
+    background-color:#fff;
+    margin-top:295px;
+    border-bottom:1px solid #ddd;
+    padding:10px;
+    text-align:center;
+}
+ 
+.midlinks a {
+    display:inline-block;
+    width:100px;
+    text-transform:uppercase;
+    font-size:12px;
+    border:none;
+    letter-spacing:2px;
+    font-weight:300;
+}
+ 
+.midlinks a:hover {
+    font-weight:600;/*Feel free to change the hover effect*/
+}
+ 
+.bio {
+    display:block;
+    padding:25px;
+    background-color:#fff;
+    border-bottom:1px solid #ddd;
+    margin-top:15px;
+    font-weight:300;
+    font-size:13px;
+    line-height:20px;
+}
+ 
+.bio h1 {
+    text-align:center;
+    background-color:#fff;
+    color:#000;
+    border:none;
+    padding:10px 0px;
+    font-weight:bold;
+    text-transform:uppercase;
+    font-size:16px;
+    font-weight:900;
+    letter-spacing:2px;
+}
+ 
+.bio h1:after {
+    content:"";
+    position:absolute;
+    height:3px;
+    width:30px;
+    left:50%;
+    margin-top:20px;
+    margin-left:-15px;
+    background-color:#81b300;/*ACCENT*/
+}
+ 
+</style>
+ <script type="text/javascript"
+src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+ 
+<script type="text/javascript">
+    $(".containe").addClass("load");​
+</script>
+</head>
+<body>
+    <div class="containe">
+    <h1>Meet CALMANDCALCULATING.</h1><!---Replace NAME with your name or change the title altogether--->
+    <div class="top"><div class="topleft">
+        <h2>Basics</h2><!---Title of left box--->
+        <span class="topic">Name</span><span class="response">Meghan</span>
+        <span class="topic">Pronouns</span> <span class="response">she/her</span>
+		<span class="topic">Birthday</span> <span class="response">July 14</span>
+        <span class="topic">Age</span> <span class="response">24</span>
+        <span class="topic">From</span> <span class="response">Southern Ontario</span>
+		<span class="topic">Hogwarts House</span> <span class="response">Slytherin</span>
+		<span class="topic">MBTI</span> <span class="response">ISTJ</span>
+        <span class="topic">Identity</span> <span class="response">deaf aromantic asexual</span>
+        <!--to create more categories, simply do <span class="topic">title</span><span class="reponse">Your input for that category</span> If you create enough categories, the box will start to scroll--->
+    </div>
+   
+   
+    <div class="topcenter"><img src="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-1/c0.20.240.240/p240x240/14720407_10153702630730876_9148436026585747122_n.jpg?oh=99d10595f19bfe170253b93aa939dfe7&oe=59854741"></div>
+    <div class="topright"><span class="q"><span class="m">❝</span>I don't want to become an old lady too fast, so I'm just taking life slow.<span class="m">❞</span></span><div class="src">- some kid who hangs around my muay thai studio</div></div> <!---replace "put quote here" with your quote and "put source here" with your source--->
+    </div>
+   
+   
+    <div class="midlinks"><!---feel free to change these links but do not touch the credit--->
+        <a href="/">home</a>
+        <a href="/ask">ask</a>
+        <a href="/creations2">creations</a>
+        <a href="/icons">icons</a>
+        <a href="/shows">shows</a>
+        <a href="http://ciralism.tumblr.com">CREDIT</a>
+    </div>
+   
+   
+    <div class="bio">
+        <h1>About Me</h1>
+        <p>Heeey. I'm Meghan, a post-grad, deaf, asexual meteorologist and martial artist living in the frigid north known as... southern Canada. </p>
+        <p>My studies were centred around Applied Mathematics, Earth Sciences, and Meteorology, with a side specialization in scientific programming, so if you ever want to talk about fluid dynamics, joukowski airfoils, conformal mappings, python, the coriolis effect, thundersnow, the upcoming storm on the East coast (doesn't matter which, statistically there is one), or anything about women's place in STEM studies, hit me up.</p>
+        <p>I'm a major DC comics fan, with a particular love/hate relationship with DCTV properties at the moment. I love to gif, particularly favouring live-action properties, and take requests! You can see which TV shows I watch and gif over on my <a href="/shows">shows</a> page. Movies are touch-and-go, since I like deleting things after I've seen them, but feel free to <a href="/ask">ask</a>! </p>
+        <p></p>
+ 
+		<h1>Tag notes</h1>
+		<p>I have a particular tagging system that, on first glance, doesn't seem to be as self explanatory as it should be. Typically I try to do a "categorization tag" (ex. <i>#dc</i>) then the sub-categorization tags (ex. <i>#yj</i>) and then characters (ex. <i>#cassandra sandsmark</i>) and episode (ex. <i>#yj 2x05</i>). Sometimes I'll opt to only tagging a ship name instead of two characters (ex. <i>#coldwave</i>), and sometimes I won't know the episode number, and it will be tagged with <i>#ep?</i> for me to find and look up later. If you see me tagging <i>#ep?</i> and you know which episode it is, I'd be so grateful for the update.</i></p>
+		<p>Spoilers, in general, will be tagged for the first week after a comic or episode is released, either with <i>#wednesday spoilers</i> or the show type <i>#[showname] spoilers</i>. My liveblog posts will be <i>#[showname] lb</i> and will also be posted with the episode number and <i>#[showname] spoilers</i>. For movies, I'll try to keep tagging <i>#[title] spoilers</i> until the DVD releas.</p>
+	    <p>Sometimes I'll post about Canadian politics, which I know the rest of the world cares exactly 0% about, so blacklist that at <i>#cdnpoli</i> if it's not your jam. Or if you prefer ignoring the existence of Canada as a whole country for some reason, my posts will be tagged with <i>#oh canada</i>. I'll probably not post too much about muay thai, but that can be found at my <i>#fight me tag</i>. Anything involving my asexuality can be found at <i>#ace tag</i>, aromanticism at <i>#aro tag</i>, and deafness at <i>#deaf tag</i> respectively. I try to keep up this system for other sexual, romantic, and gender identities even if I don't personally identify as them.</p>
+	    <p>Personal posts can be found at <i>#meghan's life</i>, and my opinions on episodes and media and such at <i>#meghan has opinions</i>. <i>#replies</i>, <i>#asks</i>, and <i>#meggifs</i>/<i>#~~</i> might be other things you want to hide, too.
+	    
+	    <p><a href='https://ko-fi.com/A86315B8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+    </div>
+   
+</div>    
+</body></html>

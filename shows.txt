@@ -936,21 +936,6 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item airing" name="riverdale">
- 
-<div class="content">
-    <img src="https://image.ibb.co/mYKsRF/riverdale.png" />
-<div class="title">
-    <a href="/tagged/riverdale">Riverdale</a>
-</div><div class="bottom">
-    <b>status:</b> unstarted <br />
-    <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> -- <br />
-
-</div></div></div>
-<!----------------------------- // TEMPLATE ----------------------------->
-
-<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
 <div class="item complete" name="sailormooncrystal">
  
 <div class="content">
@@ -1049,7 +1034,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> karolsen, sanvers <br />
+    <b>ships:</b> karolsen <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1300,8 +1285,28 @@ on the following line! -->
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch dctv" name="krypton">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/cYkFBQ/krypton.png" />
+<div class="title">
+    <a href="/tagged/aot">Krypton</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
 
 
+
+<!-- //
+to add
+cloak and dagger 
+
+-->
 
 
  

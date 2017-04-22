@@ -498,6 +498,16 @@ nav#main a:hover {
     margin-bottom: 60px;
 }
 
+#affl {
+    width: 245px;
+    border-top: 1px solid #eaeaea;
+    z-index: 999;
+    margin-top: 13px;
+    margin-bottom: 5px;
+    margin-left: -15px;
+    text-align: left;
+}
+
 .post {
     width: {select:Post Size};
     text-align: justify;
@@ -845,9 +855,9 @@ ol.notes li.note img.avatar {
 		{block:IfShowSubtitle}<div id="subtitle">{text:Subtitle}</div>{/block:IfShowSubtitle}
 		{block:IfShowDescription}<div id="description"><span>{Description}</span></div>{/block:IfShowDescription}
 		<div id="trackedtags"><span> 
+			meghan | she/her | canada <br><br>
 			<strong>#calmandcalculating</strong> & #meggerrsss </span>
 		</div>
-		
 		{block:IfShowFontSizeChanger}
 			<div id="fontsizechanger"><span>
 				<a href="javascript:changeFontSize(1)"> Increase Font Size</a> | <a href="javascript:changeFontSize(-1)">Decrease Font Size</a>
@@ -872,7 +882,16 @@ ol.notes li.note img.avatar {
 			{block:IfCustomLinkEight}<a href="{text:Link Eight URL}"><li><b>08.</b> {text:Link Eight}</li></a>{/block:IfCustomLinkEight}
 			</ul>
 		</nav>
-
+        <br>
+        <div id="aff">
+            &nbsp;&nbsp;<b>FIND ME AT:</b>
+            <center>
+                <a href="http://ccrogues.tumblr.com" title="ccrogues" class=""><img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/40"></a>
+                <a href="http://dctvcountdown.tumblr.com" title="dctvcountdown" class=""><img src="https://api.tumblr.com/v2/blog/dctvcountdown.tumblr.com/avatar/40"></a>
+                <a href="http://dailydcheroes.tumblr.com" title="dailydcheroes" class=""><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/40"></a>
+            </center>
+        </div>
+                
 		{block:Pagination}
 			<div class="pagination">
 				{block:PreviousPage}
@@ -912,7 +931,7 @@ ol.notes li.note img.avatar {
 				</svg>
 			</button>
 		</div>
-
+	
 	</div>
 
 	<div id="wrap">
@@ -960,7 +979,7 @@ ol.notes li.note img.avatar {
 						<div class="player">{AudioPlayerGrey}</div>
 						<div class="art">{block:AlbumArt}<img src="{AlbumArtURL}">{/block:AlbumArt}</div>
 						<div class="details">
-						{block:TrackName}<span class="title">{TrackName}</span>{/block:TrackName}<br>
+						{block:TrackNa	me}<span class="title">{TrackName}</span>{/block:TrackName}<br>
 						by {block:Artist}<span class="artist">{Artist}</span>{/block:Artist}</div>
 					</div>
 					<div class="post-pad"></div>
