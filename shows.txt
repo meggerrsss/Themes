@@ -125,6 +125,7 @@ a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
     <a href="/">back</a>
     <a href="/ask">ask</a>
     <a href="/creations">creations</a>
+    <a href="https://trakt.tv/users/meggerrsss">trakt</a>
     <a href="/icons">icons</a>
     <a href="/tags">tags</a>
     
@@ -184,7 +185,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/atla">Avatar: The Last Airbender</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> kataang, zumai, tokka <br />
 
@@ -199,7 +200,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/btas">Batman: The Animated Series</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> dickbabs <br />
 
@@ -286,7 +287,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/constantine">Constantine</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> zedstantine <br />
 
@@ -301,7 +302,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/containment">Containment</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> jatie <br />
 
@@ -346,7 +347,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/cmsb">Criminal Minds: Suspect Behavior</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -361,7 +362,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/csicyber">CSI: Cyber</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> raven/brody <br />
 
@@ -376,7 +377,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/dp">Danny Phantom</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -421,7 +422,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/daj">Drake and Josh</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> josh/mindy <br />
 
@@ -436,7 +437,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/fate">FateStay Night: Unlimited Blade Works</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -453,7 +454,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> westallen, goldenvibe, snowstorm <br />
+    <b>ships:</b> westallen, goldenvibe, snowstorm, joecile <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -466,7 +467,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/free">Free! Iwatobi Swim Club</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -474,7 +475,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req  caught-up" name="frequency">
+<div class="item info req caught-up" name="frequency">
  
 <div class="content">
     <img src="https://image.ibb.co/fftrLa/frequency.jpg" />
@@ -496,7 +497,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/fma">Fullmetal Alchemist (Brotherhood)</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> royai, winward <br />
 
@@ -511,7 +512,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/glee">Glee</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -519,7 +520,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up dctv" name="gotham">
+<div class="item info req airing caught-up dctv" name="gotham">
  
 <div class="content">
     <img src="https://image.ibb.co/mHL5fa/gotham.jpg" />
@@ -541,7 +542,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/greek">Greek</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> capsey <br />
 
@@ -556,7 +557,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/gltas">Green Lantern: The Animated Series</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> halcarol, razaya <br />
 
@@ -571,7 +572,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/house">House</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -586,7 +587,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/icarly">iCarly</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> seddie <br />
 
@@ -601,7 +602,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/iy">InuYasha</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> miroku/sango, inuyasha/kagome <br />
 
@@ -631,7 +632,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/lok">The Legend of Korra</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> korrasami, kainora, pemzin, zhurrick <br />
 
@@ -654,7 +655,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info caught-up dctv" name="lucifer">
+<div class="item fave req info airing caught-up dctv" name="lucifer">
  
 <div class="content">
     <img src="https://image.ibb.co/mEBiYv/luci.jpg" />
@@ -751,7 +752,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/motive">Motive</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -804,7 +805,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up airing " name="newgirl">
+<div class="item info req caught-up " name="newgirl">
  
 <div class="content">
     <img src="https://image.ibb.co/eqCqDv/newgirl.jpg" />
@@ -841,7 +842,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/numb3rs">Numb3rs</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -870,7 +871,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/ouatiw">Once Upon a Time in Wonderland</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -884,21 +885,21 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/ouran">Ouran High School Host Club</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> tamaharu <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info caught-up airing dctv" name="powerless">
+<div class="item fave req info complete dctv" name="powerless">
  
 <div class="content">
     <img src="https://image.ibb.co/gEoafa/powerless.jpg" />
 <div class="title">
     <a href="/tagged/powerless">Powerless</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -928,7 +929,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/rbs">Red Band Society</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -943,7 +944,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/sm">Sailor Moon Crystal</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -973,7 +974,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/scrubs">Scrubs</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> jd/eliot, perry/jordan, turk/carla <br />
 
@@ -1003,7 +1004,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/sherlock">Sherlock</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> john/mary <br />
 
@@ -1017,7 +1018,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/smallville">Smallville</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> clois, lexana <br />
 
@@ -1062,7 +1063,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/tt">Teen Titans</a>
 </div><div class="bottom">
-    <b>status:</b> finished <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> robstar, bbrae, cybee <br />
 
@@ -1094,7 +1095,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> klami <br />
+    <b>ships:</b> klami, haylijah <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1160,7 +1161,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item to-watch" name="sweetvicious">
+<div class="item to-watch complete" name="sweetvicious">
  
 <div class="content">
     <img src="https://image.ibb.co/eOqADv/svvv.jpg" />
@@ -1216,7 +1217,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item to-watch airing" name="legion">
+<div class="item to-watch" name="legion">
  
 <div class="content">
     <img src="https://image.ibb.co/gKymmF/legion.jpg" />
@@ -1230,7 +1231,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up req to-watch dctv" name="preacher">
+<div class="item caught-up req dctv" name="preacher">
  
 <div class="content">
     <img src="https://image.ibb.co/iJ1Htv/preacher.jpg" />
@@ -1265,7 +1266,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/h50">Hawaii Five-0</a>
 </div><div class="bottom">
-    <b>status:</b> finished season 4 <br />
+    <b>status:</b> complete season 4 <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 

@@ -26,9 +26,8 @@
 <style type="text/css">
        
   body {
-      background-color:#f3f3f3;
+	  background-color:#f3f3f3;
       color:#000;
-      font:normal normal 10px 'Lato';
       letter-spacing:1px;
   }  
  
@@ -241,7 +240,7 @@
     border-bottom:1px solid #ddd;
     margin-top:15px;
     font-weight:300;
-    font-size:13px;
+    font-size:16px;
     line-height:20px;
 }
  
@@ -253,7 +252,7 @@
     padding:10px 0px;
     font-weight:bold;
     text-transform:uppercase;
-    font-size:16px;
+    font-size:20px;
     font-weight:900;
     letter-spacing:2px;
 }
@@ -302,8 +301,8 @@ src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
     <div class="midlinks"><!---feel free to change these links but do not touch the credit--->
         <a href="/">home</a>
         <a href="/ask">ask</a>
-        <a href="/creations2">creations</a>
-        <a href="/icons">icons</a>
+        <a href="/creations">creations</a>
+        <a href="/roll">roll</a>
         <a href="/shows">shows</a>
         <a href="http://ciralism.tumblr.com">CREDIT</a>
     </div>
@@ -314,13 +313,15 @@ src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
         <p>Heeey. I'm Meghan, a post-grad, deaf, asexual meteorologist and martial artist living in the frigid north known as... southern Canada. </p>
         <p>My studies were centred around Applied Mathematics, Earth Sciences, and Meteorology, with a side specialization in scientific programming, so if you ever want to talk about fluid dynamics, joukowski airfoils, conformal mappings, python, the coriolis effect, thundersnow, the upcoming storm on the East coast (doesn't matter which, statistically there is one), or anything about women's place in STEM studies, hit me up.</p>
         <p>I'm a major DC comics fan, with a particular love/hate relationship with DCTV properties at the moment. I love to gif, particularly favouring live-action properties, and take requests! You can see which TV shows I watch and gif over on my <a href="/shows">shows</a> page. Movies are touch-and-go, since I like deleting things after I've seen them, but feel free to <a href="/ask">ask</a>! </p>
-        <p></p>
- 
+        <p>I'm pretty big on visual and auditory accessibility, and always try to modify a theme's font sizes and colours for low visual acuity and colourblind-friendliness, but if there's ever a problem please let me know. I won't reblog videos without tags specifying whether or not it's captioned or described. Also if you ever see that I've reblogged a post that has content that the poster did not create, let me know so I can delete it immediately. Gif/art theft is something I take very seriously, and sometimes it's just hard to tell at first glance.</p>
+		<p>I rely heavily on my blacklist and xkit features, so if you don't have a tagging system that makes it difficult for me to follow back, sorry. </p>
+		
 		<h1>Tag notes</h1>
-		<p>I have a particular tagging system that, on first glance, doesn't seem to be as self explanatory as it should be. Typically I try to do a "categorization tag" (ex. <i>#dc</i>) then the sub-categorization tags (ex. <i>#yj</i>) and then characters (ex. <i>#cassandra sandsmark</i>) and episode (ex. <i>#yj 2x05</i>). Sometimes I'll opt to only tagging a ship name instead of two characters (ex. <i>#coldwave</i>), and sometimes I won't know the episode number, and it will be tagged with <i>#ep?</i> for me to find and look up later. If you see me tagging <i>#ep?</i> and you know which episode it is, I'd be so grateful for the update.</i></p>
-		<p>Spoilers, in general, will be tagged for the first week after a comic or episode is released, either with <i>#wednesday spoilers</i> or the show type <i>#[showname] spoilers</i>. My liveblog posts will be <i>#[showname] lb</i> and will also be posted with the episode number and <i>#[showname] spoilers</i>. For movies, I'll try to keep tagging <i>#[title] spoilers</i> until the DVD releas.</p>
+		<p>I have a particular tagging system that, on first glance, doesn't seem to be as self explanatory as it should be. Typically I try to do a "categorization tag" (ex. <i>#dc</i>) then the sub-categorization tags (ex. <i>#yj</i>) and then characters (ex. <i>#cassandra sandsmark</i>) and episode (ex. <i>#yj 2x05</i>). Sometimes I'll opt to only tagging a ship name instead of two characters (ex. <i>#coldwave</i>), and sometimes I won't know the episode number, and it will be tagged with <i>#ep?</i> for me to find and look up later. If you see me tagging <i>#ep?</i> and you know which episode it is, I'd be so grateful for the update. Similarly, if I ever reblog work that is stolen, let me know so I can delete it and reblog the original. Corrections on my typos always welcome, even if they're in the tags. </p>
+		<p>Spoilers, in general, will be tagged for the first week after a comic or episode is released, either with <i>#wednesday spoilers</i> or the show type <i>#[showname] spoilers</i>. My liveblog posts will be <i>#[showname] lb</i> and will also be posted with the episode number and <i>#[showname] spoilers</i>. For movies, I'll try to keep tagging <i>#[title] spoilers</i> until the DVD release. I have odd consistency with tagging things that start with "the" or "a" and I'm not sure how to explain when I use which.</p>
 	    <p>Sometimes I'll post about Canadian politics, which I know the rest of the world cares exactly 0% about, so blacklist that at <i>#cdnpoli</i> if it's not your jam. Or if you prefer ignoring the existence of Canada as a whole country for some reason, my posts will be tagged with <i>#oh canada</i>. I'll probably not post too much about muay thai, but that can be found at my <i>#fight me tag</i>. Anything involving my asexuality can be found at <i>#ace tag</i>, aromanticism at <i>#aro tag</i>, and deafness at <i>#deaf tag</i> respectively. I try to keep up this system for other sexual, romantic, and gender identities even if I don't personally identify as them.</p>
-	    <p>Personal posts can be found at <i>#meghan's life</i>, and my opinions on episodes and media and such at <i>#meghan has opinions</i>. <i>#replies</i>, <i>#asks</i>, and <i>#meggifs</i>/<i>#~~</i> might be other things you want to hide, too.
+	    <p>Personal posts can be found at <i>#meghan's life</i>, and my opinions on episodes and media and such at <i>#meghan has opinions</i>. <i>#replies</i>, <i>#asks</i>, and <i>#meggifs</i>/<i>#~~</i> might be other things you want to hide, too.</p>
+	    <p>Other things I'm running include @<a href = "http://ccrogues.tumblr.com/tagged/by-meghan">ccrogues</a>, @<a href = "http://dctvcountdown.tumblr.com">dctvcountdown</a>, posting on @<a href = "http://dailydcheroes.tumblr.com/tagged/by-meghan">dailydcheroes</a>, and hosting the <a href = "https://tockify.com/dcfandomevents">dcfandomevents</a> calendar. </p>
 	    
 	    <p><a href='https://ko-fi.com/A86315B8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
     </div>

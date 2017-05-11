@@ -120,7 +120,7 @@ iframe.tmblr-iframe:hover {
 /*********** THANK YOU! ***********/
     
 .container {
-    width:966px;
+    width:1001px;
     position:absolute;
     top:0;
     right:0;
@@ -134,24 +134,25 @@ iframe.tmblr-iframe:hover {
     position:fixed;
     margin-top:0px;
     z-index:999;
-    width:966px;
+    width:1001px;
     border-bottom:10px solid #fff;}
 .f2 {
-    width:820px;
+    width:1000px;
     padding:10px;
     position:relative;
     margin-top:0px;
-    margin-left:116px;}
+    margin-left:75px;}
 .f1 {
     position:absolute;
     margin-top:84px;
-    width:120px;
+    width:150px;
     text-align:center;
+	margin-left:-95px;
 }
 .top {
-    width:778px;
+    width:880px;
     position:relative;
-    margin-left:136px;
+    margin-left:128px;
     padding:10px 15px;
     border:1px solid #f8f8f8; 
     margin-bottom:5px;
@@ -180,7 +181,7 @@ input[type="text"] {
 
 .button {
     display:inline-block;
-    width:72px;
+    width:82px;
     background:#fff;
     cursor:pointer;
     font-weight:400;
@@ -198,7 +199,7 @@ input[type="text"] {
     margin-bottom:10px;
     display:block;
     padding:10px;
-    width:120px;}
+    width:190px;}
 .button:last-of-type {
     margin:0px;}
 .button.c01 {
@@ -223,7 +224,7 @@ input[type="text"] {
     font-weight:900; background:#f8f8f8;}
     
 .ic {
-    width:850px;
+    width:1000px;
     position:relative;
     margin:144px 0px 40px 116px;
     z-index:1;}
@@ -251,6 +252,7 @@ input[type="text"] {
 		<a class="link" href="/creations">creations</a>
 		<a class="link" href="/tags">tags</a>
 		<a class="link" href="/eps">episodes</a>
+		<a class="link" href="/characters">rogues</a>
         <!-- copy and paste as needed -->
         
         <span style="margin-right:10px;">/</span>like the original post if you take any, please!
@@ -268,11 +270,13 @@ input[type="text"] {
         <button class="button active" filter="">all</button>
 		<button class="button" filter=".new">new</button>
         <button class="button" filter=".panels">comics</button>
+		<button class="button" filter=".flash">the flash</button>
         <button class="button" filter=".lot">legends of tomorrow</button>
-		<button class="button" filter=".snart">leonard snart / captain cold</button>
-		<button class="button" filter=".lisa">lisa snart / golden glider</button>
-		<button class="button" filter=".mardon">marco mardon / weather wizard</button>
-		<button class="button" filter=".rory">mick rory / heat wave</button>
+		<button class="button" filter=".snart">ls / captain cold</button>
+		<button class="button" filter=".lisa">ls / golden glider</button>
+		<button class="button" filter=".mardon">mm / weather wizard</button>
+		<button class="button" filter=".rory">mr / heat wave</button>
+		<button class="button" filter=".rosa">rd / the top</button>
         <!-- copy and paste as needed -->
         
     </div>
@@ -295,6 +299,7 @@ input[type="text"] {
 
 <!-- TRURED TRURED -->
 <!-- TRURED TRURED -->
+<div class="icon new live flash red flash319 rosa"><a href = "https://image.ibb.co/mERvfk/rosaicon3.png"><img src="https://image.ibb.co/mERvfk/rosaicon3.png" alt="rosaicon3" border="0"></a>rosalind rosa dillon top flash319</div>
 <div class="icon panels mardon rebirth red new"><img src="https://image.ibb.co/dLD9iv/marcoicon4.png" alt="marcoicon4" border="0">marco mardon weather wizard rebirth mark</div>
 <!-- TRURED TRURED -->
 <!-- TRURED TRURED -->
@@ -302,6 +307,7 @@ input[type="text"] {
 
 <!-- ORANGE ORANGE -->
 <!-- ORANGE ORANGE -->
+<div class="icon new live flash orange flash319 rosa"><a href = "https://image.ibb.co/iCQct5/rosaicon7.png"><img src="https://image.ibb.co/iCQct5/rosaicon7.png" alt="rosaicon7" border="0"></a>rosalind rosa dillon top flash319</div>
 <div class="icon rebirth panels allen orange rory snart"><a href="https://ibb.co/kevcDv"><img src="https://image.ibb.co/hgRTLa/coldflashwave.png" alt="coldflashwave" border="0" />captain cold leonard snart mick rory heatwave heat wave barry allen flash </a></div>
 <div class="icon rebirth panels orange rory"><a href="https://ibb.co/cMZXFa"><img src="https://thumb.ibb.co/cMZXFa/hw.jpg" alt="hw" border="0" />mick rory heatwave heat wave</a></div>
 <!-- ORANGE ORANGE -->
@@ -310,16 +316,18 @@ input[type="text"] {
 
 <!-- YELLOW YELLOW -->
 <!-- YELLOW YELLOW -->
+<div class="icon new live flash yellow flash319 rosa"><a href = "https://image.ibb.co/iUcqD5/rosaicon8.png"><img src="https://image.ibb.co/iUcqD5/rosaicon8.png" alt="rosaicon8" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon new live flash yellow flash319 rosa"><a href = "https://image.ibb.co/bE7OY5/rosaicon5.png"><img src="https://image.ibb.co/bE7OY5/rosaicon5.png" alt="rosaicon5" border="0"></a>rosalind rosa dillon top flash319</div>
 <div class="icon panels mardon rebirth yellow new"><img src="https://image.ibb.co/cqwUiv/marcoicon7.png" alt="marcoicon7" border="0" />marco mardon weather wizard rebirth mark</div>
-<div class="icon new live lot orange yellow lot215 snart"><a href="https://ibb.co/cnVfmF"><img src="https://thumb.ibb.co/cnVfmF/lsboom11.jpg" alt="lsboom11" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live lot lot215 orange yellow snart"><a href="https://ibb.co/i5oY6F"><img src="https://thumb.ibb.co/i5oY6F/lsboom10.jpg" alt="lsboom10" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new fave live lot lot215 orange yellow snart"><a href="https://ibb.co/cZipfa"><img src="https://thumb.ibb.co/cZipfa/lsboom1.jpg" alt="lsboom1" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live lot yellow lot216 snart"><a href="https://ibb.co/k8jJov"><img src="https://thumb.ibb.co/k8jJov/lot216iconsly.jpg" alt="lot216iconsly" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon panels new rebirth yellow lisa"><a href="https://ibb.co/m3AgQa"><img src="https://thumb.ibb.co/m3AgQa/lisay.jpg" alt="lisay" border="0" />lisa snart golden glider </a></div>
-<div class="icon new rebirth yellow cyan panels snart lisa"><a href="https://ibb.co/jxc6rF"><img src="https://thumb.ibb.co/jxc6rF/snartsicon.jpg" alt="snartsicon" border="0" />lisa leonard captain cold snart golden glider </a></div>
-<div class="icon panels yellow new rebirth lisa"><a href="https://ibb.co/bwuVJv"><img src="https://thumb.ibb.co/bwuVJv/lisaicosn.jpg" alt="lisaicosn" border="0" />lisa snart golden glider </a></div>
-<div class="icon fave yellow panels new rebirth lisa"><a href="https://ibb.co/cFgMQa"><img src="https://thumb.ibb.co/cFgMQa/lisa2e.jpg" alt="lisa2e" border="0" />lisa snart golden glider </a></div>
-<div class="icon fave new yellow rebirth panels lisa"><a href="https://ibb.co/nmSvka"><img src="https://thumb.ibb.co/nmSvka/lisay2.jpg" alt="lisay2" border="0" />lisa snart golden glider </a></div>
+<div class="icon live lot orange yellow lot215 snart"><a href="https://ibb.co/cnVfmF"><img src="https://thumb.ibb.co/cnVfmF/lsboom11.jpg" alt="lsboom11" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot lot215 orange yellow snart"><a href="https://ibb.co/i5oY6F"><img src="https://thumb.ibb.co/i5oY6F/lsboom10.jpg" alt="lsboom10" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon fave live lot lot215 orange yellow snart"><a href="https://ibb.co/cZipfa"><img src="https://thumb.ibb.co/cZipfa/lsboom1.jpg" alt="lsboom1" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot yellow lot216 snart"><a href="https://ibb.co/k8jJov"><img src="https://thumb.ibb.co/k8jJov/lot216iconsly.jpg" alt="lot216iconsly" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon panels rebirth yellow lisa"><a href="https://ibb.co/m3AgQa"><img src="https://thumb.ibb.co/m3AgQa/lisay.jpg" alt="lisay" border="0" />lisa snart golden glider </a></div>
+<div class="icon rebirth yellow cyan panels snart lisa"><a href="https://ibb.co/jxc6rF"><img src="https://thumb.ibb.co/jxc6rF/snartsicon.jpg" alt="snartsicon" border="0" />lisa leonard captain cold snart golden glider </a></div>
+<div class="icon panels yellow rebirth lisa"><a href="https://ibb.co/bwuVJv"><img src="https://thumb.ibb.co/bwuVJv/lisaicosn.jpg" alt="lisaicosn" border="0" />lisa snart golden glider </a></div>
+<div class="icon fave yellow panels rebirth lisa"><a href="https://ibb.co/cFgMQa"><img src="https://thumb.ibb.co/cFgMQa/lisa2e.jpg" alt="lisa2e" border="0" />lisa snart golden glider </a></div>
+<div class="icon fave yellow rebirth panels lisa"><a href="https://ibb.co/nmSvka"><img src="https://thumb.ibb.co/nmSvka/lisay2.jpg" alt="lisay2" border="0" />lisa snart golden glider </a></div>
 <div class="icon live lot lot215 yellow snart rory"><a href="https://ibb.co/cN0fJv"><img src="https://thumb.ibb.co/cN0fJv/iconcoldwaveyellow2.jpg" alt="iconcoldwaveyellow2" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <div class="icon live lot lot215 yellow snart rory"><a href="https://ibb.co/jwH5ka"><img src="https://thumb.ibb.co/jwH5ka/iconcoldwaveyellow.jpg" alt="iconcoldwaveyellow" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <!-- YELLOW YELLOW -->
@@ -328,13 +336,15 @@ input[type="text"] {
 
 <!-- GREEN GREEN -->
 <!-- GREEN GREEN -->
-<div class="icon new live lot green lot215 snart"><a href="https://ibb.co/dEqD6F"><img src="https://thumb.ibb.co/dEqD6F/lsboom3.jpg" alt="lsboom3" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live lot green lot215 snart"><a href="https://ibb.co/eChRRF"><img src="https://thumb.ibb.co/eChRRF/lsboom8.jpg" alt="lsboom8" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live lot lot215 green snart"><a href="https://ibb.co/nzOcYv"><img src="https://thumb.ibb.co/nzOcYv/lsboom13.jpg" alt="lsboom13" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live lot lot216 green snart"><a href="https://ibb.co/bNCtMF"><img src="https://thumb.ibb.co/bNCtMF/lot216iconslg.jpg" alt="lot216iconslg" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new live lot lot216 green snart"><a href="https://ibb.co/i0MngF"><img src="https://thumb.ibb.co/i0MngF/lot216iconsg.jpg" alt="lot216iconsg" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new live lot lot216 green snart"><a href="https://ibb.co/f26L1F"><img src="https://thumb.ibb.co/f26L1F/lot216iconsg2.jpg" alt="lot216iconsg2" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new rebirth green yellow panels lisa"><a href="https://ibb.co/d79VJv"><img src="https://thumb.ibb.co/d79VJv/lisa4a.jpg" alt="lisa4a" border="0" />lisa snart golden glider </a></div>
+<div class="icon new live flash green yellow flash319 rosa"><a href = "https://image.ibb.co/fKiK6Q/rosaicons.gif"><img src="https://image.ibb.co/fKiK6Q/rosaicons.gif" alt="rosaicons" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon new live flash green flash319 rosa"><a href = "https://image.ibb.co/ivaAD5/rosaicon4.png"><img src="https://image.ibb.co/ivaAD5/rosaicon4.png" alt="rosaicon4" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon live lot green lot215 snart"><a href="https://ibb.co/dEqD6F"><img src="https://thumb.ibb.co/dEqD6F/lsboom3.jpg" alt="lsboom3" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot green lot215 snart"><a href="https://ibb.co/eChRRF"><img src="https://thumb.ibb.co/eChRRF/lsboom8.jpg" alt="lsboom8" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot lot215 green snart"><a href="https://ibb.co/nzOcYv"><img src="https://thumb.ibb.co/nzOcYv/lsboom13.jpg" alt="lsboom13" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live lot lot216 green snart"><a href="https://ibb.co/bNCtMF"><img src="https://thumb.ibb.co/bNCtMF/lot216iconslg.jpg" alt="lot216iconslg" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon live lot lot216 green snart"><a href="https://ibb.co/i0MngF"><img src="https://thumb.ibb.co/i0MngF/lot216iconsg.jpg" alt="lot216iconsg" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon live lot lot216 green snart"><a href="https://ibb.co/f26L1F"><img src="https://thumb.ibb.co/f26L1F/lot216iconsg2.jpg" alt="lot216iconsg2" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon rebirth green yellow panels lisa"><a href="https://ibb.co/d79VJv"><img src="https://thumb.ibb.co/d79VJv/lisa4a.jpg" alt="lisa4a" border="0" />lisa snart golden glider </a></div>
 <div class="icon panels n52 green snart"><a href="https://ibb.co/faGZtv"><img src="https://thumb.ibb.co/faGZtv/len.jpg" alt="len" border="0" />leonard snart captain cold </a></div>
 <div class="icon panels green rory"><a href="https://ibb.co/hOGOMF"><img src="https://thumb.ibb.co/hOGOMF/hw2.jpg" alt="hw2" border="0" />mick rory heatwave heat wave</a></div>
 <div class="icon fave green panels mardon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/ja6ZTv/marco.jpg" alt="marco" border="0" />weather wizard marco mardon mark</a></div>
@@ -348,19 +358,21 @@ input[type="text"] {
 
 <!-- CYAN CYAN CYAN-->
 <!-- CYAN CYAN CYAN-->
+<div class="icon new live flash cyan flash319 rosa"><a href = "https://image.ibb.co/cMLo0k/rosaicon12.png"><img src="https://image.ibb.co/cMLo0k/rosaicon12.png" alt="rosaicon12" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon new live flash cyan flash319 rosa"><a href = "https://image.ibb.co/n1oK6Q/rosaicon13.png"><img src="https://image.ibb.co/n1oK6Q/rosaicon13.png" alt="rosaicon13" border="0"></a>rosalind rosa dillon top flash319</div>
 <div class="icon panels mardon rebirth cyan new"><img src="https://image.ibb.co/j9z4GF/marcoicon6.png" alt="marcoicon6" border="0">marco mardon weather wizard rebirth mark</div>
-<div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/fFzjDv"><img src="https://thumb.ibb.co/fFzjDv/lsboom2.jpg" alt="lsboom2" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/esVfmF"><img src="https://thumb.ibb.co/esVfmF/lsboom12.jpg" alt="lsboom12" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new cyan live lot lot215 snart"><a href="https://ibb.co/bswLmF"><img src="https://thumb.ibb.co/bswLmF/lsboom9.jpg" alt="lsboom9" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new cyan live lot lot216 snart"><a href="https://ibb.co/mSDpva"><img src="https://thumb.ibb.co/mSDpva/lot216iconssnowbl.jpg" alt="lot216iconssnowbl" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new cyan live lot lot216 snart"><a href="https://ibb.co/ci2tMF"><img src="https://thumb.ibb.co/ci2tMF/lot216iconslb.jpg" alt="lot216iconslb" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new cyan live lot lot216 snart"><a href="https://ibb.co/hc1ngF"><img src="https://thumb.ibb.co/hc1ngF/lot216iconslb2.jpg" alt="lot216iconslb2" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new cyan yellow pink rebirth panels snart lisa"><a href="https://ibb.co/ke3Pdv"><img src="https://thumb.ibb.co/ke3Pdv/snarts.jpg" alt="snarts" border="0" />lisa leonard snart captain cold golden glider </a></div>
-<div class="icon new cyan pink rebirth panels snart lisa"><a href="https://ibb.co/g0vFka"><img src="https://thumb.ibb.co/g0vFka/snartsicon2.jpg" alt="snartsicon2" border="0" />lisa leonard snart captain cold golden glider </a></div>
-<div class="icon new cyan yellow rebirth panels snart lisa"><a href="https://ibb.co/nhp85a"><img src="https://thumb.ibb.co/nhp85a/snartsicon4.jpg" alt="snartsicon4" border="0" />lisa leonard snart captain cold golden glider </a></div>
-<div class="icon new cyan pink rebirth panels lisa"><a href="https://ibb.co/k4WAJv"><img src="https://thumb.ibb.co/k4WAJv/lisa2b.jpg" alt="lisa2b" border="0" />lisa snart golden glider </a></div>
-<div class="icon new cyan rebirth panels lisa"><a href="https://ibb.co/f94KBF"><img src="https://thumb.ibb.co/f94KBF/lisa2c.jpg" alt="lisa2c" border="0" />lisa snart golden glider </a></div>
-<div class="icon fave cyan new rebirth panels lisa"><a href="https://ibb.co/bBemrF"><img src="https://thumb.ibb.co/bBemrF/lisa4d.jpg" alt="lisa4d" border="0" />lisa snart golden glider </a></div>
+<div class="icon cyan live lot lot215 snart"><a href="https://ibb.co/fFzjDv"><img src="https://thumb.ibb.co/fFzjDv/lsboom2.jpg" alt="lsboom2" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon cyan live lot lot215 snart"><a href="https://ibb.co/esVfmF"><img src="https://thumb.ibb.co/esVfmF/lsboom12.jpg" alt="lsboom12" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon cyan live lot lot215 snart"><a href="https://ibb.co/bswLmF"><img src="https://thumb.ibb.co/bswLmF/lsboom9.jpg" alt="lsboom9" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon cyan live lot lot216 snart"><a href="https://ibb.co/mSDpva"><img src="https://thumb.ibb.co/mSDpva/lot216iconssnowbl.jpg" alt="lot216iconssnowbl" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon cyan live lot lot216 snart"><a href="https://ibb.co/ci2tMF"><img src="https://thumb.ibb.co/ci2tMF/lot216iconslb.jpg" alt="lot216iconslb" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon cyan live lot lot216 snart"><a href="https://ibb.co/hc1ngF"><img src="https://thumb.ibb.co/hc1ngF/lot216iconslb2.jpg" alt="lot216iconslb2" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon cyan yellow pink rebirth panels snart lisa"><a href="https://ibb.co/ke3Pdv"><img src="https://thumb.ibb.co/ke3Pdv/snarts.jpg" alt="snarts" border="0" />lisa leonard snart captain cold golden glider </a></div>
+<div class="icon cyan pink rebirth panels snart lisa"><a href="https://ibb.co/g0vFka"><img src="https://thumb.ibb.co/g0vFka/snartsicon2.jpg" alt="snartsicon2" border="0" />lisa leonard snart captain cold golden glider </a></div>
+<div class="icon cyan yellow rebirth panels snart lisa"><a href="https://ibb.co/nhp85a"><img src="https://thumb.ibb.co/nhp85a/snartsicon4.jpg" alt="snartsicon4" border="0" />lisa leonard snart captain cold golden glider </a></div>
+<div class="icon cyan pink rebirth panels lisa"><a href="https://ibb.co/k4WAJv"><img src="https://thumb.ibb.co/k4WAJv/lisa2b.jpg" alt="lisa2b" border="0" />lisa snart golden glider </a></div>
+<div class="icon cyan rebirth panels lisa"><a href="https://ibb.co/f94KBF"><img src="https://thumb.ibb.co/f94KBF/lisa2c.jpg" alt="lisa2c" border="0" />lisa snart golden glider </a></div>
+<div class="icon fave cyan rebirth panels lisa"><a href="https://ibb.co/bBemrF"><img src="https://thumb.ibb.co/bBemrF/lisa4d.jpg" alt="lisa4d" border="0" />lisa snart golden glider </a></div>
 <div class="icon fave cyan panels snart"><a href="https://ibb.co/hdkuTv"><img src="https://thumb.ibb.co/hdkuTv/chillyw.jpg" alt="chillyw" border="0" />leonard snart captain cold</a></div>
 <div class="icon panels cyan n52 snart"><a href="https://ibb.co/bMiZBF"><img src="https://thumb.ibb.co/bMiZBF/shots.jpg" alt="shots" border="0" />leonard snart captain cold</a></div>
 <div class="icon panels blue n52 snart"><a href="https://ibb.co/nsuwQa"><img src="https://thumb.ibb.co/nsuwQa/shotss2.jpg" alt="shotss2" border="0" />leonard snart captain cold</a></div>
@@ -380,9 +392,10 @@ input[type="text"] {
 
 <!-- BLUE BLUE BLUE -->
 <!-- BLUE BLUE BLUE -->
-<div class="icon new blue live lot lot215 snart"><a href="https://ibb.co/kwraLa"><img src="https://thumb.ibb.co/kwraLa/lsboom4.jpg" alt="lsboom4" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new blue live lot lot215 snart"><a href="https://ibb.co/jSJcYv"><img src="https://thumb.ibb.co/jSJcYv/lsboom7.jpg" alt="lsboom7" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new blue live lot lot215 snart"><a href="https://ibb.co/k4PUfa"><img src="https://thumb.ibb.co/k4PUfa/lsboom14.jpg" alt="lsboom14" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon new live flash blue flash319 rosa"><a href = "https://image.ibb.co/hcVAD5/rosaicon14.png"><img src="https://image.ibb.co/hcVAD5/rosaicon14.png" alt="rosaicon14" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon blue live lot lot215 snart"><a href="https://ibb.co/kwraLa"><img src="https://thumb.ibb.co/kwraLa/lsboom4.jpg" alt="lsboom4" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon blue live lot lot215 snart"><a href="https://ibb.co/jSJcYv"><img src="https://thumb.ibb.co/jSJcYv/lsboom7.jpg" alt="lsboom7" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon blue live lot lot215 snart"><a href="https://ibb.co/k4PUfa"><img src="https://thumb.ibb.co/k4PUfa/lsboom14.jpg" alt="lsboom14" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon panels n52 blue snart allen"><a href="https://ibb.co/ey6CFa"><img src="https://thumb.ibb.co/ey6CFa/colt.jpg" alt="colt" border="0" />leonard snart captain cold barry allen flash</a></div>
 <div class="icon live lot blue lot215 snart"><a href="https://ibb.co/iNMZtv"><img src="https://thumb.ibb.co/iNMZtv/iconleonard2.jpg" alt="iconleonard2" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon live lot blue lot215 snart"><a href="https://ibb.co/nb2w6F"><img src="https://thumb.ibb.co/nb2w6F/iconleonard3.jpg" alt="iconleonard3" border="0" />leonard snart captain cold lot215 </a></div>
@@ -399,9 +412,10 @@ input[type="text"] {
 
 <!-- PURPLE PURPLE -->
 <!-- PURPLE PURPLE -->
-<div class="icon new live blue purple lot lot216 snart"><a href="https://ibb.co/hpfr8v"><img src="https://thumb.ibb.co/hpfr8v/lot216iconspurp2.jpg" alt="lot216iconspurp2" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new live blue purple lot lot216 snart"><a href="https://ibb.co/gQkf1F"><img src="https://thumb.ibb.co/gQkf1F/lot216iconspurp.jpg" alt="lot216iconspurp" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new live blue purple lot lot216 snart"><a href="https://ibb.co/kJXSgF"><img src="https://thumb.ibb.co/kJXSgF/lot216iconssnowpurp.jpg" alt="lot216iconssnowpurp" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon new live flash purple flash319 rosa"><a href = "https://image.ibb.co/hgNe6Q/rosaicon9.png"><img src="https://image.ibb.co/hgNe6Q/rosaicon9.png" alt="rosaicon9" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon live blue purple lot lot216 snart"><a href="https://ibb.co/hpfr8v"><img src="https://thumb.ibb.co/hpfr8v/lot216iconspurp2.jpg" alt="lot216iconspurp2" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon live blue purple lot lot216 snart"><a href="https://ibb.co/gQkf1F"><img src="https://thumb.ibb.co/gQkf1F/lot216iconspurp.jpg" alt="lot216iconspurp" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon live blue purple lot lot216 snart"><a href="https://ibb.co/kJXSgF"><img src="https://thumb.ibb.co/kJXSgF/lot216iconssnowpurp.jpg" alt="lot216iconssnowpurp" border="0" />leonard snart captain cold lot216 </a></div>
 <div class="icon live lot lot215 purple snart rory"><a href="https://ibb.co/gtdZdv"><img src="https://thumb.ibb.co/gtdZdv/iconcoldwaveblue.jpg" alt="iconcoldwaveblue" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <div class="icon fave live lot purple lot215 snart rory"><a href="https://ibb.co/cYpLYv"><img src="https://image.ibb.co/nw6dLa/iconcoldwave4.jpg" alt="iconcoldwave4" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <!-- PURPLE PURPLE -->
@@ -410,12 +424,13 @@ input[type="text"] {
 
 <!-- PINK PINK PINK -->
 <!-- PINK PINK PINK -->
-<div class="icon new pink live lot lot215 snart"><a href="https://ibb.co/h8icYv"><img src="https://thumb.ibb.co/h8icYv/lsboom15.jpg" alt="lsboom15" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new pink live lot lot215 snart"><a href="https://ibb.co/cVrLmF"><img src="https://thumb.ibb.co/cVrLmF/lsboom6.jpg" alt="lsboom6" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live pink lot lot215 snart"><a href="https://ibb.co/mivfmF"><img src="https://thumb.ibb.co/mivfmF/lsboom5.jpg" alt="lsboom5" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon panels snart pink blue new rebirth lisa"><a href="https://ibb.co/fEY1Qa"><img src="https://thumb.ibb.co/fEY1Qa/snartsicon5dot.jpg" alt="snartsicon5dot" border="0" />lisa snart golden glider </a></div>
-<div class="icon panels new pink rebirth lisa"><a href="https://ibb.co/gBVgQa"><img src="https://thumb.ibb.co/gBVgQa/lisap.jpg" alt="lisap" border="0" />lisa snart golden glider </a></div>
-<div class="icon panels fave pink new rebirth lisa"><a href="https://ibb.co/h06MQa"><img src="https://thumb.ibb.co/h06MQa/lisa2p.jpg" alt="lisa2p" border="0" />lisa snart golden glider </a></div>
+<div class="icon new live flash pink flash319 rosa"><a href = "https://image.ibb.co/isMvfk/rosaicon11.png"><img src="https://image.ibb.co/isMvfk/rosaicon11.png" alt="rosaicon11" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon pink live lot lot215 snart"><a href="https://ibb.co/h8icYv"><img src="https://thumb.ibb.co/h8icYv/lsboom15.jpg" alt="lsboom15" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon pink live lot lot215 snart"><a href="https://ibb.co/cVrLmF"><img src="https://thumb.ibb.co/cVrLmF/lsboom6.jpg" alt="lsboom6" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live pink lot lot215 snart"><a href="https://ibb.co/mivfmF"><img src="https://thumb.ibb.co/mivfmF/lsboom5.jpg" alt="lsboom5" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon panels snart pink blue rebirth lisa"><a href="https://ibb.co/fEY1Qa"><img src="https://thumb.ibb.co/fEY1Qa/snartsicon5dot.jpg" alt="snartsicon5dot" border="0" />lisa snart golden glider </a></div>
+<div class="icon panels pink rebirth lisa"><a href="https://ibb.co/gBVgQa"><img src="https://thumb.ibb.co/gBVgQa/lisap.jpg" alt="lisap" border="0" />lisa snart golden glider </a></div>
+<div class="icon panels fave pink rebirth lisa"><a href="https://ibb.co/h06MQa"><img src="https://thumb.ibb.co/h06MQa/lisa2p.jpg" alt="lisa2p" border="0" />lisa snart golden glider </a></div>
 <div class="icon live lot lot215 pink snart"><a href="https://ibb.co/kG1vJv"><img src="https://thumb.ibb.co/kG1vJv/iconleonardpink.jpg" alt="iconleonardpink" border="0" />leonard snart captain cold lot215 </a></div>
 <div class="icon live lot lot215 pink snart"><a href="https://ibb.co/jpW6Qa"><img src="https://thumb.ibb.co/jpW6Qa/iconleonardpink2.jpg" alt="iconleonardpink2" border="0" />leonard snart captain cold lot215 </a></div>
 <!-- PINK PINK PINK -->
@@ -434,16 +449,18 @@ input[type="text"] {
 
 <!-- NEUTRAL NEUTRAL -->
 <!-- NEUTRAL NEUTRAL -->
+<div class="icon new live flash other flash319 rosa"><a href = "https://image.ibb.co/nJY80k/rosaicon6.png"><img src="https://image.ibb.co/nJY80k/rosaicon6.png" alt="rosaicon6" border="0"></a>rosalind rosa dillon top flash319</div>
+<div class="icon new live flash other flash319 rosa"><a href = "https://image.ibb.co/gfPFfk/rosaicon10.png"><img src="https://image.ibb.co/gfPFfk/rosaicon10.png" alt="rosaicon10" border="0"></a>rosalind rosa dillon top flash319</div>
 <div class="icon panels mardon rebirth other new"><img src="https://image.ibb.co/heJaOv/marcoicon.png" alt="marcoicon" border="0">marco mardon weather wizard rebirth mark</div>
 <div class="icon panels mardon rebirth other new"><img src="https://image.ibb.co/nn5BwF/marcoicon2.png" alt="marcoicon2" border="0">marco mardon weather wizard rebirth mark</div>
 <div class="icon panels fave mardon rebirth other new"><img src="https://image.ibb.co/gXMvOv/marcoicon3.png" alt="marcoicon3" border="0">marco mardon weather wizard rebirth mark</div>
 <div class="icon panels mardon rebirth other new"><img src="https://image.ibb.co/d5YWwF/marcoicon5.png" alt="marcoicon5" border="0">marco mardon weather wizard rebirth mark</div>
-<div class="icon new live other lot lot215 snart"><a href="https://ibb.co/kioBtv"><img src="https://thumb.ibb.co/kioBtv/lsboom16.jpg" alt="lsboom16" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live other lot lot215 snart"><a href="https://ibb.co/mm96RF"><img src="https://thumb.ibb.co/mm96RF/lsboom17.jpg" alt="lsboom17" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon new live other lot lot215 snart"><a href="https://ibb.co/kG3Y6F"><img src="https://thumb.ibb.co/kG3Y6F/lsboom18.jpg" alt="lsboom18" border="0" />leonard snart captain cold lot215 </a></div>
-<div class="icon fave new other live lot lot216 snart"><a href="https://ibb.co/jniB8v"><img src="https://thumb.ibb.co/jniB8v/lot216iconssnowwhite.jpg" alt="lot216iconssnowwhite" border="0" />leonard snart captain cold lot216 </a></div>
-<div class="icon new rebirth other panels lisa"><a href="https://ibb.co/h2jaka"><img src="https://thumb.ibb.co/h2jaka/lisap2.jpg" alt="lisap2" border="0" />lisa snart golden glider rebirth </a></div>
-<div class="icon fave new other rebirth panels snart lisa"><a href="https://ibb.co/npmo5a"><img src="https://thumb.ibb.co/npmo5a/snartsicon3.jpg" alt="snartsicon3" border="0" />lisa leonard snart captain cold golden glider rebirth</a></div>
+<div class="icon live other lot lot215 snart"><a href="https://ibb.co/kioBtv"><img src="https://thumb.ibb.co/kioBtv/lsboom16.jpg" alt="lsboom16" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live other lot lot215 snart"><a href="https://ibb.co/mm96RF"><img src="https://thumb.ibb.co/mm96RF/lsboom17.jpg" alt="lsboom17" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon live other lot lot215 snart"><a href="https://ibb.co/kG3Y6F"><img src="https://thumb.ibb.co/kG3Y6F/lsboom18.jpg" alt="lsboom18" border="0" />leonard snart captain cold lot215 </a></div>
+<div class="icon fave other live lot lot216 snart"><a href="https://ibb.co/jniB8v"><img src="https://thumb.ibb.co/jniB8v/lot216iconssnowwhite.jpg" alt="lot216iconssnowwhite" border="0" />leonard snart captain cold lot216 </a></div>
+<div class="icon rebirth other panels lisa"><a href="https://ibb.co/h2jaka"><img src="https://thumb.ibb.co/h2jaka/lisap2.jpg" alt="lisap2" border="0" />lisa snart golden glider rebirth </a></div>
+<div class="icon fave other rebirth panels snart lisa"><a href="https://ibb.co/npmo5a"><img src="https://thumb.ibb.co/npmo5a/snartsicon3.jpg" alt="snartsicon3" border="0" />lisa leonard snart captain cold golden glider rebirth</a></div>
 <div class="icon live lot other lot215 snart rory"><a href="https://ibb.co/nCJsfa"><img src="https://image.ibb.co/bGR0Yv/iconcoldwave5.jpg" alt="iconcoldwave5" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <div class="icon fave live other lot lot215 snart rory"><a href="https://ibb.co/huOHfa"><img src="https://image.ibb.co/jMzZRF/iconcoldwave1.jpg" alt="iconcoldwave1" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>
 <div class="icon live lot other lot215 snart rory"><a href="https://ibb.co/hXComF"><img src="https://image.ibb.co/eoRsDv/iconcoldwave2.jpg" alt="iconcoldwave2" border="0" /> leonard snart captain cold mick rory coldwave heatwave heat wave lot215 </a></div>

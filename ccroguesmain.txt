@@ -1656,11 +1656,12 @@ footer.post-tags span:before {
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 3 Icon}">{text:Category 3 Title}</h1>
 				<div class="box extra-links">
-					<a href="/characters">the rogues</a>
-					<a href="/interactions">interactions</a>
-					<a href="/icons">icons by meghan</a>
-					<a href="/tagged/ep%3F">tag an episode</a>
-					<a href="/taggingsystem">tagging system</a>
+					<a href="https://ccrogues.tumblr.com/characters">the rogues</a>
+					<a href="https://ccrogues.tumblr.com/interactions">interactions</a>
+					<a href="https://ccrogues.tumblr.com/icons">icons by meghan</a>
+					<a href="https://ccrogues.tumblr.com/tagged/ep%3F">tag an episode</a>
+					<a href="https://ccrogues.tumblr.com/tagged/v%3F">tag a comic</a>
+					<a href="https://ccrogues.tumblr.com/taggingsystem">tagging system</a>
 					<a href="https://en.wikipedia.org/wiki/Rogues_(comics)">official wiki</a>
 				</div>
 			</div>
@@ -1680,7 +1681,7 @@ footer.post-tags span:before {
                                 <li><span class="list-title">type</span>comic</li>
                             </ul>
                             <p>
-                                <a href="/search/flash-rebirth">our tag</a>
+                                <a href="https://ccrogues.tumblr.com/tagged/c:-the-flash-v5">our tag</a>
                                 <a href="http://www.dccomics.com/comics/the-flash-2016/the-flash-1">official</a>
                             </p>
                         </section>
@@ -1696,7 +1697,7 @@ footer.post-tags span:before {
                                 <li><span class="list-title">type</span>comic</li>
                             </ul>
                             <p>
-                                <a href="/search/suicide-squad-rebirth">our tag</a>
+                                <a href="https://ccrogues.tumblr.com/tagged/c:-suicide-squad-v5">our tag</a>
                                 <a href="http://www.dccomics.com/comics/suicide-squad-2016/suicide-squad-1">official</a>
                             </p>
                         </section>
@@ -1791,24 +1792,8 @@ footer.post-tags span:before {
 				<h1 class="lnr lnr-{text:Category 5 Icon}">{text:Category 5 Title}</h1>
 				<div class="box updates">
 					<article>
-						<section class="date"><span>25th</span> Apr 17</section>
-						<section class="event">The Flash 3x19 <br />The Once and Future Flash</section>
-					</article>
-					<article>
-						<section class="date"><span>26th</span> Apr 17</section>
-						<section class="event">The Flash #021<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>26th</span> Apr 17</section>
-						<section class="event">Suicide Squad #016<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>2nd</span> May 17</section>
-						<section class="event">The Flash 3x20 <br />I Know Who You Are</section>
-					</article>
-					<article>
-						<section class="date"><span>9th</span> May 17</section>
-						<section class="event">The Flash 3x21 <br />Cause and Effect</section>
+						<section class="date"><span>5th</span> May 17</section>
+						<section class="event">DC Legends Online <br />Cold-Blooded Criminals</section>
 					</article>
 					<article>
 						<section class="date"><span>10th</span> May 17</section>
@@ -1819,8 +1804,12 @@ footer.post-tags span:before {
 						<section class="event">Suicide Squad #017<br />New Issue</section>
 					</article>
 					<article>
+						<section class="date"><span>5th</span> May 17</section>
+						<section class="event">DC Legends Online <br />Rogueish Reflections</section>
+					</article>
+					<article>
 						<section class="date"><span>16th</span> May 17</section>
-						<section class="event">The Flash 3x22 <br />TBA</section>
+						<section class="event">The Flash 3x22 <br />Infantino Street</section>
 					</article>
 					<article>
 						<section class="date"><span>16th</span> May 17</section>
@@ -1828,7 +1817,11 @@ footer.post-tags span:before {
 					</article>
 					<article>
 						<section class="date"><span>23rd</span> May 17</section>
-						<section class="event">The Flash 3x23 <br />TBA</section>
+						<section class="event">The Flash 3x23 <br />Finish Line</section>
+					</article>
+					<article>
+						<section class="date"><span>24th</span> May 17</section>
+						<section class="event">Arrow 5x23 <br />Lian Yu</section>
 					</article>
 					<article>
 						<section class="date"><span>24th</span> May 17</section>
@@ -1883,6 +1876,7 @@ footer.post-tags span:before {
 					<a href="http://coldtomyflash.tumblr.com/" title="COLDTOMYFLASH"><img src="https://api.tumblr.com/v2/blog/coldtomyflash.tumblr.com/avatar/64" />
 					<a href="http://gotham-daily.tumblr.com/" title="GOTHAM-DAILY"><img src="https://api.tumblr.com/v2/blog/gotham-daily.tumblr.com/avatar/64" />
 					<a href="http://jaxappreciationnet.tumblr.com/" title="JAXAPPRECIATIONNET"><img src="https://api.tumblr.com/v2/blog/jaxappreciationnet.tumblr.com/avatar/64" />
+					<a href="http://arrowsource.tumblr.com/" title="ARROWSOURCE"><img src="https://api.tumblr.com/v2/blog/arrowsource.tumblr.com/avatar/64" />
 					<a href="http://dailydcheroes.tumblr.com/" title="dailydcheroes"><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/64" />
 					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
 					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
@@ -1892,7 +1886,6 @@ footer.post-tags span:before {
 					<a href="http://captaincanarys.tumblr.com/" title="captaincanarys"><img src="https://api.tumblr.com/v2/blog/captaincanarys.tumblr.com/avatar/64" />
 					<a href="http://fyroguecanary.tumblr.com/" title="fyroguecanary"><img src="https://api.tumblr.com/v2/blog/fyroguecanary.tumblr.com/avatar/64" />
 					<a href="http://coldsflash.tumblr.com/" title="coldsflash"><img src="https://api.tumblr.com/v2/blog/coldsflash.tumblr.com/avatar/64" />
-					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 				</div>
 			</div>

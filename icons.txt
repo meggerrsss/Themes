@@ -211,7 +211,7 @@ a {
 <div id="title">
     <a href="/" title="back">⩤</a>
     <a href="/shows" title="shows">|</a>
-    <a href="/creations2" title="creations">||</a>
+    <a href="/creations" title="creations">||</a>
     icons
     </div>
 
@@ -221,10 +221,12 @@ a {
 <a href="#" rel="fave" class="filters"><b>my faves</b></a><br>
 <br>
 <a href="#" rel="panels" class="filters">comic panels</a><br>
+<a href="#" rel="flash" class="filters">the flash</a><br>
 <a href="#" rel="lot" class="filters">legends of tomorrow</a><br>
 <a href="#" rel="dcau" class="filters">dc animated</a><br>
 <br>
 
+<a href="#" rel="strange" class="filters">adam strange</a></a><br>
 <a href="#" rel="gordon" class="filters">barbara gordon/oracle</a></a><br>
 <a href="#" rel="allen" class="filters">barry allen/the flash</a></a><br>
 <a href="#" rel="grayson" class="filters">dick grayson/nightwing</a><br>
@@ -238,6 +240,7 @@ a {
 <a href="#" rel="mardon" class="filters">marco mardon/weather wizard</a><br>
 <a href="#" rel="rory" class="filters">mick rory/heat wave</a><br>
 <a href="#" rel="raven" class="filters">raven/rachel roth</a><br>
+<a href="#" rel="rosa" class="filters">rosalind dillon/the top</a></a><br>
 <a href="#" rel="drake" class="filters">tim drake/red robin</a><br>
 </div>
 
@@ -248,14 +251,18 @@ a {
 
 <!-- TRURED TRURED -->
 <!-- TRURED TRURED -->
+<span class="all new panels new52 zorel"><a href="https://ibb.co/cRa1rQ"><img src="https://image.ibb.co/kPzi5k/karaicons.png" alt="karaicons" border="0"></a></span>
+<span class="all new panels new52 zorel"><a href="https://ibb.co/b1Ui5k"><img src="https://image.ibb.co/d5w7WQ/karaicons2.png" alt="karaicons2" border="0"></a></span>
+<span class="all new panels new52 zorel"><a href="https://ibb.co/f9Aqkk"><img src="https://image.ibb.co/dUrKd5/karaicons4.png" alt="karaicons4" border="0"></a></span>
+<span class="all new panels new52 zorel"><a href="https://ibb.co/mLJMrQ"><img src="https://image.ibb.co/bRACy5/karaicons5.png" alt="karaicons5" border="0"></a></span><span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/mERvfk/rosaicon3.png"><img src="https://image.ibb.co/mERvfk/rosaicon3.png" alt="rosaicon3" border="0"></a></span>
 <span class="all new rebirth mardon panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/dLD9iv/marcoicon4.png" alt="marcoicon4" border="0"></a></span>
 <!-- TRURED TRURED -->
 <!-- TRURED TRURED -->
 
 
-
 <!-- ORANGE ORANGE -->
 <!-- ORANGE ORANGE -->
+<span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/iCQct5/rosaicon7.png"><img src="https://image.ibb.co/iCQct5/rosaicon7.png" alt="rosaicon7" border="0"></a></span>
 <span class="all panels dcau raven"><a href="https://ibb.co/fEk35a"><img src="https://thumb.ibb.co/fEk35a/ray2.jpg" alt="ray2" border="0" /></a></span>
 <span class="all panels dcau drake grayson"><a href="https://imgbb.com/"><img src="https://image.ibb.co/c2OZBF/hanging.jpg" alt="hanging" border="0" /></a></span>
 <span class="all panels dcyou gordon"><a href="https://ibb.co/emkTov"><img src="https://thumb.ibb.co/emkTov/babs2.jpg" alt="babs2" border="0" /></a></span>
@@ -268,6 +275,8 @@ a {
 
 <!-- YELLOW YELLOW -->
 <!-- YELLOW YELLOW -->
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/iUcqD5/rosaicon8.png"><img src="https://image.ibb.co/iUcqD5/rosaicon8.png" alt="rosaicon8" border="0"></a></span>
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/bE7OY5/rosaicon5.png"><img src="https://image.ibb.co/bE7OY5/rosaicon5.png" alt="rosaicon5" border="0"></a></span>
 <span class="all new rebirth mardon panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/cqwUiv/marcoicon7.png" alt="marcoicon7" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/cnVfmF"><img src="https://thumb.ibb.co/cnVfmF/lsboom11.jpg" alt="lsboom11" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/i5oY6F"><img src="https://thumb.ibb.co/i5oY6F/lsboom10.jpg" alt="lsboom10" border="0" /></a></span>
@@ -289,6 +298,8 @@ a {
 
 <!-- GREEN GREEN -->
 <!-- GREEN GREEN -->
+<span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/fKiK6Q/rosaicons.gif"><img src="https://image.ibb.co/fKiK6Q/rosaicons.gif" alt="rosaicons" border="0"></a></span>
+<span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/ivaAD5/rosaicon4.png"><img src="https://image.ibb.co/ivaAD5/rosaicon4.png" alt="rosaicon4" border="0"></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/dEqD6F"><img src="https://thumb.ibb.co/dEqD6F/lsboom3.jpg" alt="lsboom3" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/eChRRF"><img src="https://thumb.ibb.co/eChRRF/lsboom8.jpg" alt="lsboom8" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/nzOcYv"><img src="https://thumb.ibb.co/nzOcYv/lsboom13.jpg" alt="lsboom13" border="0" /></a></span>
@@ -314,6 +325,8 @@ a {
 
 <!-- CYAN CYAN CYAN-->
 <!-- CYAN CYAN CYAN-->
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/cMLo0k/rosaicon12.png"><img src="https://image.ibb.co/cMLo0k/rosaicon12.png" alt="rosaicon12" border="0"></a></span>
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/n1oK6Q/rosaicon13.png"><img src="https://image.ibb.co/n1oK6Q/rosaicon13.png" alt="rosaicon13" border="0"></a></span>
 <span class="all new rebirth strange panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/nQOcrQ/adamicon2.png" alt="adamicon2" border="0"></a></span>
 <span class="all new rebirth mardon panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/j9z4GF/marcoicon6.png" alt="marcoicon6" border="0"></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/fFzjDv"><img src="https://thumb.ibb.co/fFzjDv/lsboom2.jpg" alt="lsboom2" border="0" /></a></span>
@@ -348,6 +361,7 @@ a {
 
 <!-- BLUE BLUE BLUE -->
 <!-- BLUE BLUE BLUE -->
+<span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/hcVAD5/rosaicon14.png"><img src="https://image.ibb.co/hcVAD5/rosaicon14.png" alt="rosaicon14" border="0"></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/kwraLa"><img src="https://thumb.ibb.co/kwraLa/lsboom4.jpg" alt="lsboom4" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/jSJcYv"><img src="https://thumb.ibb.co/jSJcYv/lsboom7.jpg" alt="lsboom7" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/k4PUfa"><img src="https://thumb.ibb.co/k4PUfa/lsboom14.jpg" alt="lsboom14" border="0" /></a></span>
@@ -368,6 +382,7 @@ a {
 
 <!-- PURPLE PURPLE -->
 <!-- PURPLE PURPLE -->
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/hgNe6Q/rosaicon9.png"><img src="https://image.ibb.co/hgNe6Q/rosaicon9.png" alt="rosaicon9" border="0"></a></span>
 <span class="all lot lot216 snart"><a href="https://ibb.co/hpfr8v"><img src="https://thumb.ibb.co/hpfr8v/lot216iconspurp2.jpg" alt="lot216iconspurp2" border="0" /></a></span>
 <span class="all lot lot216 snart"><a href="https://ibb.co/gQkf1F"><img src="https://thumb.ibb.co/gQkf1F/lot216iconspurp.jpg" alt="lot216iconspurp" border="0" /></a></span>
 <span class="all lot lot216 snart"><a href="https://ibb.co/kJXSgF"><img src="https://thumb.ibb.co/kJXSgF/lot216iconssnowpurp.jpg" alt="lot216iconssnowpurp" border="0" /></a></span>
@@ -387,6 +402,7 @@ a {
 
 <!-- PINK PINK PINK -->
 <!-- PINK PINK PINK -->
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/isMvfk/rosaicon11.png"><img src="https://image.ibb.co/isMvfk/rosaicon11.png" alt="rosaicon11" border="0"></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/h8icYv"><img src="https://thumb.ibb.co/h8icYv/lsboom15.jpg" alt="lsboom15" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/cVrLmF"><img src="https://thumb.ibb.co/cVrLmF/lsboom6.jpg" alt="lsboom6" border="0" /></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/mivfmF"><img src="https://thumb.ibb.co/mivfmF/lsboom5.jpg" alt="lsboom5" border="0" /></a></span>
@@ -416,6 +432,8 @@ a {
 
 <!-- NEUTRAL NEUTRAL -->
 <!-- NEUTRAL NEUTRAL -->
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/nJY80k/rosaicon6.png"><img src="https://image.ibb.co/nJY80k/rosaicon6.png" alt="rosaicon6" border="0"></a></span>
+<span class="all new flash rosa flash319"><a href = "https://image.ibb.co/gfPFfk/rosaicon10.png"><img src="https://image.ibb.co/gfPFfk/rosaicon10.png" alt="rosaicon10" border="0"></a></span>
 <span class="all fave new rebirth strange panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/b0Hbkk/adamicon3.png" alt="adamicon3" border="0"></a></span>
 <span class="all new rebirth mardon panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/heJaOv/marcoicon.png" alt="marcoicon" border="0"></a></span>
 <span class="all new rebirth mardon panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/nn5BwF/marcoicon2.png" alt="marcoicon2" border="0"></a></span>
@@ -442,10 +460,10 @@ a {
 
 
 <!-- base icon code:
-<span class="all "><img src=""></span>
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/jq6xrQ/adamicon1.png" alt="adamicon1" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/nQOcrQ/adamicon2.png" alt="adamicon2" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/b0Hbkk/adamicon3.png" alt="adamicon3" border="0"></a> 
+<span class="all new panels new52 zorel"><a href="https://ibb.co/cRa1rQ"><img src="https://image.ibb.co/kPzi5k/karaicons.png" alt="karaicons" border="0"></a></span>
+<span class="all new panels new52 zorel"><a href="https://ibb.co/b1Ui5k"><img src="https://image.ibb.co/d5w7WQ/karaicons2.png" alt="karaicons2" border="0"></a></span>
+<span class="all new panels new52 zorel"><a href="https://ibb.co/f9Aqkk"><img src="https://image.ibb.co/dUrKd5/karaicons4.png" alt="karaicons4" border="0"></a></span>
+<span class="all new panels new52 zorel"><a href="https://ibb.co/mLJMrQ"><img src="https://image.ibb.co/bRACy5/karaicons5.png" alt="karaicons5" border="0"></a></span>
 end base icon code -->
 
 </div> 
