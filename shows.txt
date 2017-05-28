@@ -325,14 +325,14 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up airing" name="criminalminds3beyond">
+<div class="item caught-up complete" name="criminalminds3beyond">
  
 <div class="content">
     <img src="https://image.ibb.co/bPjLDv/cb.jpg" />
 <div class="title">
     <a href="/tagged/cmbb">Criminal Minds: Beyond Borders</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
+    <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
 
@@ -849,7 +849,7 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item req caught-up airing" name="once">
+<div class="item req caught-up" name="once">
  
 <div class="content">
     <img src="https://image.ibb.co/hokctv/ouat.jpg" />
@@ -1292,7 +1292,21 @@ on the following line! -->
 <div class="content">
     <img src="https://image.ibb.co/cYkFBQ/krypton.png" />
 <div class="title">
-    <a href="/tagged/aot">Krypton</a>
+    <a href="/tagged/krypton">Krypton</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch dctv" name="blacklightning">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/gcy8TF/bl.png" />
+<div class="title">
+    <a href="/tagged/black-lightning">Black Lightning</a>
 </div><div class="bottom">
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />

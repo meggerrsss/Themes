@@ -224,7 +224,7 @@ $('.tmblr-iframe').css({position: 'static', top: '0px'});
 	-o-filter: invert(100%);
 	-ms-filter: invert(100%);
 	filter: invert(100%);
-	z-index:99999999999999!important;
+	z-index:999999999999999999!important;
 	white-space:nowrap;
 	transition-duration: 0.3s;
 	-moz-transition-duration: 0.3s;
@@ -1142,14 +1142,16 @@ z-index: 10;
 }
 /*post info*/
 #info {  
-	width:556px;
+	width:553px;
 	text-align:left;
 	font-family:{text:font family}, sans-serif;
 	text-transform:lowercase;
 	margin-left:-42px;
+	margin-right:-42px;
 	font-size:12px;
 	margin-top:4px;
 	padding-left:30px;
+	padding-right:30px;
 	padding-top:0px;
 	padding-bottom:11px;
 	opacity:1;
@@ -1207,6 +1209,7 @@ z-index: 10;
 	line-height:15px;
 	letter-spacing:0px;
 	margin-left:12px;
+	margin-right:12px;
 	margin-bottom:2px;
 	padding-bottom:-2px;
 	font-weight:500;
@@ -1355,8 +1358,8 @@ askerurl{
 <div id="headerimage"><img src="{image:header}"></div>
 <div id="desc_title"><border>{text:description title}</border></div>
 <div id="description"><span> 
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meghan&nbsp;&nbsp;|&nbsp;&nbsp;she/her&nbsp;&nbsp;|&nbsp;&nbsp;canada <br>
-			<strong>#calmandcalculating</strong> & #meggerrsss </span>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meghan&nbsp;&nbsp;|&nbsp;&nbsp;she/her&nbsp;&nbsp;|&nbsp;&nbsp;canada <br>
+			<strong>&nbsp;&nbsp;#calmandcalculating</strong> & #meggerrsss </span>
 		</div>
 <div id="stats_box">
 <span class="lnr lnr-list"style="font-size:12px;color:{color:accent 2}"></span> <t>{text:float box title}</t></br></br>
@@ -1364,10 +1367,10 @@ askerurl{
 </div>
 <div id="navi_links">
 <span class="lnr lnr-tag"style="font-size:12px;color:{color:accent 2}"></span> <t>{text:navigation title one}</t></br></br>
-<a href="/about"><i class="zmdi zmdi-chevron-right"></i> about</a>
-<a href="/tags"><i class="zmdi zmdi-chevron-right"></i> tags</a>
-<a href="/shows"><i class="zmdi zmdi-chevron-right"></i> shows</a>
-<a href="/creations"><i class="zmdi zmdi-chevron-right"></i> creations</a>
+<a href="http://calmandcalculating.tumblr.com/about"><i class="zmdi zmdi-chevron-right"></i> about</a>
+<a href="http://calmandcalculating.tumblr.com/tags"><i class="zmdi zmdi-chevron-right"></i> tags</a>
+<a href="http://calmandcalculating.tumblr.com/shows"><i class="zmdi zmdi-chevron-right"></i> shows</a>
+<a href="http://calmandcalculating.tumblr.com/creations"><i class="zmdi zmdi-chevron-right"></i> creations</a>
 <a href="http://twitter.com/meggerrsss"><i class="zmdi zmdi-chevron-right"></i> twitter</a>
 <a href="https://tockify.com/dcfandomevents/agenda"><i class="zmdi zmdi-chevron-right"></i> events</a>
 </br></br></br>
@@ -1456,7 +1459,7 @@ askerurl{
 <div id="info">
 <div id="permalink">
 <a href="{Permalink}">
-<date>{DayOfMonth} {ShortMonth} {ShortYear}</date></a> 
+<date>{DayOfMonth} {ShortMonth} {ShortYear} <small>({TimeAgo})</small> </date></a> 
 {NoteCountWithLabel}</date><a href="{ReblogURL}" title="reblog"target="_blank" class="details">
 <span class="lnr lnr-redo"style="font-size:9px;font-weight:bold;margin-top:8px;color:{color:info};"></span></a>
 <font style="float:right;margin-right:24px;margin-top:-3px;">
