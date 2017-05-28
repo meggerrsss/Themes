@@ -1647,7 +1647,7 @@ footer.post-tags span:before {
 				<h1 class="lnr lnr-{text:Category 1 Icon}">{text:Category 1 Title}</h1>
 				<div class="box about">
 				    {block:ifDescriptionBannerImage}<img class="desc-banner" src="{image:Description Banner}" />{/block:ifDescriptionBannerImage}
-				    {Description}<br><br>Tags: <b>#ccrogues</b> & <b>#theroguesedit</b>
+				    {Description}<br><br>Tags: <b>#ccrogues</b> & <b>#[name]edit</b>
 				</div>
 			</div>
 			<!-- CATEGORY ONE -->
@@ -1707,13 +1707,13 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/e5w2Jv/ccroguesprojecttv2.jpg" />
                         <section>
                             <h2>The Flash (2014)</h2>
-                            <h3>Season 3</h3>
+                            <h3>Season 3 currently airing</h3>
                             <ul>
                                 <li><span class="list-title">date</span>October 4, 2016 - present</li>
-                                <li><span class="list-title">type</span>tv</li>
+                                <li><span class="list-title">type</span>television</li>
                             </ul>
                             <p>
-                                <a href="/tagged/tv%3A-the-flash">our tag</a>
+                                <a href="https://ccrogues.tumblr.com/tagged/tv%3A-the-flash">our tag</a>
                                 <a href="https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)">wikipedia</a>
                                 <a href="http://www.imdb.com/title/tt3107288/">imdb</a>
                             </p>
@@ -1724,15 +1724,31 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/cG4drF/ccroguesprojectlot2.jpg"  />
                         <section>
                             <h2>DC's Legends of Tomorrow (2016)</h2>
-                            <h3>renewed for season 3</h3>
+                            <h3>writing for season 3</h3>
                             <ul>
                                 <li><span class="list-title">date</span>on hiatus</li>
-                                <li><span class="list-title">type</span>tv</li>
+                                <li><span class="list-title">type</span>television</li>
                             </ul>
                             <p>
-                                <a href="/tagged/tv%3A-legends-of-tomorrow">our tag</a>
+                                <a href="https://ccrogues.tumblr.com/tagged/tv%3A-legends-of-tomorrow">our tag</a>
                                 <a href="https://en.wikipedia.org/wiki/Legends_of_Tomorrow">wikipedia</a>
                                 <a href="http://www.imdb.com/title/tt4532368/">imdb</a>
+                            </p>
+                        </section>
+                    </article>
+               
+                    <article>
+                        <img src="https://image.ibb.co/eyeZJF/ss2.png" />
+                        <section>
+                            <h2>Suicide Squad 2 (2019)</h2>
+                            <h3>Announced</h3>
+                            <ul>
+                                <li><span class="list-title">date</span>2019</li>
+                                <li><span class="list-title">type</span>film</li>
+                            </ul>
+                            <p>
+                                <a href="https://ccrogues.tumblr.com/tagged/film%3A-suicide-squad-2">our tag</a>
+                                <a href="http://www.imdb.com/title/tt6334354/?ref_=nv_sr_1">imdb</a>
                             </p>
                         </section>
                     </article>
@@ -1741,13 +1757,13 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/nNXWBF/ccroguesprojecfilmflash2.jpg" />
                         <section>
                             <h2>The Flash (2020)</h2>
-                            <h3>film</h3>
+                            <h3>Treatment/Outline</h3>
                             <ul>
                                 <li><span class="list-title">date</span>2020</li>
                                 <li><span class="list-title">type</span>film</li>
                             </ul>
                             <p>
-                                <a href="/tagged/film%3A-the-flash">our tag</a>
+                                <a href="https://ccrogues.tumblr.com/tagged/film%3A-the-flash">our tag</a>
                                 <a href="http://www.imdb.com/title/tt0439572/?ref_=nm_flmg_act_1">imdb</a>
                             </p>
                         </section>
@@ -1787,85 +1803,101 @@ footer.post-tags span:before {
 			</div>
 			<!-- CATEGORY FOUR -->
 			
-			<!-- CATEGORY FIVE -->
+			<!-- CATEGORY FIVE a -->
 			<div class="category">
-				<h1 class="lnr lnr-{text:Category 5 Icon}">{text:Category 5 Title}</h1>
+				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Multimedia</h1>
 				<div class="box updates">
 					<article>
-						<section class="date"><span>5th</span> May 17</section>
-						<section class="event">DC Legends Online <br />Cold-Blooded Criminals</section>
+						<section class="date"><span>20-23</span> Jul 17</section>
+						<section class="event">San Diego Comic Con<br />2017</section>
 					</article>
 					<article>
-						<section class="date"><span>10th</span> May 17</section>
-						<section class="event">The Flash #022<br />New Issue</section>
+						<section class="date"><span>5-8th</span> Oct 17</section>
+						<section class="event">New York Comic Con<br />2017</section>
 					</article>
 					<article>
-						<section class="date"><span>10th</span> May 17</section>
-						<section class="event">Suicide Squad #017<br />New Issue</section>
+						<section class="date"><span>????</span> Oct 17</section>
+						<section class="event">The Flash <br />Season 4</section>
 					</article>
 					<article>
-						<section class="date"><span>5th</span> May 17</section>
-						<section class="event">DC Legends Online <br />Rogueish Reflections</section>
-					</article>
-					<article>
-						<section class="date"><span>16th</span> May 17</section>
-						<section class="event">The Flash 3x22 <br />Infantino Street</section>
-					</article>
-					<article>
-						<section class="date"><span>16th</span> May 17</section>
-						<section class="event">Injustice 2 <br />Game released</section>
-					</article>
-					<article>
-						<section class="date"><span>23rd</span> May 17</section>
-						<section class="event">The Flash 3x23 <br />Finish Line</section>
-					</article>
-					<article>
-						<section class="date"><span>24th</span> May 17</section>
-						<section class="event">Arrow 5x23 <br />Lian Yu</section>
-					</article>
-					<article>
-						<section class="date"><span>24th</span> May 17</section>
-						<section class="event">The Flash #023<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>24th</span> May 17</section>
-						<section class="event">Suicide Squad #018<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>14th</span> Jun 17</section>
-						<section class="event">The Flash #024<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>14th</span> Jun 17</section>
-						<section class="event">Suicide Squad #019<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>28th</span> Jun 17</section>
-						<section class="event">The Flash #025<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>28th</span> Jun 17</section>
-						<section class="event">Suicide Squad #020<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>12th</span> Jul 17</section>
-						<section class="event">The Flash #026<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>12th</span> Jul 17</section>
-						<section class="event">Suicide Squad #021<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>26th</span> Jul 17</section>
-						<section class="event">The Flash #027<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>26th</span> Jul 17</section>
-						<section class="event">Suicide Squad #022<br />New Issue</section>
+						<section class="date"><span>????</span> Oct 17</section>
+						<section class="event">DC's Legends of Tomorrow <br />Season 3</section>
 					</article>
 			  </div>
 			</div>
-			<!-- CATEGORY FIVE -->
+			<!-- CATEGORY FIVE a -->
+			
+			<!-- CATEGORY FIVE b -->
+			<div class="category">
+				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Comics</h1>
+				<div class="box updates">
+					<article>
+						<section class="date"><span>7th</span> Jun 17</section>
+						<section class="event">Injustice 2 #003<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>14th</span> Jun 17</section>
+						<section class="event">Action Comics #981<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>14th</span> Jun 17</section>
+						<section class="event">The Flash #024<br />Running Scared Prelude</section>
+					</article>
+					<article>
+						<section class="date"><span>14th</span> Jun 17</section>
+						<section class="event">Suicide Squad #019<br />Earthlings on Fire Finale</section>
+					</article>
+					<article>
+						<section class="date"><span>28th</span> Jun 17</section>
+						<section class="event">The Flash #025<br />Running Scared I</section>
+					</article>
+					<article>
+						<section class="date"><span>28th</span> Jun 17</section>
+						<section class="event">Suicide Squad #020<br />False Flag</section>
+					</article>
+					<article>
+						<section class="date"><span>12th</span> Jul 17</section>
+						<section class="event">The Flash #026<br />Running Scared II</section>
+					</article>
+					<article>
+						<section class="date"><span>12th</span> Jul 17</section>
+						<section class="event">Suicide Squad #021<br />Kill Your Darlings I</section>
+					</article>
+					<article>
+						<section class="date"><span>26th</span> Jul 17</section>
+						<section class="event">The Flash #027<br />Running Scared Finale</section>
+					</article>
+					<article>
+						<section class="date"><span>26th</span> Jul 17</section>
+						<section class="event">Suicide Squad #022<br />Kill Your Darlings II</section>
+					</article>
+					<article>
+						<section class="date"><span>2nd</span> Aug 17</section>
+						<section class="event">Injustice 2 #007<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>2nd</span> Aug 17</section>
+						<section class="event">SS: Black Files #001<br />Revenge of Kobra</section>
+					</article>
+					<article>
+						<section class="date"><span>9th</span> Aug 17</section>
+						<section class="event">The Flash #028<br />Negative I</section>
+					</article>
+					<article>
+						<section class="date"><span>9th</span> Aug 17</section>
+						<section class="event">Suicide Squad #023<br />Kill Your Darlings III</section>
+					</article>
+					<article>
+						<section class="date"><span>23rd</span> Aug 17</section>
+						<section class="event">The Flash #029<br />Negative II</section>
+					</article>
+					<article>
+						<section class="date"><span>23rd</span> Aug 17</section>
+						<section class="event">Suicide Squad #024<br />Kill Your Darlings IV</section>
+					</article>
+			  </div>
+			</div>
+			<!-- CATEGORY FIVE b -->
 
 			<!-- CATEGORY SIX -->
 			<div class="category">
@@ -1877,6 +1909,7 @@ footer.post-tags span:before {
 					<a href="http://gotham-daily.tumblr.com/" title="GOTHAM-DAILY"><img src="https://api.tumblr.com/v2/blog/gotham-daily.tumblr.com/avatar/64" />
 					<a href="http://jaxappreciationnet.tumblr.com/" title="JAXAPPRECIATIONNET"><img src="https://api.tumblr.com/v2/blog/jaxappreciationnet.tumblr.com/avatar/64" />
 					<a href="http://arrowsource.tumblr.com/" title="ARROWSOURCE"><img src="https://api.tumblr.com/v2/blog/arrowsource.tumblr.com/avatar/64" />
+					<a href="http://comicbookfilms.tumblr.com/" title="COMICBOOKFILMS"><img src="https://api.tumblr.com/v2/blog/comicbookfilms.tumblr.com/avatar/64" />
 					<a href="http://dailydcheroes.tumblr.com/" title="dailydcheroes"><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/64" />
 					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
 					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
@@ -1886,6 +1919,9 @@ footer.post-tags span:before {
 					<a href="http://captaincanarys.tumblr.com/" title="captaincanarys"><img src="https://api.tumblr.com/v2/blog/captaincanarys.tumblr.com/avatar/64" />
 					<a href="http://fyroguecanary.tumblr.com/" title="fyroguecanary"><img src="https://api.tumblr.com/v2/blog/fyroguecanary.tumblr.com/avatar/64" />
 					<a href="http://coldsflash.tumblr.com/" title="coldsflash"><img src="https://api.tumblr.com/v2/blog/coldsflash.tumblr.com/avatar/64" />
+					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 				</div>
 			</div>
@@ -1924,7 +1960,7 @@ document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span
 </script>
 </li>
 					 	<li><span class="list-title">theme by</span><a href="http://roxiestheme.tumblr.com">ROXIESTHEME</a></li>
-					 	<li><span class="list-title">disclaimer</span>Our site claims no credit for any images posted on this site unless stated otherwise. Images and information on this blog are copyright to their respectful owners. If any reblog was a repost, contact us and we will have it deleted.</li>
+					 	<li><span class="list-title">disclaimer</span>Do not repost any of our original content on tumblr and please credit this blog when sharing our content on any other social media platform online. Our site claims no credit for any images posted on this site unless stated otherwise. Images and information on this blog are copyright to their respectful owners. If any reblog was a repost, contact us and we will have it deleted.</li>
 					</ul>
 				</div>
 			</div>

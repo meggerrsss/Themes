@@ -357,21 +357,6 @@ a:hover {
 
 <!--- box two start --->
 <div class="box">
-    <h1>media type</h1>
-    
-<div class="tags">
-    
-<a href="/tagged/comics">comics</a>
-<a href="/search/tv">tv</a>
-<a href="/search/film">film</a>
-<a href="/tagged/games">games</a>
-    
-</div>
-</div>
-<!--- box two end --->
-
-<!--- box two start --->
-<div class="box">
     <h1>post type</h1>
     
 <div class="tags">
@@ -387,6 +372,10 @@ a:hover {
 <a href="/tagged/moodboard">moodboard</a>
 <a href="/tagged/cast">cast</a>
 <a href="/search/bloopers">bloopers</a>
+<a href="/search/fandom-weeks">fandom weeks</a>
+<a href="/search/fashion">fashion</a>
+<a href="/search/meme">meme</a>
+<a href="/search/others">other media</a>
     
 </div>
 </div>
@@ -402,6 +391,22 @@ a:hover {
 
 <!--- column two start --->
 <div id="col2">
+
+<!--- box two start --->
+<div class="box">
+    <h1>media type</h1>
+    
+<div class="tags">
+    
+<a href="/tagged/comics">comics</a>
+<a href="/search/tv">tv</a>
+<a href="/search/film">film</a>
+<a href="/tagged/games">games</a>
+    
+</div>
+</div>
+<!--- box two end --->
+
 
 <!--- box one start --->
 <div class="box">
@@ -424,7 +429,10 @@ a:hover {
     <a href="/tagged/c: the flash: iron heights">the flash: iron heights</a>
     <a href="/tagged/c: identity crisis">identity crisis</a>
     <a href="/tagged/c: catwoman v3">catwoman v3</a>
-    <a href="/tagged/c: jla incarnations">jla incarnations</a>
+    <a href="/tagged/c: salvation run">salvation run</a>
+    <a href="/tagged/c: jla incarnations">jla incarnations</a>	
+    <a href="/tagged/c: gotham underground">gotham underground</a>
+    <a href="/tagged/c: gotham central">gotham central</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; new 52</div>
@@ -458,18 +466,6 @@ a:hover {
 </div>
 <!--- box one end --->
 
-<!--- box two start --->
-<div class="box">
-    <h1>film</h1>
-    
-<div class="tags">
-
-<a href="/tagged/film: suicide squad">suicide squad</a>
-<a href="/tagged/film: the flash">the flash</a>
-    
-</div>
-</div>
-<!--- box two end --->
 
 <!--- box two start --->
 <div class="box">
@@ -493,6 +489,20 @@ a:hover {
 
 <!--- column three start --->
 <div id="col3">
+
+<!--- box two start --->
+<div class="box">
+    <h1>film</h1>
+    
+<div class="tags">
+
+<a href="/tagged/film: suicide squad">suicide squad</a>
+<a href="/tagged/film: the flash">the flash</a>
+    
+</div>
+</div>
+<!--- box two end --->
+
 
 <!--- box one start --->
 <div class="box">
