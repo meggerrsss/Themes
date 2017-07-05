@@ -240,7 +240,7 @@ ul, menu, dir{
 	right: calc(50% - {select:Post Width}/2 - 6px - {select:Sidebar Width});
 	white-space: nowrap !important; 
 	{block:IfLightTumblrControlButtons}
-    opacity:0.3;
+    opacity:0.2;
     -webkit-filter: invert(100%);
     -moz-filter: invert(100%);
     -o-filter: invert(100%);
@@ -1662,6 +1662,7 @@ footer.post-tags span:before {
 					<a href="https://ccrogues.tumblr.com/tagged/ep%3F">tag an episode</a>
 					<a href="https://ccrogues.tumblr.com/tagged/v%3F">tag a comic</a>
 					<a href="https://ccrogues.tumblr.com/taggingsystem">tagging system</a>
+					<a href="https://ccrogues.tumblr.com/previcons">icons used</a>
 					<a href="https://en.wikipedia.org/wiki/Rogues_(comics)">official wiki</a>
 				</div>
 			</div>
@@ -1672,7 +1673,7 @@ footer.post-tags span:before {
 			    <h1 class="lnr lnr-{text:Category 2 Icon}">{text:Category 2 Title}</h1>
 			    <div class="box projects">
 			         <article>
-                        <img src="https://image.ibb.co/kvAwdv/ccroguesprojectflashcomic2.jpg" />
+                        <img src="https://image.ibb.co/bwqoFv/flashrebirthbarry.png" />
                         <section>   
                             <h2>The Flash (2016)</h2>
                             <h3>comics</h3>
@@ -1688,7 +1689,7 @@ footer.post-tags span:before {
                     </article>
                     
                     <article>
-                        <img src="https://image.ibb.co/kMP05a/ccroguesprojectflassssssshcomic2.jpg" />
+                        <img src="https://image.ibb.co/cjRTFv/squadrebirth.png" />
                         <section>     
                             <h2>Suicide Squad (2016)</h2>
                             <h3>comics</h3>
@@ -1707,9 +1708,9 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/e5w2Jv/ccroguesprojecttv2.jpg" />
                         <section>
                             <h2>The Flash (2014)</h2>
-                            <h3>Season 3 currently airing</h3>
+                            <h3>S4 in production (as of Jul4)</h3>
                             <ul>
-                                <li><span class="list-title">date</span>October 4, 2016 - present</li>
+                                <li><span class="list-title">date</span>October 10, 2017</li>
                                 <li><span class="list-title">type</span>television</li>
                             </ul>
                             <p>
@@ -1724,9 +1725,9 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/cG4drF/ccroguesprojectlot2.jpg"  />
                         <section>
                             <h2>DC's Legends of Tomorrow (2016)</h2>
-                            <h3>writing for season 3</h3>
+                            <h3>S3 in production</h3>
                             <ul>
-                                <li><span class="list-title">date</span>on hiatus</li>
+                                <li><span class="list-title">date</span>October 10, 2017</li>
                                 <li><span class="list-title">type</span>television</li>
                             </ul>
                             <p>
@@ -1781,47 +1782,37 @@ footer.post-tags span:before {
 		<!-- START OF RIGHT SIDEBAR -->
 		<aside class="sidebar" id="sidebar-right">
 		    
-			<!-- CATEGORY FOUR -->
-			<div class="category">
-				<h1 class="lnr lnr-{text:Category 4 Icon}">{text:Category 4 Title}</h1>
-				<div class="box status">
-					<ul>
-						<li>
-							<span class="lnr lnr-enter">requests</span>
-							<a href = "/ask">gif/edit/icon requests are open</a>
-						</li>
-						<li>
-							<span class="lnr lnr-cog">member applications</span>
-							<a href = "/submit">member applications are open</a>
-						</li>
-						<li>
-							<span class="lnr lnr-cog">affiliate applications</span>
-							<a href = "/submit">affiliate applications are open</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<!-- CATEGORY FOUR -->
-			
 			<!-- CATEGORY FIVE a -->
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Multimedia</h1>
 				<div class="box updates">
 					<article>
-						<section class="date"><span>20-23</span> Jul 17</section>
+						<section class="date"><span>4th</span> Jul 17</section>
+						<section class="event">The Flash <br />S4 production begins</section>
+					</article>
+					<article>
+						<section class="date"><span>6th</span> Jul 17</section>
+						<section class="event">Legends of Tomorrow <br />S3 production begins</section>
+					</article>
+					<article>
+						<section class="date"><span>22nd</span> Jul 17</section>
 						<section class="event">San Diego Comic Con<br />2017</section>
+					</article>
+					<article>
+						<section class="date"><span>2nd</span> Aug 17</section>
+						<section class="event">TCA Press Tour<br />The CW presentation date</section>
 					</article>
 					<article>
 						<section class="date"><span>5-8th</span> Oct 17</section>
 						<section class="event">New York Comic Con<br />2017</section>
 					</article>
 					<article>
-						<section class="date"><span>????</span> Oct 17</section>
-						<section class="event">The Flash <br />Season 4</section>
+						<section class="date"><span>10th</span> Oct 17</section>
+						<section class="event">Legends of Tomorrow<br />3x01</section>
 					</article>
 					<article>
-						<section class="date"><span>????</span> Oct 17</section>
-						<section class="event">DC's Legends of Tomorrow <br />Season 3</section>
+						<section class="date"><span>10th</span> Oct 17</section>
+						<section class="event">The Flash 4x01<br />The Flash Reborn</section>
 					</article>
 			  </div>
 			</div>
@@ -1831,30 +1822,6 @@ footer.post-tags span:before {
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Comics</h1>
 				<div class="box updates">
-					<article>
-						<section class="date"><span>7th</span> Jun 17</section>
-						<section class="event">Injustice 2 #003<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>14th</span> Jun 17</section>
-						<section class="event">Action Comics #981<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>14th</span> Jun 17</section>
-						<section class="event">The Flash #024<br />Running Scared Prelude</section>
-					</article>
-					<article>
-						<section class="date"><span>14th</span> Jun 17</section>
-						<section class="event">Suicide Squad #019<br />Earthlings on Fire Finale</section>
-					</article>
-					<article>
-						<section class="date"><span>28th</span> Jun 17</section>
-						<section class="event">The Flash #025<br />Running Scared I</section>
-					</article>
-					<article>
-						<section class="date"><span>28th</span> Jun 17</section>
-						<section class="event">Suicide Squad #020<br />False Flag</section>
-					</article>
 					<article>
 						<section class="date"><span>12th</span> Jul 17</section>
 						<section class="event">The Flash #026<br />Running Scared II</section>
@@ -1895,6 +1862,30 @@ footer.post-tags span:before {
 						<section class="date"><span>23rd</span> Aug 17</section>
 						<section class="event">Suicide Squad #024<br />Kill Your Darlings IV</section>
 					</article>
+					<article>
+						<section class="date"><span>6th</span> Sep 17</section>
+						<section class="event">SS: Black Files #002<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>13th</span> Sep 17</section>
+						<section class="event">The Flash #030<br />Bloodwork I</section>
+					</article>
+					<article>
+						<section class="date"><span>13th</span> Sep 17</section>
+						<section class="event">Suicide Squad #025<br />Kill Your Darlings finale</section>
+					</article>
+					<article>
+						<section class="date"><span>13th</span> Sep 17</section>
+						<section class="event">New Superman #015<br />Equilibrium I</section>
+					</article>
+					<article>
+						<section class="date"><span>27th</span> Sep 17</section>
+						<section class="event">The Flash #029<br />Bloodwork II</section>
+					</article>
+					<article>
+						<section class="date"><span>27th</span> Sep 17</section>
+						<section class="event">Suicide Squad #026<br />Gotham Resistance III</section>
+					</article>
 			  </div>
 			</div>
 			<!-- CATEGORY FIVE b -->
@@ -1919,7 +1910,7 @@ footer.post-tags span:before {
 					<a href="http://captaincanarys.tumblr.com/" title="captaincanarys"><img src="https://api.tumblr.com/v2/blog/captaincanarys.tumblr.com/avatar/64" />
 					<a href="http://fyroguecanary.tumblr.com/" title="fyroguecanary"><img src="https://api.tumblr.com/v2/blog/fyroguecanary.tumblr.com/avatar/64" />
 					<a href="http://coldsflash.tumblr.com/" title="coldsflash"><img src="https://api.tumblr.com/v2/blog/coldsflash.tumblr.com/avatar/64" />
-					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="http://fyeahgoldenvibe.tumblr.com/" title="fyeahgoldenvibe"><img src="https://api.tumblr.com/v2/blog/fyeahgoldenvibe.tumblr.com/avatar/64" />
 					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
@@ -1940,6 +1931,28 @@ footer.post-tags span:before {
 			</div>
 			<!-- CATEGORY SEVEN -->
 
+			<!-- CATEGORY FOUR -->
+			<div class="category">
+				<h1 class="lnr lnr-{text:Category 4 Icon}">{text:Category 4 Title}</h1>
+				<div class="box status">
+					<ul>
+						<li>
+							<span class="lnr lnr-enter">requests</span>
+							<a href = "/ask">gif/edit/icon requests are open</a>
+						</li>
+						<li>
+							<span class="lnr lnr-cog">member applications</span>
+							<a href = "/submit">member applications are open</a>
+						</li>
+						<li>
+							<span class="lnr lnr-cog">affiliate applications</span>
+							<a href = "/submit">affiliate applications are open</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- CATEGORY FOUR -->
+			
 			<!-- CATEGORY EIGHT -->
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 8 Icon}">{text:Category 8 Title}</h1>
@@ -1960,6 +1973,7 @@ document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span
 </script>
 </li>
 					 	<li><span class="list-title">theme by</span><a href="http://roxiestheme.tumblr.com">ROXIESTHEME</a></li>
+						<li><span class="list-title">icon credit</span><a href="https://ccrogues.tumblr.com/previcons">here</a></li>
 					 	<li><span class="list-title">disclaimer</span>Do not repost any of our original content on tumblr and please credit this blog when sharing our content on any other social media platform online. Our site claims no credit for any images posted on this site unless stated otherwise. Images and information on this blog are copyright to their respectful owners. If any reblog was a repost, contact us and we will have it deleted.</li>
 					</ul>
 				</div>

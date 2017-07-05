@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<head>
+ 
+<!--
+ 
+    ABOUT III 
+        by alydae
+        
+            - do not steal any part of this code
+            - do not even TOUCH the credit
+            - direct questions to enchantedthemes.tumblr.com
+            
+    thank you for using!!!
+ 
+-->
+ 
+ 
+<title>about</title>
+<link rel="shortcut icon" href="{Favicon}">
+ 
+<!-- scripts - DO NOT TOUCH -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<script src="http://static.tumblr.com/rzl30kg/eAxm7a751/jquery.style-my-tooltips.js"></script>
+<script>
+   (function($){
+       $(document).ready(function(){
+           $("[title]").style_my_tooltips({
+               tip_follows_cursor:true,
+               tip_delay_time:200,
+               tip_fade_speed:300
+           }
+               );
+       });
+   })(jQuery);
+</script>
+
+<!-- custom font -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'> 
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+<style type="text/css">
+
+
+@keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-moz-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-webkit-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-ms-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-o-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+/*-- selection --*/
+
+::-moz-selection { background:#eee; color:#222; }
+::selection { background:#eee; color:#222; }
+
+/*-- scrollbar --*/
+
+::-webkit-scrollbar {  
+    width:1px;  
+    height:2px;
+}  
+   
+::-webkit-scrollbar-thumb { background-color:#aaa; } /* scrollbar colour */
+ 
+/*-- tooltips --*/
+
+#s-m-t-tooltip {
+    color:#666;
+    background-color:#fafafa;
+    font-size:8px;
+    font-family:'Open Sans', helvetica, sans-serif;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    text-align:center;
+    position:absolute;
+    padding:0px 5px 0px 5px;
+    margin-top:30px;
+    border:1px solid #eee;
+    z-index:9999;
+}
+
+/*-- tumblr controls --*/
+
+.tmblr-iframe--desktop-logged-in-controls, #tumblr_controls {
+    display:none !important;
+}
+
+/*-- transitions --*/
+
+a, a:hover, #blogs li, #blogs li:hover, #social i, #social i:hover {
+    transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s;    
+}
+
+/*-- general customisation --*/
+
+body {
+    color:#666; /* text colour */
+    background-color:#fff; /* background colour */
+    font-style:normal; 
+    font-family:'Open Sans', helvetica, sans-serif; 
+    font-size:12px; 
+    font-weight:400;
+    text-decoration:none; 
+    line-height:180%; 
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    -webkit-animation: fadein 1.5s;
+    -moz-animation: fadein 1.5s;
+    -o-animation: fadein 1.5s; 
+    animation: fadein 1.5s;
+}
+
+a {
+    text-decoration:none;
+    color:#444; /* links colour */
+}   
+    
+a:hover {
+    color:#bad1e7; /* links hover colour */
+    cursor:pointer;
+}
+
+b, strong { font-weight:600; color:#444; } /* bold font colour */
+i, em { font-style:italic; }
+
+blockquote {
+    padding-left:10px;
+    margin:0;
+    border-left:1px solid #eee;
+}
+
+h1 {
+    text-transform:uppercase!important;
+    text-align:center;
+    font-weight:bold;
+    font-size:15px;
+    letter-spacing:1px;
+    color:#222; /* subtitles colour */
+    margin-top:10px;
+}
+
+/*-- container --*/
+
+container {
+    position:fixed;
+    width:1000px;
+    height:600px;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+/*-- header --*/
+
+#header {
+    position:relative;
+    height:50px;
+    width:100%;
+    border-bottom:1px solid #eee;
+}
+
+#header img {
+    position:relative;
+    width:30px;
+    height:30px;
+    margin:10px 15px 10px 15px;
+}
+
+.title {
+    position:absolute;
+    display:inline;
+    top:15px;
+    text-transform:uppercase;
+    font-weight:700;
+    font-size:17px;
+    line-height:20px;
+    letter-spacing:1px;
+    color:#222; /* page title colour */
+}
+
+.navi { 
+    position:absolute;
+    display:inline;
+    right:15px;
+}
+
+.navi a {
+    line-height:50px;
+    margin-left:5px;
+    margin-right:5px;
+    text-transform:uppercase;
+    font-size:12px;
+    letter-spacing:0.5px;
+}
+
+/*-- links --*/
+
+#links {
+    height:35px;
+    width:100%;
+    line-height:35px;
+    text-align:center;
+    border-bottom:1px solid #eee;
+}
+
+#links a {
+    margin-left:7.5px;
+    margin-right:7.5px;
+    font-style:italic;
+    font-size:13px;
+}
+
+/*-- info --*/
+
+#info { width:200px; margin-right:15px; }
+
+#info ul li { list-style:none; margin-left:-40px; }
+
+#info li {
+    width:220px;
+    padding:5px 10px 5px 10px;
+    margin:5px 0 5px;
+    text-align:right;
+    background:#fafafa; /* info background colour */
+    border-bottom:1px solid #eee;
+}
+
+#info h2 {
+    display:inline;
+    margin:0;
+    text-transform:uppercase!important;
+    float:left!important;
+    font-size:12px;
+    font-style:italic;
+    font-weight:400;
+    letter-spacing:0.5px;
+    color:#444; /* title colour */
+}
+
+/*-- about --*/
+
+#about {
+    position:absolute;
+    left:250px;
+    top:87px;
+    width:510px;
+    height:382px;
+    margin:0 5px 0 5px;
+    padding:15px;
+    overflow-y:scroll;
+    border-left:1px solid #eee;
+    border-right:1px solid #eee;
+}
+
+/*-- blogs --*/
+
+#blogs {
+    position:absolute;
+    right:0;
+    top:87px;
+    width:200px;
+    margin-left:15px;
+}
+
+#blogs ul li { list-style:none; margin-left:-30px; }
+#blogs ul { margin:0; }
+
+#blogs li {
+    width:185px;
+    padding:0;
+    margin-bottom:7px;
+    line-height:30px!important;
+    text-align:left;
+    background:#fafafa; /* blogs background colour */
+    border-bottom:1px solid #eee;
+}
+
+#blogs li:hover { background:#fff; } /* colour on hover */
+#blogs li:last-of-type { margin-bottom:0!important; }
+
+#blogs img {
+    height:30px;
+    width:30px;
+    margin-right:7px;
+    margin-bottom:0;
+    display:inline;
+    float:left;
+}
+
+#blogs h3 {
+    display:inline;
+    margin-right:3px;
+    text-transform:uppercase!important;
+    font-size:10px;
+    font-style:italic;
+    font-weight:400;
+    letter-spacing:0.5px;
+    color:#444; /* title colour */
+}
+
+#blogs h3:after { content:';'; }
+
+/*-- social --*/
+
+#social {
+    position:absolute;
+    right:0px;
+    top:395px;
+    width:122px;
+    padding:5px 40px 15px 40px;
+    text-align:center;
+    border-top:1px solid #eee;
+}
+
+#social i {
+    font-size:16px;
+    padding:7px;
+    margin:2px;
+    background:#fafafa; /* social background colour */
+    border-bottom:1px solid #eee;
+}
+
+#social i:hover { background:#fff; } /* colour on hover */
+    
+
+/*-- credit - DO NOT TOUCH --*/
+
+.credit a {
+    font-size:10px;
+    bottom:15px;
+    right:20px;
+    position:fixed;
+    text-transform:uppercase;
+}
+
+
+</style>
+</head>
+
+
+
+<body>
+
+
+<container>
+    
+<div id="header">
+<!-- the default is your icon. if you want to change it, remove {PortraitURL-40} and replace it with the image url of the one you want -->
+    <img src="{PortraitURL-40}"/>
+    <div class="title">about</div>
+    <div class="navi">
+    <!-- feel free to add more! -->
+        <a href="/">back</a>
+        <a href="/ask">message</a>
+    </div>
+</div>
+
+
+<div id="links">
+<!-- feel free to add more! -->
+        <a href="/shows">i. shows</a>
+        <a href="/tags">ii. tags</a>
+        <a href="/creations">iii. creations</a>
+</div>
+
+
+<div id="info">
+<h1>the blogger</h1> <!-- title -->
+<ul>
+<!-- template: <li><h2>subject:</h2> content</li> -->
+    <li><h2>name:</h2> meghan</li>
+    <li><h2>pronouns:</h2> she/her</li>
+    <li><h2>birthday:</h2> july 14</li>
+    <li><h2>from:</h2> southern ontario</li>
+    <li><h2>identity:</h2> aromantic asexual</li>
+    <li><h2>house:</h2> slytherin</li>
+    <li><h2>mbti:</h2> istj</li>
+    <li><h2>alignment:</h2> neutral evil</li>
+    <li><h2>element:</h2> water</li>
+    <li><h2>temperament:</h2> choleric</li>
+</ul>
+</div>
+
+
+<div id="about">
+<!-- this is where you about text goes -->
+    
+        <h1>About Me</h1>
+        <p>Heeey. I'm Meghan, a post-grad, deaf, asexual meteorologist and martial artist living in the frigid north known as... southern Canada. </p>
+        <p>My studies were centred around Applied Mathematics, Earth Sciences, and Meteorology, with a side specialization in scientific programming, so if you ever want to talk about fluid dynamics, joukowski airfoils, conformal mappings, python, the coriolis effect, thundersnow, the upcoming storm on the East coast (doesn't matter which, statistically there is one), or anything about women's place in STEM studies, hit me up.</p>
+        <p>I'm a major DC comics fan, with a particular love/hate relationship with DCTV properties at the moment. I love to gif, particularly favouring live-action properties, and take requests! You can see which TV shows I watch and gif over on my <a href="/shows">shows</a> page. Movies are touch-and-go, since I like deleting things after I've seen them, but feel free to <a href="/ask">ask</a>! </p>
+        <p>I'm pretty big on visual and auditory accessibility, and always try to modify a theme's font sizes and colours for low visual acuity and colourblind-friendliness, but if there's ever a problem please let me know. I won't reblog videos without tags specifying whether or not it's captioned or described. Also if you ever see that I've reblogged a post that has content that the poster did not create, let me know so I can delete it immediately. Gif/art theft is something I take very seriously, and sometimes it's just hard to tell at first glance.</p>
+		<p>I rely heavily on my blacklist and xkit features, so if you don't have a tagging system that makes it difficult for me to follow back, sorry. Hate for Laurel Lance or any of the flash rogues on my gifsets will get you blocked. :)</p>
+		<p>Check out this <a href = "https://calmandcalculating.tumblr.com/search/personality+matrix">personality matrix</a> that @prouvairablehulk made me!</p>
+		
+		<h1>Tag notes</h1>
+		<p>I have a particular tagging system that, on first glance, doesn't seem to be as self explanatory as it should be. Typically I try to do a "categorization tag" (ex. <i>#dc</i>) then the sub-categorization tags (ex. <i>#yj</i>) and then characters (ex. <i>#cassandra sandsmark</i>) and episode (ex. <i>#yj 2x05</i>). Sometimes I'll opt to only tagging a ship name instead of two characters (ex. <i>#coldwave</i>), and sometimes I won't know the episode number, and it will be tagged with <i>#ep?</i> for me to find and look up later. If you see me tagging <i>#ep?</i> and you know which episode it is, I'd be so grateful for the update. Similarly, if I ever reblog work that is stolen, let me know so I can delete it and reblog the original. Corrections on my typos always welcome, even if they're in the tags. </p>
+		<p>Spoilers, in general, will be tagged for the first week after a comic or episode is released, either with <i>#wednesday spoilers</i> or the show type <i>#[showname] spoilers</i>. My liveblog posts will be <i>#[showname] lb</i> and will also be posted with the episode number and <i>#[showname] spoilers</i>. For movies, I'll try to keep tagging <i>#[title] spoilers</i> until the DVD release. I have odd consistency with tagging things that start with "the" or "a" and I'm not sure how to explain when I use which.</p>
+	    <p>Sometimes I'll post about Canadian politics, which I know the rest of the world cares exactly 0% about, so blacklist that at <i>#cdnpoli</i> if it's not your jam. Or if you prefer ignoring the existence of Canada as a whole country for some reason, my posts will be tagged with <i>#oh canada</i>. I'll probably not post too much about muay thai, but that can be found at my <i>#fight me tag</i>. Anything involving my asexuality can be found at <i>#ace tag</i>, aromanticism at <i>#aro tag</i>, and deafness at <i>#deaf tag</i> respectively. I try to keep up this system for other sexual, romantic, and gender identities even if I don't personally identify as them.</p>
+	    <p>Personal posts can be found at <i>#meghan's life</i>, and my opinions on episodes and media and such at <i>#meghan has opinions</i>. <i>#replies</i>, <i>#asks</i>, and <i>#meggifs</i>/<i>#~~</i> might be other things you want to hide, too.</p>
+	    <p>Other things I'm running include @<a href = "http://ccrogues.tumblr.com/tagged/by-meghan">ccrogues</a>, @<a href = "http://dctvcountdown.tumblr.com">dctvcountdown</a>, posting on @<a href = "http://dailydcheroes.tumblr.com/tagged/by-meghan">dailydcheroes</a>, and hosting the <a href = "https://tockify.com/dcfandomevents">dcfandomevents</a> calendar. </p>
+	    
+	    <p><a href='https://ko-fi.com/A86315B8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+    
+<!-- end about text -->
+</div>
+
+
+<div id="blogs">
+<h1>blogs i run</h1> <!-- title -->
+<div style="height:263px; overflow-y:scroll; overflow-x:hidden!important;">
+<ul>
+<!-- you can use this section for friends or your own personal blogs
+template:
+<li>
+    <img src="IMAGE URL"/>
+    <h3><a href="LINK">@url</a></h3>
+    [optional] name
+</li>
+-->   
+<li>
+    <img src="https://api.tumblr.com/v2/blog/calmandcalculating.tumblr.com/avatar/64"/>
+    <h3><a href="https://calmandcalculating.tumblr.com/">@calmandcalculating</a></h3>
+</li> 
+<li>
+    <img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/64"/>
+    <h3><a href="https://ccrogues.tumblr.com/">@ccrogues</a></h3>
+</li>
+<li>
+    <img src="https://api.tumblr.com/v2/blog/dctvcountdown.tumblr.com/avatar/64"/>
+    <h3><a href="https://dctvcountdown.tumblr.com/">@dctvcountdown</a></h3>
+</li>
+<li>
+    <img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/64"/>
+    <h3><a href="https://dailydcheroes.tumblr.com/">@dailydcheroes</a></h3>
+</li>   
+<li>
+    <img src="https://api.tumblr.com/v2/blog/meggerrsss.tumblr.com/avatar/64"/>
+    <h3><a href="https://meggerrsss.tumblr.com/">@meggerrsss</a></h3>
+</li>  
+<li>
+    <img src="https://api.tumblr.com/v2/blog/ao3feed-captaincanary.tumblr.com/avatar/64"/>
+    <h3><a href="https://ao3feed-captaincanary.tumblr.com/">@ao3feed-captaincanary</a></h3>
+</li> 
+<li>
+    <img src="https://api.tumblr.com/v2/blog/justiceforlaurel.tumblr.com/avatar/64"/>
+    <h3><a href="https://justiceforlaurel.tumblr.com/">@justiceforlaurel</a></h3>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="social">
+<h1>social media</h1><!-- title -->
+<div style="height:70px; overflow-y:scroll; overflow-x:hidden!important;">
+<!-- 
+between the "" is where you put a link to your account. to change the icon, go to http://fontawesome.io/ 
+replace the LINK in title="LINK" for what you want it to show on hover
+template:
+    <a href="" title="LINK">
+    <i class="fa fa-twitter" aria-hidden="true"></i></a>
+-->
+    <a href="https://twitter.com/meggerrsss" title="twitter">
+    <i class="fa fa-twitter" aria-hidden="true"></i></a>
+    <a href="https://instagram.com/meggerrssss" title="instagram">
+    <i class="fa fa-instagram" aria-hidden="true"></i></a>
+    <a href="https://about.me/meghangreen" title="about">
+    <i class="fa fa-heart" aria-hidden="true"></i></a>
+</div>
+</div>
+
+</container>
+
+
+<!-- credit - DO NOT TOUCH -->
+
+<div class="credit">
+    <a href="http://alydae.tumblr.com" title="enchantedthemes">A.</a>
+</div>
+
+
+</html>
+</body>

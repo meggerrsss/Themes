@@ -421,6 +421,7 @@ a:hover {
     <a href="/tagged/c: showcase v1">showcase v1</a>
     <a href="/tagged/c: the new teen titans v1">the new teen titans v1</a>
     <a href="/tagged/c: animal man v1">animal man v1</a>
+    <a href="/tagged/c: batman v1">batman v1</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; 2000s</div>
@@ -433,15 +434,20 @@ a:hover {
     <a href="/tagged/c: jla incarnations">jla incarnations</a>	
     <a href="/tagged/c: gotham underground">gotham underground</a>
     <a href="/tagged/c: gotham central">gotham central</a>
+    <a href="/tagged/c: final crisis: rogues revenge">final crisis: rogues revenge</a>
+    <a href="/tagged/c: blackest night: the flash">blackest night: the flash</a>
+    <a href="/tagged/c: dc: the new frontier">dc: the new frontier</a>
+    <a href="/tagged/c: tiny titans">tiny titans</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; new 52</div>
 <div class="droptags">
     <a href="/tagged/c: the flash v4">the flash v4</a>
+    <a href="/tagged/c: suicide squad v4">suicide squad v4</a>
+    <a href="/tagged/c: forever evil">forever evil</a>
+    <a href="/tagged/c: forever evil: rogues rebellion">forever evil: rogues rebellion</a>
     <a href="/tagged/c: justice league v2">justice league v2</a>
     <a href="/tagged/c: new suicide squad v1">new suicide squad v1</a>
-    <a href="/tagged/c: suicide squad v4">suicide squad v4</a>
-    <a href="/tagged/c: forever evil: rogues rebellion">forever evil: rogues rebellion</a>
     <a href="/tagged/c: suicide squad most wanted: el diablo and boomerang">suicide squad most wanted: el diablo and boomerang</a>
 </div>
 
@@ -496,6 +502,10 @@ a:hover {
     
 <div class="tags">
 
+<a href="/tagged/film: batman: assault on arkham">batman: assault on arkham</a>
+<a href="/tagged/film: justice league: doom">justice league: doom</a>
+<a href="/tagged/film: justice league: the flashpoint paradox">justice league: the flashpoint paradox</a>
+<a href="/tagged/film: justice league vs teen titans">justice league vs teen titans</a>
 <a href="/tagged/film: suicide squad">suicide squad</a>
 <a href="/tagged/film: the flash">the flash</a>
     
@@ -509,7 +519,12 @@ a:hover {
     <h1>tv</h1>
     
 <div class="tags">
-    
+ 
+<div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; legends of the superheroes (1979)</div>
+<div class="droptags">
+    <a href="/tagged/tv: legends of the superheroes">all</a>
+    <a href="/search/mark legends superheroes">mark mardon</a>
+</div> 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; the flash (1990)</div>
 <div class="droptags">
     <a href="/tagged/tv: the flash 1990">all</a>
@@ -517,9 +532,15 @@ a:hover {
     <a href="/search/leonard 1990">leonard wynters</a>
     <a href="/search/scudder 1990">sam scudder</a>
 </div>
+<div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; superman: the animated series (1996)</div>
+<div class="droptags">
+    <a href="/tagged/tv: superman: the animated series">all</a>
+    <a href="/search/mark superman">mark mardon</a>
+</div>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; justice league (2004)</div>
 <div class="droptags">
     <a href="/tagged/tv: justice league unlimited">all</a>
+	<a href="/search/mark unlimited">mark mardon</a>
     <a href="/search/snart unlimited">leonard snart</a>
     <a href="/search/mcculloch unlimited">evan mcculloch</a>
 	<a href="/search/jesse unlimited">james jesse</a>
@@ -528,9 +549,10 @@ a:hover {
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; batman: the brave and the bold (2008)</div>
 <div class="droptags">
     <a href="/tagged/tv: batman: the brave and the bold">all</a>
-    <a href="/search/snart unlimited">leonard snart</a>
-	<a href="/search/rory unlimited">mick rory</a>
-	<a href="/search/mardon unlimited">mark mardon</a>
+    <a href="/search/snart brave bold">leonard snart</a>
+	<a href="/search/rory brave bold">mick rory</a>
+	<a href="/search/mardon brave bold">mark mardon</a>
+	<a href="/search/harkness brave bold">digger harkness</a>
 </div>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; young justice (2010)</div>
 <div class="droptags">
@@ -580,6 +602,11 @@ a:hover {
     <a href="/search/tomorrow snart">leonard snart</a>
     <a href="/search/tomorrow rory">mick rory</a>
 </div>
+<div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; dctv related</div>
+<div class="droptags">
+    <a href="/tagged/superhero fight club">superhero fight club</a>
+    <a href="/tagged/chronicles of cisco">chronicles of cisco</a>
+</div>
     
 </div>
 </div>
@@ -596,6 +623,7 @@ a:hover {
 <a href="/tagged/admin">admin posts</a>
 <a href="/taggingsystem">tagging system</a>
 <a href="/tagsprev">previous tags page</a>
+<a href="/previcons">icons we've used</a>
     
 </div>
 </div>

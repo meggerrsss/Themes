@@ -1,0 +1,1917 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-----------------------------------------------------------------------
+ 
+            THEME BY SAARAA @ CYANTISTS.TUMBLR.COM
+           
+            Please observe common theme sharing etiquette:
+                http://cyantists.tumblr.com/terms
+            Thank you.
+   
+------------------------------------------------------------------------>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+ 
+<title>{Title}</title><!-- page title, this appears in browser tabs -->
+<link rel="shortcut icon" href="{Favicon}">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.1/SmoothScroll.min.js"></script>
+<script src="http://static.tumblr.com/rzl30kg/eAxm7a751/jquery.style-my-tooltips.js"></script>
+<script src="http://static.tumblr.com/ycrkdqn/ZFIn8dcjx/isotope.pkgd.min.js"></script>
+<script src="http://static.tumblr.com/ycrkdqn/epEn8dclr/isotope-docs.js"></script>
+<link href="http://static.tumblr.com/xd6ujov/5qIofvm2y/cyantists_quartz.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700|Raleway:600" rel="stylesheet">
+<script> $(document).ready(function(){ $("[title]").style_my_tooltips({
+   tip_follows_cursor:true, tip_delay_time:50, tip_fade_speed:800
+}); var qsRegex; var buttonFilter; var $grid = $('.grid').isotope({
+  itemSelector: '.item', transitionDuration: '0.8s', layoutMode: 'packery',
+  getSortData: {name: '[name]'}, sortBy: 'name', filter: function() {
+    var $this = $(this);
+    var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
+    var buttonResult = buttonFilter ? $this.is( buttonFilter ) : true;
+    return searchResult && buttonResult;
+} }); $('.filters').on( 'click', '.filter', function() {
+  $('.item').removeClass('active'); buttonFilter = $(this).attr('filter');
+  $('.toggle').data('clicks',0); $grid.isotope();
+}); $grid.on( 'click', '.item img', function() {
+  $(this).parents('.item').toggleClass('active');
+  $('.item').not($(this).parents('.item')).removeClass('active');
+  $grid.isotope('layout');
+}); $('.filters').on( 'click', '.toggle', function() {
+  var click = +$(this).data('clicks') || 0;
+  if (click % 2 == 1) {$('.item').removeClass('active');}
+  else {$('.item').addClass('active');};
+  $(this).data('clicks',click+1); $grid.isotope('layout');
+}); var $quicksearch = $('#ss').keyup( debounce( function() {
+  qsRegex = new RegExp( $quicksearch.val(), 'gi' ); $grid.isotope();
+}) ); $('.filters').each( function( i, buttonGroup ) {
+  var $buttonGroup = $( buttonGroup );
+  $buttonGroup.on( 'click', '.filter', function() {
+    $buttonGroup.find('.active').removeClass('active');
+    $(this).addClass('active');
+}); }); }); function debounce( fn, threshold ) {
+  var timeout; return function debounced() {
+    if ( timeout ) {clearTimeout( timeout );}
+    function delayed() {fn(); timeout = null;}
+    setTimeout( delayed, threshold || 100 );
+}; } </script>
+
+<style type="text/css">
+
+
+/* font size */
+
+html {/* changing this will scale all of the font sizes */
+    font-size:16px;} 
+    
+    
+/* background colour */
+    
+body, .title, .bottom {
+    background-color:#dadada;}
+::-webkit-scrollbar {
+    background:#ffffff;}
+.filters {/* to change this, go to colorpicker.com, find the colour you want,
+    and then replace 255,255,255, with the rgb values of your chosen colour */
+    background:rgba(255,255,255,0.98);}
+    
+.title {
+	line-height: 13px;
+	}
+    
+/* accent colour */
+
+::-webkit-scrollbar-thumb:vertical {
+    background:#51484f;}
+::selection {
+    background:#51484f;}
+::-webkit-selection {
+    background:#51484f;}
+::-moz-selection {
+    background:#51484f;}
+::-o-selection {
+    background:#51484f;}
+a:hover, .clogo:after, .heading {
+    color:#51484f;}
+.button.active, .button:hover {
+    background:#51484f;}
+    
+    
+/* text colour */
+
+body {
+    color:#848280;}
+    
+    
+/* links colour */
+    
+a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
+    color:#81b300;}
+
+
+/* info background colour */
+
+#s-m-t-tooltip, .clogo, .cred:before, .clogo:after, .content, .button, #ss {
+    background:#f8f8f8;}
+    
+
+</style><body>
+
+<div class="filters fade-in"><div class="heading">
+
+    episodes
+
+<div class="links">
+    
+    <a href="/">back</a>
+    <a href="/ask">ask</a>
+    <a href="/creations">creations</a>
+    <a href="/characters">rogues</a>
+    <a href="/icons">icons</a>
+    <a href="/tags">tags</a>
+    
+</div></div>
+        
+<!-- show all --><span class="button filter active" filter="">all
+</span><!-- fave --><span class="button filter" filter=".fave">rogues
+</span><!-- can gif --><span class="button filter" filter=".flash">the flash 
+</span><!-- caught-up --><span class="button filter" filter=".lot">legends
+</span><!-- dctv --><span class="button filter" filter=".arrow">arrow
+</span><!-- to-watch --><span class="button filter" filter=".vixen">vixen
+</span><!-- to-watch --><span class="button filter" filter=".yj">yj
+</span><!-- to-watch --><span class="button filter" filter=".jlu">jlu
+</span><!-- toggle info --><span class="button toggle">info
+</span><!-- search --><input type="text" id="ss" placeholder="search" />
+
+<!-- copy and paste filters as needed, be sure to include the </span>
+on the following line! -->
+
+</div><div class="grid fade-in">
+
+
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2014001flash101">
+ 
+<div class="content">
+    <img src="https://unsplash.it/101?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x01">The Flash 1x01</a>
+</div><div class="bottom">
+    <b>title:</b> Pilot<br />
+    <b>contains:</b> Clyde Mardon <br />
+    <b>mentions:</b> Mark Mardon <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2014002flash102">
+ 
+<div class="content">
+    <img src="https://unsplash.it/102?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x02">The Flash 1x02 </a>
+</div><div class="bottom">
+    <b>title:</b> Fastest Man Alive<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> Clyde Mardon <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2014003flash103">
+ 
+<div class="content">
+    <img src="https://unsplash.it/103?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x03">The Flash 1x03 </a>
+</div><div class="bottom">
+    <b>title:</b> Things You Can’t Outrun<br />
+    <b>contains:</b> Kyle Nimbus <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2014004flash104">
+ 
+<div class="content">
+    <img src="https://unsplash.it/104?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x04">The Flash 1x04 </a>
+</div><div class="bottom">
+    <b>title:</b> Going Rogue<br />
+    <b>contains:</b> Leonard Snart <br />
+    <b>mentions:</b> Clyde Mardon, Kyle Nimbus <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2014005flash105">
+ 
+<div class="content">
+    <img src="https://unsplash.it/105?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x05">The Flash 1x05 </a>
+</div><div class="bottom">
+    <b>title:</b> Plastique<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2014006flash106">
+ 
+<div class="content">
+    <img src="https://unsplash.it/106?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x06">The Flash 1x06 </a>
+</div><div class="bottom">
+    <b>title:</b> The Flash Is Born<br />
+    <b>contains:</b> Tony Woodward <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2014007flash107">
+ 
+<div class="content">
+    <img src="https://unsplash.it/107?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x07">The Flash 1x07 </a>
+</div><div class="bottom">
+    <b>title:</b> Power Outage<br />
+    <b>contains:</b> Tony Woodward <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="2014008arrow307">
+ 
+<div class="content">
+    <img src="https://unsplash.it/307?random" />
+<div class="title">
+    <a href="/tagged/arrow 3x07">Arrow 3x07 </a>
+</div><div class="bottom">
+    <b>title:</b> Draw Back Your Bow<br />
+    <b>contains:</b> Digger Harkness <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2014009flash108">
+ 
+<div class="content">
+    <img src="https://unsplash.it/108?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x08">The Flash 1x08 </a>
+</div><div class="bottom">
+    <b>title:</b> Going Rogue<br />
+    <b>contains:</b> Roy Bivolo <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="2014010arrow308">
+ 
+<div class="content">
+    <img src="https://unsplash.it/308?random" />
+<div class="title">
+    <a href="/tagged/arrow 3x08">Arrow 3x08 </a>
+</div><div class="bottom">
+    <b>title:</b> The Brave and the Bold<br />
+    <b>contains:</b> Digger Harkness <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015001flash109">
+ 
+<div class="content">
+    <img src="https://unsplash.it/109?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x09">The Flash 1x09 </a>
+</div><div class="bottom">
+    <b>title:</b> The Man In The Yellow Suit<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015002flash110">
+ 
+<div class="content">
+    <img src="https://unsplash.it/110?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x10">The Flash 1x10 </a>
+</div><div class="bottom">
+    <b>title:</b> Revenge of the Rogues<br />
+    <b>contains:</b> Leonard Snart, Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015003flash111">
+ 
+<div class="content">
+    <img src="https://unsplash.it/111?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x11">The Flash 1x11 </a>
+</div><div class="bottom">
+    <b>title:</b> The Sound and the Fury<br />
+    <b>contains:</b> Hartley Rathaway <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015004flash112">
+ 
+<div class="content">
+    <img src="https://unsplash.it/112?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x12">The Flash 1x12 </a>
+</div><div class="bottom">
+    <b>title:</b> Crazy For You<br />
+    <b>contains:</b> Hartley Rathaway, Shawna Baez <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015005flash113">
+ 
+<div class="content">
+    <img src="https://unsplash.it/113?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x13">The Flash 1x13 </a>
+</div><div class="bottom">
+    <b>title:</b> The Nuclear Man<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015006flash114">
+ 
+<div class="content">
+    <img src="https://unsplash.it/114?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x14">The Flash 1x14 </a>
+</div><div class="bottom">
+    <b>title:</b> Fallout<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015007flash115">
+ 
+<div class="content">
+    <img src="https://unsplash.it/115?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x15">The Flash 1x15 </a>
+</div><div class="bottom">
+    <b>title:</b> Out of Time<br />
+    <b>contains:</b> Mark Mardon <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015008flash116">
+ 
+<div class="content">
+    <img src="https://unsplash.it/116?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x16">The Flash 1x16 </a>
+</div><div class="bottom">
+    <b>title:</b> Rogue Time<br />
+    <b>contains:</b> Mark Mardon, Leonard Snart, Mick Rory, Lisa Snart <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015009flash117">
+ 
+<div class="content">
+    <img src="https://unsplash.it/117?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x17">The Flash 1x17 </a>
+</div><div class="bottom">
+    <b>title:</b> Tricksters<br />
+    <b>contains:</b> Axel Walker, James Jesse <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015010flash118">
+ 
+<div class="content">
+    <img src="https://unsplash.it/118?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x18">The Flash 1x18 </a>
+</div><div class="bottom">
+    <b>title:</b> All Star Team Up<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015011flash119">
+ 
+<div class="content">
+    <img src="https://unsplash.it/119?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x19">The Flash 1x19</a>
+</div><div class="bottom">
+    <b>title:</b> Who Is Harrison Wells?<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015012flash120">
+ 
+<div class="content">
+    <img src="https://unsplash.it/120?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x20">The Flash 1x20 </a>
+</div><div class="bottom">
+    <b>title:</b> The Trap<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015013flash121">
+ 
+<div class="content">
+    <img src="https://unsplash.it/121?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x21">The Flash 1x21 </a>
+</div><div class="bottom">
+    <b>title:</b> Grodd Lives<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015014flash122">
+ 
+<div class="content">
+    <img src="https://unsplash.it/122?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x22">The Flash 1x22 </a>
+</div><div class="bottom">
+    <b>title:</b> Rogue Air<br />
+    <b>contains:</b> Leonard Snart, Lisa Snart, Mark Mardon, Shawna Baez, Kyle Nimbus <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015015flash123">
+ 
+<div class="content">
+    <img src="https://unsplash.it/123?random" />
+<div class="title">
+    <a href="/tagged/the flash 1x23">The Flash 1x23</a>
+</div><div class="bottom">
+	<b>title:</b> Fast Enough<br />
+    <b>contains:</b> Leonard Snart<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015016flash201">
+ 
+<div class="content">
+    <img src="https://unsplash.it/201?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x01">The Flash 2x01</a>
+</div><div class="bottom">
+	<b>title:</b>  The Man Who Saved Central City<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info  flash" name="2015017flash202">
+ 
+<div class="content">
+    <img src="https://unsplash.it/202?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x02">The Flash 2x02</a>
+</div><div class="bottom">
+	<b>title:</b> Flash Of Two Words<br />
+    <b>contains:</b> -<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2015018flash203">
+ 
+<div class="content">
+    <img src="https://unsplash.it/203?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x03">The Flash 2x03</a>
+</div><div class="bottom">
+	<b>title:</b> Family of Rogues<br />
+    <b>contains:</b> Leonard Snart, Lisa Snart<br />
+    <b>mentions:</b> Mick Rory <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015020flash204">
+ 
+<div class="content">
+    <img src="https://unsplash.it/204?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x04">The Flash 2x04 </a>
+</div><div class="bottom">
+    <b>title:</b> The Fury Of Firestorm<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015021flash205">
+ 
+<div class="content">
+    <img src="https://unsplash.it/205?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x05">The Flash 2x05 </a>
+</div><div class="bottom">
+    <b>title:</b> The Darkness and The Light<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015022flash206">
+ 
+<div class="content">
+    <img src="https://unsplash.it/206?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x06">The Flash 2x06 </a>
+</div><div class="bottom">
+    <b>title:</b> Enter Zoom<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015023flash207">
+ 
+<div class="content">
+    <img src="https://unsplash.it/207?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x07">The Flash 2x07 </a>
+</div><div class="bottom">
+    <b>title:</b> Gorilla Warfare<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info flash" name="2015024flash208">
+ 
+<div class="content">
+    <img src="https://unsplash.it/208?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x08">The Flash 2x08 </a>
+</div><div class="bottom">
+    <b>title:</b> Legends Of Today<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016001flash209">
+ 
+<div class="content">
+    <img src="https://unsplash.it/209?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x09">The Flash 2x09 </a>
+</div><div class="bottom">
+    <b>title:</b> Running to Stand Still<br />
+    <b>contains:</b> Leonard Snart, Mark Mardon, James Jesse <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016002flash210">
+ 
+<div class="content">
+    <img src="https://unsplash.it/210?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x10">The Flash 2x10 </a>
+</div><div class="bottom">
+    <b>title:</b> Potential Energy<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info  flash" name="2016004flash211">
+ 
+<div class="content">
+    <img src="https://unsplash.it/211?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x11">The Flash 2x11 </a>
+</div><div class="bottom">
+    <b>title:</b> The Reverse Flash Returns<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info  flash" name="2016006flash212">
+ 
+<div class="content">
+    <img src="https://unsplash.it/212?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x12">The Flash 2x12 </a>
+</div><div class="bottom">
+    <b>title:</b> Fast Lane<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016008flash213">
+ 
+<div class="content">
+    <img src="https://unsplash.it/213?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x13">The Flash 2x13 </a>
+</div><div class="bottom">
+    <b>title:</b> Welcome to Earth-2<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016010flash214">
+ 
+<div class="content">
+    <img src="https://unsplash.it/214?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x14">The Flash 2x14 </a>
+</div><div class="bottom">
+    <b>title:</b> Escape From Earth-2<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info  flash" name="2016012flash215">
+ 
+<div class="content">
+    <img src="https://unsplash.it/215?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x15">The Flash 2x15 </a>
+</div><div class="bottom">
+    <b>title:</b> King Shark<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016016flash216">
+ 
+<div class="content">
+    <img src="https://unsplash.it/216?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x16">The Flash 2x16 </a>
+</div><div class="bottom">
+    <b>title:</b> Trajectory<br />
+    <b>contains:</b> -  <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016018flash217">
+ 
+<div class="content">
+    <img src="https://unsplash.it/217?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x17">The Flash 2x17 </a>
+</div><div class="bottom">
+    <b>title:</b> Flash Back<br />
+    <b>contains:</b> Hartley Rathaway <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016022flash218">
+ 
+<div class="content">
+    <img src="https://unsplash.it/218?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x18">The Flash 2x18 </a>
+</div><div class="bottom">
+    <b>title:</b> Versus Zoom<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016024flash219">
+ 
+<div class="content">
+    <img src="https://unsplash.it/219?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x19">The Flash 2x19</a>
+</div><div class="bottom">
+    <b>title:</b> Back To Normal<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016026flash220">
+ 
+<div class="content">
+    <img src="https://unsplash.it/220?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x20">The Flash 2x20 </a>
+</div><div class="bottom">
+    <b>title:</b> Rupture<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016028flash221">
+ 
+<div class="content">
+    <img src="https://unsplash.it/221?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x21">The Flash 2x21 </a>
+</div><div class="bottom">
+    <b>title:</b> The Runaway Dinosaur<br />
+    <b>contains:</b> Tony Woodward <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016030flash222">
+ 
+<div class="content">
+    <img src="https://unsplash.it/222?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x22">The Flash 2x22 </a>
+</div><div class="bottom">
+    <b>title:</b> Invincible<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016032flash223">
+ 
+<div class="content">
+    <img src="https://unsplash.it/223?random" />
+<div class="title">
+    <a href="/tagged/the flash 2x23">The Flash 2x23</a>
+</div><div class="bottom">
+	<b>title:</b> The Race of His Life<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016033flash301">
+ 
+<div class="content">
+    <img src="https://unsplash.it/301?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x01">The Flash 3x01</a>
+</div><div class="bottom">
+	<b>title:</b> Flashpoint<br />
+    <b>contains:</b> -<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info  flash" name="2016034flash302">
+ 
+<div class="content">
+    <img src="https://unsplash.it/302?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x02">The Flash 3x02</a>
+</div><div class="bottom">
+	<b>title:</b> Paradox<br />
+    <b>contains:</b> -<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016037flash303">
+ 
+<div class="content">
+    <img src="https://unsplash.it/303?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x03">The Flash 3x03</a>
+</div><div class="bottom">
+	<b>title:</b> Magenta<br />
+    <b>contains:</b> Frankie Kane<br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016039flash304">
+ 
+<div class="content">
+    <img src="https://unsplash.it/304?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x04">The Flash 3x04 </a>
+</div><div class="bottom">
+    <b>title:</b> The New Rogues<br />
+    <b>contains:</b> Leonard Snart, Sam Scudder, Rosa Dillon <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2016041flash305">
+ 
+<div class="content">
+    <img src="https://unsplash.it/305?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x05">The Flash 3x05 </a>
+</div><div class="bottom">
+    <b>title:</b> Monster<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info  flash" name="2016044flash306">
+ 
+<div class="content">
+    <img src="https://unsplash.it/306?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x06">The Flash 3x06 </a>
+</div><div class="bottom">
+    <b>title:</b> Shade<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info  flash" name="2016046flash307">
+ 
+<div class="content">
+    <img src="https://unsplash.it/307?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x07">The Flash 3x07 </a>
+</div><div class="bottom">
+    <b>title:</b> Killer Frost<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016047flash308">
+ 
+<div class="content">
+    <img src="https://unsplash.it/308?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x08">The Flash 3x08 </a>
+</div><div class="bottom">
+    <b>title:</b> Invasion!<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> Leonard Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016050flash309">
+ 
+<div class="content">
+    <img src="https://unsplash.it/309?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x09">The Flash 3x09 </a>
+</div><div class="bottom">
+    <b>title:</b> The Present<br />
+    <b>contains:</b> James Jesse <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017001flash310">
+ 
+<div class="content">
+    <img src="https://unsplash.it/310?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x10">The Flash 3x10 </a>
+</div><div class="bottom">
+    <b>title:</b> Borrowing Problems from the Future<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2017003flash311">
+ 
+<div class="content">
+    <img src="https://unsplash.it/311?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x11">The Flash 3x11 </a>
+</div><div class="bottom">
+    <b>title:</b> Dead or Alive<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017005flash312">
+ 
+<div class="content">
+    <img src="https://unsplash.it/312?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x12">The Flash 3x12 </a>
+</div><div class="bottom">
+    <b>title:</b> Untouchable<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017007flash313">
+ 
+<div class="content">
+    <img src="https://unsplash.it/313?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x13">The Flash 3x13 </a>
+</div><div class="bottom">
+    <b>title:</b> Attack on Gorilla City<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017009flash314">
+ 
+<div class="content">
+    <img src="https://unsplash.it/314?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x14">The Flash 3x14 </a>
+</div><div class="bottom">
+    <b>title:</b> Attack on Central City<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017010flash315">
+ 
+<div class="content">
+    <img src="https://unsplash.it/315?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x15">The Flash 3x15 </a>
+</div><div class="bottom">
+    <b>title:</b> The Wrath of Savitar<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2017012flash316">
+ 
+<div class="content">
+    <img src="https://unsplash.it/316?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x16">The Flash 3x16 </a>
+</div><div class="bottom">
+    <b>title:</b> Into the Speed Force<br />
+    <b>contains:</b> Leonard Snart <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017014flash317">
+ 
+<div class="content">
+    <img src="https://unsplash.it/317?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x17">The Flash 3x17 </a>
+</div><div class="bottom">
+    <b>title:</b> Duet<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2017016flash318">
+ 
+<div class="content">
+    <img src="https://unsplash.it/318?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x18">The Flash 3x18 </a>
+</div><div class="bottom">
+    <b>title:</b> Abra Kadabra<br />
+    <b>contains:</b> Abra <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2017019flash319">
+ 
+<div class="content">
+    <img src="https://unsplash.it/319?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x19">The Flash 3x19</a>
+</div><div class="bottom">
+    <b>title:</b> The Once and Future Flash<br />
+    <b>contains:</b> Rosa Dillon, Sam Scudder <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017020flash320">
+ 
+<div class="content">
+    <img src="https://unsplash.it/320?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x20">The Flash 3x20 </a>
+</div><div class="bottom">
+    <b>title:</b> I Know Who You Are<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017021flash321">
+ 
+<div class="content">
+    <img src="https://unsplash.it/321?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x21">The Flash 3x21 </a>
+</div><div class="bottom">
+    <b>title:</b> Cause and Effect<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> Mick Rory <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2017022flash322">
+ 
+<div class="content">
+    <img src="https://unsplash.it/322?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x22">The Flash 3x22 </a>
+</div><div class="bottom">
+    <b>title:</b> Infantino Street<br />
+    <b>contains:</b> Leonard Snart <br />
+    <b>mentions:</b> Lisa Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash" name="2017023flash323">
+ 
+<div class="content">
+    <img src="https://unsplash.it/323?random" />
+<div class="title">
+    <a href="/tagged/the flash 3x23">The Flash 3x23</a>
+</div><div class="bottom">
+	<b>title:</b> Finish Line<br />
+    <b>contains:</b> -<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016003lot101">
+ 
+<div class="content">
+    <img src="https://unsplash.it/101?random" />
+<div class="title">
+    <a href="/tagged/lot 1x01">Legends of Tomorrow 1x01</a>
+</div><div class="bottom">
+	<b>title:</b> Pilot (1)<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016005lot102">
+ 
+<div class="content">
+    <img src="https://unsplash.it/102?random" />
+<div class="title">
+    <a href="/tagged/lot 1x02">Legends of Tomorrow 1x02</a>
+</div><div class="bottom">
+	<b>title:</b> Pilot (2)<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016007lot103">
+ 
+<div class="content">
+    <img src="https://unsplash.it/103?random" />
+<div class="title">
+    <a href="/tagged/lot 1x03">Legends of Tomorrow 1x03</a>
+</div><div class="bottom">
+	<b>title:</b> Blood Ties<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> Lisa Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016009lot104">
+ 
+<div class="content">
+    <img src="https://unsplash.it/104?random" />
+<div class="title">
+    <a href="/tagged/lot 1x04">Legends of Tomorrow 1x04</a>
+</div><div class="bottom">
+	<b>title:</b> White Knights<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016011lot105">
+ 
+<div class="content">
+    <img src="https://unsplash.it/105?random" />
+<div class="title">
+    <a href="/tagged/lot 1x05">Legends of Tomorrow 1x05</a>
+</div><div class="bottom">
+	<b>title:</b> Fail-Safe<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016013lot106">
+ 
+<div class="content">
+    <img src="https://unsplash.it/106?random" />
+<div class="title">
+    <a href="/tagged/lot 1x06">Legends of Tomorrow 1x06</a>
+</div><div class="bottom">
+	<b>title:</b> Star City 2046<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016014lot107">
+ 
+<div class="content">
+    <img src="https://unsplash.it/107?random" />
+<div class="title">
+    <a href="/tagged/lot 1x07">Legends of Tomorrow 1x07</a>
+</div><div class="bottom">
+	<b>title:</b> Marooned<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016015lot108">
+ 
+<div class="content">
+    <img src="https://unsplash.it/108?random" />
+<div class="title">
+    <a href="/tagged/lot 1x08">Legends of Tomorrow 1x08</a>
+</div><div class="bottom">
+	<b>title:</b> Night of the Hawk<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016019lot109">
+ 
+<div class="content">
+    <img src="https://unsplash.it/109?random" />
+<div class="title">
+    <a href="/tagged/lot 1x09">Legends of Tomorrow 1x09</a>
+</div><div class="bottom">
+	<b>title:</b> Left Behind<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> Lisa Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016020lot110">
+ 
+<div class="content">
+    <img src="https://unsplash.it/110?random" />
+<div class="title">
+    <a href="/tagged/lot 1x10">Legends of Tomorrow 1x10</a>
+</div><div class="bottom">
+	<b>title:</b> Progeny<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016021lot111">
+ 
+<div class="content">
+    <img src="https://unsplash.it/111?random" />
+<div class="title">
+    <a href="/tagged/lot 1x11">Legends of Tomorrow 1x11</a>
+</div><div class="bottom">
+	<b>title:</b> The Magnificent Eight<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016023lot112">
+ 
+<div class="content">
+    <img src="https://unsplash.it/112?random" />
+<div class="title">
+    <a href="/tagged/lot 1x12">Legends of Tomorrow 1x12</a>
+</div><div class="bottom">
+	<b>title:</b> Last Refuge<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> Lisa Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016025lot113">
+ 
+<div class="content">
+    <img src="https://unsplash.it/113?random" />
+<div class="title">
+    <a href="/tagged/lot 1x13">Legends of Tomorrow 1x13</a>
+</div><div class="bottom">
+	<b>title:</b> Leviathan<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016027lot114">
+ 
+<div class="content">
+    <img src="https://unsplash.it/114?random" />
+<div class="title">
+    <a href="/tagged/lot 1x14">Legends of Tomorrow 1x14</a>
+</div><div class="bottom">
+	<b>title:</b> River of Time<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016029lot115">
+ 
+<div class="content">
+    <img src="https://unsplash.it/115?random" />
+<div class="title">
+    <a href="/tagged/lot 1x15">Legends of Tomorrow 1x15</a>
+</div><div class="bottom">
+	<b>title:</b> Destiny<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016031lot116">
+ 
+<div class="content">
+    <img src="https://unsplash.it/116?random" />
+<div class="title">
+    <a href="/tagged/lot 1x16">Legends of Tomorrow 1x16</a>
+</div><div class="bottom">
+	<b>title:</b> Legendary<br />
+    <b>contains:</b> Leonard Snart, Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016036lot201">
+ 
+<div class="content">
+    <img src="https://unsplash.it/201?random" />
+<div class="title">
+    <a href="/tagged/lot 2x01">Legends of Tomorrow 2x01</a>
+</div><div class="bottom">
+	<b>title:</b> Out of Time<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016038lot202">
+ 
+<div class="content">
+    <img src="https://unsplash.it/202?random" />
+<div class="title">
+    <a href="/tagged/lot 2x02">Legends of Tomorrow 2x02</a>
+</div><div class="bottom">
+	<b>title:</b> The Justice Society of America<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016040lot203">
+ 
+<div class="content">
+    <img src="https://unsplash.it/203?random" />
+<div class="title">
+    <a href="/tagged/lot 2x03">Legends of Tomorrow 2x03</a>
+</div><div class="bottom">
+	<b>title:</b> Shogun<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016042lot204">
+ 
+<div class="content">
+    <img src="https://unsplash.it/204?random" />
+<div class="title">
+    <a href="/tagged/lot 2x04">Legends of Tomorrow 2x04</a>
+</div><div class="bottom">
+	<b>title:</b> Abominations<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> Leonard Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016043lot205">
+ 
+<div class="content">
+    <img src="https://unsplash.it/205?random" />
+<div class="title">
+    <a href="/tagged/lot 2x05">Legends of Tomorrow 2x05</a>
+</div><div class="bottom">
+	<b>title:</b> Compromised<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> Leonard Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016045lot206">
+ 
+<div class="content">
+    <img src="https://unsplash.it/206?random" />
+<div class="title">
+    <a href="/tagged/lot 2x06">Legends of Tomorrow 2x06</a>
+</div><div class="bottom">
+	<b>title:</b> Outlaw Country<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016049lot207">
+ 
+<div class="content">
+    <img src="https://unsplash.it/207?random" />
+<div class="title">
+    <a href="/tagged/lot 2x07">Legends of Tomorrow 2x07</a>
+</div><div class="bottom">
+	<b>title:</b> Invasion!<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2016051lot208">
+ 
+<div class="content">
+    <img src="https://unsplash.it/208?random" />
+<div class="title">
+    <a href="/tagged/lot 2x08">Legends of Tomorrow 2x08</a>
+</div><div class="bottom">
+	<b>title:</b> The Chicago Way<br />
+    <b>contains:</b> Mick Rory, Leonard Snart<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017002lot209">
+ 
+<div class="content">
+    <img src="https://unsplash.it/209?random" />
+<div class="title">
+    <a href="/tagged/lot 2x09">Legends of Tomorrow 2x09</a>
+</div><div class="bottom">
+	<b>title:</b> Raiders of the Lost Art<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> Leonard Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017004lot210">
+ 
+<div class="content">
+    <img src="https://unsplash.it/210?random" />
+<div class="title">
+    <a href="/tagged/lot 2x10">Legends of Tomorrow 2x10</a>
+</div><div class="bottom">
+	<b>title:</b> The Legion of Doom<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017006lot211">
+ 
+<div class="content">
+    <img src="https://unsplash.it/211?random" />
+<div class="title">
+    <a href="/tagged/lot 2x11">Legends of Tomorrow 2x11</a>
+</div><div class="bottom">
+	<b>title:</b> Turncoat<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017008lot212">
+ 
+<div class="content">
+    <img src="https://unsplash.it/212?random" />
+<div class="title">
+    <a href="/tagged/lot 2x12">Legends of Tomorrow 2x12</a>
+</div><div class="bottom">
+	<b>title:</b> Camelot/3000<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017011lot213">
+ 
+<div class="content">
+    <img src="https://unsplash.it/213?random" />
+<div class="title">
+    <a href="/tagged/lot 2x13">Legends of Tomorrow 2x13</a>
+</div><div class="bottom">
+	<b>title:</b> Land of the Lost<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> Leonard Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017013lot214">
+ 
+<div class="content">
+    <img src="https://unsplash.it/214?random" />
+<div class="title">
+    <a href="/tagged/lot 2x14">Legends of Tomorrow 2x14</a>
+</div><div class="bottom">
+	<b>title:</b> Moonshot<br />
+    <b>contains:</b> Mick Rory<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017015lot215">
+ 
+<div class="content">
+    <img src="https://unsplash.it/215?random" />
+<div class="title">
+    <a href="/tagged/lot 2x15">Legends of Tomorrow 2x15</a>
+</div><div class="bottom">
+	<b>title:</b> The Fellowship of the Spear<br />
+    <b>contains:</b> Mick Rory, Leonard Snart<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017017lot216">
+ 
+<div class="content">
+    <img src="https://unsplash.it/216?random" />
+<div class="title">
+    <a href="/tagged/lot 2x16">Legends of Tomorrow 2x16</a>
+</div><div class="bottom">
+	<b>title:</b> Doomworld<br />
+    <b>contains:</b> Mick Rory, Leonard Snart<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="2017018lot217">
+ 
+<div class="content">
+    <img src="https://unsplash.it/217?random" />
+<div class="title">
+    <a href="/tagged/lot 2x17">Legends of Tomorrow 2x17</a>
+</div><div class="bottom">
+	<b>title:</b> Aruba<br />
+    <b>contains:</b> Mick Rory, Leonard Snart<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info fave arrow " name="2015019arrow403">
+ 
+<div class="content">
+    <img src="https://unsplash.it/403?random" />
+<div class="title">
+    <a href="/tagged/arrow 4x03">Arrow 4x03</a>
+</div><div class="bottom">
+	<b>title:</b> Restoration<br />
+    <b>contains:</b> Jeremy Tell<br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info arrow " name="2016048arrow508">
+ 
+<div class="content">
+    <img src="https://unsplash.it/508?random" />
+<div class="title">
+    <a href="/tagged/arrow 5x08">Arrow 5x08</a>
+</div><div class="bottom">
+	<b>title:</b> Invasion!<br />
+    <b>contains:</b> -<br />
+    <b>mentions:</b> Mick Rory <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info arrow " name="2017024arrow523">
+ 
+<div class="content">
+    <img src="https://unsplash.it/523?random" />
+<div class="title">
+    <a href="/tagged/arrow 5x23">Arrow 5x23</a>
+</div><div class="bottom">
+	<b>title:</b> Lian Yu<br />
+    <b>contains:</b> Digger Harkness <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info yj " name="2010001yj101">
+ 
+<div class="content">
+    <img src="https://unsplash.it/101?random" />
+<div class="title">
+    <a href="/tagged/yj 1x01">Young Justice 1x01</a>
+</div><div class="bottom">
+	<b>title:</b> Independence Day<br />
+    <b>contains:</b> Leonard Snart <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info yj " name="2011001yj111">
+ 
+<div class="content">
+    <img src="https://unsplash.it/111?random" />
+<div class="title">
+    <a href="/tagged/yj 1x11">Young Justice 1x11</a>
+</div><div class="bottom">
+	<b>title:</b> Terrors<br />
+    <b>contains:</b> Leonard Snart <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info yj " name="2012001yj120">
+ 
+<div class="content">
+    <img src="https://unsplash.it/120?random" />
+<div class="title">
+    <a href="/tagged/yj 1x20">Young Justice 1x20</a>
+</div><div class="bottom">
+	<b>title:</b> Coldhearted<br />
+    <b>contains:</b> Leonard Snart <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info yj " name="2012002yj208">
+ 
+<div class="content">
+    <img src="https://unsplash.it/208?random" />
+<div class="title">
+    <a href="/tagged/yj 2x08">Young Justice 2x08</a>
+</div><div class="bottom">
+	<b>title:</b> Satisfaction<br />
+    <b>contains:</b> Leonard Snart <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info jlu " name="2006001jlu505">
+ 
+<div class="content">
+    <img src="https://unsplash.it/505?random" />
+<div class="title">
+    <a href="/tagged/jlu 5x05">Justice League 5x05</a>
+</div><div class="bottom">
+	<b>title:</b> Flash and Substance<br />
+    <b>contains:</b> ... many <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info vixen " name="2016035vixen201">
+ 
+<div class="content">
+    <img src="https://unsplash.it/201?random" />
+<div class="title">
+    <a href="/tagged/jlu 2x05">Justice League 5x05</a>
+</div><div class="bottom">
+	<b>title:</b> -<br />
+    <b>contains:</b> Mark Mardon <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info supergirl " name="2016017supergirl118">
+ 
+<div class="content">
+    <img src="https://unsplash.it/118?random" />
+<div class="title">
+    <a href="/tagged/supergirl 1x18">Supergirl 1x18</a>
+</div><div class="bottom">
+	<b>title:</b> Worlds Finest<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> Hartley Rathaway <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash " name="2017025flash401">
+ 
+<div class="content">
+    <img src="https://unsplash.it/401?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x01">The Flash 4x01</a>
+</div><div class="bottom">
+	<b>title:</b> The Flash Reborn<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot " name="2017026lot301">
+ 
+<div class="content">
+    <img src="https://unsplash.it/301?random" />
+<div class="title">
+    <a href="/tagged/lot 3x01">Legends of Tomorrow 3x01</a>
+</div><div class="bottom">
+	<b>title:</b> ?<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+
+
+<!-- //
+to add
+
+
+-->
+
+
+ 
+
+
+
+
+
+
+</div>
+
+<!-- PLEASE DO NOT EDIT OR DELETE -->
+<a class="cred" href="http://yearsandsyears.tumblr.com" target="_blank"><div class="clogo"></div></a>
+<!----------- THANK YOU! ----------->
+
+</body></html>

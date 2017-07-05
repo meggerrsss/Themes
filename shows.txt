@@ -148,7 +148,7 @@ on the following line! -->
 
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info caught-up airing dctv" name="arrow">
+<div class="item fave req info caught-up dctv" name="arrow">
  
 <div class="content">
     <img src="https://image.ibb.co/myVStv/arrow.png" />
@@ -156,8 +156,10 @@ on the following line! -->
     <a href="/tagged/arrow">Arrow</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> lauriver, thearoy, nyssara, merlance <br />
+    <b>friendships:</b> laurel/sara, laurel/thea, sara/oliver, laurel/felicity, felicity/diggle, team arrow<br />
+    <b>notps:</b> olicity, oliver/slade,  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -171,8 +173,10 @@ on the following line! -->
     <a href="/tagged/3percent">3%</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> joana/rafael <br />
+    <b>friendships:</b> everyone <br />
+    <b>notps:</b> none  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -186,8 +190,10 @@ on the following line! -->
     <a href="/tagged/atla">Avatar: The Last Airbender</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;<br />
     <b>ships:</b> kataang, zumai, tokka <br />
+    <b>friendships:</b> team avatar <br />
+    <b>notps:</b> zutara  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -201,14 +207,16 @@ on the following line! -->
     <a href="/tagged/btas">Batman: The Animated Series</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> dickbabs <br />
+    <b>friendships:</b> batfam <br />
+    <b>notps:</b> brubabs  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="blindspot">
+<div class="item info caught-up" name="blindspot">
  
 <div class="content">
     <img src="https://image.ibb.co/b6vtYv/blindspot.jpg" />
@@ -216,14 +224,16 @@ on the following line! -->
     <a href="/tagged/blindspot">Blindspot</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> patterson/david <br />
+    <b>friendships:</b> team <br />
+    <b>notps:</b> jane/weller  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item req info caught-up airing" name="chicago1fire">
+<div class="item req info caught-up" name="chicago1fire">
  
 <div class="content">
     <img src="https://image.ibb.co/cJWNRF/chicagofire.jpg" />
@@ -231,14 +241,16 @@ on the following line! -->
     <a href="/tagged/chf">Chicago Fire</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> dawsey, brittonio <br />
+    <b>friendships:</b> the firehouse <br />
+    <b>notps:</b> --  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item req fave info caught-up airing" name="chicago3med">
+<div class="item req fave info caught-up" name="chicago3med">
  
 <div class="content">
     <img src="https://image.ibb.co/mgqGmF/chicagomed.jpg" />
@@ -246,27 +258,31 @@ on the following line! -->
     <a href="/tagged/chm">Chicago Med</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> connor/robin <br />
+    <b>friendships:</b> will/natalie <br />
+    <b>notps:</b> april/tate  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item req airing to-watch" name="chicago4justice">
+<div class="item req complete" name="chicago4justice">
  
 <div class="content">
     <img src="https://image.ibb.co/cMDQfa/justice.jpg" />
 <div class="title">
     <a href="/tagged/chj">Chicago Justice</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>status:</b> complete <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> all of them <br />
+    <b>notps:</b> --  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item req info caught-up airing" name="chicago2pd">
+<div class="item req info caught-up" name="chicago2pd">
  
 <div class="content">
     <img src="https://image.ibb.co/hDGYYv/chicagopd.jpg" />
@@ -274,8 +290,10 @@ on the following line! -->
     <a href="/tagged/cpd">Chicago P.D.</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
     <b>ships:</b> linstead <br />
+    <b>friendships:</b> intelligence <br />
+    <b>notps:</b> --  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -288,8 +306,10 @@ on the following line! -->
     <a href="/tagged/constantine">Constantine</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;<br />
     <b>ships:</b> zedstantine <br />
+    <b>friendships:</b> john/chas <br />
+    <b>notps:</b> --  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -303,14 +323,16 @@ on the following line! -->
     <a href="/tagged/containment">Containment</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> jatie <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> --  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="criminalminds">
+<div class="item info caught-up" name="criminalminds">
  
 <div class="content">
     <img src="https://image.ibb.co/jMaStv/criminalminds.jpg" />
@@ -318,14 +340,16 @@ on the following line! -->
     <a href="/tagged/cm">Criminal Minds</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> all of them but especially moreid  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up complete" name="criminalminds3beyond">
+<div class="item complete" name="criminalminds3beyond">
  
 <div class="content">
     <img src="https://image.ibb.co/bPjLDv/cb.jpg" />
@@ -333,8 +357,10 @@ on the following line! -->
     <a href="/tagged/cmbb">Criminal Minds: Beyond Borders</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> clara/mae <br />
+    <b>notps:</b> --  <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -348,8 +374,10 @@ on the following line! -->
     <a href="/tagged/cmsb">Criminal Minds: Suspect Behavior</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -363,8 +391,10 @@ on the following line! -->
     <a href="/tagged/csicyber">CSI: Cyber</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> raven/brody <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -380,6 +410,8 @@ on the following line! -->
     <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> danny/sam/tucker <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -393,8 +425,10 @@ on the following line! -->
     <a href="/tagged/lot">DC's Legends of Tomorrow</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> rogue canary, atomic hawk, steelvixen, timeship <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
+    <b>ships:</b> coldwave, atomic hawk, steelvixen, timeship, rogue canary<br />
+    <b>friendships:</b> coldwave, steelatom, atomwave, vixenwave, time canary <br />
+    <b>notps:</b> jax/martin, jax/leonard, jax/mick, jax/sara, coldatom, atomwave <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -408,8 +442,10 @@ on the following line! -->
     <a href="/tagged/tri">Digimon Adventure Tri</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> sorato, takari, taiorato <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -423,8 +459,10 @@ on the following line! -->
     <a href="/tagged/daj">Drake and Josh</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> josh/mindy <br />
+    <b>friendships:</b> the fam <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -438,14 +476,16 @@ on the following line! -->
     <a href="/tagged/fate">FateStay Night: Unlimited Blade Works</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> the pairs <br />
+    <b>notps:</b> all of them <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info caught-up airing dctv" name="flash">
+<div class="item fave req info caught-up dctv" name="flash">
  
 <div class="content">
     <img src="https://image.ibb.co/hZGp6F/flash.jpg" />
@@ -455,6 +495,8 @@ on the following line! -->
     <b>status:</b> caught up <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> westallen, goldenvibe, snowstorm, joecile <br />
+    <b>friendships:</b> killerflashvibe, barricity, olivarry <br />
+    <b>notps:</b> snowbarry, heatvibe, coldvibe, kidcold, flashwave, killerwave, jarrison, harrisco, eobarry, any age difference ships whatsoever ever<br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -468,23 +510,27 @@ on the following line! -->
     <a href="/tagged/free">Free! Iwatobi Swim Club</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> the team <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up" name="frequency">
+<div class="item info req complete" name="frequency">
  
 <div class="content">
     <img src="https://image.ibb.co/fftrLa/frequency.jpg" />
 <div class="title">
     <a href="/tagged/frequency">Frequency</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>status:</b> complete <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> raimy/kyle <br />
+    <b>friendships:</b> raimy/gordo <br />
+    <b>notps:</b> raimy/gordo <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -498,8 +544,10 @@ on the following line! -->
     <a href="/tagged/fma">Fullmetal Alchemist (Brotherhood)</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
     <b>ships:</b> royai, winward <br />
+    <b>friendships:</b> al/edward <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -520,7 +568,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req airing caught-up dctv" name="gotham">
+<div class="item info req caught-up dctv" name="gotham">
  
 <div class="content">
     <img src="https://image.ibb.co/mHL5fa/gotham.jpg" />
@@ -528,14 +576,16 @@ on the following line! -->
     <a href="/tagged/gotham">Gotham</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> batcat, nygmobblepot, babs/tabs <br />
+    <b>friendships:</b> jim/harvey, ivy/selina/bridget <br />
+    <b>notps:</b> joker/anyone <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info complete" name="greek">
+<div class="item complete" name="greek">
  
 <div class="content">
     <img src="https://image.ibb.co/gmKy0a/greek.jpg" />
@@ -545,12 +595,14 @@ on the following line! -->
     <b>status:</b> complete <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> capsey <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info dctv complete" name="greenlanterntas">
+<div class="item info req dctv complete" name="greenlanterntas">
  
 <div class="content">
     <img src="https://image.ibb.co/igeM6F/gltas.jpg"  />
@@ -558,8 +610,10 @@ on the following line! -->
     <a href="/tagged/gltas">Green Lantern: The Animated Series</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> halcarol, razaya <br />
+    <b>friendships:</b> hal/kilowog <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -573,8 +627,10 @@ on the following line! -->
     <a href="/tagged/house">House</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> house/wilson <br />
+    <b>notps:</b> house/anyone <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -588,8 +644,10 @@ on the following line! -->
     <a href="/tagged/icarly">iCarly</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> seddie <br />
+    <b>friendships:</b> carly/sam/freddie <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -603,8 +661,10 @@ on the following line! -->
     <a href="/tagged/iy">InuYasha</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> miroku/sango, inuyasha/kagome <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> sesshomaru/anyone, koga/kagome <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -618,8 +678,10 @@ on the following line! -->
     <a href="/tagged/iZombie">iZombie</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> everyone except blaine he can die <br />
+    <b>notps:</b> liv/blaine <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -633,8 +695,10 @@ on the following line! -->
     <a href="/tagged/lok">The Legend of Korra</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
     <b>ships:</b> korrasami, kainora, pemzin, zhurrick <br />
+    <b>friendships:</b> korra/mako/bolin/asami <br />
+    <b>notps:</b> kolin <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -648,14 +712,16 @@ on the following line! -->
     <a href="/tagged/librarians">The Librarians</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> castrella <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> jenkins/everyone <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info airing caught-up dctv" name="lucifer">
+<div class="item fave req info caught-up dctv" name="lucifer">
  
 <div class="content">
     <img src="https://image.ibb.co/mEBiYv/luci.jpg" />
@@ -663,8 +729,10 @@ on the following line! -->
     <a href="/tagged/lucifer">Lucifer</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> deckerstar <br />
+    <b>friendships:</b> dan/ella, maze/trixie <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -678,8 +746,10 @@ on the following line! -->
     <a href="/tagged/dd">Marvel's Daredevil</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> foggy/matt/karen <br />
+    <b>notps:</b> matt/karen, matt/elektra <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -693,8 +763,10 @@ on the following line! -->
     <a href="/tagged/jj">Marvel's Jessica Jones</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> -- <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
+    <b>ships:</b> jess/luke <br />
+    <b>friendships:</b> jess/trish, jess/malcolm <br />
+    <b>notps:</b> jess/kilgrave, trish/will <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -708,14 +780,16 @@ on the following line! -->
     <a href="/tagged/lc">Marvel's Luke Cage</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
     <b>ships:</b> luke/misty <br />
+    <b>friendships:</b> luke/claire <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item airing to-watch" name="ironfist">
+<div class="item to-watch" name="ironfist">
  
 <div class="content">
     <img src="https://image.ibb.co/mxahRF/ironfist.png" />
@@ -725,6 +799,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -740,6 +816,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -753,14 +831,16 @@ on the following line! -->
     <a href="/tagged/motive">Motive</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> angie/oscar, andie/betty <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info caught-up airing" name="ncis1">
+<div class="item fave req info caught-up" name="ncis1">
  
 <div class="content">
     <img src="https://image.ibb.co/h8QMLa/ncis.jpg"/>
@@ -768,14 +848,16 @@ on the following line! -->
     <a href="/tagged/ncis">NCIS</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> mcabby, mclilah <br />
+    <b>friendships:</b> abby/gibbs, ducky/gibbs, the team <br />
+    <b>notps:</b> gibbs/team <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up airing" name="ncis2la">
+<div class="item info req caught-up" name="ncis2la">
  
 <div class="content">
     <img src="https://image.ibb.co/d8HU6F/la.jpg" />
@@ -783,14 +865,16 @@ on the following line! -->
     <a href="/tagged/ncis-la">NCIS: Los Angeles</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> neric, densi <br />
+    <b>friendships:</b> sam/callen, the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up airing" name="ncis3nola">
+<div class="item info req caught-up" name="ncis3nola">
  
 <div class="content">
     <img src="https://image.ibb.co/cxYafa/nola.jpg" />
@@ -798,8 +882,10 @@ on the following line! -->
     <a href="/tagged/ncis-nola">NCIS: New Orleans</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> persalle <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -813,8 +899,10 @@ on the following line! -->
     <a href="/tagged/ng">New Girl</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> schmece <br />
+    <b>friendships:</b> the loft <br />
+    <b>notps:</b> nick/jess <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -828,8 +916,10 @@ on the following line! -->
     <a href="/tagged/tns">The Night Shift</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> -- <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
+    <b>ships:</b> ragosa/landry <br />
+    <b>friendships:</b> tc/jordan, tc/toph <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -843,22 +933,26 @@ on the following line! -->
     <a href="/tagged/numb3rs">Numb3rs</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item req caught-up" name="once">
+<div class="item complete" name="once">
  
 <div class="content">
     <img src="https://image.ibb.co/hokctv/ouat.jpg" />
 <div class="title">
     <a href="/tagged/ouat">Once Upon a Time</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> -- <br />
+    <b>status:</b> complete <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;&#9734;<br />
+    <b>ships:</b> snowing, regina/robin <br />
+    <b>friendships:</b> emma/elsa <br />
+    <b>notps:</b> swanqueen <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -872,8 +966,10 @@ on the following line! -->
     <a href="/tagged/ouatiw">Once Upon a Time in Wonderland</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -886,8 +982,10 @@ on the following line! -->
     <a href="/tagged/ouran">Ouran High School Host Club</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> tamaharu <br />
+    <b>friendships:</b> twins, everyone <br />
+    <b>notps:</b> twins <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -900,23 +998,43 @@ on the following line! -->
     <a href="/tagged/powerless">Powerless</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> everyone <br />
+    <b>notps:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item caught-up airing req dctv" name="preacher">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/iJ1Htv/preacher.jpg" />
+<div class="title">
+    <a href="/tagged/preacher">Preacher</a>
+</div><div class="bottom">
+    <b>status:</b> season 2 <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
+    <b>ships:</b> tulip/jesse <br />
+    <b>friendships:</b> tulip/jesse/proinsias <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info caught-up airing" name="prisonbreak">
+<div class="item fave req info complete" name="prisonbreak">
  
 <div class="content">
     <img src="https://image.ibb.co/hi7qDv/pb.jpg" />
 <div class="title">
     <a href="/tagged/pb">Prison Break</a>
 </div><div class="bottom">
-    <b>status:</b> caught up  <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>status:</b> complete  <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
     <b>ships:</b> misa <br />
+    <b>friendships:</b> michael/lincoln, michael/sucre <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -930,8 +1048,10 @@ on the following line! -->
     <a href="/tagged/rbs">Red Band Society</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> everyone <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -945,23 +1065,27 @@ on the following line! -->
     <a href="/tagged/sm">Sailor Moon Crystal</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> everyone <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up airing" name="scorpion">
+<div class="item info req complete" name="scorpion">
  
 <div class="content">
     <img src="https://image.ibb.co/jPg6mF/scorpion.jpg" />
 <div class="title">
     <a href="/tagged/scorpion">Scorpion</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>status:</b> dropped after season 3 <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> quintis <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -975,8 +1099,10 @@ on the following line! -->
     <a href="/tagged/scrubs">Scrubs</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> jd/eliot, perry/jordan, turk/carla <br />
+    <b>friendships:</b> everyone <br />
+    <b>notps:</b> jd/perry <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -988,9 +1114,11 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/shadowhunters">Shadowhunters: The Mortal Instruments</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>status:</b> season 2 <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> malec <br />
+    <b>friendships:</b> fraywood, clizzy, rafizzy <br />
+    <b>notps:</b> rafael/allosexuality+alloromanticism <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1005,8 +1133,10 @@ on the following line! -->
     <a href="/tagged/sherlock">Sherlock</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> john/mary <br />
+    <b>friendships:</b> john/sherlock <br />
+    <b>notps:</b> sherlock/everyone <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1019,14 +1149,16 @@ on the following line! -->
     <a href="/tagged/smallville">Smallville</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> clois, lexana <br />
+    <b>friendships:</b> clark/lex <br />
+    <b>notps:</b> chlark <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info req caught-up airing dctv" name="supergirl">
+<div class="item fave info req caught-up dctv" name="supergirl">
  
 <div class="content">
     <img src="https://image.ibb.co/dJxe6F/supergirl.jpg" />
@@ -1034,8 +1166,10 @@ on the following line! -->
     <a href="/tagged/supergirl">Supergirl</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> karolsen <br />
+    <b>friendships:</b> scholsen <br />
+    <b>notps:</b> karamel, sanvers, j'onn/m'gann <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1049,8 +1183,10 @@ on the following line! -->
     <a href="/tagged/sao">Sword Art Online</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> kirito/asuna <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1064,8 +1200,10 @@ on the following line! -->
     <a href="/tagged/tt">Teen Titans</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;<br />
     <b>ships:</b> robstar, bbrae, cybee <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1079,23 +1217,27 @@ on the following line! -->
     <a href="/tagged/tvd">The Vampire Diaries</a>
 </div><div class="bottom">
     <b>status:</b> complete <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> steroline <br />
+    <b>friendships:</b> damon/stefan, damon/alaric, matt/alaric <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info caught-up airing" name="vampirediaries2originals">
+<div class="item info complete" name="vampirediaries2originals">
  
 <div class="content">
     <img src="https://image.ibb.co/bV0o0a/tvd2.jpg" />
 <div class="title">
     <a href="/tagged/originals">The Originals</a>
 </div><div class="bottom">
-    <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>status:</b> dropped after season 3 <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> klami, haylijah <br />
+    <b>friendships:</b> davina/josh <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1109,14 +1251,16 @@ on the following line! -->
     <a href="/tagged/vixen">Vixen</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up" name="whoseline">
+<div class="item caught-up airing" name="whoseline">
  
 <div class="content">
     <img src="https://image.ibb.co/hB7OYv/wl.jpg" />
@@ -1124,8 +1268,10 @@ on the following line! -->
     <a href="/tagged/wliia">Whose Line is it Anyway?</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1139,8 +1285,10 @@ on the following line! -->
     <a href="/tagged/yj">Young Justice</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;<br />
     <b>ships:</b> dickbabs, spitfire, wonderbird <br />
+    <b>friendships:</b> the team <br />
+    <b>notps:</b> chalant <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1154,8 +1302,10 @@ on the following line! -->
     <a href="/tagged/jlaction">Justice League Action</a>
 </div><div class="bottom">
     <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> wonderbat <br />
+    <b>friendships:</b> ronnie/jaime/courtney <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1171,6 +1321,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1185,6 +1337,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1199,6 +1353,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1213,6 +1369,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1227,20 +1385,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
-
-</div></div></div>
-<!----------------------------- // TEMPLATE ----------------------------->
-<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item caught-up req dctv" name="preacher">
- 
-<div class="content">
-    <img src="https://image.ibb.co/iJ1Htv/preacher.jpg" />
-<div class="title">
-    <a href="/tagged/preacher">Preacher</a>
-</div><div class="bottom">
-    <b>status:</b> caught up <br />
-    <b>rating:</b> &#9733;&#9734;<br />
-    <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1255,20 +1401,24 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave req info airing" name="hawaii">
+<div class="item fave req info" name="hawaii">
  
 <div class="content">
     <img src="https://image.ibb.co/dGrBLa/h50.jpg" />
 <div class="title">
     <a href="/tagged/h50">Hawaii Five-0</a>
 </div><div class="bottom">
-    <b>status:</b> complete season 4 <br />
-    <b>rating:</b> &#9733;&#9734;<br />
+    <b>status:</b> complete season 5 <br />
+    <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> mcdanno, the team <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1283,6 +1433,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1297,6 +1449,8 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1311,6 +1465,42 @@ on the following line! -->
     <b>status:</b> unstarted <br />
     <b>rating:</b> &#9733;&#9734;<br />
     <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch" name="marvelcloak">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/mfDEOF/clada.png" />
+<div class="title">
+    <a href="/tagged/black-lightning">Cloak and Dagger</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item to-watch" name="billnye">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/mKZM3F/billnye.png" />
+<div class="title">
+    <a href="/tagged/black-lightning">Bill Nye Saves the World</a>
+</div><div class="bottom">
+    <b>status:</b> unstarted <br />
+    <b>rating:</b> &#9733;&#9734;<br />
+    <b>ships:</b> -- <br />
+    <b>friendships:</b> -- <br />
+    <b>notps:</b> -- <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1319,7 +1509,7 @@ on the following line! -->
 
 <!-- //
 to add
-cloak and dagger 
+
 
 -->
 

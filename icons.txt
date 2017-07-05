@@ -268,6 +268,8 @@ a {
 
 <!-- ORANGE ORANGE -->
 <!-- ORANGE ORANGE -->
+<span class="all new fave panels new52 rory"><a href="https://ibb.co/eaDCXk"><img src="https://image.ibb.co/kmaRsk/mickicon2.png" alt="mickicon2" border="0"></a></span>
+<span class="all new fave panels new52 rory"><a href="https://ibb.co/jD6MQ5"><img src="https://image.ibb.co/h2wzCk/mick.png" alt="mick" border="0"></a></span>
 <span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/iCQct5/rosaicon7.png"><img src="https://image.ibb.co/iCQct5/rosaicon7.png" alt="rosaicon7" border="0"></a></span>
 <span class="all panels dcau raven"><a href="https://ibb.co/fEk35a"><img src="https://thumb.ibb.co/fEk35a/ray2.jpg" alt="ray2" border="0" /></a></span>
 <span class="all panels dcau drake grayson"><a href="https://imgbb.com/"><img src="https://image.ibb.co/c2OZBF/hanging.jpg" alt="hanging" border="0" /></a></span>
@@ -304,6 +306,7 @@ a {
 
 <!-- GREEN GREEN -->
 <!-- GREEN GREEN -->
+<span class="all new fave panels new52 rathaway"><a href="https://ibb.co/hHbcyQ"><img src="https://image.ibb.co/krvsXk/hart.png" alt="hart" border="0"></a></span>
 <span class="all new lot jiwe heywood lot213"><a href="https://ibb.co/fm6Lvv"><img src="https://image.ibb.co/bA3N8F/steelvixen5.gif" alt="steelvixen5" border="0"></a></span>
 <span class="all fave new panels new52 rathaway"><a href="https://ibb.co/mupxJ5"><img src="https://image.ibb.co/kWf4y5/hartic1.gif" alt="hartic1" border="0"></a></span>
 <span class="all new panels new52 rathaway"><a href="https://ibb.co/f7Nv5k"><img src="https://image.ibb.co/nwKxJ5/hartic2.gif" alt="hartic2" border="0"></a></span>
@@ -371,6 +374,8 @@ a {
 
 <!-- BLUE BLUE BLUE -->
 <!-- BLUE BLUE BLUE -->
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/eUGi3Q"><img src="https://image.ibb.co/eaFzck/pike1.png" alt="pike1" border="0"></a></span>
+<span class="all new flash flash122 snart"><a href="https://ibb.co/bJ4xV5"><img src="https://image.ibb.co/nEwpck/meme.png" alt="meme" border="0"></a></span>
 <span class="all new lot jiwe heywood lot213"><a href="https://ibb.co/cYON8F"><img src="https://image.ibb.co/b1opoF/steelvixen3.gif" alt="steelvixen3" border="0"></a></span>
 <span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/hcVAD5/rosaicon14.png"><img src="https://image.ibb.co/hcVAD5/rosaicon14.png" alt="rosaicon14" border="0"></a></span>
 <span class="all lot lot215 snart"><a href="https://ibb.co/kwraLa"><img src="https://thumb.ibb.co/kwraLa/lsboom4.jpg" alt="lsboom4" border="0" /></a></span>
@@ -482,6 +487,27 @@ a {
 
 <!-- PRIDE PRIDE -->
 <!-- PRIDE PRIDE -->
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/bOJKck"><img src="https://image.ibb.co/dfTwOQ/panlight.png" alt="panlight" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/cg37V5"><img src="https://image.ibb.co/m4KQHk/bi_light.png" alt="bi_light" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/ecZsxk"><img src="https://image.ibb.co/e1ikHk/m_light.png" alt="m_light" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/kKZEA5"><img src="https://image.ibb.co/eum5Hk/trans.png" alt="trans" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/ncVAiQ"><img src="https://image.ibb.co/b5nCxk/m.png" alt="m" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/hWNeck"><img src="https://image.ibb.co/bDGSV5/bi.png" alt="bi" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/fypgq5"><img src="https://image.ibb.co/dAnCxk/pan.png" alt="pan" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/nBguA5"><img src="https://image.ibb.co/iw37V5/bishadow.png" alt="bishadow" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/gkyrq5"><img src="https://image.ibb.co/mPTD3Q/mshadow.png" alt="mshadow" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/f79LiQ"><img src="https://image.ibb.co/dZZmOQ/panshadow.png" alt="panshadow" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/cfbcV5"><img src="https://image.ibb.co/fOMY3Q/transshadow.png" alt="transshadow" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/geZmOQ"><img src="https://image.ibb.co/cKxjA5/trans2.png" alt="trans2" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/cg8D3Q"><img src="https://image.ibb.co/drat3Q/pan2.png" alt="pan2" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/dbvFHk"><img src="https://image.ibb.co/bwcjA5/m2.png" alt="m2" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/eurBq5"><img src="https://image.ibb.co/c6qhxk/bi2.png" alt="bi2" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/czt2xk"><img src="https://image.ibb.co/dG3fiQ/transpan.png" alt="transpan" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/m7Vhxk"><img src="https://image.ibb.co/jwKLiQ/transm.png" alt="transm" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/j5paHk"><img src="https://image.ibb.co/nnrpck/transbi.png" alt="transbi" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/iKNjA5"><img src="https://image.ibb.co/eCSvHk/transbilight.png" alt="transbilight" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/bGk4A5"><img src="https://image.ibb.co/nCcvHk/transmlight.png" alt="transmlight" border="0"></a></span>
+<span class="all pride new flash flash122 snart"><a href="https://ibb.co/b9oPA5"><img src="https://image.ibb.co/cRy2xk/transpanlightt.png" alt="transpanlightt" border="0"></a></span>
 <span class="all new lot jiwe heywood pride lot213"><a href="https://ibb.co/nk5DFv"><img src="https://image.ibb.co/crx4Na/steelvixenbi.gif" alt="steelvixenbi" border="0"></a></span>
 <span class="all pride new lot stein lot210"><a href="https://ibb.co/cq74Na"><img src="https://image.ibb.co/i8CFTF/lilybi.gif" alt="lilybi" border="0"></a></span>
 <!-- PRIDE PRIDE -->

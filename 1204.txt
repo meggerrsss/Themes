@@ -147,7 +147,7 @@ $('.tmblr-iframe').css({position: 'static', top: '0px'});
 <meta name="color:header line" content="#252525"/>
 <meta name="color:links" content="#d8d8d8"/>
 <meta name="color:credit" content="#ffffff"/>
-<meta name="color:accent" content="##a4cc3e">
+<meta name="color:accent" content="#a4cc3e">
 <meta name="color:accent 2" content="#004f4d">
 <meta name="color:info" content="#666666">
 <meta name="color:hover" content="#008581">
@@ -169,14 +169,14 @@ $('.tmblr-iframe').css({position: 'static', top: '0px'});
 <meta name="text:navigation title two" content="find me at"/>
 <meta name="text:float box title" content="Updates"/>
 <!-- sidebar links -->
-<meta name="text:link one" content=" Link one">
-<meta name="text:link two" content="Link two">
-<meta name="text:link three" content="Link three">
-<meta name="text:link four" content="Link four">
-<meta name="text:link one url" content="/">
-<meta name="text:link two url" content="/">
-<meta name="text:link three url" content="/">
-<meta name="text:link four url" content="/">
+<meta name="text:link one" content="about">
+<meta name="text:link two" content="tags">
+<meta name="text:link three" content="shows">
+<meta name="text:link four" content="made">
+<meta name="text:link one url" content="/about">
+<meta name="text:link two url" content="/tags">
+<meta name="text:link three url" content="/shows">
+<meta name="text:link four url" content="/creations">
 <!-- custom css -->
 <style type="text/css">
  }
@@ -1479,7 +1479,7 @@ askerurl{
  
 <!-- credit(u better dont touch this here u goof) -->
 <div id="credit">
-<a href="http://adf.ly/1dAPjm"title="theme credit">Code by 1204px</a>
+<a href="1204px.tumblr.com"title="theme credit">Code by 1204px</a>
 </div></div>
 </html>
 <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>

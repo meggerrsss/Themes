@@ -388,6 +388,7 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
 	<a href="/tagged/panels">comic panels</a>
 	<a href="/tagged/%2A">all posts</a>
 <h8>notes count</h8>
+    <a href="/tagged/5k">5000</a>
     <a href="/tagged/4k">4000</a>
     <a href="/tagged/3k">3000</a>
     <a href="/tagged/2k">2000</a>
@@ -403,11 +404,15 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
     <input type="radio" id="tab-2" name="tab-group-1">
     <label for="tab-2">projects</label> 
 <div class="tags"> 
-	<a href="/tagged/topfemvills">top n dctv female villains</a>
+	<a href="/tagged/roguementions">rogue mentions</a>
+	<a href="/tagged/topfemvills">top 15 dctv female villains</a>
 	<a href="/tagged/mysocial">dctv social media</a>
 	<a href="/calendar">dc fandom calendar</a>
 	<a href="/tagged/legendsviewingparty">legends viewing party</a>
 <h8>inactive / complete</h8>
+	<a href="/tagged/losfpolyamweek">flarrow polyamory week</a>
+	<a href="/tagged/aggressivelyarospecweek">aggressively arospec week</a>
+	<a href="/tagged/pride-month-challenge">pride month challenge</a>	
 	<a href="/tagged/amayajiweweek">amaya jiwe week</a>
 	<a href="/tagged/alpbabet">arrowverse alphabet</a>
 	<a href="/tagged/cwaspring17">coldwestallen week</a>
@@ -497,9 +502,7 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
     <a href="/tagged/meghan's-life">personal</a>
 	<a href="/tagged/meghan-has-opinions">opinions</a>
 <h8>upcoming projects</h8>
-	<a href="/tagged/pride-month-challenge">pride month challenge</a>
-	<a href="/tagged/losfpolyamweek">flarrow polyamory week</a>
-	<a href="/tagged/roguementions">rogue mentions</a>
+	<a href="/tagged/jamesolsenweek">jamesolsenweek</a>
 </div>
 </div>
 

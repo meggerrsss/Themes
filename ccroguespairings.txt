@@ -19,7 +19,7 @@ Thanks!
 
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-<title>{Title}</title>
+<title>Rogues Interactions</title>
 <link rel="shortcut icon" href="{Favicon}">
 <link rel="alternate" type="application/rss+xml" href="{RSS}">
 
@@ -78,7 +78,7 @@ a:hover {
     height:55px;
     top:0px;
     z-index:99999999999999;
-	border-bottom: 2px solid #9cdfed;
+	border-bottom: 2px solid #aed336;
 }
 
 #title{
@@ -150,7 +150,7 @@ article{
     text-transform:uppercase;
     font-weight:bold;
     letter-spacing:2px;
-    border-bottom: 2px solid #9cdfed;
+    border-bottom: 2px solid #aed336;
 }
  
 .tag{
@@ -169,7 +169,7 @@ article{
 }
  
 .tag:hover{
-    color:#9cdfed;
+    color:#aed336;
     padding-left:18px;
     -webkit-transition: all .5s;
 }
@@ -271,10 +271,9 @@ article{
 	<a href="/tagged/pairing%3A+quinnarang"><div class="tag">harley quinn (quinnarang)</div></a>
 	<a href="/tagged/pairing%3A+powerang"><div class="tag">karen starr (powerang)</div></a>
 	<a href="/tagged/pairing%3A+snartness"><div class="tag">leonard snart (snartness)</div></a>
-	<a href="/tagged/pairing%3A+dissa"><div class="tag">nyssa al ghul (dissa)</div></a>
 	<a href="/tagged/pairing%3A+arrowrang"><div class="tag">oliver queen (arrowrang)</div></a>
 	<a href="/tagged/pairing%3A+boomflag"><div class="tag">rick flag (boomflag)</div></a>
-	<a href="/tagged/pairing%3A+mirrorang"><div class="taginact">sam scudder (mirrorang)</div></a>
+	<a href="/tagged/pairing%3A+mirrorang"><div class="tag">sam scudder (mirrorang)</div></a>
 	<a href="/tagged/pairing%3A+katanarang"><div class="tag">tatsu yamashiro (katanarang)</div></a>
 	<a href="/tagged/pairing%3A+hackness"><div class="tag">zalika (hackness)</div></a>
 </article>
@@ -299,11 +298,13 @@ article{
     <a href="/tagged/pairing%3A+hartmon"><div class="tag">cisco ramon (hartmon)</div></a>
     <a href="/tagged/pairing%3A+singaway"><div class="tag">david singh (singaway)</div></a>
 	<a href="/tagged/pairing%3A+piedler"><div class="tag">edward nygma (piedler)</div></a>
+	<a href="/tagged/pairing%3A+rathawne"><div class="tag">eobard thawne (rathawne)</div></a>
 	<a href="/tagged/pairing%3A+bagpipes"><div class="taginact">evan mcculloch (bagpipes)</div></a>
 	<a href="/tagged/pairing%3A+goldpiper"><div class="tag">lisa snart (goldpiper)</div></a>
     <a href="/tagged/pairing%3A+pipster"><div class="tag">james jesse (pipster)</div></a>
 	<a href="/tagged/pairing%3A+snartaway"><div class="tag">leonard snart (snartaway)</div></a>
 	<a href="/tagged/pairing%3A+weatherpiper"><div class="tag">mark mardon (weatherpiper)</div></a>
+	<a href="/tagged/pairing%3A+topiper"><div class="tag">roscoe dillon (topiper)</div></a>
     <a href="/tagged/pairing%3A+westaway"><div class="tag">wally west (westaway)</div></a>
 </article>
 
@@ -354,9 +355,10 @@ article{
 	<a href="/tagged/pairing%3A+goldpiper"><div class="tag">hartley rathaway (goldpiper)</div></a>
 	<a href="/tagged/pairing%3A+goldennews"><div class="tag">iris west (goldennews)</div></a>
     <a href="/tagged/pairing%3A+golden+canary"><div class="tag">laurel lance (golden canary)</div></a>
+	<a href="/tagged/pairing%3A+parksnart"><div class="tag">linda park (parksnart)</div></a>
 	<a href="/tagged/pairing%3A+goldweather"><div class="tag">mark mardon (goldweather)</div></a>
 	<a href="/tagged/pairing%3A+goldwave"><div class="tag">mick rory (goldwave)</div></a>
-    <a href="/tagged/pairing%3A+TBD"><div class="tag">patty spivot (TBD)</div></a>    
+    <a href="/tagged/pairing%3A+detectivegold"><div class="tag">patty spivot (detectivegold)</div></a>    
 	<a href="/tagged/pairing%3A+goldentop"><div class="tag">rosa dillon (goldentop)</div></a>
     <a href="/tagged/pairing%3A+liscoe"><div class="taginact">roscoe dillon (liscoe)</div></a>  
     <a href="/tagged/pairing%3A+goldmirror"><div class="tag">sam scudder (goldmirror)</div></a> 	
@@ -370,6 +372,7 @@ article{
 <article>
 <div class="sectiontitle">mark mardon</div>
 	<a href="/tagged/fam%3A+mardons"><div class="tag">clyde mardon (mardon brothers)</div></a>
+	<a href="/tagged/fam%3A+mardons"><div class="tag">elsa mardon (mardon family)</div></a>
     <a href="/tagged/pairing%3A+weathster"><div class="tag">axel walker (weathster)</div></a>
     <a href="/tagged/pairing%3A+flashweather"><div class="tag">barry allen (flashweather)</div></a>
 	<a href="/tagged/pairing%3A+mcmardon"><div class="taginact">evan mcculloch (mcmardon)</div></a>
@@ -413,6 +416,7 @@ article{
     <a href="/tagged/pairing%3A+wavetime"><div class="tag">rip hunter (wavetime)</div></a>
 	<a href="/tagged/pairing%3A+mirrorwave"><div class="tag">sam scudder (mirrorwave)</div></a>
     <a href="/tagged/pairing%3A+canarywave"><div class="tag">sara lance (canarywave)</div></a>
+    <a href="/tagged/pairing%3A+TBA"><div class="tag">zari adrianna tomaz (TBA)</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -438,6 +442,7 @@ article{
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">roscoe dillon</div>
+	<a href="/tagged/pairing%3A+topiper"><div class="tag">hartley rathaway (topiper)</div></a>
     <a href="/tagged/pairing%3A+liscoe"><div class="taginact">lisa snart (liscoe)</div></a>    
 </article>
 <!-- END SECTION -->
@@ -454,7 +459,7 @@ article{
 <div class="sectiontitle">sam scudder</div>
 	<a href="/tagged/pairing%3A+trickmirror"><div class="tag">axel walker (trickmirror)</div></a>
 	<a href="/tagged/pairing%3A+flashmirror"><div class="tag">barry allen (flashmirror)</div></a>
-	<a href="/tagged/pairing%3A+mirrorang"><div class="taginact">digger harkness (mirrorang)</div></a>
+	<a href="/tagged/pairing%3A+mirrorang"><div class="tag">digger harkness (mirrorang)</div></a>
 	<a href="/tagged/pairing%3A+mirrorcest"><div class="taginact">evan mcculloch (mirrorcest)</div></a>
     <a href="/tagged/pairing%3A+coldmirror"><div class="tag">leonard snart (coldmirror)</div></a>
     <a href="/tagged/pairing%3A+goldmirror"><div class="tag">lisa snart (goldmirror)</div></a>
@@ -468,32 +473,62 @@ article{
 <article>
 <div class="sectiontitle">shawna baez</div>
     <a href="/tagged/pairing%3A+flashaboo"><div class="tag">barry allen (flashaboo)</div></a>
+	<a href="/tagged/pairing%3A+plastiqueboo"><div class="tag">bette sans souci (plastiqueboo)</div></a>
+	<a href="/tagged/pairing%3A+peekafrost"><div class="tag">caitlin snow (peekafrost)</div></a>
     <a href="/tagged/pairing%3A+peekavibe"><div class="tag">cisco ramon (peekavibe)</div></a>
+    <a href="/tagged/pairing%3A+shawnaclay"><div class="tag">clay parker (shawnaclay)</div></a>
+	<a href="/tagged/pairing%3A+shawndra"><div class="tag">kendra saunders (shawndra)</div></a>
     <a href="/tagged/pairing%3A+goldenboo"><div class="tag">lisa snart (goldenboo)</div></a>
 	<a href="/tagged/pairing%3A+weatherboo"><div class="tag">mark mardon (weatherboo)</div></a>
-    <a href="/tagged/pairing%3A+peekatop"><div class="tag">rosa dillon (peekatop)</div></a>    
+    <a href="/tagged/pairing%3A+peekatop"><div class="tag">rosa dillon (peekatop)</div></a>   
+	<a href="/tagged/pairing%3A+canaryboo"><div class="tag">sara lance (canaryboo)</div></a> 
 </article>
 <!-- END SECTION -->
 
 <!-- START SECTION --> 
 <article>
-<div class="sectiontitle">trios</div>
+<div class="sectiontitle">trios (3 rogues)</div>
+	<a href="/tagged/trio%3A+golden+coldwave"><div class="tag">golden coldwave</div></a>
+	<a href="/tagged/trio%3A+goldtorrainbow"><div class="tag">goldtorrainbow</div></a>
+	<a href="/tagged/trio%3A+peekatopgold"><div class="tag">peekatopgold</div></a>
+	<a href="/tagged/trio%3A+peekatornabow"><div class="taginact">peekatornabow</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">trios (2 rogues)</div>
     <a href="/tagged/trio%3A+coldatomwave"><div class="tag">coldatomwave</div></a>
     <a href="/tagged/trio%3A+coldflashwave"><div class="tag">coldflashwave</div></a>
+	<a href="/tagged/trio%3A+coldhawkwave"><div class="tag">coldhawkwave</div></a>
 	<a href="/tagged/trio%3A+coldvibewave"><div class="tag">coldvibewave</div></a>
     <a href="/tagged/trio%3A+coldvixenwave"><div class="tag">coldvixenwave</div></a>
-    <a href="/tagged/trio%3A+coldwestallen"><div class="tag">coldwestallen</div></a>
     <a href="/tagged/trio%3A+coldwestwave"><div class="tag">coldwestwave</div></a>
-	<a href="/tagged/trio%3A+golden+coldwave"><div class="tag">golden coldwave</div></a>
-    <a href="/tagged/pairing%3A+goldlightbow"><div class="tag">goldlightbow</div></a>
-	<a href="/tagged/trio%3A+goldtorrainbow"><div class="tag">goldtorrainbow</div></a>
-	<a href="/tagged/trio%3A+parkwestaway"><div class="taginact">oliciwave</div></a>
-	<a href="/tagged/trio%3A+parkwestaway"><div class="taginact">parkwestaway</div></a>
-	<a href="/tagged/trio%3A+peekatornabow"><div class="taginact">peekatornabow</div></a>
-	<a href="/tagged/trio%3A+quinnshotarang"><div class="tag">quinnshotarang</div></a>
+    <a href="/tagged/trio%3A+goldenwestwave"><div class="tag">goldenwestwave</div></a>
+	<a href="/tagged/trio%3A+peekagoldenfrost"><div class="tag">peekagoldenfrost </div></a>
 	<a href="/tagged/trio%3A+rogue+canary"><div class="tag">rogue canary</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">trios (1 rogue)</div>
+    <a href="/tagged/trio%3A+bartlian"><div class="tag">bartlian</div></a>
+    <a href="/tagged/trio%3A+coldwestallen"><div class="tag">coldwestallen</div></a>
+    <a href="/tagged/trio%3A+goldenblackvibe"><div class="tag">goldenblackvibe</div></a>
+    <a href="/tagged/trio%3A+goldenfrostsiren"><div class="tag">goldenfrostsiren</div></a>
+	<a href="/tagged/trio%3A+goldenlovebirds"><div class="tag">goldenlovebirds </div></a>
+    <a href="/tagged/trio%3A+goldlightbow"><div class="tag">goldlightbow</div></a>
+	<a href="/tagged/trio%3A+parkwestaway"><div class="tag">oliciwave</div></a>
+	<a href="/tagged/trio%3A+parkwestaway"><div class="tag">parkwestaway</div></a>
+	<a href="/tagged/trio%3A+quinnshotarang"><div class="tag">quinnshotarang</div></a>
+	<a href="/tagged/trio%3A+smoaking+goldennews"><div class="tag">smoaking goldennews</div></a>
+	<a href="/tagged/trio%3A+stormfrostwave"><div class="tag">stormfrostwave</div></a>
+	<a href="/tagged/trio%3A+stormfrostweather"><div class="tag">stormfrostweather</div></a>
 	<a href="/tagged/trio%3A+supercanarywave"><div class="tag">supercanarywave</div></a>
-	<a href="/tagged/trio%3A+peekatopgold"><div class="tag">peekatopgold</div></a>
+	<a href="/tagged/trio%3A+supercoldflash"><div class="tag">supercoldflash</div></a>
+	<a href="/tagged/trio%3A+wizardhawkmates"><div class="tag">wizardhawkmates</div></a>
+	<a href="/tagged/trio%3A+vixensteelwave"><div class="tag">vixensteelwave</div></a>
 </article>
 <!-- END SECTION -->
 </div>
