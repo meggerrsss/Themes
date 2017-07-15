@@ -284,7 +284,7 @@ src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
         <span class="topic">Name</span><span class="response">Meghan</span>
         <span class="topic">Pronouns</span> <span class="response">she/her</span>
 		<span class="topic">Birthday</span> <span class="response">July 14</span>
-        <span class="topic">Age</span> <span class="response">24</span>
+        <span class="topic">Age</span> <span class="response">25</span>
         <span class="topic">From</span> <span class="response">Southern Ontario</span>
 		<span class="topic">Hogwarts House</span> <span class="response">Slytherin</span>
 		<span class="topic">MBTI</span> <span class="response">ISTJ</span>

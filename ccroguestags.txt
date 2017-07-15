@@ -462,6 +462,7 @@ a:hover {
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; other</div>
 <div class="droptags">
+	<a href="/tagged/c: injustice: gods among us">injustice: gods among us</a>
     <a href="/tagged/c: injustice: year five">injustice: year five</a>
     <a href="/tagged/c: injustice: ground zero">injustice: ground zero</a>
     <a href="/tagged/c: dc rebirth holiday special">dc rebirth holiday special</a>

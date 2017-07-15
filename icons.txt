@@ -268,6 +268,7 @@ a {
 
 <!-- ORANGE ORANGE -->
 <!-- ORANGE ORANGE -->
+<span class="all new panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/evm3za/bab1.png" alt="bab1" border="0"></a></span>
 <span class="all new fave panels new52 rory"><a href="https://ibb.co/eaDCXk"><img src="https://image.ibb.co/kmaRsk/mickicon2.png" alt="mickicon2" border="0"></a></span>
 <span class="all new fave panels new52 rory"><a href="https://ibb.co/jD6MQ5"><img src="https://image.ibb.co/h2wzCk/mick.png" alt="mick" border="0"></a></span>
 <span class="all new fave flash rosa flash319"><a href = "https://image.ibb.co/iCQct5/rosaicon7.png"><img src="https://image.ibb.co/iCQct5/rosaicon7.png" alt="rosaicon7" border="0"></a></span>
@@ -283,6 +284,7 @@ a {
 
 <!-- YELLOW YELLOW -->
 <!-- YELLOW YELLOW -->
+<span class="all new fave panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/cDvwKa/bab3.png" alt="bab3" border="0"></a></span>
 <span class="all new flash rosa flash319"><a href = "https://image.ibb.co/iUcqD5/rosaicon8.png"><img src="https://image.ibb.co/iUcqD5/rosaicon8.png" alt="rosaicon8" border="0"></a></span>
 <span class="all new flash rosa flash319"><a href = "https://image.ibb.co/bE7OY5/rosaicon5.png"><img src="https://image.ibb.co/bE7OY5/rosaicon5.png" alt="rosaicon5" border="0"></a></span>
 <span class="all new rebirth mardon panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/cqwUiv/marcoicon7.png" alt="marcoicon7" border="0" /></a></span>
@@ -306,6 +308,7 @@ a {
 
 <!-- GREEN GREEN -->
 <!-- GREEN GREEN -->
+<span class="all new fave panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/n6HnQF/bab4.png" alt="bab4" border="0"></a></span>
 <span class="all new fave panels new52 rathaway"><a href="https://ibb.co/hHbcyQ"><img src="https://image.ibb.co/krvsXk/hart.png" alt="hart" border="0"></a></span>
 <span class="all new lot jiwe heywood lot213"><a href="https://ibb.co/fm6Lvv"><img src="https://image.ibb.co/bA3N8F/steelvixen5.gif" alt="steelvixen5" border="0"></a></span>
 <span class="all fave new panels new52 rathaway"><a href="https://ibb.co/mupxJ5"><img src="https://image.ibb.co/kWf4y5/hartic1.gif" alt="hartic1" border="0"></a></span>
@@ -337,6 +340,7 @@ a {
 
 <!-- CYAN CYAN CYAN-->
 <!-- CYAN CYAN CYAN-->
+<span class="all new panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/b2wgkF/bab5.png" alt="bab5" border="0"></a></span>
 <span class="all new lot jiwe heywood lot213"><a href="https://ibb.co/f1myha"><img src="https://image.ibb.co/nxRyha/steelvixen4.gif" alt="steelvixen4" border="0"></a></span>
 <span class="all new flash rosa flash319"><a href = "https://image.ibb.co/cMLo0k/rosaicon12.png"><img src="https://image.ibb.co/cMLo0k/rosaicon12.png" alt="rosaicon12" border="0"></a></span>
 <span class="all new flash rosa flash319"><a href = "https://image.ibb.co/n1oK6Q/rosaicon13.png"><img src="https://image.ibb.co/n1oK6Q/rosaicon13.png" alt="rosaicon13" border="0"></a></span>
@@ -398,6 +402,8 @@ a {
 
 <!-- PURPLE PURPLE -->
 <!-- PURPLE PURPLE -->
+<span class="all new fave panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/jnCMkF/bab2.png" alt="bab2" border="0"></a></span>
+<span class="all new panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/dCLkCv/bab7.png" alt="bab7" border="0"></a></span>
 <span class="all new lot stein lot210"><a href="https://ibb.co/ku3B2a"><img src="https://image.ibb.co/fXhSav/lily5.gif" alt="lily5" border="0"></a></span>
 <span class="all new lot stein lot210"><a href="https://ibb.co/diiYFv"><img src="https://image.ibb.co/k2XSav/lily6.gif" alt="lily6" border="0"></a></span>
 <span class="all new lot stein lot210"><a href="https://ibb.co/m52Sav"><img src="https://image.ibb.co/chm9oF/lily7.gif" alt="lily7" border="0"></a></span>
@@ -447,6 +453,7 @@ a {
 
 <!-- RED RED RED -->
 <!-- RED RED RED -->
+<span class="all new panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/f0awKa/bab6.png" alt="bab6" border="0"></a></span>
 <span class="all new lot jiwe heywood lot213"><a href="https://ibb.co/h2qr2a"><img src="https://image.ibb.co/jMiB2a/steelvixen2.gif" alt="steelvixen2" border="0"></a></span>
 <span class="all new rebirth strange panels"><a href="https://imgbb.com/"><img src="https://image.ibb.co/jq6xrQ/adamicon1.png" alt="adamicon1" border="0"></a></span>
 <span class="all lot lot215 snart rory"><a href="https://ibb.co/irTBQa"><img src="https://thumb.ibb.co/irTBQa/iconcoldwavepink.jpg" alt="iconcoldwavepink" border="0" /></a></span>
@@ -518,6 +525,13 @@ a {
 
 
 <!-- base icon code:
+
+
+
+
+
+
+
 <span class="all new panels new52 zorel"></span>
 <span class="all new panels new52 zorel"><a href="https://ibb.co/b1Ui5k"><img src="https://image.ibb.co/d5w7WQ/karaicons2.png" alt="karaicons2" border="0"></a></span>
 <span class="all new panels new52 zorel"><a href="https://ibb.co/f9Aqkk"><img src="https://image.ibb.co/dUrKd5/karaicons4.png" alt="karaicons4" border="0"></a></span>

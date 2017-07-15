@@ -147,13 +147,13 @@ $('.tmblr-iframe').css({position: 'static', top: '0px'});
 <meta name="color:header line" content="#252525"/>
 <meta name="color:links" content="#d8d8d8"/>
 <meta name="color:credit" content="#ffffff"/>
-<meta name="color:accent" content="#a4cc3e">
+<meta name="color:accent" content="#86a633">
 <meta name="color:accent 2" content="#004f4d">
 <meta name="color:info" content="#666666">
 <meta name="color:hover" content="#008581">
 <meta name="color:credit hover" content="#cccccc">
 <meta name="color:asks" content="#f6f6f6">
-<meta name="color:border" content="#eeeeee"/>
+<meta name="color:border" content="#a4cc3e"/>
 <meta name="color:scrollbar" content="#222222">
 <meta name="color:tooltip" content="#222222">
 <meta name="color:tooltip text" content="#fbfbfb">
@@ -162,12 +162,14 @@ $('.tmblr-iframe').css({position: 'static', top: '0px'});
 <meta name="image:icon" content=""/>
 <!-- texts -->
 <meta name="text:updates" content="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam nisi lorem, pulvinar id, commodo feugiat, vehicula et, mauris."/>
+<meta name="text:updates2" content="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam nisi lorem, pulvinar id, commodo feugiat, vehicula et, mauris."/>
 <meta name="text:font family" content="Source Sans Pro, Helvetica, Arial, Muli, Roboto"/>
-<meta name="text:title" content="Meghan she/her"/>
+<meta name="text:title" content="more like calm and cackling"/>
 <meta name="text:description title" content="comics are the worst"/>
 <meta name="text:navigation title one" content="Navigation"/>
 <meta name="text:navigation title two" content="find me at"/>
 <meta name="text:float box title" content="Updates"/>
+<meta name="text:float box title2" content="DC Calendar"/>
 <!-- sidebar links -->
 <meta name="text:link one" content="about">
 <meta name="text:link two" content="tags">
@@ -520,6 +522,31 @@ u {
 	background:{color:accent};
 	padding:7px;
 }
+#stats_box2 {
+	width:200px;
+	max-height:200px;
+	margin-top:340px;
+	position:fixed;
+	right:23px;
+	font-family: 'muli', monospace;
+	font-size:1em;
+	z-index:999999;
+	padding:25px;
+	line-height:14px;
+	color:{color:text};
+	text-transform:none;
+	background:{color:posts};
+	border:1px solid {color:border};
+	border-radius:3px;
+	text-align:justify;
+	overflow:auto;
+}
+#stats_box2 span {
+	border-radius:3px 3px 3px 3px;
+	background:{color:accent};
+	padding:7px;
+}
+
 /*header*/
 #header_line {
 	position:fixed;
@@ -1338,7 +1365,7 @@ askerurl{
 <div class="container fade-in one">
 <div id="header_line">
 <div id="sbiconimage"><img src="{image:icon}"></div>
-<div id="sidebar_title">@<a href=<{Name}.tumblr.com">{Name}</a></br><small><i class="zmdi zmdi-chevron-right"></i> {text:title}</small></div>  
+<div id="sidebar_title">@<a href="http://{Name}.tumblr.com">{Name}</a></br><small><i class="zmdi zmdi-chevron-right"></i> {text:title}</small></div>  
 </div>
 <div class="search">
 <form action="/search" method="get">
@@ -1365,6 +1392,12 @@ askerurl{
 <span class="lnr lnr-list"style="font-size:12px;color:{color:accent 2}"></span> <t>{text:float box title}</t></br></br>
 {text:updates}
 </div>
+
+<div id="stats_box2">
+<span class="lnr lnr-calendar-full"style="font-size:12px;color:{color:accent 2}"></span> <t>{text:float box title2}</t></br></br>
+{text:updates2}
+</div>
+
 <div id="navi_links">
 <span class="lnr lnr-tag"style="font-size:12px;color:{color:accent 2}"></span> <t>{text:navigation title one}</t></br></br>
 <a href="http://calmandcalculating.tumblr.com/about"><i class="zmdi zmdi-chevron-right"></i> about</a>
@@ -1372,7 +1405,7 @@ askerurl{
 <a href="http://calmandcalculating.tumblr.com/shows"><i class="zmdi zmdi-chevron-right"></i> shows</a>
 <a href="http://calmandcalculating.tumblr.com/creations"><i class="zmdi zmdi-chevron-right"></i> creations</a>
 <a href="http://twitter.com/meggerrsss"><i class="zmdi zmdi-chevron-right"></i> twitter</a>
-<a href="https://tockify.com/dcfandomevents/agenda"><i class="zmdi zmdi-chevron-right"></i> events</a>
+<a href="https://tockify.com/dcfandomevents/agenda"><i class="zmdi zmdi-chevron-right"></i> dc events</a>
 </br></br></br>
 																																  
 																  

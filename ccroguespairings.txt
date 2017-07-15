@@ -340,6 +340,7 @@ article{
     <a href="/tagged/pairing%3A+coldtime"><div class="tag">rip hunter (coldtime)</div></a>
     <a href="/tagged/pairing%3A+coldmirror"><div class="tag">sam scudder (coldmirror)</div></a>
     <a href="/tagged/pairing%3A+captain-canary"><div class="tag">sara lance (captain canary)</div></a>
+	<a href="/tagged/pairing%3A+coldcat"><div class="tag">selina kyle (coldcat)</div></a>
 	<a href="/tagged/pairing%3A+vosnart"><div class="tag">valentina vostok (vosnart)</div></a>
 </article>
 <!-- END SECTION -->

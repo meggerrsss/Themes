@@ -1,0 +1,878 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  <title>{Title}</title>
+
+  <!--
+ 
+ 
+XOXO - BIAS PAGE BY KIMTYS.TUMBLR.COM
+ 
+edit as much as you want but please don't hide or remove credits!
+ 
+           
+-->
+
+  <link rel="alternate" type="application/rss+xml" href="{RSS}">
+  <link rel="shortcut icon" href="{Favicon}">
+  <script src="http://static.tumblr.com/ta26uqw/yqQn9iy9c/jquery-1.7.1.min.js"></script>
+
+  <script type="text/javascript" src="http://static.tumblr.com/dbek3sy/iBElrgjim/jquerymasonry.js"></script>
+  <script src="http://static.tumblr.com/ta26uqw/WEfn9jpn7/imagesloaded.pkgd.min.js"></script>
+
+  <script src="http://static.tumblr.com/7qjmkr5/IUmmdsy41/jquery.style-my-tooltips.js"></script>
+  <script>
+    (function ($) {
+      $(document)
+        .ready(function () {
+          $("[title]").style_my_tooltips();
+        });
+    })
+      (jQuery);
+  </script>
+
+  <style>
+    @import url(http://weloveiconfonts.com/api/?family=entypo|fontawesome);
+
+
+     ::-webkit-scrollbar {
+      height: 0px;
+      width: 9px;
+      background: #62d1d1;
+      border: 4px solid #fff;
+      opacity: 1;
+    }
+
+     ::-webkit-scrollbar-thumb {
+      background: #62d1d1;
+      border: #fff solid 2px;
+      height: 8px;
+      width: 11px;
+      border-radius: 8px;
+      -moz-border-radius: 8px;
+      -webkit-border-radius: 8px;
+      -o-border-radius: 8px;
+      -ms-border-radius: 8px;
+    }
+
+     ::-moz-selection {
+      background: #62d1d1;
+      color: #fff;
+    }
+
+     ::selection {
+      background: #62d1d1;
+      color: #fff;
+    }
+
+    @font-face {
+      font-family: "intro";
+      src: url('https://dl.dropboxusercontent.com/s/wqjoh441thuflo6/Intro.otf');
+    }
+    /* CREDIT TO DYOTHMS */
+
+    body {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background: #f8f8f8;
+      /* BACKGROUND COLOR */
+      background-attachment: fixed;
+      background-repeat: 100%;
+      color: #555;
+      font-family: arial;
+      font-size: 12px;
+      word-wrap: break-word;
+    }
+
+    a {
+      color: #000;
+      text-decoration: none;
+      -moz-transition-duration: 0.5s;
+      -webkit-transition-duration: 0.5s;
+      -o-transition-duration: 0.5s;
+    }
+
+    #s-m-t-tooltip {
+      max-width: 150px;
+      padding: 2px 6px;
+      margin: 25px 14px 7px 15px;
+      background-color: #fff;
+      font-family: Calibri;
+      font-weight: bold;
+      box-shadow: rgba(0, 0, 0, 0.06) 5px 5px;
+      border: 1px solid #ccc;
+      font-size: 8px;
+      line-height: 11px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #222;
+      z-index: 999;
+      transition-duration: 0.5s;
+      -moz-transition-duration: 0.5s;
+      -webkit-transition-duration: 0.5s;
+      -o-transition-duration: 0.5s;
+    }
+
+    #center {
+      position: relative;
+      text-align: justify;
+      vertical-align: middle;
+      padding: 60px;
+    }
+
+    .top {
+      width: auto;
+      opacity: 0.8;
+      text-align: center;
+      border-bottom: 1px #ccc solid;
+      margin-left: auto;
+      margin-right: auto;
+      top: 0;
+      font-size: 11px;
+      font-family: arial;
+      letter-spacing: 0px;
+      padding-top: 10px;
+      padding-bottom: 20px;
+      color: #000;
+      /* DESCRIPTION COLOR */
+      background: #fff;
+      /* TOP BACKGROUND COLOR */
+    }
+
+    .top a {
+      color: #000;
+      /* TITLE COLOR */
+      font-size: 54px;
+      font-family: intro;
+      letter-spacing: 0px;
+      font-weight: bold;
+      padding: 20px;
+      transition-duration: 0.5s;
+      -moz-transition-duration: 0.5s;
+      -webkit-transition-duration: 0.5s;
+      -o-transition-duration: 0.5s;
+    }
+
+    .top a:hover {
+      color: #aed336;
+      /* TITLE HOVER */
+      transition-duration: 0.5s;
+      -moz-transition-duration: 0.5s;
+      -webkit-transition-duration: 0.5s;
+      -o-transition-duration: 0.5s;
+    }
+
+    .quotebox {
+      width: 268px;
+      height: 200px;
+      margin: 20px;
+      background: #fff;
+      /* quotebox BACKGROUND */
+      display: inline-block;
+      box-shadow: rgba(0, 0, 0, 0.06) 5px 5px;
+      border: 1px solid #ccc;
+      /* quotebox BORDER */
+      padding: 15px;
+      transition: all 0.6s ease-in;
+      -webkit-transition: all 0.6s ease-in;
+      -webkit-transition: all 0.6s ease-in;
+      -moz-transition: all 0.6s ease-in;
+      -o-transition: all 0.6s ease-in;
+    }
+
+    .quotebox.back {
+      width: 268px;
+      height: 200px;
+      display: inline-block;
+    }
+
+
+    .quotebox:hover .overlay {
+      opacity: 0.8;
+      /* overlay OPACITY HOVER */
+      margin-top: 0px;
+      transition: all 0.4s ease-in;
+      -webkit-transition: all 0.4s ease-in;
+      -moz-transition: all 0.4s ease-in;
+      -o-transition: all 0.4s ease-in;
+    }
+
+    .quotebox:hover .basetext {
+      opacity: 0.4;
+      /* overlay OPACITY HOVER */
+      margin-top: 0px;
+      transition: all 0.4s ease-in;
+      -webkit-transition: all 0.4s ease-in;
+      -moz-transition: all 0.4s ease-in;
+      -o-transition: all 0.4s ease-in;
+    }
+
+    .overlay {
+      position: absolute;
+      width: 258px;
+      height: 190px;
+      padding: 5px;
+      background: #444;
+      /* overlay BACKGROUND COLOR */
+      font-size: 20px;
+      font-family: intro;
+      text-transform: uppercase;
+      color: #fff;
+      /* overlay TEXT COLOR */
+      opacity: 0;
+      margin-top: 0px;
+      text-align: center;
+    }
+
+    .basetext {
+      position: absolute;
+      width: 258px;
+      height: 190px;
+      padding: 5px;
+      background: #fff;
+      /* overlay BACKGROUND COLOR */
+      font-size: 20px;
+      font-family: intro;
+      text-transform: uppercase;
+      color: #444;
+      /* overlay TEXT COLOR */
+      opacity: 1;
+      margin-top: 0px;
+      text-align: center;
+    }
+
+    .overlay a {
+      color: #fff;
+      /* overlay LINK COLOR */
+    }
+
+    .overlay a:hover {
+      color: #40ad4b;
+      /* overlay LINK HOVER */
+    }
+    /* CREDIT - DONT TOUCH */
+
+    #cr {
+      bottom: 10px;
+      right: 10px;
+      font-weight: bold;
+      color: #62d1d1;
+      font-size: 12px;
+      position: fixed;
+      background: #fff;
+      padding: 5px 7px;
+      border: 1px solid #ccc;
+      box-shadow: rgba(0, 0, 0, 0.06) 5px 5px;
+    }
+
+  </style>
+  <script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=7edb3c3b36e8b351a1249cf33411a3a7"></script>
+  <meta http-equiv="x-dns-prefetch-control" content="off" />
+</head>
+
+<body>
+
+  <div class="top">
+    <a href="/" title="back home">SHIPS</a><br> otp and ot3
+  </div>
+
+  <div id="center">
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">remindmeagainwhywerenottogethertheresuhnorightanswertothatistheresonightwingoutyoustillhaveitbabsjustshutupforasecondletmejustenjoyseeingyoualiveokaybarbaraanddickuntiltheendoftheworldgetdressedtrueloveweregoingoutitdidntendthereformeilovedyouwhenididntknowwhatlovewasitsnevergoingtobeperfectitsalwaysgoingtobejustusmakingthebestofwhatweregivenijusthopethatsomedayyoullletmeexplainherestothefutureiknowweca</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;">
+          <a href="/tagged/dickbabs">barbara & dick</a>
+          <br>
+          <span style="font-size:12px">otp: not on your life, boy wonder</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/coldwave">leonard & mick</a>
+          <br><span style="font-size:12px">otp: it's you and me, right?</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/lauriver">laurel & oliver</a>
+          <br><span style="font-size:12px">otp: i know you like i know my own name</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/merlance">laurel & tommy</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/goldenvibe">cisco & lisa</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/westallen">barry & iris</a>
+          <br><span style="font-size:12px">otp: hands off my fries</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/rogue-canary">leonard & mick & sara</a>
+          <br><span style="font-size:12px">ot3: killer, klepto, and pyro</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">usethelassoifyoudontbelievemeidontthinkyouveeverknownawomanlikemeyouplayroughmoremoreormorelessillletyougetbacktoworkthankyoubruceamiblueisawhiscynicismcrackatleasttwicenodatingforthebatmanitmightcutintoyourbroodingtimeisthatenough</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/wonderbat">bruce & diana</a>
+          <br><span style="font-size:12px">otp: so what do i tell the press?</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/karolsen">james & kara</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/green-siren">e2 laurel & oliver</a>
+          <br><span style="font-size:12px">otp: she was never there</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">doyouknowwhattodointimeslikethiswhatdoyoumeanyoudontevenknowwhyimupsetwhatapainicouldneverunderstandwhatyoufeelsorayourealwaysinpeoplesbusiness</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/taiorato">matt & sora & tai</a>
+          <br><span style="font-size:12px">ot3: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">SonowitsaconspiracyIdidntcomeheretohaveadebateYouraskingmetobreakthelawImaskingyoutomakeamistakenothurtanyonenotstealanythingjustforgettolockupLeavethedoorunlockedwhenyouleavetonightthatsitPleaseThisiswhereyourbreakingoutofthisroomTherearealarmcontactsintheglasssurroundingthedoorotherwiseIwouldntneedyoutoIwaspartofyourplanWhatitallanactAtfirstyesIneededtobeherebutthenIwantedtobeherewithyouRightAnditskillingmetoknowthatyouwillneverbelievethatWhateveryoumaythinkofmethisisaboutLincolndontmakehimpayformymistakes</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/misa">michael & sara</a>
+          <br><span style="font-size:12px">otp: the ocean is your front yard</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">theyrehazelillbethefirstonetotellyoutotakeitsorryyoualmostgotfreltedatalltimesyousacrificedyourselftocompetewithmeifeellikeimcaughtbetweenarockandahardplacenogoodcancomefromthisnellwecouldgetfiredfinishyoursentencesdotheyalwaysexpectmiraclesyoudivideandilluhconquerwenevergetthecredithesbeentalkingbackwardsallmorningimprettysureitsasoftwareissuesoifyouwerentaboypuncherwhatwasyourstrategyokayisenttheflowerstom</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/neric">eric & nell</a>
+          <br><span style="font-size:12px">otp: i just have this buzzing in my ear</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/korrasami">asami & korra</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/cynco">cisco & cynthia</a>
+          <br><span style="font-size:12px">otp: we are connected, jackass</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/timeship">gideon & rip</a>
+          <br><span style="font-size:12px">otp: you always are</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">somethingaboutthebeachisntitobviousthefogitsgettingthickerhitthesnoozebuttononemoretimepleasedontworrykarimylightwillguideusthisisnttheescapeplanihadinminditstoohightklooksdangerousyougofirstgreatnowkarisafraidicantletherseethatiamtooivegottobebravenoiwontletyougotklookslikeyoutwoarefallingforeachothertogetheragainjustlikeoldtimeskariivebeenlookingalloverforyouareyouokayitwasweirdiwasatthebeachyouditchedschoolnosillythebeachwasinadifferentdimension</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/takari">kari & t.k.</a>
+          <br><span style="font-size:12px">otp: i care too much about you to let anyone take you without a fight</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/snowstorm">caitlin & ronnie</a>
+          <br><span style="font-size:12px">otp: like fire and ice</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">thecolonelalwayscallsmerizawhenwerealonetogetherworryaboutyourselfforonceifeellikeicantrustyoutowatchmybackifyouregoingtoshootshootwhatwillyoudoafterimdeaddontgowhereicantfollowyouunderstoodmysignalimnotsurehowbutimgladilovehowuncannyhistimingisitcantbeitsrainingunderstrictordersnottodietheyveeventakenmyqueenwillyoufollowmewhatinthehellareyoudoingtomylieutenantonceagainivecausedyoupainthereissomeoneiwantedtoprotect</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/royai">riza & roy</a>
+          <br><span style="font-size:12px">otp: if that is your wish, then even into hell</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">youarethemostcapablequalifiedtrustworthypersoniveevermetyouregoingtodogreatIdontlikeitwhenyouhaveplansImallowedtohaveplansonmybirthdayTearsforyourlonglostbossTearsofjoyIhatejobhuntingidonthaveanyonebutyouyoulookandsmellgreatbuticouldfireyouifthatwouldtaketheedgeoffiactuallydontthinkthatyoucouldtieyourshoeswithoutmelotsofoliveslikeatleastthreeolivesthisisnottheworstthingyouvecaughtmedoingtellmeyoudontthinkabouthatnight</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/pepperony">Pepper & Tony</a>
+          <br><span style="font-size:12px">otp: i have you for the other eight</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/shipname">Jean & Scott</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/baby-batcat">bruce & selina</a>
+          <br><span style="font-size:12px">otp: be that as it may</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/joecile">cecile & joe</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/blackvibe">cisco & laurel</a>
+          <br><span style="font-size:12px">otp: you show this to anyone, i'll kill you</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/deckerstar">chloe & lucifer</a>
+          <br><span style="font-size:12px">otp: you shot me on purpose</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/unholy-trinity">jesse & proinsias & tulip</a>
+          <br><span style="font-size:12px">ot3: what is wrong with you</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/scholsent">clark & james & winn</a>
+          <br><span style="font-size:12px">ot3: i haven't had this since clark</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">becauseyoulivetotorturemedontyouHaveyoufalleninlovewithwrongpersonyetIfwecrashintotheparkinglotofaKeyFoodIllkillyouyouknowthatItwouldhavebeenalotlesspainfulBecausethereisntanythingIbelieveinmore.ThereisnopretendingpretendingitcouldbeanyotherwayisjustawasteoftimeIpitythemuggerwhogoesafteryouIreallywishyouhadntwornthatsweateroseyoureyesandthinkofEnglandStickwithmeanditwontbethelastWhatkindofwalktakessixhoursItwasniceofyoutogivemeanything</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/clace">clary & jace</a>
+          <br><span style="font-size:12px">otp: Open your eyes</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/jaybabs">barbara & jason</a>
+          <br><span style="font-size:12px">otp: my knight in shining armour</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/coldwestallen">barry & iris & leonard</a>
+          <br><span style="font-size:12px">ot3: true love. that's your pitch?</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/mirrortop">rosalind & sam</a>
+          <br><span style="font-size:12px">otp: our town, baby</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/jena">jack & lena</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/zedstantine">john & zed</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/timehex">jonah & rip</a>
+          <br><span style="font-size:12px">otp: i reckon that'd be okay</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/atomic-hawk">kendra & ray</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/jily">james & lily</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/steelvixen">amaya & nate</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/wondertrev">diana & steve</a>
+          <br><span style="font-size:12px">otp: i wish we had more time</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/raylicity">felicity & ray</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/clois">clark & lois</a>
+          <br><span style="font-size:12px">otp: they say it's downhill after the first kiss</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/persalle">christopher & sonja</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/densi">kensi & deeks</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/vixenwave">amaya & mick</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/thearoy">roy & thea</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/mcabby">abby & tim</a>
+          <br><span style="font-size:12px">otp: you said it was a box sofa bed</span>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/andratrix">andraia & matrix</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/malec">alec & magnus</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/steroline">caroline & stefan</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/olicity">felicity & oliver</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/nyssara">nyssa & sara</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/klaroline">caroline & niklaus</a>
+          <br><span style="font-size:12px">otp: needquote</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/lauryssa">laurel & nyssa</a>
+          <br><span style="font-size:12px">otp: dip it in your milkshake</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quotebox">
+      <div class="basetext">
+        <span style="font-size:12px">Need a Quote</span>
+      </div>
+      <div class="overlay">
+        <div style="margin-top:75px;"><a href="/tagged/coldflash">barry & leonard</a>
+          <br><span style="font-size:12px">otp: don't spill it's bad luck</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- CREDIT - DONT TOUCH! -->
+
+
+
+  </div>
+    <a href="http://kimtys.tumblr.com" title="theme by kimtys">
+      <div id="cr">k.</div>
+    </a>
+
+</body>
+</html>
