@@ -345,9 +345,9 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
     </div>
     <div class="links">
     <!-- this is where your header links are. feel free to add more. -->
-        <a href="http://calmandcalculating.tumblr.com">home</a>
-        <a href="http://calmandcalculating.tumblr.com/about">about</a>
-        <a href="http://calmandcalculating.tumblr.com/shows">shows</a>
+        <a href="http://marcomardon.tumblr.com">home</a>
+        <a href="http://marcomardon.tumblr.com/about">about</a>
+        <a href="http://marcomardon.tumblr.com/shows">shows</a>
         <a href="http://meggerrsss.tumblr.com">gifsblog</a>
         <!-- do not remove this one!!! -->
         <a href="http://alydae.tumblr.com">x</a>
@@ -410,6 +410,10 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
 	<a href="/calendar">dc fandom calendar</a>
 	<a href="/tagged/legendsviewingparty">legends viewing party</a>
 <h8>inactive / complete</h8>
+	<a href="/tagged/losfdiversityweek">losf diversity week</a>
+	<a href="/tagged/jamesolsenweek">james olsen week</a>
+	<a href="/tagged/coldwaveweek2017">coldwave week 2017</a>
+	<a href="/tagged/pepperonyweek17">pepperony week 2017</a>
 	<a href="/tagged/losfpolyamweek">flarrow polyamory week</a>
 	<a href="/tagged/aggressivelyarospecweek">aggressively arospec week</a>
 	<a href="/tagged/pride-month-challenge">pride month challenge</a>	
@@ -448,13 +452,13 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
     <a href="/search/meggifs+supergirledit">supergirl</a>
     <a href="/search/meggifs+dcau">dc animated</a>
     <a href="/search/meggifs+dceu">dc cinematic</a>
-    <a href="/search/meggifs+pbedit">prison break</a>
     <a href="/search/meggifs+yjedit">young justice</a>
 <h8>less frequently giffed</h8>
     <a href="/search/meggifs+gotham">gotham</a>
     <a href="/search/meggifs+ncis">ncis</a>
     <a href="/search/meggifs+h50edit">hawaii five-0</a>
     <a href="/search/meggifs+frequencyedit">frequency</a>
+    <a href="/search/meggifs+pbedit">prison break</a>
     <a href="/search/meggifs+luciferedit">lucifer</a>
     <a href="/search/meggifs+injusticeedit">injustice</a>
     <a href="/search/meggifs+wliiaedit">whose line is it anyway</a>
@@ -487,7 +491,6 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
 	<a href="http://isotherms.tumblr.com/">isotherms</a>
 	<a href="http://abszero.tumblr.com/">abszero</a>
 	<a href="http://corioli.tumblr.com/">corioli</a>
-	<a href="/">leonardsnartdefensesquad</a>
 </div>
 </div>
 
@@ -502,8 +505,8 @@ I have a mess of a tagging system that sometimes only I understand, hopefully th
     <a href="/tagged/meghan's-life">personal</a>
 	<a href="/tagged/meghan-has-opinions">opinions</a>
 <h8>upcoming projects</h8>
-	<a href="/tagged/jamesolsenweek">james olsen week</a>
-	<a href="/tagged/coldwaveweek2017">coldwave week 2017</a>
+	<a href="/tagged/fandom weeks">none</a>
+
 </div>
 </div>
 

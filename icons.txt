@@ -244,6 +244,7 @@ a {
 <a href="#" rel="mardon" class="filters">marco mardon/weather wizard</a><br>
 <a href="#" rel="rory" class="filters">mick rory/heat wave</a><br>
 <a href="#" rel="heywood" class="filters">nate heywood/steel</a></a><br>
+<a href="#" rel="queen" class="filters">oliver queen/green arrow</a></a><br>
 <a href="#" rel="raven" class="filters">raven/rachel roth</a><br>
 <a href="#" rel="montoya" class="filters">renee montoya/question</a></a><br>
 <a href="#" rel="rosa" class="filters">rosalind dillon/the top</a></a><br>
@@ -308,6 +309,10 @@ a {
 
 <!-- GREEN GREEN -->
 <!-- GREEN GREEN -->
+<span class="all new panels rebirth fave queen"><a href="https://image.ibb.co/iYLUBa/ollieicon2.png"><img src="https://image.ibb.co/iYLUBa/ollieicon2.png" border="0"></a></span>
+<span class="all new panels preboot desmond"><a href="https://image.ibb.co/hyR2Wa/almint1.png"><img src="https://image.ibb.co/hyR2Wa/almint1.png" alt="karaicons2" border="0"></a></span>
+<span class="all new panels preboot desmond"><a href="https://image.ibb.co/mgeNWa/almint5.png"><img src="https://image.ibb.co/mgeNWa/almint5.png" alt="karaicons2" border="0"></a></span>
+<span class="all new panels preboot desmond"><a href="https://image.ibb.co/dGDhWa/almint6.png"><img src="https://image.ibb.co/dGDhWa/almint6.png" alt="karaicons2" border="0"></a></span>
 <span class="all new fave panels rebirth gordon"><a href="https://imgbb.com/"><img src="https://image.ibb.co/n6HnQF/bab4.png" alt="bab4" border="0"></a></span>
 <span class="all new fave panels new52 rathaway"><a href="https://ibb.co/hHbcyQ"><img src="https://image.ibb.co/krvsXk/hart.png" alt="hart" border="0"></a></span>
 <span class="all new lot jiwe heywood lot213"><a href="https://ibb.co/fm6Lvv"><img src="https://image.ibb.co/bA3N8F/steelvixen5.gif" alt="steelvixen5" border="0"></a></span>
@@ -532,10 +537,8 @@ a {
 
 
 
-<span class="all new panels new52 zorel"></span>
-<span class="all new panels new52 zorel"><a href="https://ibb.co/b1Ui5k"><img src="https://image.ibb.co/d5w7WQ/karaicons2.png" alt="karaicons2" border="0"></a></span>
-<span class="all new panels new52 zorel"><a href="https://ibb.co/f9Aqkk"><img src="https://image.ibb.co/dUrKd5/karaicons4.png" alt="karaicons4" border="0"></a></span>
-<span class="all new panels new52 zorel"><a href="https://ibb.co/mLJMrQ"><img src="https://image.ibb.co/bRACy5/karaicons5.png" alt="karaicons5" border="0"></a></span>
+
+
 end base icon code -->
 
 </div> 

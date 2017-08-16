@@ -1863,7 +1863,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item info flash " name="2017025flash401">
+<div class="item fave info flash " name="2017025flash401">
  
 <div class="content">
     <img src="https://unsplash.it/401?random" />
@@ -1885,7 +1885,7 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/lot 3x01">Legends of Tomorrow 3x01</a>
 </div><div class="bottom">
-	<b>title:</b> ?<br />
+	<b>title:</b> Aruba-Con<br />
     <b>contains:</b> Mick Rory <br />
     <b>mentions:</b> ? <br />
 

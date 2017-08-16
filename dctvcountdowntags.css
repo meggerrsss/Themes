@@ -83,7 +83,7 @@ a:hover {
 
 #title{
     float:left;
-    margin-left:25px;
+    margin-left:18px;
     margin-top:18px;
     text-transform:uppercase;
     text-align:center;
@@ -96,7 +96,7 @@ a:hover {
 #navlinks{
     float:right;
     margin-top:13px;
-    margin-right:20px;
+    margin-right:18px;
     text-align:right;
     z-index:999999999;
 }
@@ -122,18 +122,18 @@ a:hover {
     width:90%;
     text-align:center;
     margin-left:auto;
-    margin-right:auto;
+    margin-right:0px;
     margin-top:120px;
     margin-bottom:100px;
 }
 
 article{
     float:center;
-    width:170px;
+    width:150px;
     border: 0px solid #dbdbdb;
     padding:0px;
-    margin-left:10px;
-    margin-right:10px;
+    margin-left:4px;
+    margin-right:0px;
     margin-bottom:30px;
     background:;
     font-size:0.9em;
@@ -235,76 +235,88 @@ article{
 <article>
 <div class="sectiontitle">arrow</div>
 	<a href="/tagged/team+arrow"><div class="tag">team arrow</div></a>
-	<a href="/tagged/oliver+queen"><div class="tag">oliver queen</div></a>
-    <a href="/tagged/laurel+lance"><div class="tag">laurel lance</div></a>
-	<a href="/tagged/felicity+smoak"><div class="tag">felicity smoak</div></a>
-	<a href="/tagged/john+diggle"><div class="tag">john diggle</div></a>
-	<a href="/tagged/thea+queen"><div class="tag">thea queen</div></a>
-	<a href="/tagged/quentin+lance"><div class="tag">quentin lance</div></a>
-	<a href="/tagged/roy+harper"><div class="tag">roy harper</div></a>
-	<a href="/tagged/lyla+michaels"><div class="tag">lyla michaels</div></a>
-	<a href="/tagged/e2+laurel+lance"><div class="tag">e2 laurel lance</div></a>
+	<a href="/tagged/adrian chase"><div class="tag">adrian chase</div></a>
+	<a href="/tagged/amanda waller"><div class="tag">amanda waller</div></a>
+	<a href="/tagged/anatoly knyazev"><div class="tag">anatoly knyazev</div></a>
+	<a href="/tagged/billy malone"><div class="tag">billy malone</div></a>
+	<a href="/tagged/christopher chance"><div class="tag">christopher chance</div></a>
 	<a href="/tagged/curtis+holt"><div class="tag">curtis holt</div></a>
-	<a href="/tagged/slade+wilson"><div class="tag">slade wilson</div></a>
-	<a href="/tagged/moira queen"><div class="tag">moira queen</div></a>
-	<a href="/tagged/tommy merlyn"><div class="tag">tommy merlyn</div></a>
 	<a href="/tagged/damien darhk"><div class="tag">damien darhk</div></a>
-	<a href="/tagged/robert queen"><div class="tag">robert queen</div></a>
-	<a href="/tagged/john constantine"><div class="tag">john constantine</div></a>
-	<a href="/tagged/rene ramirez"><div class="tag">rene ramirez</div></a>
-	<a href="/tagged/rory regan"><div class="tag">rory regan</div></a>
-	<a href="/tagged/samantha clayton"><div class="tag">samantha clayton</div></a>
-	<a href="/tagged/mari mccabe"><div class="tag">mari mccabe</div></a>
-	<a href="/tagged/malcolm merlyn"><div class="tag">malcolm merlyn</div></a>
-	<a href="/tagged/shado"><div class="tag">shado</div></a>
-	<a href="/tagged/nyssa al ghul"><div class="tag">nyssa al ghul</div></a>
-	<a href="/tagged/walter steele"><div class="tag">walter steele</div></a>
-	<a href="/tagged/leviathan"><div class="tag">leviathan</div></a>
+	<a href="/tagged/dinah drake"><div class="tag">dinah drake</div></a>
+	<a href="/tagged/doris chase"><div class="tag">doris chase</div></a>
+	<a href="/tagged/evelyn sharp"><div class="tag">evelyn sharp</div></a>
+	<a href="/tagged/felicity+smoak"><div class="tag">felicity smoak</div></a>
 	<a href="/tagged/floyd lawton"><div class="tag">floyd lawton</div></a>
 	<a href="/tagged/helena bertinelli"><div class="tag">helena bertinelli</div></a>
-	<a href="/tagged/amanda waller"><div class="tag">amanda waller</div></a>
+	<a href="/tagged/ishmael gregor"><div class="tag">ishmael gregor</div></a>
+	<a href="/tagged/john constantine"><div class="tag">john constantine</div></a>
+	<a href="/tagged/john+diggle"><div class="tag">john diggle</div></a>
+	<a href="/tagged/konstantin kovar"><div class="tag">konstantin kovar</div></a>
+    <a href="/tagged/laurel+lance"><div class="tag">laurel lance</div></a>
+	<a href="/tagged/e2+laurel+lance"><div class="tag">e2 laurel lance</div></a>
+	<a href="/tagged/lonnie machin"><div class="tag">lonnie machin</div></a>
+	<a href="/tagged/lyla+michaels"><div class="tag">lyla michaels</div></a>
+	<a href="/tagged/malcolm merlyn"><div class="tag">malcolm merlyn</div></a>
+	<a href="/tagged/mari mccabe"><div class="tag">mari mccabe</div></a>
+	<a href="/tagged/moira queen"><div class="tag">moira queen</div></a>
+	<a href="/tagged/nyssa al ghul"><div class="tag">nyssa al ghul</div></a>
+	<a href="/tagged/oliver+queen"><div class="tag">oliver queen</div></a>
+	<a href="/tagged/quentin+lance"><div class="tag">quentin lance</div></a>
+	<a href="/tagged/rene ramirez"><div class="tag">rene ramirez</div></a>
+	<a href="/tagged/robert queen"><div class="tag">robert queen</div></a>
+	<a href="/tagged/rory regan"><div class="tag">rory regan</div></a>
+	<a href="/tagged/roy+harper"><div class="tag">roy harper</div></a>
+	<a href="/tagged/samantha clayton"><div class="tag">samantha clayton</div></a>
+	<a href="/tagged/shado"><div class="tag">shado</div></a>
+	<a href="/tagged/slade+wilson"><div class="tag">slade wilson</div></a>
+	<a href="/tagged/susan williams"><div class="tag">susan williams</div></a>
+	<a href="/tagged/talia al ghul"><div class="tag">talia al ghul</div></a>
+	<a href="/tagged/thea+queen"><div class="tag">thea queen</div></a>
+	<a href="/tagged/tommy merlyn"><div class="tag">tommy merlyn</div></a>
+	<a href="/tagged/walter steele"><div class="tag">walter steele</div></a>
+	<a href="/tagged/zoe ramirez"><div class="tag">zoe ramirez</div></a>
 </article>
 <!-- END SECTION -->
 
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">gotham</div>
-    <a href="/tagged/jim+gordon"><div class="tag">jim gordon</div></a>
+	<a href="/tagged/alfred pennyworth"><div class="tag">alfred pennyworth</div></a>
+	<a href="/tagged/alice tetch"><div class="tag">alice tetch</div></a>
+	<a href="/tagged/aubrey james"><div class="tag">aubrey james</div></a>
+	<a href="/tagged/barbara kean"><div class="tag">barbara kean</div></a>
+	<a href="/tagged/bridgit pike"><div class="tag">bridgit pike</div></a>
 	<a href="/tagged/bruce+wayne"><div class="tag">bruce wayne</div></a>
+	<a href="/tagged/bruce+wayne clone"><div class="tag">bruce wayne clone</div></a>
+	<a href="/tagged/butch gilzean"><div class="tag">butch gilzean</div></a>
+	<a href="/tagged/carmine falcone"><div class="tag">carmine falcone</div></a>
+	<a href="/tagged/edward+nygma"><div class="tag">edward nygma</div></a>
+	<a href="/tagged/ethel peabody"><div class="tag">ethel peabody</div></a>
 	<a href="/tagged/fish+mooney"><div class="tag">fish mooney</div></a>
 	<a href="/tagged/harvey+bullock"><div class="tag">harvey bullock</div></a>
-	<a href="/tagged/selina+kyle"><div class="tag">selina kyle</div></a>
-	<a href="/tagged/edward+nygma"><div class="tag">edward nygma</div></a>
-	<a href="/tagged/oswald+cobblepot"><div class="tag">oswald cobblepot</div></a>
-	<a href="/tagged/jerome valeska"><div class="tag">jerome valeska</div></a>
-	<a href="/tagged/leslie thompkins"><div class="tag">leslie thompkins</div></a>
-	<a href="/tagged/nathaniel barnes"><div class="tag">nathaniel barnes</div></a>
-	<a href="/tagged/alfred pennyworth"><div class="tag">alfred pennyworth</div></a>
 	<a href="/tagged/hugo strange"><div class="tag">hugo strange</div></a>
-	<a href="/tagged/ethel peabody"><div class="tag">ethel peabody</div></a>
-	<a href="/tagged/tabitha galavan"><div class="tag">tabitha galavan</div></a>
-	<a href="/tagged/barbara kean"><div class="tag">barbara kean</div></a>
-	<a href="/tagged/sarah essen"><div class="tag">sarah essen</div></a>
-	<a href="/tagged/theo galavan"><div class="tag">theo galavan</div></a>
-	<a href="/tagged/lucius fox"><div class="tag">lucius fox</div></a>
 	<a href="/tagged/ivy pepper"><div class="tag">ivy pepper</div></a>
-	<a href="/tagged/valerie vale"><div class="tag">valerie vale</div></a>
-	<a href="/tagged/butch gilzean"><div class="tag">butch gilzean</div></a>
-	<a href="/tagged/mary grayson"><div class="tag">mary grayson</div></a>
-	<a href="/tagged/john grayson"><div class="tag">john grayson</div></a>
-	<a href="/tagged/bruce+wayne clone"><div class="tag">bruce wayne clone</div></a>
-	<a href="/tagged/kathryn"><div class="tag">kathryn</div></a>
+	<a href="/tagged/jerome valeska"><div class="tag">jerome valeska</div></a>
 	<a href="/tagged/jervis tetch"><div class="tag">jervis tetch</div></a>
-	<a href="/tagged/alice tetch"><div class="tag">alice tetch</div></a>
-	<a href="/tagged/white rabbit"><div class="tag">white rabbit</div></a>
-	<a href="/tagged/carmine falcone"><div class="tag">carmine falcone</div></a>
-	<a href="/tagged/mario falcone"><div class="tag">mario falcone</div></a>
-	<a href="/tagged/maria kyle"><div class="tag">maria kyle</div></a>
-	<a href="/tagged/victor zsasz"><div class="tag">victor zsasz</div></a>
+    <a href="/tagged/jim+gordon"><div class="tag">jim gordon</div></a>
+	<a href="/tagged/john grayson"><div class="tag">john grayson</div></a>
 	<a href="/tagged/jokerz"><div class="tag">jokerz</div></a>
-	<a href="/tagged/aubrey james"><div class="tag">aubrey james</div></a>
+	<a href="/tagged/kathryn"><div class="tag">kathryn</div></a>
+	<a href="/tagged/leslie thompkins"><div class="tag">leslie thompkins</div></a>
+	<a href="/tagged/lucius fox"><div class="tag">lucius fox</div></a>
+	<a href="/tagged/maria kyle"><div class="tag">maria kyle</div></a>
+	<a href="/tagged/mario falcone"><div class="tag">mario falcone</div></a>
+	<a href="/tagged/mary grayson"><div class="tag">mary grayson</div></a>
+	<a href="/tagged/nathaniel barnes"><div class="tag">nathaniel barnes</div></a>
+	<a href="/tagged/oswald+cobblepot"><div class="tag">oswald cobblepot</div></a>
+	<a href="/tagged/sarah essen"><div class="tag">sarah essen</div></a>
+	<a href="/tagged/selina+kyle"><div class="tag">selina kyle</div></a>
+	<a href="/tagged/tabitha galavan"><div class="tag">tabitha galavan</div></a>
+	<a href="/tagged/theo galavan"><div class="tag">theo galavan</div></a>
+	<a href="/tagged/valerie vale"><div class="tag">valerie vale</div></a>
 	<a href="/tagged/victor fries"><div class="tag">victor fries</div></a>
-	<a href="/tagged/bridgit pike"><div class="tag">bridgit pike</div></a>
+	<a href="/tagged/victor zsasz"><div class="tag">victor zsasz</div></a>
+	<a href="/tagged/white rabbit"><div class="tag">white rabbit</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -312,49 +324,72 @@ article{
 <article>
 <div class="sectiontitle">the flash</div>
 	<a href="/tagged/barry+allen"><div class="tag">barry allen</div></a>
-	<a href="/tagged/cisco+ramon"><div class="tag">cisco ramon</div></a>
 	<a href="/tagged/caitlin+snow"><div class="tag">caitlin snow</div></a>  
-	<a href="/tagged/iris+west"><div class="tag">iris west</div></a>  
-    <a href="/tagged/joe+west"><div class="tag">joe west</div></a>
-	<a href="/tagged/jesse+wells"><div class="tag">jesse wells</div></a>
-	<a href="/tagged/harry+wells"><div class="tag">harry wells</div></a>
-	<a href="/tagged/wally west"><div class="tag">wally west</div></a>
-	<a href="/tagged/hunter zolomon"><div class="tag">hunter zolomon</div></a>
-	<a href="/tagged/hr wells"><div class="tag">hr wells</div></a>
-	<a href="/tagged/henry allen"><div class="tag">henry allen</div></a>
-	<a href="/tagged/harrison wells"><div class="tag">harrison wells</div></a>
+	<a href="/tagged/e2 caitlin snow"><div class="tag">e2 caitlin snow</div></a>
+	<a href="/tagged/cisco+ramon"><div class="tag">cisco ramon</div></a>
 	<a href="/tagged/clyde mardon"><div class="tag">clyde mardon</div></a>
+	<a href="/tagged/cynthia reynolds"><div class="tag">cynthia reynolds</div></a>
 	<a href="/tagged/eddie thawne"><div class="tag">eddie thawne</div></a>
 	<a href="/tagged/eobard thawne"><div class="tag">eobard thawne</div></a>
+	<a href="/tagged/francine west"><div class="tag">francine west</div></a>
+	<a href="/tagged/grodd"><div class="tag">grodd</div></a>
+	<a href="/tagged/harrison wells"><div class="tag">harrison wells</div></a>
+	<a href="/tagged/harry+wells"><div class="tag">harry wells</div></a>
 	<a href="/tagged/hartley rathaway"><div class="tag">hartley rathaway</div></a>
-	<a href="/tagged/linda park"><div class="tag">linda park</div></a>
+	<a href="/tagged/henry allen"><div class="tag">henry allen</div></a>
+	<a href="/tagged/hr wells"><div class="tag">hr wells</div></a>
+	<a href="/tagged/hunter zolomon"><div class="tag">hunter zolomon</div></a>
+	<a href="/tagged/iris+west"><div class="tag">iris west</div></a>  
 	<a href="/tagged/e2 iris west"><div class="tag">e2 iris west</div></a>
-	<a href="/tagged/nora allen"><div class="tag">nora allen</div></a>
-	<a href="/tagged/hartley rathaway"><div class="tag">hartley rathaway</div></a>
+	<a href="/tagged/jesse+wells"><div class="tag">jesse wells</div></a>
+    <a href="/tagged/joe+west"><div class="tag">joe west</div></a>
+	<a href="/tagged/julian albert"><div class="tag">julian albert</div></a>
+	<a href="/tagged/linda park"><div class="tag">linda park</div></a>
 	<a href="/tagged/lisa snart"><div class="tag">lisa snart</div></a>
-	<a href="/tagged/e2 ronnie raymond"><div class="tag">e2 ronnie raymond</div></a>
-	<a href="/tagged/e2 caitlin snow"><div class="tag">e2 caitlin snow</div></a>
+	<a href="/tagged/nora allen"><div class="tag">nora allen</div></a>
 	<a href="/tagged/ronnie raymond"><div class="tag">ronnie raymond</div></a>
+	<a href="/tagged/e2 ronnie raymond"><div class="tag">e2 ronnie raymond</div></a>
+	<a href="/tagged/rosa dillon"><div class="tag">rosa dillon</div></a>
+	<a href="/tagged/sam scudder"><div class="tag">sam scudder</div></a>
+	<a href="/tagged/savitar"><div class="tag">savitar</div></a>
+	<a href="/tagged/tracy brand"><div class="tag">tracy brand</div></a>
+	<a href="/tagged/wally west"><div class="tag">wally west</div></a>
 </article>
 <!-- END SECTION -->
 
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">supergirl</div>
-    <a href="/tagged/kara+danvers"><div class="tag">kara zor el</div></a>
-	<a href="/tagged/hank+henshaw"><div class="tag">j'onn j'onzz</div></a>
 	<a href="/tagged/alex+danvers"><div class="tag">alex danvers</div></a>
-	<a href="/tagged/winn+schott"><div class="tag">winn schott</div></a>
-	<a href="/tagged/james+olsen"><div class="tag">james olsen</div></a>
-	<a href="/tagged/cat+grant"><div class="tag">cat grant</div></a>
-	<a href="/tagged/non in ze"><div class="tag">non in ze</div></a>
-	<a href="/tagged/lucy lane"><div class="tag">lucy lane</div></a>
 	<a href="/tagged/alura zor el"><div class="tag">alura zor el</div></a>
 	<a href="/tagged/bizarro"><div class="tag">bizarro</div></a>
+	<a href="/tagged/cat+grant"><div class="tag">cat grant</div></a>
+	<a href="/tagged/clark kent"><div class="tag">clark kent</div></a>
+	<a href="/tagged/eliza danvers"><div class="tag">eliza danvers</div></a>
+	<a href="/tagged/hank+henshaw"><div class="tag">j'onn j'onzz</div></a>
+	<a href="/tagged/jack spheer"><div class="tag">jack spheer</div></a>
+	<a href="/tagged/james+olsen"><div class="tag">james olsen</div></a>
+	<a href="/tagged/jeremiah danvers"><div class="tag">jeremiah danvers</div></a>
+	<a href="/tagged/kara danvers"><div class="tag">kara danvers</div></a>
+    <a href="/tagged/kara+danvers"><div class="tag">kara zor el</div></a>
+	<a href="/tagged/lar gand"><div class="tag">lar gand</div></a>
+	<a href="/tagged/lena luthor"><div class="tag">lena luthor</div></a>
+	<a href="/tagged/leslie willis"><div class="tag">leslie willis</div></a>
+	<a href="/tagged/lillian luthor"><div class="tag">lillian luthor</div></a>
+	<a href="/tagged/lucy lane"><div class="tag">lucy lane</div></a>
+	<a href="/tagged/lyra strayd"><div class="tag">lyra strayd</div></a>
+	<a href="/tagged/m'gann m'orzz"><div class="tag">m'gann m'orzz</div></a>
+	<a href="/tagged/maggie sawyer"><div class="tag">maggie sawyer</div></a>
+	<a href="/tagged/master jailer"><div class="tag">master jailer</div></a>
+	<a href="/tagged/mon el"><div class="tag">mon el</div></a>
+	<a href="/tagged/mxyzptlk"><div class="tag">mxyzptlk</div></a>
+	<a href="/tagged/non in ze"><div class="tag">non in ze</div></a>
+	<a href="/tagged/olivia marsdin"><div class="tag">olivia marsdin</div></a>
+	<a href="/tagged/rhea"><div class="tag">rhea</div></a>
 	<a href="/tagged/sam lane"><div class="tag">sam lane</div></a>
 	<a href="/tagged/siobhan smythe"><div class="tag">siobhan smythe</div></a>
-	<a href="/tagged/leslie willis"><div class="tag">leslie willis</div></a>
-	<a href="/tagged/master jailer"><div class="tag">master jailer</div></a>
+	<a href="/tagged/snapper carr"><div class="tag">snapper carr</div></a>
+	<a href="/tagged/winn+schott"><div class="tag">winn schott</div></a>
 	<a href="/tagged/zor el"><div class="tag">zor el</div></a>
 </article>
 <!-- END SECTION -->
@@ -368,78 +403,80 @@ article{
 <article>
 <div class="sectiontitle">legends of tomorrow</div>
     <a href="/tagged/team+legends"><div class="tag">team legends</div></a>
-	<a href="/tagged/sara+lance"><div class="tag">sara lance</div></a>
-	<a href="/tagged/ray+palmer"><div class="tag">ray palmer</div></a>
-    <a href="/tagged/leonard+snart"><div class="tag">leonard snart</div></a>
-	<a href="/tagged/mick+rory"><div class="tag">mick rory</div></a>
-	<a href="/tagged/martin+stein"><div class="tag">martin stein</div></a>
-	<a href="/tagged/jefferson+jackson"><div class="tag">jefferson jackson</div></a>
-	<a href="/tagged/kendra+saunders"><div class="tag">kendra saunders</div></a>
-	<a href="/tagged/rip+hunter"><div class="tag">rip hunter</div></a>
-	<a href="/tagged/carter+hall"><div class="tag">rip hunter</div></a>
-	<a href="/tagged/nate+heywood"><div class="tag">nate heywood</div></a>
-	<a href="/tagged/connor hawke"><div class="tag">connor hawke</div></a>
 	<a href="/tagged/amaya jiwe"><div class="tag">amaya jiwe</div></a>
-	<a href="/tagged/vandal savage"><div class="tag">vandal savage</div></a>
-	<a href="/tagged/gail knox"><div class="tag">gail knox</div></a>
-	<a href="/tagged/jonah hex"><div class="tag">jonah hex</div></a>
-	<a href="/tagged/laurel lance"><div class="tag">laurel lance</div></a>
-	<a href="/tagged/gideon"><div class="tag">gideon</div></a>
-	<a href="/tagged/pilgrim"><div class="tag">pilgrim</div></a>
-	<a href="/tagged/time master druce"><div class="tag">time master druce</div></a>
-	<a href="/tagged/rex tyler"><div class="tag">rex tyler</div></a>
-	<a href="/tagged/chronos"><div class="tag">chronos</div></a>
-	<a href="/tagged/leo snart"><div class="tag">leo snart</div></a>
-	<a href="/tagged/shayera hol"><div class="tag">shayera hol</div></a>
-	<a href="/tagged/miranda coburn"><div class="tag">miranda coburn</div></a>
-	<a href="/tagged/valentina vostok"><div class="tag">valentina vostok</div></a>
-	<a href="/tagged/prince khufu"><div class="tag">prince khufu</div></a>
+	<a href="/tagged/carter+hall"><div class="tag">carter hall</div></a>
 	<a href="/tagged/charles mcnider"><div class="tag">charles mcnider</div></a>
-	<a href="/tagged/damien darhk"><div class="tag">damien darhk</div></a>
-	<a href="/tagged/malcolm merlyn"><div class="tag">malcolm merlyn</div></a>
-	<a href="/tagged/eobard thawne"><div class="tag">eobard thawne</div></a>
-	<a href="/tagged/lily stein"><div class="tag">lily stein</div></a>
-	<a href="/tagged/masako yamashiro"><div class="tag">masako yamashiro</div></a>
-	<a href="/tagged/george washington"><div class="tag">george washington</div></a>
+	<a href="/tagged/chronos"><div class="tag">chronos</div></a>
+	<a href="/tagged/connor hawke"><div class="tag">connor hawke</div></a>
 	<a href="/tagged/courtney whitmore"><div class="tag">courtney whitmore</div></a>
+	<a href="/tagged/gail knox"><div class="tag">gail knox</div></a>
+	<a href="/tagged/george washington"><div class="tag">george washington</div></a>
+	<a href="/tagged/gideon"><div class="tag">gideon</div></a>
+	<a href="/tagged/jefferson+jackson"><div class="tag">jefferson jackson</div></a>
+	<a href="/tagged/jonah hex"><div class="tag">jonah hex</div></a>
+	<a href="/tagged/kendra+saunders"><div class="tag">kendra saunders</div></a>
+    <a href="/tagged/leonard+snart"><div class="tag">leonard snart</div></a>
+	<a href="/tagged/leo snart"><div class="tag">leo snart</div></a>
+	<a href="/tagged/lily stein"><div class="tag">lily stein</div></a>
+	<a href="/tagged/martin+stein"><div class="tag">martin stein</div></a>
+	<a href="/tagged/masako yamashiro"><div class="tag">masako yamashiro</div></a>
+	<a href="/tagged/mick+rory"><div class="tag">mick rory</div></a>
+	<a href="/tagged/miranda coburn"><div class="tag">miranda coburn</div></a>
+	<a href="/tagged/nate+heywood"><div class="tag">nate heywood</div></a>
+	<a href="/tagged/pilgrim"><div class="tag">pilgrim</div></a>
+	<a href="/tagged/prince khufu"><div class="tag">prince khufu</div></a>
+	<a href="/tagged/ray+palmer"><div class="tag">ray palmer</div></a>
+	<a href="/tagged/rex tyler"><div class="tag">rex tyler</div></a>
+	<a href="/tagged/rip+hunter"><div class="tag">rip hunter</div></a>
+	<a href="/tagged/sara+lance"><div class="tag">sara lance</div></a>
+	<a href="/tagged/shayera hol"><div class="tag">shayera hol</div></a>
+	<a href="/tagged/time master druce"><div class="tag">time master druce</div></a>
+	<a href="/tagged/valentina vostok"><div class="tag">valentina vostok</div></a>
+	<a href="/tagged/vandal savage"><div class="tag">vandal savage</div></a>
 </article>
 <!-- END SECTION -->
 
 <!-- START SECTION -->           
 <article>
 <div class="sectiontitle">lucifer</div>
-	<a href="/tagged/lucifer morningstar"><div class="tag">lucifer morningstar</div></a>
-	<a href="/tagged/chloe decker"><div class="tag">chloe decker</div></a>
-	<a href="/tagged/mazikeen"><div class="tag">mazikeen</div></a>
 	<a href="/tagged/amenadiel"><div class="tag">amenadiel</div></a>
-	<a href="/tagged/trixie decker"><div class="tag">trixie decker</div></a>
+	<a href="/tagged/candy morningstar"><div class="tag">candy morningstar</div></a>
 	<a href="/tagged/charlotte richards"><div class="tag">charlotte richards</div></a>
-	<a href="/tagged/linda martin"><div class="tag">linda martin</div></a>
-	<a href="/tagged/ella lopez"><div class="tag">ella lopez</div></a>
+	<a href="/tagged/chloe decker"><div class="tag">chloe decker</div></a>
 	<a href="/tagged/dan espinoza"><div class="tag">dan espinoza</div></a>
 	<a href="/tagged/earl johnson"><div class="tag">earl johnson</div></a>
-	<a href="/tagged/candy morningstar"><div class="tag">candy morningstar</div></a>
+	<a href="/tagged/ella lopez"><div class="tag">ella lopez</div></a>
+	<a href="/tagged/linda martin"><div class="tag">linda martin</div></a>
+	<a href="/tagged/lucifer morningstar"><div class="tag">lucifer morningstar</div></a>
+	<a href="/tagged/mazikeen"><div class="tag">mazikeen</div></a>
 	<a href="/tagged/penelope decker"><div class="tag">penelope decker</div></a>
+	<a href="/tagged/trixie decker"><div class="tag">trixie decker</div></a>
 </article>
 <!-- END SECTION -->
 
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">preacher</div>
-	<a href="/tagged/jesse custer"><div class="tag">jesse custer</div></a>
-	<a href="/tagged/tulip o'hare"><div class="tag">tulip o'hare</div></a>
-	<a href="/tagged/proinsias cassidy"><div class="tag">proinsias cassidy</div></a>
-	<a href="/tagged/fiore"><div class="tag">fiore</div></a>
-	<a href="/tagged/deblanc"><div class="tag">deblanc</div></a>
-	<a href="/tagged/odin quincannon"><div class="tag">odin quincannon</div></a>
-	<a href="/tagged/eugene root"><div class="tag">eugene root</div></a>
-	<a href="/tagged/hugo root"><div class="tag">hugo root</div></a>
-	<a href="/tagged/emily woodrow"><div class="tag">emily woodrow</div></a>
 	<a href="/tagged/chris schenck"><div class="tag">chris schenck</div></a>
+	<a href="/tagged/danni"><div class="tag">danni</div></a>
 	<a href="/tagged/donnie schenck"><div class="tag">donnie schenck</div></a>
+	<a href="/tagged/deblanc"><div class="tag">deblanc</div></a>
+	<a href="/tagged/emily woodrow"><div class="tag">emily woodrow</div></a>
+	<a href="/tagged/eugene root"><div class="tag">eugene root</div></a>
+	<a href="/tagged/fiore"><div class="tag">fiore</div></a>
+	<a href="/tagged/hugo root"><div class="tag">hugo root</div></a>
+	<a href="/tagged/jesse custer"><div class="tag">jesse custer</div></a>
 	<a href="/tagged/john custer"><div class="tag">john custer</div></a>
 	<a href="/tagged/miles person"><div class="tag">miles person</div></a>
-	<a href="/tagged/danni"><div class="tag">danni</div></a>
+	<a href="/tagged/odin quincannon"><div class="tag">odin quincannon</div></a>
+	<a href="/tagged/proinsias cassidy"><div class="tag">proinsias cassidy</div></a>
+	<a href="/tagged/tulip o'hare"><div class="tag">tulip o'hare</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">black lightning</div>
 </article>
 <!-- END SECTION -->
 

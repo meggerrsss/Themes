@@ -242,6 +242,24 @@ article{
 
 <!-- START SECTION --> 
 <article>
+<div class="sectiontitle">albert desmond</div>
+	<a href="/tagged/pairing%3A+alcest"><div class="taginact">alvin desmond (alcest)</div></a>
+	<a href="/tagged/pairing%3A+alobard"><div class="taginact">eobard thawne (alobard)</div></a>
+	<a href="/tagged/pairing%3A+TBA"><div class="taginact">leonard snart (tba)</div></a>
+	<a href="/tagged/pairing%3A+TBA"><div class="taginact">mark mardon (tba)</div></a>
+	<a href="/tagged/pairing%3A+TBA"><div class="taginact">roy bivolo (tba)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
+<div class="sectiontitle">alvin desmond</div>
+	<a href="/tagged/pairing%3A+alcest"><div class="taginact">albert desmond (alcest)</div></a>
+</article>
+<!-- END SECTION -->
+
+<!-- START SECTION --> 
+<article>
 <div class="sectiontitle">axel walker</div>
 	<a href="/tagged/pairing%3A+pipebomb"><div class="tag">hartley rathaway (pipebomb)</div></a>
     <a href="/tagged/pairing%3A+tricksters"><div class="tag">james jesse (tricksters)</div></a>
@@ -314,6 +332,7 @@ article{
     <a href="/tagged/pairing%3A+tricksters"><div class="tag">axel walker (tricksters)</div></a>
 	<a href="/tagged/pairing%3A+pipster"><div class="tag">hartley rathaway (pipster)</div></a>
     <a href="/tagged/pairing%3A+trickweather"><div class="tag">mark mardon (trickweather)</div></a>
+    <a href="/tagged/pairing%3A+mindtrix"><div class="tag">mindy hong (mindtrix)</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -321,6 +340,7 @@ article{
 <article>
 <div class="sectiontitle">leonard snart</div>
     <a href="/tagged/fam%3A+snarts"><div class="tag">lisa snart (snart siblings)</div></a>
+	<a href="/tagged/pairing%3A+TBA"><div class="taginact">albert desmond (tba)</div></a>
 	<a href="/tagged/pairing%3A+coldflash"><div class="tag">barry allen (coldflash)</div></a>
 	<a href="/tagged/pairing%3A+cassnart"><div class="tag">cassandra savage (cassnart)</div></a>
 	<a href="/tagged/pairing%3A+coldvibe"><div class="tag">cisco ramon (coldvibe)</div></a>
@@ -361,7 +381,7 @@ article{
 	<a href="/tagged/pairing%3A+goldwave"><div class="tag">mick rory (goldwave)</div></a>
     <a href="/tagged/pairing%3A+detectivegold"><div class="tag">patty spivot (detectivegold)</div></a>    
 	<a href="/tagged/pairing%3A+goldentop"><div class="tag">rosa dillon (goldentop)</div></a>
-    <a href="/tagged/pairing%3A+liscoe"><div class="taginact">roscoe dillon (liscoe)</div></a>  
+    <a href="/tagged/pairing%3A+liscoe"><div class="tag">roscoe dillon (liscoe)</div></a>  
     <a href="/tagged/pairing%3A+goldmirror"><div class="tag">sam scudder (goldmirror)</div></a> 	
     <a href="/tagged/pairing%3A+whitegold"><div class="tag">sara lance (whitegold)</div></a>
     <a href="/tagged/pairing%3A+goldenboo"><div class="tag">shawna baez (goldenboo)</div></a>
@@ -374,6 +394,7 @@ article{
 <div class="sectiontitle">mark mardon</div>
 	<a href="/tagged/fam%3A+mardons"><div class="tag">clyde mardon (mardon brothers)</div></a>
 	<a href="/tagged/fam%3A+mardons"><div class="tag">elsa mardon (mardon family)</div></a>
+	<a href="/tagged/pairing%3A+TBA"><div class="taginact">albert desmond (tba)</div></a>
     <a href="/tagged/pairing%3A+weathster"><div class="tag">axel walker (weathster)</div></a>
     <a href="/tagged/pairing%3A+flashweather"><div class="tag">barry allen (flashweather)</div></a>
 	<a href="/tagged/pairing%3A+mcmardon"><div class="taginact">evan mcculloch (mcmardon)</div></a>
@@ -382,6 +403,7 @@ article{
 	<a href="/tagged/pairing%3A+goldweather"><div class="tag">lisa snart (goldweather)</div></a>
     <a href="/tagged/pairing%3A+coldweather"><div class="tag">leonard snart (coldweather)</div></a>
 	<a href="/tagged/pairing%3A+tidalwave"><div class="tag">mick rory (tidalwave)</div></a>
+	<a href="/tagged/pairing%3A+greenweather"><div class="tag">oliver queen (greenweather)</div></a>
 	<a href="/tagged/pairing%3A+torrainbow"><div class="tag">roy bivolo (torrainbow)</div></a>
 	<a href="/tagged/pairing%3A+mirrorweather"><div class="tag">sam scudder (mirrorweather)</div></a>
 	<a href="/tagged/pairing%3A+weatherboo"><div class="tag">shawna baez (weatherboo)</div></a>
@@ -417,7 +439,7 @@ article{
     <a href="/tagged/pairing%3A+wavetime"><div class="tag">rip hunter (wavetime)</div></a>
 	<a href="/tagged/pairing%3A+mirrorwave"><div class="tag">sam scudder (mirrorwave)</div></a>
     <a href="/tagged/pairing%3A+canarywave"><div class="tag">sara lance (canarywave)</div></a>
-    <a href="/tagged/pairing%3A+TBA"><div class="tag">zari adrianna tomaz (TBA)</div></a>
+    <a href="/tagged/pairing%3A+TBA"><div class="taginact">zari adrianna tomaz (TBA)</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -444,13 +466,14 @@ article{
 <article>
 <div class="sectiontitle">roscoe dillon</div>
 	<a href="/tagged/pairing%3A+topiper"><div class="tag">hartley rathaway (topiper)</div></a>
-    <a href="/tagged/pairing%3A+liscoe"><div class="taginact">lisa snart (liscoe)</div></a>    
+    <a href="/tagged/pairing%3A+liscoe"><div class="tag">lisa snart (liscoe)</div></a>    
 </article>
 <!-- END SECTION -->
 
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">roy bivolo</div>
+	<a href="/tagged/pairing%3A+TBA"><div class="taginact">albert desmond (tba)</div></a>
     <a href="/tagged/pairing%3A+torrainbow"><div class="tag">mark mardon (torrainbow)</div></a>    
 </article>
 <!-- END SECTION -->
@@ -506,7 +529,9 @@ article{
     <a href="/tagged/trio%3A+coldvixenwave"><div class="tag">coldvixenwave</div></a>
     <a href="/tagged/trio%3A+coldwestwave"><div class="tag">coldwestwave</div></a>
     <a href="/tagged/trio%3A+goldenwestwave"><div class="tag">goldenwestwave</div></a>
+    <a href="/tagged/trio%3A+kidtrickpiper"><div class="tag">kidtrickpiper</div></a>
 	<a href="/tagged/trio%3A+peekagoldenfrost"><div class="tag">peekagoldenfrost </div></a>
+	<a href="/tagged/trio%3A+peekagoldennews"><div class="tag">peekagoldennews </div></a>
 	<a href="/tagged/trio%3A+rogue+canary"><div class="tag">rogue canary</div></a>
 </article>
 <!-- END SECTION -->
@@ -516,10 +541,12 @@ article{
 <div class="sectiontitle">trios (1 rogue)</div>
     <a href="/tagged/trio%3A+bartlian"><div class="tag">bartlian</div></a>
     <a href="/tagged/trio%3A+coldwestallen"><div class="tag">coldwestallen</div></a>
+    <a href="/tagged/trio%3A+flashviper"><div class="tag">flashviper</div></a>
     <a href="/tagged/trio%3A+goldenblackvibe"><div class="tag">goldenblackvibe</div></a>
     <a href="/tagged/trio%3A+goldenfrostsiren"><div class="tag">goldenfrostsiren</div></a>
 	<a href="/tagged/trio%3A+goldenlovebirds"><div class="tag">goldenlovebirds </div></a>
     <a href="/tagged/trio%3A+goldlightbow"><div class="tag">goldlightbow</div></a>
+    <a href="/tagged/trio%3A+greenflashweather"><div class="tag">greenflashweather</div></a>
 	<a href="/tagged/trio%3A+parkwestaway"><div class="tag">oliciwave</div></a>
 	<a href="/tagged/trio%3A+parkwestaway"><div class="tag">parkwestaway</div></a>
 	<a href="/tagged/trio%3A+quinnshotarang"><div class="tag">quinnshotarang</div></a>

@@ -412,12 +412,12 @@ container {
 <!-- this is where you about text goes -->
     
         <h1>About Me</h1>
-        <p>Heeey. I'm Meghan, a post-grad, deaf, asexual meteorologist and martial artist living in the frigid north known as... southern Canada. </p>
+        <p>Heeey. I'm Meghan, a post-grad, deaf, asexual mathematician and martial artist living in the frigid north known as... southern Canada. </p>
         <p>My studies were centred around Applied Mathematics, Earth Sciences, and Meteorology, with a side specialization in scientific programming, so if you ever want to talk about fluid dynamics, joukowski airfoils, conformal mappings, python, the coriolis effect, thundersnow, the upcoming storm on the East coast (doesn't matter which, statistically there is one), or anything about women's place in STEM studies, hit me up.</p>
         <p>I'm a major DC comics fan, with a particular love/hate relationship with DCTV properties at the moment. I love to gif, particularly favouring live-action properties, and take requests! You can see which TV shows I watch and gif over on my <a href="/shows">shows</a> page. Movies are touch-and-go, since I like deleting things after I've seen them, but feel free to <a href="/ask">ask</a>! </p>
         <p>I'm pretty big on visual and auditory accessibility, and always try to modify a theme's font sizes and colours for low visual acuity and colourblind-friendliness, but if there's ever a problem please let me know. I won't reblog videos without tags specifying whether or not it's captioned or described. Also if you ever see that I've reblogged a post that has content that the poster did not create, let me know so I can delete it immediately. Gif/art theft is something I take very seriously, and sometimes it's just hard to tell at first glance.</p>
 		<p>I rely heavily on my blacklist and xkit features, so if you don't have a tagging system that makes it difficult for me to follow back, sorry. Hate for Laurel Lance or any of the flash rogues on my gifsets will get you blocked. :)</p>
-		<p>Check out this <a href = "https://calmandcalculating.tumblr.com/search/personality+matrix">personality matrix</a> that @prouvairablehulk made me!</p>
+		<p>Check out this <a href = "https://marcomardon.tumblr.com/search/personality+matrix">personality matrix</a> that @prouvairablehulk made me!</p>
 		
 		<h1>Tag notes</h1>
 		<p>I have a particular tagging system that, on first glance, doesn't seem to be as self explanatory as it should be. Typically I try to do a "categorization tag" (ex. <i>#dc</i>) then the sub-categorization tags (ex. <i>#yj</i>) and then characters (ex. <i>#cassandra sandsmark</i>) and episode (ex. <i>#yj 2x05</i>). Sometimes I'll opt to only tagging a ship name instead of two characters (ex. <i>#coldwave</i>), and sometimes I won't know the episode number, and it will be tagged with <i>#ep?</i> for me to find and look up later. If you see me tagging <i>#ep?</i> and you know which episode it is, I'd be so grateful for the update. Similarly, if I ever reblog work that is stolen, let me know so I can delete it and reblog the original. Corrections on my typos always welcome, even if they're in the tags. </p>
@@ -445,12 +445,16 @@ template:
 </li>
 -->   
 <li>
-    <img src="https://api.tumblr.com/v2/blog/calmandcalculating.tumblr.com/avatar/64"/>
-    <h3><a href="https://calmandcalculating.tumblr.com/">@calmandcalculating</a></h3>
+    <img src="https://api.tumblr.com/v2/blog/marcomardon.tumblr.com/avatar/64"/>
+    <h3><a href="https://marcomardon.tumblr.com/">@marcomardon</a></h3>
 </li> 
 <li>
     <img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/64"/>
     <h3><a href="https://ccrogues.tumblr.com/">@ccrogues</a></h3>
+</li> 
+<li>
+    <img src="https://api.tumblr.com/v2/blog/raviweek.tumblr.com/avatar/64"/>
+    <h3><a href="https://raviweek.tumblr.com/">@raviweek</a></h3>
 </li>
 <li>
     <img src="https://api.tumblr.com/v2/blog/dctvcountdown.tumblr.com/avatar/64"/>
@@ -467,10 +471,6 @@ template:
 <li>
     <img src="https://api.tumblr.com/v2/blog/ao3feed-captaincanary.tumblr.com/avatar/64"/>
     <h3><a href="https://ao3feed-captaincanary.tumblr.com/">@ao3feed-captaincanary</a></h3>
-</li> 
-<li>
-    <img src="https://api.tumblr.com/v2/blog/justiceforlaurel.tumblr.com/avatar/64"/>
-    <h3><a href="https://justiceforlaurel.tumblr.com/">@justiceforlaurel</a></h3>
 </li>
 </ul>
 </div>

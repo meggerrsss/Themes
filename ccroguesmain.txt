@@ -233,31 +233,31 @@ ul, menu, dir{
 
 
 /* TUMBLR CONTROLS */
-.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop{
-	z-index: 999999;
-	position: fixed;
-	top: 8px;
-	right: calc(50% - {select:Post Width}/2 - 6px - {select:Sidebar Width});
-	white-space: nowrap !important; 
-	{block:IfLightTumblrControlButtons}
-    opacity:0.2;
-    -webkit-filter: invert(100%);
-    -moz-filter: invert(100%);
-    -o-filter: invert(100%);
-    -ms-filter: invert(100%);
-    filter: invert(100%);
-    {/block:IfLightTumblrControlButtons}
-	-webkit-transform: scale(0.8);
-	-webkit-transform-origin: right;
-	-moz-transform: scale(0.8);
-	-moz-transform-origin: right;
-	-o-transform: scale(0.8);
-	-o-transform-origin: right;
-	-ms-transform: scale(0.8);
-	-ms-transform-origin: right;
-	transform: scale(0.8);
-	transform-origin: right;
-}
+iframe.tmblr-iframe {
+    z-index:99999999999999!important;
+    top:0!important;
+    right:0!important;
+    opacity:0.4;
+    /* delete from here */
+        filter:invert(1);
+        -webkit-filter:invert(1);
+        -o-filter:invert(1);
+        -moz-filter:invert(1);
+        -ms-filter:invert(1);
+    /* to here if your blog has a dark background */
+    transform:scale(0.6);
+    transform-origin:100% 0;
+    -webkit-transform:scale(0.6);
+    -webkit-transform-origin:100% 0;
+    -o-transform:scale(0.6);
+    -o-transform-origin:100% 0;
+    -moz-transform:scale(0.6);
+    -moz-transform-origin:100% 0;
+    -ms-transform:scale(0.6);
+    -ms-transform-origin:100% 0;}
+
+iframe.tmblr-iframe:hover {
+    opacity:0.6!important;}
 
 /* SCROLL TO TOP */
 .scrollToTop{
@@ -1659,6 +1659,7 @@ footer.post-tags span:before {
 					<a href="https://ccrogues.tumblr.com/characters">the rogues</a>
 					<a href="https://ccrogues.tumblr.com/interactions">interactions</a>
 					<a href="https://ccrogues.tumblr.com/icons">icons by meghan</a>
+					<a href="https://ccrogues.tumblr.com/vote">vote for a rogue</a>
 					<a href="https://ccrogues.tumblr.com/tagged/ep%3F">tag an episode</a>
 					<a href="https://ccrogues.tumblr.com/tagged/v%3F">tag a comic</a>
 					<a href="https://ccrogues.tumblr.com/taggingsystem">tagging system</a>
@@ -1788,20 +1789,12 @@ footer.post-tags span:before {
 				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Multimedia</h1>
 				<div class="box updates">
 					<article>
-						<section class="date"><span>22nd</span> Jul 17</section>
-						<section class="event">San Diego Comic Con<br />2017</section>
-					</article>
-					<article>
-						<section class="date"><span>2nd</span> Aug 17</section>
-						<section class="event">TCA Press Tour<br />The CW presentation date</section>
-					</article>
-					<article>
 						<section class="date"><span>5-8th</span> Oct 17</section>
 						<section class="event">New York Comic Con<br />2017</section>
 					</article>
 					<article>
 						<section class="date"><span>10th</span> Oct 17</section>
-						<section class="event">Legends of Tomorrow<br />3x01</section>
+						<section class="event">Legends of Tomorrow 3x01<br />Aruba-Con</section>
 					</article>
 					<article>
 						<section class="date"><span>10th</span> Oct 17</section>
@@ -1815,38 +1808,6 @@ footer.post-tags span:before {
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Comics</h1>
 				<div class="box updates">
-					<article>
-						<section class="date"><span>12th</span> Jul 17</section>
-						<section class="event">The Flash #026<br />Running Scared II</section>
-					</article>
-					<article>
-						<section class="date"><span>12th</span> Jul 17</section>
-						<section class="event">Suicide Squad #021<br />Kill Your Darlings I</section>
-					</article>
-					<article>
-						<section class="date"><span>26th</span> Jul 17</section>
-						<section class="event">The Flash #027<br />Running Scared Finale</section>
-					</article>
-					<article>
-						<section class="date"><span>26th</span> Jul 17</section>
-						<section class="event">Suicide Squad #022<br />Kill Your Darlings II</section>
-					</article>
-					<article>
-						<section class="date"><span>2nd</span> Aug 17</section>
-						<section class="event">Injustice 2 #007<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>2nd</span> Aug 17</section>
-						<section class="event">SS: Black Files #001<br />Revenge of Kobra</section>
-					</article>
-					<article>
-						<section class="date"><span>9th</span> Aug 17</section>
-						<section class="event">The Flash #028<br />Negative I</section>
-					</article>
-					<article>
-						<section class="date"><span>9th</span> Aug 17</section>
-						<section class="event">Suicide Squad #023<br />Kill Your Darlings III</section>
-					</article>
 					<article>
 						<section class="date"><span>23rd</span> Aug 17</section>
 						<section class="event">The Flash #029<br />Negative II</section>
@@ -1873,11 +1834,31 @@ footer.post-tags span:before {
 					</article>
 					<article>
 						<section class="date"><span>27th</span> Sep 17</section>
-						<section class="event">The Flash #029<br />Bloodwork II</section>
+						<section class="event">The Flash #031<br />Bloodwork II</section>
 					</article>
 					<article>
 						<section class="date"><span>27th</span> Sep 17</section>
 						<section class="event">Suicide Squad #026<br />Gotham Resistance III</section>
+					</article>
+					<article>
+						<section class="date"><span>4th</span> Oct 17</section>
+						<section class="event">SS: Black Files #003<br />New Issue</section>
+					</article>
+					<article>
+						<section class="date"><span>11th</span> Oct 17</section>
+						<section class="event">The Flash #032<br />Black Hole Rising</section>
+					</article>
+					<article>
+						<section class="date"><span>11th</span> Oct 17</section>
+						<section class="event">Suicide Squad #027<br />Secret History of TFX I</section>
+					</article>
+					<article>
+						<section class="date"><span>25th</span> Oct 17</section>
+						<section class="event">The Flash #033<br />Justice Insurgence I</section>
+					</article>
+					<article>
+						<section class="date"><span>25th</span> Oct 17</section>
+						<section class="event">Suicide Squad #028<br />Secret History of TFX II</section>
 					</article>
 			  </div>
 			</div>
@@ -1891,11 +1872,13 @@ footer.post-tags span:before {
 					<a href="http://westallengifs.tumblr.com/" title="WESTALLENGIFS"><img src="https://api.tumblr.com/v2/blog/westallengifs.tumblr.com/avatar/64" />
 					<a href="http://coldtomyflash.tumblr.com/" title="COLDTOMYFLASH"><img src="https://api.tumblr.com/v2/blog/coldtomyflash.tumblr.com/avatar/64" />
 					<a href="http://gotham-daily.tumblr.com/" title="GOTHAM-DAILY"><img src="https://api.tumblr.com/v2/blog/gotham-daily.tumblr.com/avatar/64" />
-					<a href="http://jaxappreciationnet.tumblr.com/" title="JAXAPPRECIATIONNET"><img src="https://api.tumblr.com/v2/blog/jaxappreciationnet.tumblr.com/avatar/64" />
+					<a href="https://jaxappreciationnet.tumblr.com/" title="JAXAPPRECIATIONNET"><img src="https://api.tumblr.com/v2/blog/jaxappreciationnet.tumblr.com/avatar/64" />
 					<a href="http://arrowsource.tumblr.com/" title="ARROWSOURCE"><img src="https://api.tumblr.com/v2/blog/arrowsource.tumblr.com/avatar/64" />
 					<a href="http://comicbookfilms.tumblr.com/" title="COMICBOOKFILMS"><img src="https://api.tumblr.com/v2/blog/comicbookfilms.tumblr.com/avatar/64" />
 					<a href="http://dailydcqueens.tumblr.com/" title="DAILYDCQUEENS"><img src="https://api.tumblr.com/v2/blog/dailydcqueens.tumblr.com/avatar/64" />
-					<a href="http://dailydcheroes.tumblr.com/" title="dailydcheroes"><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/64" />
+					<a href="https://dailydcqueens.tumblr.com/" title="DAILYDCQUEENS"><img src="https://api.tumblr.com/v2/blog/dailydcqueens.tumblr.com/avatar/64" />
+					<a href="https://another-rogues-paradise.tumblr.com/" title="ANOTHER ROGUE'S PARADISE"><img src="https://api.tumblr.com/v2/blog/another-rogues-paradise.tumblr.com/avatar/64" />
+					<a href="https://dctvpoc.tumblr.com/" title="DCTVPOC"><img src="https://68.media.tumblr.com/6e52a18300831e49377bd60966c1042f/tumblr_messaging_otzdfqR8s31rflgjw_250.png" />
 					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
 					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
 					<a href="http://gorogues.tumblr.com/" title="gorogues"><img src="https://api.tumblr.com/v2/blog/gorogues.tumblr.com/avatar/64" />
@@ -1905,8 +1888,10 @@ footer.post-tags span:before {
 					<a href="http://fyroguecanary.tumblr.com/" title="fyroguecanary"><img src="https://api.tumblr.com/v2/blog/fyroguecanary.tumblr.com/avatar/64" />
 					<a href="http://coldsflash.tumblr.com/" title="coldsflash"><img src="https://api.tumblr.com/v2/blog/coldsflash.tumblr.com/avatar/64" />
 					<a href="http://fyeahgoldenvibe.tumblr.com/" title="fyeahgoldenvibe"><img src="https://api.tumblr.com/v2/blog/fyeahgoldenvibe.tumblr.com/avatar/64" />
-					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
-					<a href="http://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="http://dailycoldflash.tumblr.com/" title="dailycoldflash"><img src="https://api.tumblr.com/v2/blog/dailycoldflash.tumblr.com/avatar/64" />
+					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 				</div>
 			</div>
 			<!-- CATEGORY SIX -->
@@ -1960,10 +1945,29 @@ document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>")
 </script>
 
 </li>
-					 	<li><span class="list-title">total hits</span><script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "3234115";
-fhsh.src = "//s1.freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=Visits&a=1";
-document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span>");
-</script>
+					 	<li><span class="list-title">total hits</span>
+	<script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "3234115";
+	fhsh.src = "//s1.freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=Visits&a=1";
+	document.head.appendChild(fhsh);document.write("");
+	</script>
+	<!-- Start of StatCounter Code for Tumblr -->
+	<script type="text/javascript">
+	var sc_project=11421062; 
+	var sc_invisible=0; 
+	var sc_security="56372f8d"; 
+	var sc_text=5; 
+	var scJsHost = (("https:" == document.location.protocol) ?
+	"https://secure." : "http://www.");
+	document.write("<sc"+"ript type='text/javascript' src='" +
+	scJsHost+
+	"statcounter.com/counter/counter.js'></"+"script>");
+	</script>
+	<noscript><div class="statcounter"><a title="free hit
+	counter" href="http://statcounter.com/" target="_blank"><img
+	class="statcounter"
+	src="//c.statcounter.com/11421062/0/56372f8d/0/" alt="free
+	hit counter"></a></div></noscript> Visits
+	<!-- End of StatCounter Code for Tumblr -->
 </li>
 					 	<li><span class="list-title">theme by</span><a href="http://roxiestheme.tumblr.com">ROXIESTHEME</a></li>
 						<li><span class="list-title">icon credit</span><a href="https://ccrogues.tumblr.com/previcons">here</a></li>

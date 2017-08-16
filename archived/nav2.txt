@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<head>
+
+<!----
+             
+              
+        tags: sydney
+        updated 11/7/2017
+         
+        @loranhale
+            
+
+----->
+ 
+<link rel="shortcut icon" href="{Favicon}">
+<link rel="alternate" type="application/rss+xml" href="{RSS}">
+ 
+<title>{Title}</title>
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans|Karla|PT+Sans|Maven+Pro' rel='stylesheet' type='text/css'>
+ 
+<style type="text/css">
+
+::-webkit-scrollbar {
+    height:5px;
+    width:1px;
+    background:#fafafa; 
+}
+::-webkit-scrollbar-thumb { background:#dcecf5; }
+ 
+.iframe-controls--desktop { display:none!important; }
+ 
+#s-m-t-tooltip {
+    max-width:300px;
+    margin:15px;
+    padding:5px 6px;
+    z-index:99999999;
+    color:#000;
+    text-transform:lowercase;
+    border:1px solid #dcecf5;
+    background:#fff;
+}
+
+body {
+    background:#fafafa;
+    color:#555;
+    font-family:'pt sans', arial, helvetica, sans-serif;
+    font-size:12.5px;
+-moz-osx-font-smoothing:grayscale;
+-webkit-font-smoothing:antialiased;
+font-smoothing:antialiased;
+}
+ 
+a {
+    color:#a4cc3e;
+    text-decoration:none;
+    transition-duration:.8s;
+    -moz-transition-duration:.8s;
+    -webkit-transition-duration:.8s;
+    -o-transition-duration:.8s;
+}
+
+a:hover { color:#000; }
+
+h2 {
+    font-size:13px;
+    text-align:left;
+    font-weight:600;
+    letter-spacing:.5px;
+    font-style:italic;
+}
+
+section {
+    margin:60px auto;
+    transform:translate(30px,0px);
+    width:calc((225px + 40px + 2px) * 3); 
+    /* ((box width + 2*padding + 2*border) * number of columns)*/
+}
+
+/* header */
+
+nav {
+    top:50px;
+    left:100px;
+    position:fixed;
+    width:250px;
+    font-family:'karla', arial, helvetica, sans-serif;
+}
+
+.t {
+    font-size:17.5px;
+    margin-bottom:5px;
+    font-weight:600;
+    letter-spacing:2px;
+    text-transform:uppercase;
+}
+
+.links a {
+    color:#8892e0;
+    font-size:11.5px;
+    margin-right:20px;
+    letter-spacing:1px;
+    text-transform:uppercase;
+}
+.links a:hover { color:#000; }
+
+.icon {
+    float:left;
+    display:inline;
+    position:fixed;
+}
+
+.icon img {
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    margin-left:-70px;
+    margin-top:-10px;
+}
+ 
+/* tag boxes */
+
+.box {
+    width:225px;
+    margin:20px;
+    border:1px solid #dcecf5;
+    padding:10px;
+    background:#fff;
+    float:left;
+    box-sizing:border-box;
+    transition-duration:1s;
+    -moz-transition-duration:1s;
+    -webkit-transition-duration:1s;
+    -o-transition-duration:1s;
+}
+
+.title { 
+    font-size:13.5px;
+    margin-bottom:10px;
+    font-weight:600;
+    letter-spacing:1.5px; 
+    text-transform:uppercase;
+    padding-bottom:8px;
+    border-bottom:1px solid #dcecf5;
+    font-family:'karla', sans-serif;
+}
+
+.tags a { display:block; margin-bottom:8px }
+.tags a:last-of-type { margin-bottom:0; }
+.tags a:hover { padding-left:10px; }
+
+/* filters */
+
+#sort {
+    width:125px;
+    padding-right:15px;
+    border-right:1px solid #dcecf5;
+    position:fixed;
+    margin:50px auto;
+}
+
+#sort li { display:block; list-style:none; text-align:right; }
+#sort li a {
+    line-height:22px;
+    font-weight:600;
+    font-family:'maven pro',sans-serif;
+}
+
+#sort li a:hover { color:#000; margin-right:6px; }
+#sort ul { margin-left:0px; }
+#sort li a.selected { 
+    color:#000;
+    font-weight:600;
+    margin-right:6px;
+}
+
+/* do not disturb */
+
+.lo { bottom:20px; right:20px; position:fixed; }
+.lo a { 
+    text-transform:uppercase; 
+    border-bottom:1px solid #dcecf5; 
+    padding:5px;
+}
+ 
+</style>
+</head>
+
+<body>
+ 
+<nav>
+<div class="icon"><img src="https://api.tumblr.com/v2/blog/marcomardon.tumblr.com/avatar" /></div>
+<div class="t">navigation</div>
+<div class="links">
+    <a href="/">home</a>
+    <a href="/ask">ask</a>
+    <a href="https://meggerrsss.tumblr.com">gifs blog</a>
+    <a href="http://loranhale.tumblr.com">x</a>
+</div>
+    
+<div id="sort">
+<ul id="filters" class="option-set clearfix" data-option-key="filter">
+    <li><a href="#filter" data-option-filter=".box">refresh</a></li>
+    <li><a href="#filter" data-option-filter=".info">info</a></li>
+    <li><a href="#filter" data-option-filter=".projects">projects</a></li>
+    <li><a href="#filter" data-option-filter=".type">by franchise</a></li>
+<!-- copy and paste to add more -->
+</ul>
+</div>
+</nav>
+ 
+<section>
+
+<div class="box info">
+<div class="title">general</div>
+<div class="tags">
+<h2>gifs</h2>
+    <a href="/tagged/meggifs">all gifs</a>
+    <a href="/tagged/%2A%2A">my favourite gifs</a>
+    <a href="/tagged/gifquote">from quotes</a>
+    <a href="/tagged/requests">requests</a>
+<h2>not gifs</h2>
+	<a href="/calendar">dc fandom calendar</a>
+    <a href="/icons">icons</a>
+    <a href="/tagged/comicedit">comic edits</a>
+    <a href="/tagged/panels">comic panels</a>
+    <a href="/tagged/%2A">all posts</a>
+</div>
+</div>
+ 
+<div class="box projects">
+<div class="title">active gif series</div>
+<div class="tags">
+	<a href="/tagged/roguementions">rogue mentions</a>
+	<a href="/tagged/mysocial">dctv social media</a>
+	<a href="/tagged/legendsviewingparty">legends viewing party</a>
+</div>
+</div>
+  
+<div class="box projects">
+<div class="title">upcoming gif series</div>
+<div class="tags">
+	<a href="/calendar">dc fandom calendar</a>
+</div>
+</div>
+  
+<div class="box tv">
+<div class="title">by notes count</div>
+<div class="tags">
+    <a href="/tagged/5k">5000</a>
+    <a href="/tagged/4k">4000</a>
+    <a href="/tagged/3k">3000</a>
+    <a href="/tagged/2k">2000</a>
+    <a href="/tagged/1k">1000</a>
+    <a href="/tagged/500">500</a>
+    <a href="/tagged/250">250</a>
+    <a href="/tagged/100">100</a>    
+    <a href="/tagged/%2Anew">1</a>
+</div>
+</div>
+
+<div class="box type">
+<div class="title">dctv</div>
+<div class="tags">
+<h2>cw</h2>
+    <a href="/tagged/arrowedit">arrow</a>
+	<a href="/tagged/blacklightningedit">black lightning</a>
+    <a href="/tagged/lotedit">dc's legends of tomorrow</a>
+    <a href="/tagged/theflashedit">the flash</a>
+    <a href="/tagged/izombieedit">izombie</a>
+    <a href="/tagged/supergirledit">supergirl</a>
+<h2>fox</h2>
+    <a href="/tagged/gothamedit">gotham</a>
+    <a href="/tagged/luciferedit">lucifer</a>
+<h2>nbc</h2>
+    <a href="/tagged/constantineedit">constantine</a>
+	<a href="/tagged/powerlessedit">powerless</a>
+<h2>other</h2>
+	<a href="/tagged/kryptonedit">krypton</a>
+    <a href="/tagged/preacheredit">preacher</a>
+</div>
+</div>
+
+<div class="box type">
+<div class="title">dceu</div>
+<div class="tags">
+    <a href="/tagged/dceuedit">dc cinematic</a>
+    <a href="/tagged/mosedit">man of steel</a>
+    <a href="/tagged/bvsedit">batman v superman</a>
+    <a href="/tagged/suicidesquadedit">suicide squad</a>
+    <a href="/tagged/wonderwomanedit">wonder woman</a>
+    <a href="/tagged/justiceleagueedit">justice league</a>
+</div>
+</div>
+
+<div class="box type">
+<div class="title">dcau</div>
+<div class="tags">
+    <a href="/tagged/dcauedit">dc animated</a>
+    <a href="/tagged/jluedit">justice league unlimited</a>
+    <a href="/tagged/yjedit">young justice</a>
+    <a href="/tagged/jlactionedit">justice league action</a>
+    <a href="/tagged/injusticeedit">injustice</a>
+</div>
+</div>
+
+<div class="box type">
+<div class="title">other franchises</div>
+<div class="tags">
+    <a href="/tagged/billnyeedit">bill nye</a>
+    <a href="/tagged/chjedit">chicago justice</a>
+    <a href="/tagged/cpdedit">chicago p.d.</a>
+    <a href="/tagged/frequencyedit">frequency</a>
+    <a href="/tagged/h50edit">hawaii five-0</a>
+    <a href="/tagged/mcuedit">marvel cinematic</a>
+    <a href="/tagged/ncisedit">ncis, la, nola</a>
+    <a href="/tagged/ouatedit">once upon a time</a>
+    <a href="/tagged/pbedit">prison break</a>
+    <a href="/tagged/shadowhuntersedit">shadowhunters</a>
+    <a href="/tagged/wliiaedit">whose line is it anyway</a>
+</div>
+</div>
+  
+<div class="box info">
+<div class="title">sideblogs</div>
+<div class="tags">
+	<a href="http://ccrogues.tumblr.com/">ccrogues</a>
+    <a href="http://dailydcheroes.tumblr.com/">dailydcheroes</a>
+    <a href="http://meggerrsss.tumblr.com/">meggerrsss </a>
+	<a href="http://raviweek.tumblr.com/">raviweek</a>
+	<a href="http://dctvcountdown.tumblr.com/">dctvcountdown</a>
+</div>
+</div>
+ 
+<div class="box projects">
+<div class="title">complete gif projects</div>
+<div class="tags">
+	<a href="/tagged/topfemvills">top 15 dctv female villains</a>
+	<a href="/tagged/alpbabet">arrowverse alphabet</a>
+	<a href="/tagged/teamlot">team legends</a>
+	<a href="/tagged/night-and-day">night and day</a>
+	<a href="/tagged/wrrooms">rooms of the waverider</a>
+	<a href="/tagged/jax's-team">jax's team</a>
+	<a href="/tagged/gpm">one gifset per movie</a>
+	<a href="/tagged/rogues-rewatch">rogues rewatch</a>
+    <a href="/tagged/teaminvasion">team invasion</a>
+    <a href="/tagged/gibbsrule">gibbs rules</a>
+    <a href="/tagged/countdown">countdown</a>
+    <a href="/tagged/imalog">countdown sets</a>
+</div>
+</div>
+ 
+<div class="box projects">
+<div class="title">complete fandom events</div>
+<div class="tags">
+	<a href="/calendar">dc fandom calendar</a>
+	<a href="/tagged/losfdiversityweek">losf diversity week</a>
+	<a href="/tagged/jamesolsenweek">james olsen week</a>
+	<a href="/tagged/coldwaveweek2017">coldwave week 2017</a>
+	<a href="/calendar">dc fandom calendar</a>
+	<a href="/tagged/pepperonyweek17">pepperony week 2017</a>
+	<a href="/tagged/losfpolyamweek">flarrow polyamory week</a>
+	<a href="/tagged/aggressivelyarospecweek">aggressively arospec week</a>
+	<a href="/tagged/pride-month-challenge">pride month challenge</a>	
+	<a href="/tagged/amayajiweweek">amaya jiwe week</a>
+	<a href="/tagged/cwaspring17">coldwestallen week</a>
+	<a href="/tagged/dcvw">dc villains week</a>
+	<a href="/tagged/ripappreciationweek">rip hunter week</a>
+	<a href="/tagged/iriswestweek">iris west week</a>
+	<a href="/tagged/sgs1aw">supergirl s1 appreciation week</a>
+	<a href="/tagged/twnllweek">twn laurel lance week</a>
+	<a href="/tagged/pbaw17">prison kreak appreciation week</a>
+    <a href="/tagged/jaxjacksonappreciationweekend">jax appreciation weekend</a>
+    <a href="/tagged/dctvladiesappreciation">dctv ladies appreciation week</a>
+    <a href="/tagged/laurel-weeks">laurel lance weeks</a>
+</div>
+</div>
+
+<div class="box type">
+<div class="title">commonly giffed characters</div>
+<div class="tags">
+<h2>more accurate searching by character or episode, go to @meggerrsss</h2>
+    <a href="/tagged/mickroryedit">mick rory</a>
+    <a href="/tagged/leonardsnartedit">leonard snart</a>
+    <a href="/tagged/blacksirenedit">black siren</a>    
+    <a href="/tagged/jaxedit">jefferson jackson</a>
+    <a href="/tagged/lisasnartedit">lisa snart</a>
+    <a href="/tagged/rosadillonedit">rosa dillon</a>
+    <a href="/tagged/shawnabaezedit">shawna baez</a>
+</div>
+</div>
+
+<div class="box info">
+<div class="title">behind the scenes</div>
+<div class="tags">
+	<a href="/tagged/about-gifmaking">talking about gifmaking</a>
+	<a href="/tagged/to-make">to make list</a>
+	<a href="/tagged/requests">requests</a>
+	<a href="/tagged/used">resources</a>
+	<a href="/tagged/quotes">quotes</a>
+    <a href="/tagged/meghan's-life">personal</a>
+	<a href="/tagged/meghan-has-opinions">opinions</a>
+</div>
+</div>
+
+</section>
+ 
+<!-- danger! keep out -->
+
+<div class="lo">
+    <a href="http://loranhale.tumblr.com" title="theme">j</a>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>  
+<script src="http://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js"></script>
+<script>
+jQuery.noConflict();
+(function($){
+$(document).ready(function(){
+$("a[title],img[title],[title]").style_my_tooltips({
+tip_follows_cursor:true,
+tip_delay_time:200,
+tip_fade_speed:300,
+attribute:"title"
+});
+});
+})(jQuery); 
+</script> 
+
+<script src="http://static.tumblr.com/twte3d7/H8Glm663z/masonry.js"></script>
+<script type="text/javascript">
+$(window).load(function () {
+$('section').masonry({
+itemSelector : ".box",
+},
+function() { $('section').masonry({ appendedContent: $(this) }); }
+);
+});
+</script>
+ 
+<script src="http://static.tumblr.com/fuu6t9w/kh8ml0pl9/jquery-1.7.1.min.js"></script>
+<script src="http://static.tumblr.com/fuu6t9w/eubml0pm0/jquery.isotope.min.js"></script>
+<script>
+$(function(){
+    var $container = $('section');
+$container.isotope({
+itemSelector : '.box'
+});
+    var $optionSets = $('#sort .option-set'),
+$optionLinks = $optionSets.find('a');
+$optionLinks.click(function(){
+    var $this = $(this); // don't proceed if already selected
+if ( $this.hasClass('selected') ) {
+return false;
+}
+    var $optionSet = $this.parents('.option-set');
+$optionSet.find('.selected').removeClass('selected');
+$this.addClass('selected');
+
+// make option object dynamically, i.e. { filter: '.my-filter-class' }
+var options = {},
+key = $optionSet.attr('data-option-key'),
+value = $this.attr('data-option-filter');
+// parse 'false' as false boolean
+alue = value === 'false' ? false : value;
+options[ key ] = value;
+if ( key === 'layoutMode' && typeof changeLayoutMode === 'function' ) {
+// changes in layout modes need extra logic
+changeLayoutMode( $this, options )
+} else {
+// otherwise, apply new options
+$container.isotope( options );
+}
+return false;
+});
+});
+</script>
+</body>
+</html>
