@@ -84,11 +84,7 @@ $(this).next(".droptags").slideToggle('fast');
     z-index:999;
 }
 
-/*--- tumblr controls ---*/
-.tmblr-iframe--desktop-logged-in-controls, #tumblr_controls {
-    display:none !important;
-}
-
+.iframe-controls--desktop { display:none!important; }
 
 /*--- general customisation ---*/
 body {
@@ -364,9 +360,10 @@ a:hover {
     
 <a href="/search/bloopers">bloopers</a>
 <a href="/tagged/cast">cast</a>
-<a href="/search/fanart">fanart</a>
-<a href="/search/fandom-weeks">fandom weeks</a>
-<a href="/search/fashion">fashion</a>
+<a href="/tagged/deleted scene">deleted scene</a>
+<a href="/tagged/fanart">fanart</a>
+<a href="/tagged/fandom-weeks">fandom weeks</a>
+<a href="/tagged/fashion">fashion</a>
 <a href="/tagged/graphic">graphic</a>
 <a href="/tagged/icons">icons</a>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; memes</div>
@@ -376,7 +373,8 @@ a:hover {
 	<a href="/tagged/text post meme">text post meme</a>
 </div>
 <a href="/tagged/moodboard">moodboard</a>
-<a href="/search/others">other media</a>
+<a href="/tagged/others">other media</a>
+<a href="/tagged/reading-list">reading lists</a>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; video</div>
 <div class="droptags">
     <a href="/tagged/video">all</a>
@@ -577,6 +575,7 @@ a:hover {
 <div class="droptags">
     <a href="/tagged/tv: the flash">all</a>
     <a href="/search/tv: flash leonard">leonard snart</a>
+    <a href="/search/tv: flash amunet">amunet black</a>
     <a href="/search/tv: flash mick">mick rory</a>
     <a href="/search/tv: flash grodd">gorilla grodd</a>
     <a href="/search/tv: flash mark">mark mardon</a>
@@ -614,6 +613,7 @@ a:hover {
 <div class="droptags">
     <a href="/tagged/superhero fight club">superhero fight club</a>
     <a href="/tagged/chronicles of cisco">chronicles of cisco</a>
+    <a href="/tagged/first look trailer">first look trailer</a>
 </div>
     
 </div>
@@ -651,6 +651,9 @@ a:hover {
 <div class="credit">
     <a href="http://alydae.tumblr.com" title="enchantedthemes">A.</a>
 </div>
-
+<!-- Start of StatCounter Code for Tumblr -->
+<script type="text/javascript"> var sc_project=11421062;  var sc_invisible=1;  var sc_security="56372f8d";  var sc_text=5;  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script> 
+<noscript><div class="statcounter"><a title="real time web analytics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11421062/0/56372f8d/0/" alt="real time web analytics"></a></div></noscript> 
+<!-- End of StatCounter Code for Tumblr --> 
 </body>
 </html>

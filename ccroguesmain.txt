@@ -1664,7 +1664,7 @@ footer.post-tags span:before {
 					<a href="https://ccrogues.tumblr.com/tagged/v%3F">tag a comic</a>
 					<a href="https://ccrogues.tumblr.com/taggingsystem">tagging system</a>
 					<a href="https://ccrogues.tumblr.com/previcons">icons used</a>
-					<a href="https://ccrogues.tumblr.com/post/162802477744/lornahs-where-to-start-reading-the-rogues">where to start</a>
+					<a href="https://ccrogues.tumblr.com/tagged/reading-list">where to start</a>
 					<a href="https://en.wikipedia.org/wiki/Rogues_(comics)">official wiki</a>
 				</div>
 			</div>
@@ -1710,7 +1710,7 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/e5w2Jv/ccroguesprojecttv2.jpg" />
                         <section>
                             <h2>The Flash (2014)</h2>
-                            <h3>S4 in production (as of Jul4)</h3>
+                            <h3>Season 4</h3>
                             <ul>
                                 <li><span class="list-title">date</span>October 10, 2017</li>
                                 <li><span class="list-title">type</span>television</li>
@@ -1727,7 +1727,7 @@ footer.post-tags span:before {
                         <img src="https://image.ibb.co/cG4drF/ccroguesprojectlot2.jpg"  />
                         <section>
                             <h2>DC's Legends of Tomorrow (2016)</h2>
-                            <h3>S3 in production (as of Jul6)</h3>
+                            <h3>Season 3</h3>
                             <ul>
                                 <li><span class="list-title">date</span>October 10, 2017</li>
                                 <li><span class="list-title">type</span>television</li>
@@ -1809,14 +1809,6 @@ footer.post-tags span:before {
 				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Comics</h1>
 				<div class="box updates">
 					<article>
-						<section class="date"><span>23rd</span> Aug 17</section>
-						<section class="event">The Flash #029<br />Negative II</section>
-					</article>
-					<article>
-						<section class="date"><span>23rd</span> Aug 17</section>
-						<section class="event">Suicide Squad #024<br />Kill Your Darlings IV</section>
-					</article>
-					<article>
 						<section class="date"><span>6th</span> Sep 17</section>
 						<section class="event">SS: Black Files #002<br />New Issue</section>
 					</article>
@@ -1860,6 +1852,26 @@ footer.post-tags span:before {
 						<section class="date"><span>25th</span> Oct 17</section>
 						<section class="event">Suicide Squad #028<br />Secret History of TFX II</section>
 					</article>
+					<article>
+						<section class="date"><span>8th</span> Nov 17</section>
+						<section class="event">The Flash #034<br />Black Hole I</section>
+					</article>
+					<article>
+						<section class="date"><span>8th</span> Nov 17</section>
+						<section class="event">Suicide Squad #029<br />Secret History of TFX III</section>
+					</article>
+					<article>
+						<section class="date"><span>8th</span> Nov 17</section>
+						<section class="event">Red Hood &amp;t Outlaws #022<br />Bizarro Reborn III</section>
+					</article>
+					<article>
+						<section class="date"><span>22th</span> Nov 17</section>
+						<section class="event">The Flash #035<br />Black Hole II</section>
+					</article>
+					<article>
+						<section class="date"><span>22th</span> Nov 17</section>
+						<section class="event">Suicide Squad #030<br />Secret History of TFX IV</section>
+					</article>
 			  </div>
 			</div>
 			<!-- CATEGORY FIVE b -->
@@ -1879,6 +1891,7 @@ footer.post-tags span:before {
 					<a href="https://dailydcqueens.tumblr.com/" title="DAILYDCQUEENS"><img src="https://api.tumblr.com/v2/blog/dailydcqueens.tumblr.com/avatar/64" />
 					<a href="https://another-rogues-paradise.tumblr.com/" title="ANOTHER ROGUE'S PARADISE"><img src="https://api.tumblr.com/v2/blog/another-rogues-paradise.tumblr.com/avatar/64" />
 					<a href="https://dctvpoc.tumblr.com/" title="DCTVPOC"><img src="https://68.media.tumblr.com/6e52a18300831e49377bd60966c1042f/tumblr_messaging_otzdfqR8s31rflgjw_250.png" />
+					<a href="https://dailymickrory.tumblr.com/" title="DAILYMICKRORY"><img src="https://api.tumblr.com/v2/blog/dailymickrory.tumblr.com/avatar/64" />
 					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
 					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
 					<a href="http://gorogues.tumblr.com/" title="gorogues"><img src="https://api.tumblr.com/v2/blog/gorogues.tumblr.com/avatar/64" />
@@ -1889,8 +1902,7 @@ footer.post-tags span:before {
 					<a href="http://coldsflash.tumblr.com/" title="coldsflash"><img src="https://api.tumblr.com/v2/blog/coldsflash.tumblr.com/avatar/64" />
 					<a href="http://fyeahgoldenvibe.tumblr.com/" title="fyeahgoldenvibe"><img src="https://api.tumblr.com/v2/blog/fyeahgoldenvibe.tumblr.com/avatar/64" />
 					<a href="http://dailycoldflash.tumblr.com/" title="dailycoldflash"><img src="https://api.tumblr.com/v2/blog/dailycoldflash.tumblr.com/avatar/64" />
-					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="" />
-					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="http://isleonardsnartbackyet.tumblr.com/" title="isleonardsnartbackyet"><img src="https://api.tumblr.com/v2/blog/isleonardsnartbackyet.tumblr.com/avatar/64" />
 					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="" />
 				</div>
 			</div>
@@ -1916,7 +1928,7 @@ footer.post-tags span:before {
 					<ul>
 						<li>
 							<span class="lnr lnr-enter">requests</span>
-							<a href = "/ask">gif/edit/icon requests are open</a>
+							<a href = "/ask">gif/icon requests are open</a>
 						</li>
 						<li>
 							<span class="lnr lnr-cog">member applications</span>

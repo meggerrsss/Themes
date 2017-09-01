@@ -1371,7 +1371,7 @@ askerurl{
 <input type="submit" value="&#xe601;" class="sbutton" />
 </form></div>
 <div id="custom_links">
-<span class="firstlink"><a href="/"><span class="lnr lnr-home"style="font-size:15px"></span></br>Index</a></span>
+<span class="firstlink"><a href="/"><span class="lnr lnr-home"style="font-size:15px"></span></br>Home</a></span>
 <a href="/ask"><span class="lnr lnr-inbox"style="font-size:15px"></span></br>Ask</a>
 <a href="{text:link one url}"><span class="lnr lnr-user"style="font-size:15px"></span></br>{text:link one}</a>
 <a href="{text:link two url}"><span class="lnr lnr-tag"style="font-size:15px"></span></br>{text:link two}</a>

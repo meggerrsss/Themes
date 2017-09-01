@@ -57,7 +57,6 @@
     function delayed() {fn(); timeout = null;}
     setTimeout( delayed, threshold || 100 );
 }; } </script>
-
 <style type="text/css">
 
 
@@ -1871,7 +1870,7 @@ on the following line! -->
     <a href="/tagged/the flash 4x01">The Flash 4x01</a>
 </div><div class="bottom">
 	<b>title:</b> The Flash Reborn<br />
-    <b>contains:</b> Shawna Baez (rumour) <br />
+    <b>contains:</b> Shawna Baez <br />
     <b>mentions:</b> ? <br />
 
 </div></div></div>
@@ -1892,11 +1891,130 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash " name="2017027flash402">
+ 
+<div class="content">
+    <img src="https://unsplash.it/402?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x02">The Flash 4x02</a>
+</div><div class="bottom">
+	<b>title:</b> Mixed Signals<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot " name="2017028lot302">
+ 
+<div class="content">
+    <img src="https://unsplash.it/302?random" />
+<div class="title">
+    <a href="/tagged/lot 3x02">Legends of Tomorrow 3x02</a>
+</div><div class="bottom">
+	<b>title:</b> Freakshow<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash " name="2017029flash403">
+ 
+<div class="content">
+    <img src="https://unsplash.it/403?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x03">The Flash 4x03</a>
+</div><div class="bottom">
+	<b>title:</b> Luck Be A Lady<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot " name="2017030lot303">
+ 
+<div class="content">
+    <img src="https://unsplash.it/303?random" />
+<div class="title">
+    <a href="/tagged/lot 3x03">Legends of Tomorrow 3x03</a>
+</div><div class="bottom">
+	<b>title:</b> Zari<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash " name="2017031flash404">
+ 
+<div class="content">
+    <img src="https://unsplash.it/404?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x04">The Flash 4x04</a>
+</div><div class="bottom">
+	<b>title:</b> Elongated Journey into Night<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot " name="2017032lot304">
+ 
+<div class="content">
+    <img src="https://unsplash.it/304?random" />
+<div class="title">
+    <a href="/tagged/lot 3x04">Legends of Tomorrow 3x04</a>
+</div><div class="bottom">
+	<b>title:</b> Phone Home<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info flash " name="2017033flash405">
+ 
+<div class="content">
+    <img src="https://unsplash.it/405?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x05">The Flash 4x05</a>
+</div><div class="bottom">
+	<b>title:</b> Girls Night Out<br />
+    <b>contains:</b> Amunet Black (rumour) <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot " name="2017034lot305">
+ 
+<div class="content">
+    <img src="https://unsplash.it/305?random" />
+<div class="title">
+    <a href="/tagged/lot 3x05">Legends of Tomorrow 3x05</a>
+</div><div class="bottom">
+	<b>title:</b> Return of the Mack<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
 
 
 <!-- //
 to add
-
 
 -->
 
@@ -1914,4 +2032,8 @@ to add
 <a class="cred" href="http://yearsandsyears.tumblr.com" target="_blank"><div class="clogo"></div></a>
 <!----------- THANK YOU! ----------->
 
+<!-- Start of StatCounter Code for Tumblr -->
+<script type="text/javascript"> var sc_project=11421062;  var sc_invisible=1;  var sc_security="56372f8d";  var sc_text=5;  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script>
+<noscript><div class="statcounter"><a title="real time web analytics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11421062/0/56372f8d/0/" alt="real time web analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Tumblr -->
 </body></html>

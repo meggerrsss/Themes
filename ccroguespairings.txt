@@ -423,7 +423,7 @@ article{
     <a href="/tagged/pairing%3A+overwave"><div class="tag">felicity smoak (overwave)</div></a>
 	<a href="/tagged/pairing%3A+mickington"><div class="tag">george washington (mickington)</div></a>
     <a href="/tagged/pairing%3A+stormwave"><div class="tag">jax jackson (stormwave)</div></a>	
-	<a href="/tagged/pairing%3A+hellwave"><div class="taginact">john constantine (hellwave)</div></a>	
+	<a href="/tagged/pairing%3A+hellwave"><div class="tag">john constantine (hellwave)</div></a>	
     <a href="/tagged/pairing%3A+superwave"><div class="tag">kara danvers (superwave)</div></a>	
 	<a href="/tagged/pairing%3A+hawkwave"><div class="tag">kendra saunders (hawkwave)</div></a>
     <a href="/tagged/pairing%3A+canaryfire"><div class="tag">laurel lance (canaryfire)</div></a>
@@ -563,6 +563,9 @@ article{
 
 </div>
 
-
+<!-- Start of StatCounter Code for Tumblr -->
+<script type="text/javascript"> var sc_project=11421062;  var sc_invisible=1;  var sc_security="56372f8d";  var sc_text=5;  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script> 
+<noscript><div class="statcounter"><a title="real time web analytics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11421062/0/56372f8d/0/" alt="real time web analytics"></a></div></noscript> 
+<!-- End of StatCounter Code for Tumblr --> 
  
 </body>

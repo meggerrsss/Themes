@@ -194,7 +194,7 @@ nav {
     <a href="/">home</a>
     <a href="/ask">ask</a>
     <a href="https://meggerrsss.tumblr.com">gifs blog</a>
-    <a href="http://loranhale.tumblr.com">x</a>
+    <a href="http://gianlucafalcone.co.vu/post/144344596032/04-sydney-header-preview-code-updated-05">x</a>
 </div>
     
 <div id="sort">
@@ -242,6 +242,8 @@ nav {
 <div class="title">upcoming gif series</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
+	<a href="/tagged/raviweek">ravi chakrabarti week</a>
+	<a href="/tagged/??">mick rory week</a>
 </div>
 </div>
   
@@ -280,6 +282,7 @@ nav {
 <h2>other</h2>
 	<a href="/tagged/kryptonedit">krypton</a>
     <a href="/tagged/preacheredit">preacher</a>
+    <a href="/tagged/smallvilleedit">smallville</a>
 </div>
 </div>
 
@@ -303,6 +306,7 @@ nav {
     <a href="/tagged/yjedit">young justice</a>
     <a href="/tagged/jlactionedit">justice league action</a>
     <a href="/tagged/injusticeedit">injustice</a>
+    <a href="/tagged/gltasedit">green lantern</a>
 </div>
 </div>
 
@@ -316,13 +320,15 @@ nav {
 </div>
 
 <div class="box type">
-<div class="title">other franchises</div>
+<div class="title">other franchises</div> 
 <div class="tags">
+    <a href="/tagged/filmedit">movies</a>
     <a href="/tagged/billnyeedit">bill nye</a>
     <a href="/tagged/chjedit">chicago justice</a>
     <a href="/tagged/cpdedit">chicago p.d.</a>
     <a href="/tagged/frequencyedit">frequency</a>
     <a href="/tagged/h50edit">hawaii five-0</a>
+    <a href="/tagged/thelibrariansedit">the librarians</a>
     <a href="/tagged/mcuedit">marvel cinematic</a>
     <a href="/tagged/ncisedit">ncis, la, nola</a>
     <a href="/tagged/ouatedit">once upon a time</a>
@@ -340,6 +346,24 @@ nav {
     <a href="http://meggerrsss.tumblr.com/">meggerrsss </a>
 	<a href="http://dctvcountdown.tumblr.com/">dctvcountdown</a>
 	<a href="http://raviweek.tumblr.com/">raviweek</a>
+</div>
+</div>
+
+<div class="box info">
+<div class="title">resources</div>
+<div class="tags">
+	<a href="/tagged/used">all</a>
+	<a href="/tagged/actions">actions</a>
+	<a href="/tagged/brushes">brushes</a>
+	<a href="/tagged/psds">colouring psds</a>
+	<a href="/tagged/fonts">fonts</a>
+	<a href="/tagged/icons">icons</a>
+	<a href="/tagged/page themes">page themes</a>
+	<a href="/tagged/templates">templates</a>
+	<a href="/tagged/textures">textures</a>
+	<a href="/tagged/main themes">themes</a>
+	<a href="/tagged/tutorials">tutorials</a>
+	<a href="/tagged/to-sort">unsorted resources</a>
 </div>
 </div>
  
@@ -365,6 +389,7 @@ nav {
 <div class="title">complete fandom events</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
+	<a href="/tagged/snibsweek2017">snart siblings week</a>
 	<a href="/tagged/jamesolsenweek">james olsen week</a>
 	<a href="/tagged/coldwaveweek2017">coldwave week 2017</a>
 	<a href="/tagged/losfdiversityweek">losf diversity week</a>
@@ -405,8 +430,10 @@ nav {
     <a href="/tagged/greenarrowedit">green arrow</a>
 <h2>justice league action</h2>
     <a href="/tagged/jlactionedit">all</a>
-    <a href="/tagged/jaimereyes">blue beetle</a>
+    <a href="/tagged/batmanedit">batman</a>
+    <a href="/tagged/jaimereyesedit">blue beetle</a>
     <a href="/tagged/cyborgedit">cyborg</a>
+    <a href="/tagged/firestormedit">firestorm</a>
     <a href="/tagged/alechollandedit">swamp thing</a>
     <a href="/tagged/winslowschottedit">toyman</a>
 <h2>vixen</h2>
@@ -416,6 +443,10 @@ nav {
     <a href="/tagged/flashedit">barry allen</a>
     <a href="/tagged/impulseedit">bart allen</a>
     <a href="/tagged/kidflashedit">wally west</a>
+<h2>green lanterns: the animated series</h2>
+    <a href="/tagged/gltasedit">all</a>
+    <a href="/tagged/ayaedit">aya</a>
+    <a href="/tagged/razeredit">razer</a>
 </div>
 </div>
 
@@ -450,28 +481,38 @@ nav {
 <div class="tags">
     <a href="/tagged/arrowedit">all</a>
     <a href="/tagged/adrianchaseedit">adrian chase</a>
-    <a href="/tagged/anatolyknyazevedit">anatoly knyazev</a>
     <a href="/tagged/blacksirenedit">black siren</a>
     <a href="/tagged/curtisholtedit">curtis holt</a>
-    <a href="/tagged/damiendarhkedit">damien darhk</a>
     <a href="/tagged/dinahdrakeedit">dinah drake</a>
     <a href="/tagged/felicitysmoakedit">felicity smoak</a>
-    <a href="/tagged/evelynsharpedit">evelyn sharp</a>
     <a href="/tagged/johndiggleedit">john diggle</a>
     <a href="/tagged/laurellanceedit">laurel lance</a>
-    <a href="/tagged/lylamichaelsedit">lyla michaels</a>
     <a href="/tagged/malcolmmerlynedit">malcolm merlyn</a>
     <a href="/tagged/moiraqueenedit">moira queen</a>
-    <a href="/tagged/nyssaalghuledit">nyssa al ghul</a>
     <a href="/tagged/oliverqueenedit">oliver queen</a>
     <a href="/tagged/quentinlanceedit">quentin lance</a>
     <a href="/tagged/reneramirezedit">rene ramirez</a>
-    <a href="/tagged/robertqueenedit">robert queen</a>
-    <a href="/tagged/roryreganedit">rory regan</a>
     <a href="/tagged/royharperedit">roy harper</a>
     <a href="/tagged/sladewilsonedit">slade wilson</a>
-    <a href="/tagged/taliaalghuledit">talia al ghul</a>
     <a href="/tagged/theaqueenedit">thea queen</a>
+<h2>reccurring</h2>
+    <a href="/tagged/amandawalleredit">amanda waller</a>
+    <a href="/tagged/anatolyknyazevedit">anatoly knyazev</a>
+    <a href="/tagged/damiendarhkedit">damien darhk</a>
+    <a href="/tagged/diggerharknessedit">digger harkness</a>
+    <a href="/tagged/evelynsharpedit">evelyn sharp</a>
+    <a href="/tagged/floydlawtonedit">floyd lawton</a>
+    <a href="/tagged/helenabertinelliedit">helena bertinelli</a>
+    <a href="/tagged/jakesimmonsedit">jake simmons</a>
+    <a href="/tagged/konstantinkovaredit">konstantin kovar</a>
+    <a href="/tagged/lylamichaelsedit">lyla michaels</a>
+    <a href="/tagged/nyssaalghuledit">nyssa al ghul</a>
+    <a href="/tagged/robertqueenedit">robert queen</a>
+    <a href="/tagged/roryreganedit">rory regan</a>
+    <a href="/tagged/taliaalghuledit">talia al ghul</a>
+<h2>cast</h2>
+    <a href="/tagged/arrowcastedit">cast</a>
+    <a href="/tagged/samelledit">stephen amell</a>
 </div>
 </div>
 
@@ -479,6 +520,14 @@ nav {
 <div class="title">black lightning</div>
 <div class="tags">
     <a href="/tagged/blacklightningedit">all</a>
+</div>
+</div>
+
+<div class="box show">
+<div class="title">constantine</div>
+<div class="tags">
+    <a href="/tagged/constantineedit">all</a>
+    <a href="/tagged/johnconstantineedit">john constantine</a>
 </div>
 </div>
 
@@ -495,24 +544,39 @@ nav {
 <div class="title">dc's legends of tomorrow</div>
 <div class="tags">
     <a href="/tagged/lotedit">all</a>
+    <a href="/tagged/yourelegends">team</a>
     <a href="/tagged/amayajiweedit">amaya jiwe</a>
-    <a href="/tagged/carterhalledit">carter hall</a>
-    <a href="/tagged/charlesmcnideredit">charles mcnider</a>
-    <a href="/tagged/courtneywhitmoreedit">courtney whitmore</a>
+    <a href="/tagged/eobardthawneedit">eobard thawne</a>
     <a href="/tagged/gideonedit">gideon</a>
     <a href="/tagged/henryheywoodedit">henry heywood</a>
     <a href="/tagged/jaxedit">jefferson jackson</a>
-    <a href="/tagged/jonahhexedit">jonah hex</a>
     <a href="/tagged/kendrasaundersedit">kendra saunders</a>
     <a href="/tagged/leonardsnartedit">leonard snart</a>
-    <a href="/tagged/lilysteinedit">lily stein</a>
     <a href="/tagged/martinsteinedit">martin stein</a>
     <a href="/tagged/mickroryedit">mick rory</a>
-    <a href="/tagged/mirandacoburnedit">miranda coburn</a>
     <a href="/tagged/nateheywoodedit">nate heywood</a>
     <a href="/tagged/raypalmeredit">ray palmer</a>
     <a href="/tagged/riphunteredit">rip hunter</a>
     <a href="/tagged/saralanceedit">sara lance</a>
+    <a href="/tagged/zaritomazedit">zari tomaz</a>
+<h2>reccurring</h2>
+    <a href="/tagged/carterhalledit">carter hall</a>
+    <a href="/tagged/charlesmcnideredit">charles mcnider</a>
+    <a href="/tagged/courtneywhitmoreedit">courtney whitmore</a>
+    <a href="/tagged/damiendarhkedit">damien darhk</a>
+    <a href="/tagged/henryheywoodedit">henry heywood</a>
+    <a href="/tagged/jonahhexedit">jonah hex</a>
+    <a href="/tagged/lilysteinedit">lily stein</a>
+    <a href="/tagged/malcolmmerlynedit">malcolm merlyn</a>
+    <a href="/tagged/mirandacoburnedit">miranda coburn</a>
+    <a href="/tagged/quentinturnbulledit">quentin turnbull</a>
+    <a href="/tagged/vandalsavageedit">vandal savage</a>
+<h2>cast</h2>
+    <a href="/tagged/lotcastedit">cast</a>
+    <a href="/tagged/clotzedit">caity lotz</a>
+    <a href="/tagged/dpurcelledit">dominic purcell</a>
+    <a href="/tagged/fdramehedit">franz drameh</a>
+    <a href="/tagged/vgarberedit">victor garber</a>
 </div>
 </div>
 
@@ -522,32 +586,41 @@ nav {
     <a href="/tagged/theflashedit">all</a>
     <a href="/tagged/barryallenedit">barry allen</a>
     <a href="/tagged/caitlinsnowedit">caitlin snow</a>
-    <a href="/tagged/cecilehortonedit">cecile horton</a>
     <a href="/tagged/ciscoramonedit">cisco ramon</a>
     <a href="/tagged/eddiethawneedit">eddie thawne</a>
-    <a href="/tagged/eobardthawneedit">eobard thawne</a>
-    <a href="/tagged/frankiekaneedit">frankie kane</a>
     <a href="/tagged/harrisonwellsedit">harrison wells</a>
     <a href="/tagged/harrywellsedit">harry wells</a>
+    <a href="/tagged/hrwellsedit">hr wells</a>
+    <a href="/tagged/iriswestedit">iris west</a>
+    <a href="/tagged/joewestedit">joe west</a>
+    <a href="/tagged/wallywestedit">wally west</a>
+<h2>reccurring</h2>
+    <a href="/tagged/cecilehortonedit">cecile horton</a>
+    <a href="/tagged/abrakadabraedit">citizen abra</a>
+    <a href="/tagged/clydemardonedit">clyde mardon</a>
+    <a href="/tagged/eobardthawneedit">eobard thawne</a>
+    <a href="/tagged/frankiekaneedit">frankie kane</a>
     <a href="/tagged/hartleyrathawayedit">hartley rathaway</a>
     <a href="/tagged/henryallenedit">henry allen</a>
-    <a href="/tagged/hrwellsedit">hr wells</a>
     <a href="/tagged/hunterzolomonedit">hunter zolomon</a>
-    <a href="/tagged/iriswestedit">iris west</a>
     <a href="/tagged/jaygarrickedit">jay garrick</a>
     <a href="/tagged/jessewellsedit">jesse wells</a>
-    <a href="/tagged/joewestedit">joe west</a>
     <a href="/tagged/julianalbertedit">julian albert</a>
+    <a href="/tagged/kylenimbusedit">kyle nimbus</a>
     <a href="/tagged/lindaparkedit">linda park</a>
     <a href="/tagged/lisasnartedit">lisa snart</a>
+    <a href="/tagged/luciouscoolidgeedit">lucious coolidge</a>
     <a href="/tagged/markmardonedit">mark mardon</a>
     <a href="/tagged/noraallenedit">nora allen</a>
     <a href="/tagged/ronnieraymondedit">ronnie raymond</a>
     <a href="/tagged/rosadillonedit">rosa dillon</a>
+    <a href="/tagged/roybivoloedit">roy bivolo</a>
     <a href="/tagged/samscudderedit">sam scudder</a>
     <a href="/tagged/shawnabaezedit">shawna baez</a>
+    <a href="/tagged/tonywoodwardedit">tony woodward</a>
     <a href="/tagged/tracybrandedit">tracy brand</a>
-    <a href="/tagged/wallywestedit">wally west</a>
+<h2>cast</h2>
+    <a href="/tagged/plistedit">peyton list</a>
 </div>
 </div>
 
@@ -559,6 +632,8 @@ nav {
     <a href="/tagged/kylemosebyedit">kyle moseby</a>
     <a href="/tagged/raimysullivanedit">raimy sullivan</a>
     <a href="/tagged/satchraynaedit">satch rayna</a>
+<h2>cast</h2>
+    <a href="/tagged/plistedit">peyton list</a>
 </div>
 </div>
 
@@ -567,14 +642,19 @@ nav {
 <div class="tags">
     <a href="/tagged/gothamedit">all</a>
     <a href="/tagged/alfredpennyworthedit">alfred pennyworth</a>
+    <a href="/tagged/barbarakeanedit">barbara kean</a>
     <a href="/tagged/brucewayneedit">bruce wayne</a>
     <a href="/tagged/edwardnygmaedit">edward nygma</a>
+    <a href="/tagged/fishmooneyedit">fish mooney</a>
     <a href="/tagged/harveybullockedit">harvey bullock</a>
     <a href="/tagged/ivypepperedit">ivy pepper</a>
-    <a href="/tagged/jeromevaleskaedit">jerome valeska</a>
     <a href="/tagged/jimgordonedit">jim gordon</a>
+    <a href="/tagged/lesliethomkinsedit">leslie thomkins</a>
     <a href="/tagged/oswaldcobblepotedit">oswald cobblepot</a>
     <a href="/tagged/selinakyleedit">selina kyle</a>
+    <a href="/tagged/tabithagalavanedit">tabitha galavan</a>
+<h2>reccurring</h2>
+    <a href="/tagged/jeromevaleskaedit">jerome valeska</a>
 </div>
 </div>
 
@@ -603,7 +683,7 @@ nav {
     <a href="/tagged/izombieedit">all</a>
     <a href="/tagged/blainedebeersedit">blaine debeers</a>
     <a href="/tagged/clivebabineauxedit">clive babineaux</a>
-    <a href="/tagged/doneberhardedit">doneberhard</a>
+    <a href="/tagged/doneberhardedit">don eberhard</a>
     <a href="/tagged/majorlilywhiteedit">major lilywhite</a>
     <a href="/tagged/livmooreedit">olivia moore</a>
     <a href="/tagged/ravichakrabartiedit">ravi chakrabarti</a>
@@ -631,6 +711,7 @@ nav {
     <a href="/tagged/luciferedit">all</a>
     <a href="/tagged/charlotterichardsedit">charlotte richards</a>
     <a href="/tagged/chloedeckeredit">chloe decker</a>
+    <a href="/tagged/danespinozaedit">dan espinoza</a>
     <a href="/tagged/ellalopezedit">ella lopez</a>
     <a href="/tagged/lindamartinedit">linda martin</a>
     <a href="/tagged/lucifermorningstaredit">lucifer morningstar</a>
@@ -653,6 +734,7 @@ nav {
 <div class="tags">
     <a href="/tagged/ncisedit">all</a>
     <a href="/tagged/abbysciutoedit">abby sciuto </a>
+    <a href="/tagged/duckymallardedit">ducky mallard</a>
     <a href="/tagged/ljgibbsedit">lj gibbs </a>
     <a href="/tagged/timothymcgeeedit">timothy mcgee </a>
     <a href="/tagged/tobiasfornelledit">tobias fornell </a>
@@ -699,6 +781,10 @@ nav {
     <a href="/tagged/lincolnburrowsedit">lincoln burrows</a>
     <a href="/tagged/michaelscofieldedit">michael scofield</a>
     <a href="/tagged/saratancrediedit">sara tancredi</a>
+<h2>cast</h2>
+    <a href="/tagged/pbcastedit">all</a>
+    <a href="/tagged/dpurcelledit">dominic purcell</a>
+    <a href="/tagged/wmilleredit">wentworth miller</a>
 </div>
 </div>
 
@@ -708,6 +794,7 @@ nav {
     <a href="/tagged/preacheredit">all</a>
     <a href="/tagged/emilywoodrowedit">emily woodrow</a>
     <a href="/tagged/jessecusteredit">jesse custer</a>
+    <a href="/tagged/larafeatherstoneedit">lara featherstone</a>
     <a href="/tagged/proinsiascassidyedit">proinsias cassidy</a>
     <a href="/tagged/tulipohareedit">tulip ohare</a>
 </div>
@@ -718,7 +805,9 @@ nav {
 <div class="tags">
     <a href="/tagged/shadowhuntersedit">all</a>
     <a href="/tagged/aleclightwoodedit">alec lightwood</a>
+    <a href="/tagged/claryfairchildedit">clary fairchild</a>
     <a href="/tagged/isabellelightwoodedit">isabelle lightwood</a>
+    <a href="/tagged/jaceherondaleedit">jace herondale</a>
 </div>
 </div>
 
@@ -732,28 +821,38 @@ nav {
 </div>
 </div>
 
+<div class="box movie">
+<div class="title">star wars</div>
+<div class="tags">
+    <a href="/tagged/starwarsedit">all</a>
+    <a href="/tagged/reyskywalkeredit">rey</a>
+</div>
+</div>
+
 <div class="box show">
 <div class="title">supergirl</div>
 <div class="tags">
     <a href="/tagged/supergirledit">all</a>
     <a href="/tagged/alexdanversedit">alex danvers</a>
-    <a href="/tagged/astrainzeedit">astra in ze</a>
     <a href="/tagged/catgrantedit">cat grant</a>
-    <a href="/tagged/clarkkentedit">clark kent</a>
-    <a href="/tagged/elizadanversedit">eliza danvers</a>
-    <a href="/tagged/jackspheeredit">jack spheer</a>
     <a href="/tagged/jamesolsenedit">james olsen</a>
-    <a href="/tagged/jeremiahdanversedit">jeremiah danvers</a>
     <a href="/tagged/j'onnj'onzzedit">j'onn j'onzz</a>
     <a href="/tagged/karadanversedit">kara danvers</a>
     <a href="/tagged/karazoreledit">kara zor el</a>
-    <a href="/tagged/lesliewillisedit">leslie willis</a>
-    <a href="/tagged/lucylaneedit">lucy lane</a>
     <a href="/tagged/maggiesawyeredit">maggie sawyer</a>
     <a href="/tagged/moneledit">mon el</a>
+    <a href="/tagged/winnschottedit">winn schott</a>
+<h2>reccurring</h2>
+    <a href="/tagged/astrainzeedit">astra in ze</a>
+    <a href="/tagged/clarkkentedit">clark kent</a>
+    <a href="/tagged/elizadanversedit">eliza danvers</a>
+    <a href="/tagged/jackspheeredit">jack spheer</a>
+    <a href="/tagged/jeremiahdanversedit">jeremiah danvers</a>
+    <a href="/tagged/lesliewillisedit">leslie willis</a>
+    <a href="/tagged/lucylaneedit">lucy lane</a>
     <a href="/tagged/mxyzptlkedit">mxyzptlk</a>
     <a href="/tagged/siobhansmytheedit">siobhan smythe</a>
-    <a href="/tagged/winnschottedit">winn schott</a>
+    <a href="/tagged/snappercarredit">snapper carr</a>
 </div>
 </div>
 
@@ -784,7 +883,6 @@ nav {
 	<a href="/tagged/about-gifmaking">talking about gifmaking</a>
 	<a href="/tagged/to-make">to make list</a>
 	<a href="/tagged/requests">requests</a>
-	<a href="/tagged/used">resources</a>
 	<a href="/tagged/quotes">quotes</a>
     <a href="/tagged/meghan's-life">personal</a>
 	<a href="/tagged/meghan-has-opinions">opinions</a>
@@ -794,7 +892,7 @@ nav {
 </section>
  
  
-<!----------------------- meggifs/chrono done page 10 ----------------------->
+<!----------------------- meggifs/chrono done page 35 /71 ----------------------->
  
 <!-----
 basically
@@ -803,36 +901,21 @@ characters present in prominent moments
 episode number
 fandom : dctvedit, dcauedit, dceuedit, filmedit, xmenedit, mcuedit, onechicagoedit, crossoveredit etc
 relevant projects
+cast tagged properly with mgreenedit style
 and stays below 20 tags
 change links to marcomardon
-parallelsedit and/or auedit and/or gifquote
+parallelsedit and/or auedit and/or gifquote and/or crossoveredit
 ... luck
 
 
-
-<div class="box show">
-<div class="title">other</div>
-<div class="tags">
-    <a href="/tagged/abrakadabraedit">citizen abra</a>
-    <a href="/tagged/clydemardonedit">clyde mardon</a>
-    <a href="/tagged/diggerharknessedit">digger harkness</a>
-    <a href="/tagged/floydlawtonedit">floyd lawton</a>
-    <a href="/tagged/konstantinkovaredit">konstantin kovar</a>
-    <a href="/tagged/luciouscoolidgeedit">lucious coolidge</a>
-    <a href="/tagged/quentinturnbulledit">quentin turnbull</a>
-    <a href="/tagged/roybivoloedit">roy bivolo</a>
-</div>
-</div>
-
-
-
+put memes from likes into 'to make' tag
 
 ----->
  
 <!-- danger! keep out -->
 
 <div class="lo">
-    <a href="http://loranhale.tumblr.com" title="theme">j</a>
+    <a href="http://gianlucafalcone.co.vu/post/144344596032/04-sydney-header-preview-code-updated-05" title="theme">j</a>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
@@ -900,5 +983,10 @@ return false;
 });
 });
 </script>
+
+<!-- Start of StatCounter Code for Tumblr -->
+<script type="text/javascript"> var sc_project=11421059;  var sc_invisible=1;  var sc_security="4ae3057b";  var sc_text=5;  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script>
+<noscript><div class="statcounter"><a title="web statistics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11421059/0/4ae3057b/0/" alt="web statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Tumblr -->
 </body>
 </html>

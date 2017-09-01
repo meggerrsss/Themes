@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<head>
+ 
+<!--
+ 
+    ALL-IN-ONE: NEPENTHE
+        by alydae
+        
+            - do not steal any part of this code
+            - do not even TOUCH the credit
+            - direct questions to enchantedthemes.tumblr.com
+            
+        if you only want an individual page of a particular section, links to the codes of them are available on the theme post.
+            
+    thank you for using!!!
+
+-->
+ 
+<title>explore</title>
+<link rel="shortcut icon" href="{Favicon}">
+
+<!-- custom font -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'> 
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+<link rel="stylesheet" href="http://static.tumblr.com/z8dfaik/0QOory6g1/nepenthe.css" type="text/css">
+ 
+<style type="text/css">
+
+/*-- selection --*/
+
+::-moz-selection { background:#eee; color:#222; }
+::selection { background:#eee; color:#222; }
+
+/*-- scrollbar --*/
+
+::-webkit-scrollbar {  
+    width:1px;  
+    height:2px;
+}  
+   
+::-webkit-scrollbar-thumb { background-color:#aaa; } /* scrollbar colour */
+ 
+/*-- tooltips --*/
+
+#s-m-t-tooltip {
+    color:#666;
+    background-color:#fff; 
+    font-size:12px;
+    font-family:'Open Sans', helvetica, sans-serif;
+    letter-spacing:1.5px;
+    text-transform:uppercase;
+    text-align:center;
+    position:absolute;
+    padding:0px 5px 0px 5px;
+    margin-top:30px;
+    border:1px solid #eee;
+    z-index:9999;
+}
+
+/*-- tumblr controls --*/
+
+.tmblr-iframe--desktop-logged-in-controls, #tumblr_controls {
+    display:none !important;
+}
+
+/*-- borders --*/
+
+/* change all #eee to change the colours of the borders */
+#sidebar, div.tab button, .tabcontent, .facts h2, .blogs a, .media i, .question .fa, .q, .an, .tbox, .tags a, .blog {
+    border:1px solid #eee
+}
+
+blockquote { border-left:1px solid #eee; }
+.t, #sidebar img, h1, .facts, .box { border-bottom:1px solid #eee; }
+.facts, .info { border-right:1px solid #eee; }
+
+/*-- general customisation --*/
+
+body {
+    color:#666; /* text colour */
+    background-color:#fafafa; /* background colour */
+    font-family:'Open Sans', helvetica, sans-serif; 
+    font-size:10px; /* body font size */
+}
+
+a { color:#444; } /* links colour */
+a:hover { color:#9cdfed; } /* links hover colour */
+
+b, strong { font-weight:700; color:#444; } /* bold font colour */
+h1 {color:#222; } /* title colour */
+
+/*-- sidebar --*/
+
+#sidebar { background:#fff; } /* sidebar background colour */
+
+/*-- tabs --*/
+
+div.tab button { background:#fff; } /* tabs background colour */
+
+div.tab button:hover { 
+    background-color:#fafafa; /* tabs hover background colour */
+    color:#9cdfed; /* tabs hover text colour */
+}
+
+div.tab button.active { 
+    background-color:#fafafa; /* selected tab background colour */
+    color:#9cdfed; /* selected tab text colour */
+}
+
+
+/*-- ABOUT --*/
+
+.about { background:#fff; } /* about tab background colour */
+
+h3 { color:#222; } /* subtitle colour */
+
+.facts h2 { background:#fafafa; } /* facts title background */
+.blogs a { background:#fafafa; } /* blogs background colour */
+.blogs a:hover, .media i:hover { background:#fff; } /* blogs and media background hover colour */
+
+.media i { background:#fafafa; } /* media icons background colour */
+
+
+/*-- FAQ + MESSAGE --*/
+
+.faq { background:#fff; } /* faq tab background colour */
+
+.question .fa { background:#fafafa; } /* question icon background colour */
+.q { background:#fafafa; } /* question background colour */
+
+
+/*-- TAGS --*/
+
+.navigation { background:#fff; } /* tags tab background colour */
+
+.t { color:#222; } /* subtitle colour */
+
+.tbox:hover .t { 
+    color:#bad1e7; /* subtitle hover text colour */
+    background:#fafafa; /* subtitle hover background colour */
+}
+
+.tags a { background:#fafafa; } /* tags background colour */
+.tags a:hover { background:#fff; } /* tags hover background colour */
+
+
+/*-- BLOGROLL --*/
+
+.blogroll { border:none; }
+
+.blog { background:#fff; } /* blogs background colour */
+.blog:hover { background:#fafafa; } /* blogs background hover colour */
+
+
+/*-- credit - DO NOT TOUCH --*/
+
+.credit a {
+    font-size:12px;
+    bottom:15px;
+    right:20px;
+    position:fixed;
+    text-transform:uppercase;
+}
+
+
+
+content {
+    top: 25%;
+    left: 25%;
+   transform: scale(1.5);
+}
+
+
+</style>
+</head>
+
+
+
+<body>
+
+
+<content>
+    
+<div id="sidebar">
+    <h1>about</h1><!-- page name -->
+    <img src="{PortraitURL-128}"/>
+<!-- if you want to change the names of the tabs, change the word right before </button> -->
+<div class="tab">
+<button class="tablinks" onclick="openContent(event, 'about')" id="defaultOpen">about</button>
+<button class="tablinks" onclick="openContent(event, 'faq')">faq/ask</button>
+<button class="tablinks" onclick="openContent(event, 'tags')">links</button>
+<button class="tablinks" onclick="openContent(event, 'blogroll')">blogroll</button>
+</div>
+    <div class="links">
+    <!-- this is where your sidebar links are. feel free to add more. -->
+        <a href="/">home</a>
+        <a href="/ask">inbox</a>
+        <a href="/creations">creations</a>
+        <!-- do not remove this one!!! -->
+        <a href="http://alydae.tumblr.com">credit</a>
+    </div>
+</div>
+
+
+<div id="main">
+
+<!---------------------------------------------------------------
+                            ABOUT
+---------------------------------------------------------------->
+
+<div id="about" class="tabcontent about">
+
+<div class="facts">
+<!-- template: <div class="i"><h2>title</h2> info</div> -->
+    <div class="i"><h2>name</h2> meghan</div>
+    <div class="i"><h2>pronouns</h2> she/her</div>
+    <div class="i"><h2>from</h2> southern ontario</div>
+    <div class="i"><h2>identity</h2> aromantic asexual</div>
+    <div class="i"><h2>age</h2> 25</div>
+    <div class="i"><h2>myers briggs</h2> istj</div>
+</div><!-- end facts -->
+
+
+<div class="info">
+<!-- this is where your about text goes -->
+
+        <p>Hi I'm Meghan, I'm a major DC comics fan, with a particular love/hate relationship with DCTV properties at the moment. I love to gif, particularly favouring live-action properties, and take requests! You can see which TV shows I watch and gif over on my <a href="/shows">shows</a> page. Movies are touch-and-go, since I like deleting things after I've seen them, but feel free to <a href="/ask">ask</a>! </p>
+		<p>I'm pretty big on visual and auditory accessibility, and always try to modify a theme's font sizes and colours for low visual acuity and colourblind-friendliness, but if there's ever a problem please let me know. I won't reblog videos without tags specifying whether or not it's captioned or described. Also if you ever see that I've reblogged a post that has content that the poster did not create, let me know so I can delete it immediately. Gif/art theft is something I take very seriously, and sometimes it's just hard to tell at first glance.</p>
+		<p>I rely heavily on my blacklist and xkit features, so if you don't have a tagging system that makes it difficult for me to follow back, sorry. </p>
+		
+		
+		
+		</div><!-- end about text -->
+
+
+<div class="box">
+<h3>blogs</h3>
+<div class="blogs">
+<!-- you can use this section for friends or your own personal blogs -->
+    <a href="https://marcomardon.tumblr.com">marcomardon</a>
+    <a href="https://meggerrsss.tumblr.com">meggerrsss</a>
+    <a href="https://ccrogues.tumblr.com">ccrogues</a>
+    <a href="https://dctvcountdown.tumblr.com">dctvcountdown</a>
+    <a href="https://dailydcheroes.tumblr.com">dailydcheroes</a>
+    <a href="https://raviweek.tumblr.com">raviweek</a>
+</div>
+</div><!-- end other blogs -->
+
+
+<div class="box" style="top:127px;">
+    <div class="quote">
+        "there is no such thing as indecision" - young me
+    </div>
+</div><!-- end quote -->
+
+
+<div class="box" style="top:253px;">
+<h3>social media</h3>
+<div class="media">
+<!-- 
+between the "" is where you put a link to your account. to change the icon, go to http://fontawesome.io/ 
+replace the LINK in title="LINK" for what you want it to show on hover
+template:
+    <a href="" title="LINK">
+        <i class="fa fa-twitter" aria-hidden="true"></i>
+    </a>
+-->
+    <a href="https://twitter.com/Meggerrsss" title="twitter">
+        <i class="fa fa-twitter" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.instagram.com/meggerrssss/" title="instagram">
+        <i class="fa fa-instagram" aria-hidden="true"></i>
+    </a>
+    <a href="https://trakt.tv/users/meggerrsss" title="trakt">
+        <i class="fa fa-tv" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.goodreads.com/user/show/5915856-meghan-green" title="goodreads">
+        <i class="fa fa-book" aria-hidden="true"></i>
+    </a>    
+    <a href="https://github.com/meggerrsss" title="github">
+        <i class="fa fa-github" aria-hidden="true"></i>
+    </a>
+    <a href="https://playingit-by-ear.blogspot.com" title="medical blog">
+        <i class="fa fa-assistive-listening-systems" aria-hidden="true"></i>
+    </a>
+</div>
+</div><!-- end social media -->
+
+</div>
+
+<!-- END ABOUT -->
+
+
+<!---------------------------------------------------------------
+                            FAQ + MESSAGE
+---------------------------------------------------------------->
+
+<div id="faq" class="tabcontent faq">
+
+<!-- if you don't have any faqs and only want the ask box and the text, remove everything up to the ask box at the bottom.
+
+template:
+<div class="question">
+<i class="fa fa-question" aria-hidden="true"></i>
+    <div class="q">question</div>
+<i class="fa fa-comment-o" style="background:#fff;" aria-hidden="true"></i>
+    <div class="an">here's the answer</div>
+</div>
+-->
+
+<div class="question">
+<i class="fa fa-question" aria-hidden="true"></i>
+    <div class="q">do you take gif requests?</div>
+<i class="fa fa-comment-o" style="background:#fff;" aria-hidden="true"></i>
+    <div class="an">I do! I can't always guarantee a speedy response, since a lot of how I keep giffing is based on motivation and inspiration, but it'll definitely be in the back of my mind until I'm finished with it. </div>
+</div>
+
+
+<div class="question">
+<i class="fa fa-question" aria-hidden="true"></i>
+    <div class="q">do you have any saved urls?</div>
+<i class="fa fa-comment-o" style="background:#fff;" aria-hidden="true"></i>
+    <div class="an">I do -- sirenrogue, justiceforlaurel, coldnglider, abszero, aantiope, vveathervvizard icedcapcold, coldsnapper, isotherms, zariitomaz, and corioli -- and you're welcome to have one if you want to use it! </div>
+</div>
+
+
+<div class="question">
+<i class="fa fa-question" aria-hidden="true"></i>
+    <div class="q">what do you use to make gifs?</div>
+<i class="fa fa-comment-o" style="background:#fff;" aria-hidden="true"></i>
+    <div class="an">I use Photoshop CS5 Extended and Potplayer, but I've been known to use QGifer and KMplayer in the early days. Check out my <a href = '/used/'>resources tag</a> for some cool stuff. I've been very comfortable with Photoshop since PS7 existed, so if I ever answer something that isn't as self-explanatory as I thought, let me know.</div>
+</div>
+
+
+<!-- if you don't want the ask box, delete this section below -->
+    <!-- optional text. delete this if you don't want any -->
+    <p style="margin-left:15px;">If you want me to answer privately, put a ~ at the front!</p>
+<iframe frameborder="0" border="0" scrolling="no" width="530px" height="190" allowtransparency="true" src="http://www.tumblr.com/ask_form/{name}.tumblr.com" style="background-color:transparent; overflow:hidden; margin:15px;"></iframe>
+
+</div> 
+
+<!-- END FAQ + MESSAGE -->
+
+
+<!---------------------------------------------------------------
+                            TAGS
+---------------------------------------------------------------->
+
+<div id="tags" class="tabcontent navigation">
+
+<!-- template:
+
+<div class="tbox">
+    <div class="t">subtitle</div>
+    <div class="tags">
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+    </div>
+</div>
+
+-->
+
+<div class="tbox">
+    <div class="t">pages</div>
+    <div class="tags">
+        <a href="/creations">creations</a>
+        <a href="/shows">shows</a>
+        <a href="/ships">ships</a>
+        <a href="/icons">icons</a>
+        <a href="/books">books</a>
+        <a href="/calendar">dc fandom calendar</a>
+    </div><!-- end tags -->
+</div><!-- end box 1 -->
+
+
+<div class="tbox">
+    <div class="t">personal</div>
+    <div class="tags">
+        <a href="/tagged/meghan's life">meghan's life</a>
+        <a href="/tagged/oh canada">canada</a>
+        <a href="/tagged/meghan has opinions">meghan has opinions</a>
+        <a href="/tagged/ifttt">instagram crossposts</a>
+        <a href="/tagged/about gifmaking">about gifmaking</a>
+        <a href="/tagged/used">tumblr resources</a>
+        <a href="/tagged/personality matrix">personality matrix</a>
+    </div><!-- end tags -->
+</div><!-- end box 2 -->
+
+
+<div class="tbox">
+    <div class="t">fandom families</div>
+    <div class="tags">
+        <a href="http://midniter.tumblr.com/cfam/">lalla's comics fam</a>
+        <a href="http://therealmickrory.tumblr.com/family">gabe's dctv fam</a>
+        <a href="http://starklinqs.tumblr.com/fandomfamily">janie's multi fam</a>
+    </div><!-- end tags -->
+</div><!-- end box 3-->
+
+
+<div class="tbox">
+    <div class="t">people i interact with</div>
+    <div class="tags">
+        <a href="http://starklinqs.tumblr.com">janie</a>
+        <a href="http://therealmickrory.tumblr.com">gabe</a>
+        <a href="http://lennyscofield.tumblr.com">armelle</a>
+        <a href="http://phynali.tumblr.com">phyn</a>
+        <a href="http://martinvsgoliath.tumblr.com">lenny</a>
+        <a href="http://mossepajamas.tumblr.com">hannah</a>
+        <a href="http://silverseraph.tumblr.com">lara</a>
+    </div><!-- end tags -->
+</div><!-- end box 4 -->
+
+
+<div class="tbox">
+    <div class="t">subtitle</div>
+    <div class="tags">
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+        <a href="/tagged/">tag name</a>
+    </div><!-- end tags -->
+</div><!-- end box 5 -->
+
+</div>
+
+<!-- END TAGS -->
+
+
+<!---------------------------------------------------------------
+                            BLOGROLL
+---------------------------------------------------------------->
+
+<div id="blogroll" class="tabcontent blogroll">
+{block:Following}{block:Followed}
+<div class="blog">
+    <img src="{FollowedPortraitURL-48}">
+    <a href="{FollowedURL}">{FollowedName}</a>
+</div>
+{/block:Followed}{/block:Following}
+</div>
+
+<!-- END BLOGROLL -->
+
+
+</div> <!-- end main -->
+
+</content>
+
+
+<!---------------------------------------------------------------
+                        DO NOT TOUCH BELOW
+---------------------------------------------------------------->
+
+<!-- credit - DO NOT TOUCH -->
+
+<div class="credit">
+    <a href="http://alydae.tumblr.com" title="enchantedthemes">A.</a>
+</div>
+
+
+<!-- scripts - DO NOT TOUCH -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<script src="http://static.tumblr.com/rzl30kg/eAxm7a751/jquery.style-my-tooltips.js"></script>
+<script>
+   (function($){
+       $(document).ready(function(){
+           $("[title]").style_my_tooltips({
+               tip_follows_cursor:true,
+               tip_delay_time:200,
+               tip_fade_speed:300
+           }
+               );
+       });
+   })(jQuery);
+</script>
+
+<script>
+function openContent(evt, contentName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(contentName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+document.getElementById("defaultOpen").click();
+</script>
+
+<!-- Start of StatCounter Code for Tumblr -->
+<script type="text/javascript"> var sc_project=11421059;  var sc_invisible=1;  var sc_security="4ae3057b";  var sc_text=5;  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script>
+<noscript><div class="statcounter"><a title="web statistics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11421059/0/4ae3057b/0/" alt="web statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Tumblr -->
+</body>
+</html>
