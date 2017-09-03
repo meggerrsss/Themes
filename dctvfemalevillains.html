@@ -1,0 +1,1260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-----------------------------------------------------------------------
+ 
+            THEME BY SAARAA @ CYANTISTS.TUMBLR.COM
+           
+            Please observe common theme sharing etiquette:
+                http://cyantists.tumblr.com/terms
+            Thank you.
+   
+------------------------------------------------------------------------>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+ 
+<title>{Title}</title><!-- page title, this appears in browser tabs -->
+<link rel="shortcut icon" href="{Favicon}">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.1/SmoothScroll.min.js"></script>
+<script src="http://static.tumblr.com/rzl30kg/eAxm7a751/jquery.style-my-tooltips.js"></script>
+<script src="http://static.tumblr.com/ycrkdqn/ZFIn8dcjx/isotope.pkgd.min.js"></script>
+<script src="http://static.tumblr.com/ycrkdqn/epEn8dclr/isotope-docs.js"></script>
+<link href="http://static.tumblr.com/xd6ujov/5qIofvm2y/cyantists_quartz.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700|Raleway:600" rel="stylesheet">
+<script> $(document).ready(function(){ $("[title]").style_my_tooltips({
+   tip_follows_cursor:true, tip_delay_time:50, tip_fade_speed:800
+}); var qsRegex; var buttonFilter; var $grid = $('.grid').isotope({
+  itemSelector: '.item', transitionDuration: '0.8s', layoutMode: 'packery',
+  getSortData: {name: '[name]'}, sortBy: 'name', filter: function() {
+    var $this = $(this);
+    var searchResult = qsRegex ? $this.text().match( qsRegex ) : true;
+    var buttonResult = buttonFilter ? $this.is( buttonFilter ) : true;
+    return searchResult && buttonResult;
+} }); $('.filters').on( 'click', '.filter', function() {
+  $('.item').removeClass('active'); buttonFilter = $(this).attr('filter');
+  $('.toggle').data('clicks',0); $grid.isotope();
+}); $grid.on( 'click', '.item img', function() {
+  $(this).parents('.item').toggleClass('active');
+  $('.item').not($(this).parents('.item')).removeClass('active');
+  $grid.isotope('layout');
+}); $('.filters').on( 'click', '.toggle', function() {
+  var click = +$(this).data('clicks') || 0;
+  if (click % 2 == 1) {$('.item').removeClass('active');}
+  else {$('.item').addClass('active');};
+  $(this).data('clicks',click+1); $grid.isotope('layout');
+}); var $quicksearch = $('#ss').keyup( debounce( function() {
+  qsRegex = new RegExp( $quicksearch.val(), 'gi' ); $grid.isotope();
+}) ); $('.filters').each( function( i, buttonGroup ) {
+  var $buttonGroup = $( buttonGroup );
+  $buttonGroup.on( 'click', '.filter', function() {
+    $buttonGroup.find('.active').removeClass('active');
+    $(this).addClass('active');
+}); }); }); function debounce( fn, threshold ) {
+  var timeout; return function debounced() {
+    if ( timeout ) {clearTimeout( timeout );}
+    function delayed() {fn(); timeout = null;}
+    setTimeout( delayed, threshold || 100 );
+}; } </script>
+
+<style type="text/css">
+
+
+
+.iframe-controls--desktop { display:none!important; }
+
+/* font size */
+
+html {/* changing this will scale all of the font sizes */
+    font-size:15px;} 
+    
+    
+/* background colour */
+    
+body, .title, .bottom {
+    background-color:#dadada;}
+::-webkit-scrollbar {
+    background:#ffffff;}
+.filters {/* to change this, go to colorpicker.com, find the colour you want,
+    and then replace 255,255,255, with the rgb values of your chosen colour */
+    background:rgba(255,255,255,0.98);}
+    
+    
+/* accent colour */
+
+::-webkit-scrollbar-thumb:vertical {
+    background:#51484f;}
+::selection {
+    background:#51484f;}
+::-webkit-selection {
+    background:#51484f;}
+::-moz-selection {
+    background:#51484f;}
+::-o-selection {
+    background:#51484f;}
+a:hover, .clogo:after, .heading {
+    color:#51484f;}
+.button.active, .button:hover {
+    background:#51484f;}
+    
+    
+/* text colour */
+
+body {
+    color:#848280;}
+    
+    
+/* links colour */
+    
+a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
+    color:#81b300;}
+
+
+/* info background colour */
+
+#s-m-t-tooltip, .clogo, .cred:before, .clogo:after, .content, .button, #ss {
+    background:#f8f8f8;}
+    
+
+</style><body>
+
+<div class="filters fade-in"><div class="heading">
+
+    dctv female villains
+
+<div class="links">
+    
+    <a href="/">back</a>
+    
+</div></div>
+        
+<!-- show all --><span class="button filter active" filter="">all
+</span><!-- arrow --><span class="button filter" filter=".arrow">arrow
+</span><!-- constantine --><span class="button filter" filter=".constantine">constantine
+</span><!-- the flash --><span class="button filter" filter=".flash">the flash
+</span><!-- gotham --><span class="button filter" filter=".gotham">gotham
+</span><!-- izombie --><span class="button filter" filter=".izombie">izombie
+</span><!-- lot --><span class="button filter" filter=".lot">legends
+</span><!-- lucifer --><span class="button filter" filter=".lucifer">lucifer
+</span><!-- preacher --><span class="button filter" filter=".preacher">preacher
+</span><!-- supergirl --><span class="button filter" filter=".supergirl">supergirl
+</span><!-- toggle info --><span class="button toggle">info
+</span><!-- search --><input type="text" id="ss" placeholder="search" />
+
+<!-- copy and paste filters as needed, be sure to include the </span>
+on the following line! -->
+
+</div><div class="grid fade-in">
+
+
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="snartlisa">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/cf1ecc6d0887b4fc571ed5dfc817dde0/tumblr_inline_ol61xvIoFU1qdi112_540.png" />
+<div class="title">
+    <a href="/tagged/lisa snart">Lisa Snart</a>
+</div><div class="bottom">
+    <b>name:</b> lisa snart <br />
+    <b>alias:</b> golden glider <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 1x16<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash arrow" name="lancelaurel2">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/0538a9d8452c2039391966cac6092b66/tumblr_inline_ovoos4P0P81qk6l6b_540.jpg" />
+<div class="title">
+    <a href="/tagged/laurel lance e2">Laurel Lance e2</a>
+</div><div class="bottom">
+    <b>name:</b> dinah laurel lance <br />
+    <b>alias:</b> black siren <br />
+    <b>show(s):</b> the flash, arrow <br />
+    <b>first:</b> the flash 2x22<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave lot arrow" name="alghulnyssa">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/gK4H8a/nyssared.png" />
+<div class="title">
+    <a href="/tagged/nyssa al ghul">Nyssa al ghul</a>
+</div><div class="bottom">
+    <b>name:</b> nyssa al ghul <br />
+    <b>alias:</b> ra's al ghul <br />
+    <b>show(s):</b> arrow, legends of tomorrow <br />
+    <b>first:</b> arrow 2x13<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ally <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="snowcaitlin1">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/7d205e0d7516bc05d38c90f99ccb8cbf/tumblr_inline_oqt9reKW0f1qmu7dy_540.png" />
+<div class="title">
+    <a href="/tagged/caitlin snow">caitlin snow</a>
+</div><div class="bottom">
+    <b>name:</b> caitlin snow <br />
+    <b>alias:</b> killer frost <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 1x01<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="baezshawna">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/fy3ATa/shawnablue.png" />
+<div class="title">
+    <a href="/tagged/shawna baez">shawna baez</a>
+</div><div class="bottom">
+    <b>name:</b> shawna baez <br />
+    <b>alias:</b> peek-a-boo <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 1x12<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="snowcaitlin2">
+ 
+<div class="content">
+    <img src="https://40.media.tumblr.com/659b8bc1def32a5ef33fc854e07b6a22/tumblr_inline_o2ete8Gb971ss390s_540.png" />
+<div class="title">
+    <a href="/tagged/caitlin snow e2">caitlin snow e2</a>
+</div><div class="bottom">
+    <b>name:</b> caitlin snow <br />
+    <b>alias:</b> killer frost <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 2x13<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="reynoldscynthia">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/a1e603c0deb07ced6d71d1f729ae6549/tumblr_inline_oodfbmepNP1qmu7dy_540.png" />
+<div class="title">
+    <a href="/tagged/cynthia reynolds">cynthia reynolds</a>
+</div><div class="bottom">
+    <b>name:</b> cynthia reynolds <br />
+    <b>alias:</b> charmer* <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 3x11<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ally <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="parklinda2">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/62672577a2f6090b726474dba7632b35/tumblr_ohsbz96II71un5ej6o6_250.png" />
+<div class="title">
+    <a href="/tagged/linda park e2">linda park e2</a>
+</div><div class="bottom">
+    <b>name:</b> linda park <br />
+    <b>alias:</b> doctor light <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 2x05<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="dillonrosa">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/ivaAD5/rosaicon4.png" />
+<div class="title">
+    <a href="/tagged/rosalind dillon">rosalinddillon</a>
+</div><div class="bottom">
+    <b>name:</b> rosalind dillon <br />
+    <b>alias:</b> the top <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 3x04<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="mooneyfish">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/0bf9a348cbe81fe05a6c685c738fcda5/tumblr_inline_ovjr3cNIJj1qmu7dy_540.png" />
+<div class="title">
+    <a href="/tagged/fish mooney">fish mooney</a>
+</div><div class="bottom">
+    <b>name:</b> maria mercedes mooney <br />
+    <b>alias:</b> fish mooney <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 1x01<br />
+    <b>status:</b> dead ? <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="queenmoira">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/8437e30e00f7e5781c5f4788a43ec1ac/tumblr_n80gt0EEyK1rq6i64o8_100.png" />
+<div class="title">
+    <a href="/tagged/moira queen">moira queen</a>
+</div><div class="bottom">
+    <b>name:</b> moira queen <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 1x01 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> ally <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="kyleselina">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/817621187412a396b83f5282ccf85454/tumblr_inline_o78jlkVDdJ1rtzx6a_540.png" />
+<div class="title">
+    <a href="/tagged/selina kyle">selina kyle</a>
+</div><div class="bottom">
+    <b>name:</b> selina kyle <br />
+    <b>alias:</b> cat	<br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 1x01<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="alghultalia">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/iRctgv/taliapurple.png" />
+<div class="title">
+    <a href="/tagged/talia al ghul">talia al ghul</a>
+</div><div class="bottom">
+    <b>name:</b> talia al ghul <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 5x10<br />
+    <b>status:</b> unknown <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="willisleslie">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/2902283e5576f3ab04cc1861a8d95bdc/tumblr_inline_of2469RIcP1uuh7ol_500.gif" />
+<div class="title">
+    <a href="/tagged/leslie willis">leslie willis</a>
+</div><div class="bottom">
+    <b>name:</b> leslie willis <br />
+    <b>alias:</b> livewire <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 1x05<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="walleramanda">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/amanda waller">amanda waller</a>
+</div><div class="bottom">
+    <b>name:</b> amanda waller <br />
+    <b>alias:</b> mockingbird <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 1x22<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="bertinellihelena">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/fPbauF/helenaorange.png" />
+<div class="title">
+    <a href="/tagged/helena bertinelli">helena bertinelli</a>
+</div><div class="bottom">
+    <b>name:</b> helena bertinelli <br />
+    <b>alias:</b> huntress <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 1x07<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="kanefrankie">
+ 
+<div class="content">
+    <img src="http://68.media.tumblr.com/6059994ebbb8cd900b1c87bbc260ad16/tumblr_inline_og5508vd8W1rlxi6w_540.png" />
+<div class="title">
+    <a href="/tagged/frankie kane">frankie kane</a>
+</div><div class="bottom">
+    <b>name:</b> frankie kane <br />
+    <b>alias:</b> magenta* <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 3x03<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ally <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="sharpevelyn">
+ 
+<div class="content">
+    <img src="http://68.media.tumblr.com/167245e5d5fb71fc12b82e3b563f3247/tumblr_inline_oj7y7lSzkD1qit6le_100.png" />
+<div class="title">
+    <a href="/tagged/evelyn sharp">evelyn sharp</a>
+</div><div class="bottom">
+    <b>name:</b> evelyn sharp <br />
+    <b>alias:</b> artemis <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 4x19<br />
+    <b>status:</b> unknown <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="savagecassandra">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/cassandra savage">cassandra savage</a>
+</div><div class="bottom">
+    <b>name:</b> cassandra savage <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> legends of tomorrow <br />
+    <b>first:</b> legends of tomorrow 1x14<br />
+    <b>status:</b> lost to timeline <br />
+    <b>alignment:</b> ally <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="keanbarbara">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/d7fc0f23adb33ca0a7c0d5e902e10bc1/tumblr_inline_o78fo7GLzC1rtzx6a_540.png" />
+<div class="title">
+    <a href="/tagged/barbara kean">barbara kean</a>
+</div><div class="bottom">
+    <b>name:</b> barbara kean <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 1x01<br />
+    <b>status:</b> dead ? <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="smythesiobhan">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/siobhan smythe">siobhan smythe</a>
+</div><div class="bottom">
+    <b>name:</b> siobhan smythe <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 1x14<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="pilgrim">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/pilgrim">the pilgrim</a>
+</div><div class="bottom">
+    <b>name:</b> unknown <br />
+    <b>alias:</b> the pilgrim <br />
+    <b>show(s):</b> legends of tomorrow <br />
+    <b>first:</b> legends of tomorrow 1x12<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> lawful evil <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="galavantabitha">
+ 
+<div class="content">
+    <img src="https://68.media.tumblr.com/724f7b46abd6ed228c3b69b0fa889ab6/tumblr_inline_on9l9feuL91uwh7mg_540.png" />
+<div class="title">
+    <a href="/tagged/tabitha galavan">tabitha galavan</a>
+</div><div class="bottom">
+    <b>name:</b> tabitha galavan <br />
+    <b>alias:</b> tigress <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 2x01<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash arrow" name="larvanbrie">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/brie larvan">brie larvan</a>
+</div><div class="bottom">
+    <b>name:</b> brie larvan <br />
+    <b>alias:</b> bug-eyed bandit <br />
+    <b>show(s):</b> the flash, arrow <br />
+    <b>first:</b> the flash 1x18<br />
+    <b>status:</b> alive (comatose) <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="weicheinna">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/chein na wei">chein na wei</a>
+</div><div class="bottom">
+    <b>name:</b> chein na wei <br />
+    <b>alias:</b> china white <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 1x02<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="pepperivy">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/ivy pepper">ivy pepper</a>
+</div><div class="bottom">
+    <b>name:</b> ivy pepper <br />
+    <b>alias:</b> pamela <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 1x01<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="pikebridgit">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/bridgit pike">bridgit pike</a>
+</div><div class="bottom">
+    <b>name:</b> bridgit pike <br />
+    <b>alias:</b> firefly <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 2x05<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave lot" name="vostokvalentina">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/valentina vostok">valentina vostok</a>
+</div><div class="bottom">
+    <b>name:</b> valentina vostok <br />
+    <b>alias:</b> soviet firestorm <br />
+    <b>show(s):</b> legends of tomorrow <br />
+    <b>first:</b> legends of tomorrow 1x04<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="harmoneliza">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/eliza harmon">eliza harmon</a>
+</div><div class="bottom">
+    <b>name:</b> eliza harmon <br />
+    <b>alias:</b> trajectory* <br />
+    <b>show(s):</b> the flash <br />
+    <b>first:</b> the flash 2x16<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="inzeastra">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/astra in ze">astra in ze</a>
+</div><div class="bottom">
+    <b>name:</b> astra in ze <br />
+    <b>alias:</b> general astra <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 1x01<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave izombie" name="duclarkrita">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/iHCFuF/ritagreencyan2.png" />
+<div class="title">
+    <a href="/tagged/rita du clark">rita du clark</a>
+</div><div class="bottom">
+    <b>name:</b> rita du clark <br />
+    <b>alias:</b> gilda <br />
+    <b>show(s):</b> izombie <br />
+    <b>first:</b> izombie 1x13<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="bizarro">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/ebLPoa/bizarroyellow.png" />
+<div class="title">
+    <a href="/tagged/bizarro">bizarro</a>
+</div><div class="bottom">
+    <b>name:</b> jane doe <br />
+    <b>alias:</b> bizarro <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 1x09<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave lucifer" name="goddess">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/goddess">goddess</a>
+</div><div class="bottom">
+    <b>name:</b> goddess <br />
+    <b>alias:</b> charlotte richards <br />
+    <b>show(s):</b> lucifer <br />
+    <b>first:</b> lucifer 2x01<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="cuttercarrie">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/nbHgZF/carriepink.png" />
+<div class="title">
+    <a href="/tagged/carrie cutter">carrie cutter</a>
+</div><div class="bottom">
+    <b>name:</b> carrie cutter <br />
+    <b>alias:</b> cupid <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 3x06<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="rhea">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/rhea of daxam">rhea</a>
+</div><div class="bottom">
+    <b>name:</b> rhea <br />
+    <b>alias:</b> queen rhea <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 2x07<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="rochevisabel">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/isabel rochev">isabel rochev</a>
+</div><div class="bottom">
+    <b>name:</b> isabel rochev <br />
+    <b>alias:</b> ravager <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 2x01<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="adamsruve">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/fcDATa/ruvepink.png" />
+<div class="title">
+    <a href="/tagged/ruvé adams">Ruvé adams</a>
+</div><div class="bottom">
+    <b>name:</b> ruvé adams <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 4x09<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="peabodyethel">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/ethel peabody">ethel peabody</a>
+</div><div class="bottom">
+    <b>name:</b> ethel peabody <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 2x11<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="indigo">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/indigo">indigo</a>
+</div><div class="bottom">
+    <b>name:</b> brainiac 8 <br />
+    <b>alias:</b> indigo <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 1x15<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave izombie" name="stollvivian">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/vivian stoll">vivian stoll</a>
+</div><div class="bottom">
+    <b>name:</b> vivian stoll <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> izombie <br />
+    <b>first:</b> izombie 2x18<br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="natifahmesi">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/mesi natifah">mesi natifah</a>
+</div><div class="bottom">
+    <b>name:</b> mesi natifah <br />
+    <b>alias:</b> talibah <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 3x16<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ally <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave vixen lot" name="kuasa">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/kuasa">kuasa</a>
+</div><div class="bottom">
+    <b>name:</b> kuasa <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> vixen, legends of tomorrow <br />
+    <b>first:</b> vixen s1<br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave lucifer" name="dunlearvanessa">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/vanessa dunlear">vanessa dunlear</a>
+</div><div class="bottom">
+    <b>name:</b> vanessa dunlear <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> lucifer <br />
+    <b>first:</b> lucifer 1x11 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="vandahlgrace">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/grace van dahl">grace van dahl</a>
+</div><div class="bottom">
+    <b>name:</b> grace van dahl <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 2x15 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="vandahlsasha">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/sasha van dahl">sasha van dahl</a>
+</div><div class="bottom">
+    <b>name:</b> sasha van dahl <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 2x15 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="warnerliza">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/liza warner">liza warner</a>
+</div><div class="bottom">
+    <b>name:</b> liza warner <br />
+    <b>alias:</b> lady cop <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 4x04 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="fayadmina">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/mina fayad">mina fayad</a>
+</div><div class="bottom">
+    <b>name:</b> mina fayad <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 3x17 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave gotham" name="monroekathryn">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/kathryn monroe">kathryn monroe</a>
+</div><div class="bottom">
+    <b>name:</b> kathryn monroe <br />
+    <b>alias:</b> the white haired woman <br />
+    <b>show(s):</b> gotham <br />
+    <b>first:</b> gotham 2x21 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="nixonphaedra">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/phaedra nixon">phaedra nixon</a>
+</div><div class="bottom">
+    <b>name:</b> phaedra nixon <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 4x09 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="pollard">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/pollard">pollard</a>
+</div><div class="bottom">
+    <b>name:</b> pollard <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 5x13 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="pollard">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/pollard">pollard</a>
+</div><div class="bottom">
+    <b>name:</b> pollard <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 5x13 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave preacher" name="susan">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/susan">susan</a>
+</div><div class="bottom">
+    <b>name:</b> susan <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> preacher <br />
+    <b>first:</b> preacher 1x05 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave preacher" name="featherstonelara">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/lara featherstone">lara featherstone</a>
+</div><div class="bottom">
+    <b>name:</b> lara featherstone <br />
+    <b>alias:</b> jennie <br />
+    <b>show(s):</b> preacher <br />
+    <b>first:</b> preacher 2x02 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave preacher" name="mannering">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/mannering">mannering</a>
+</div><div class="bottom">
+    <b>name:</b> mannering <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> preacher <br />
+    <b>first:</b> preacher 2x03 <br />
+    <b>status:</b> in hell <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="maxima">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/maxima">maxima</a>
+</div><div class="bottom">
+    <b>name:</b> unknown <br />
+    <b>alias:</b> maxima <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 1x19 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave constantine" name="imogen">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/imogen">imogen</a>
+</div><div class="bottom">
+    <b>name:</b> imogen <br />
+    <b>alias:</b> N/A <br />
+    <b>show(s):</b> constantine <br />
+    <b>first:</b> constantine 1x07 <br />
+    <b>status:</b> dead <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="alena">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/h33ATa/alenayellow.png" />
+<div class="title">
+    <a href="/tagged/alena">alena</a>
+</div><div class="bottom">
+    <b>name:</b> alena <br />
+    <b>alias:</b> kojo sledgehammer <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 5x11 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="sinclairveronica">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/veronica sinclair">veronica sinclair</a>
+</div><div class="bottom">
+    <b>name:</b> veronica sinclair <br />
+    <b>alias:</b> roulette <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 2x04 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave supergirl" name="breenbeth">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/cgNFuF/bethbreengreen.png" />
+<div class="title">
+    <a href="/tagged/beth breen">beth breen</a>
+</div><div class="bottom">
+    <b>name:</b> beth breen <br />
+    <b>alias:</b> biomax <br />
+    <b>show(s):</b> supergirl <br />
+    <b>first:</b> supergirl 2x18 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> ambiguous <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
+<div class="item info fave arrow" name="washingtonlaura">
+ 
+<div class="content">
+    <img src="https://image.ibb.co/myVStv/arrow.png" />
+<div class="title">
+    <a href="/tagged/laura washington">laura washington</a>
+</div><div class="bottom">
+    <b>name:</b> laura washington <br />
+    <b>alias:</b> cyber woman <br />
+    <b>show(s):</b> arrow <br />
+    <b>first:</b> arrow 5x08 <br />
+    <b>status:</b> alive <br />
+    <b>alignment:</b> villain <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+
+
+
+
+
+<!-- //
+to add
+
+
+-->
+
+
+ 
+
+
+
+
+
+
+</div>
+
+<!-- PLEASE DO NOT EDIT OR DELETE -->
+<a class="cred" href="http://yearsandsyears.tumblr.com" target="_blank"><div class="clogo"></div></a>
+<!----------- THANK YOU! ----------->
+<!-- Start of StatCounter Code for Tumblr -->
+<script type="text/javascript"> var sc_project=11421059;  var sc_invisible=1;  var sc_security="4ae3057b";  var sc_text=5;  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www."); document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>"); </script>
+<noscript><div class="statcounter"><a title="web statistics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11421059/0/4ae3057b/0/" alt="web statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Tumblr -->
+</body></html>
