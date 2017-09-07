@@ -363,6 +363,7 @@ a:hover {
 <a href="/tagged/deleted scene">deleted scene</a>
 <a href="/tagged/fanart">fanart</a>
 <a href="/tagged/fandom-weeks">fandom weeks</a>
+<a href="/tagged/fic">fanfiction</a>
 <a href="/tagged/fashion">fashion</a>
 <a href="/tagged/graphic">graphic</a>
 <a href="/tagged/icons">icons</a>
@@ -374,6 +375,7 @@ a:hover {
 </div>
 <a href="/tagged/moodboard">moodboard</a>
 <a href="/tagged/others">other media</a>
+<a href="/tagged/playlist">playlist</a>
 <a href="/tagged/reading-list">reading lists</a>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; video</div>
 <div class="droptags">

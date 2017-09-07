@@ -119,13 +119,15 @@ a.title, .text, .colours, .main {border-top:1px solid #f0f0f0;}
 <!-- colour filters: it's best if these are left alone, more info below -->
 <div class="colours"><button class="colour c01" onClick="sscf('red');"></button><button class="colour c02" onClick="sscf('orange');"></button><button class="colour c03" onClick="sscf('yellow');"></button><button class="colour c04" onClick="sscf('green');"></button><button class="colour c05" onClick="sscf('cyan');"></button><button class="colour c06" onClick="sscf('blue');"></button><button class="colour c07" onClick="sscf('purple');"></button><button class="colour c08" onClick="sscf('pink');"></button><button class="colour c09" onClick="sscf('other');"></button></div>
  
+<button class="main tmore" onClick="ssf('fave');">favourites</button>
 <!-- slide down -->
 <div class="section">
     <button class="main tmore" onClick="ssf('new');"><b>NEW</b></button>
 	<div class="more">
+        <button class="sub" onClick="ssf('newrw');">ravi week</button>
         <button class="sub" onClick="ssf('newween');">halloween</button>
-        <button class="sub" onClick="ssf('newcom');">comics</button>
         <button class="sub" onClick="ssf('newfv');">female villains</button>
+        <button class="sub" onClick="ssf('newcom');">comics</button>
 	</div>
 </div>
 <div class="section">
@@ -134,17 +136,39 @@ a.title, .text, .colours, .main {border-top:1px solid #f0f0f0;}
         <button class="sub" onClick="ssf('alena');">alena</button>
         <button class="sub" onClick="ssf('cutter');">carrie cutter</button>
         <button class="sub" onClick="ssf('bertinelli');">helena bertinelli</button>
+        <button class="sub" onClick="ssf('fayad');">mina fayad</button>
         <button class="sub" onClick="ssf('nyssa');">nyssa al ghul</button>
         <button class="sub" onClick="ssf('adams');">ruve adams</button>
         <button class="sub" onClick="ssf('talia');">talia al ghul</button>
 	</div>
 </div>
 <div class="section">
+    <button class="main tmore" onClick="ssf('consttv');">constantine</button>
+	<div class="more">
+        <button class="sub" onClick="ssf('imogen');">imogen</button>
+	</div>
+</div>
+<div class="section">
     <button class="main tmore" onClick="ssf('flash');">the flash</button>
 	<div class="more">
+        <button class="sub" onClick="ssf('harmon');">eliza harmon</button>
+        <button class="sub" onClick="ssf('kane');">frankie kane</button>
         <button class="sub" onClick="ssf('snart');">leonard snart</button>
         <button class="sub" onClick="ssf('rosa');">rosalind dillon</button>
         <button class="sub" onClick="ssf('baez');">shawna baez</button>
+	</div>
+</div>
+<div class="section">
+    <button class="main tmore" onClick="ssf('gotham');">gotham</button>
+	<div class="more">
+        <button class="sub" onClick="ssf('galavan');">tabitha galavan</button>
+	</div>
+</div>
+<div class="section">
+    <button class="main tmore" onClick="ssf('izombie');">izombie</button>
+	<div class="more">
+        <button class="sub" onClick="ssf('duclair');">rita duclair</button>
+        <button class="sub" onClick="ssf('ravi');">ravi chakrabarti</button>
 	</div>
 </div>
 <div class="section">
@@ -158,16 +182,26 @@ a.title, .text, .colours, .main {border-top:1px solid #f0f0f0;}
 	</div>
 </div>
 <div class="section">
-    <button class="main tmore" onClick="ssf('supergirl');">supergirl</button>
+    <button class="main tmore" onClick="ssf('lucifer');">lucifer</button>
 	<div class="more">
-        <button class="sub" onClick="ssf('breen');">beth breen</button>
-        <button class="sub" onClick="ssf('bizarro');">bizarro</button>
+        <button class="sub" onClick="ssf('richards');">charlotte richards</button>
+        <button class="sub" onClick="ssf('dunlear');">vanessa dunlear</button>
+        <button class="sub" onClick="ssf('richards');">charlotte richards</button>
 	</div>
 </div>
 <div class="section">
-    <button class="main tmore" onClick="ssf('izombie');">izombie</button>
+    <button class="main tmore" onClick="ssf('preacher');">preacher</button>
 	<div class="more">
-        <button class="sub" onClick="ssf('duclair');">rita duclair</button>
+        <button class="sub" onClick="ssf('featherstone');">lara featherstone</button>
+	</div>
+</div>
+<div class="section">
+    <button class="main tmore" onClick="ssf('supergirl');">supergirl</button>
+	<div class="more">
+        <button class="sub" onClick="ssf('inze');">astra in-ze</button>
+        <button class="sub" onClick="ssf('breen');">beth breen</button>
+        <button class="sub" onClick="ssf('bizarro');">bizarro</button>
+        <button class="sub" onClick="ssf('indigo');">indigo</button>
 	</div>
 </div>
 <div class="section">
@@ -219,11 +253,12 @@ a.title, .text, .colours, .main {border-top:1px solid #f0f0f0;}
 	</div>
 </div>
 <div class="section">
-    <button class="main tmore" onClick="ssf('fave');">favourites</button>
-    <button class="main tmore" onClick="ssf('pride');">pride flags</button>
-    <button class="main tmore" onClick="ssf('halloween');">halloween</button>
-</div>
- 
+<button class="main tmore" >seasonal</button>
+	<div class="more">
+    <button class="sub" onClick="ssf('pride');">pride flags</button>
+    <button class="sub" onClick="ssf('halloween');">halloween</button>
+	</div>
+</div> 
 </div><div class="icons">
  
  
@@ -577,7 +612,45 @@ a.title, .text, .colours, .main {border-top:1px solid #f0f0f0;}
 <div class="icon new newfv green cyan duclair izombie"><img src="https://image.ibb.co/hzGKMv/ritagreencyan.png" /></div>   
 <div class="icon fave new newfv green cyan duclair izombie"><img src="https://image.ibb.co/iHCFuF/ritagreencyan2.png" /></div>   
 
-
+<div class="icon new newfv green rosa flash "><img src="https://image.ibb.co/hkTSPF/rosalime.png" /></div> 
+<div class="icon new newfv cyan dunlear lucifer "><img src="https://image.ibb.co/kCGsrv/vanessadunlearcyan.png" /></div>  
+<div class="icon new newfv purple fayad arrow"><img src="https://image.ibb.co/cXTu4F/minafayadpurple.png" /></div> 
+<div class="icon new newfv red featherstone preacher "><img src="https://image.ibb.co/d5sMjF/larafeatherstonered.png" /></div> 
+<div class="icon new newfv fave yellow featherstone preacher "><img src="https://image.ibb.co/eVWE4F/larafeatherstoneyellow.png" /></div> 
+<div class="icon new newfv other featherstone preacher "><img src="https://image.ibb.co/hYcAda/larafeatherstonegrey.png" /></div> 
+<div class="icon new newfv purple featherstone preacher "><img src="https://image.ibb.co/kWwE4F/larafeatherstonepurple.png" /></div>  
+<div class="icon new newfv galavan green gotham "><img src="https://image.ibb.co/kKaVda/tabithagalavangreen.png" /></div>    
+<div class="icon new newfv galavan purple gotham "><img src="https://image.ibb.co/mFv7PF/tabithagalavanpurple.png" /></div>    
+<div class="icon new newfv pink richards lucifer "><img src="https://image.ibb.co/hvyu4F/charlotterichardspink.png" /></div> 
+<div class="icon new newfv fave cyan richards lucifer "><img src="https://image.ibb.co/dTAVda/charlotterichardscyan.png" /></div>     
+<div class="icon new newfv yellow richards lucifer "><img src="https://image.ibb.co/fJWsrv/charlotterichardsyellow.png" /></div> 
+<div class="icon new newfv red richards lucifer "><img src="https://image.ibb.co/nHiSPF/charlotterichardsred.png" /></div>   
+<div class="icon new newfv pink harmon flash "><img src="https://image.ibb.co/h18GJa/elizaharmonpink.png" /></div>   
+<div class="icon new newfv orange harmon flash "><img src="https://image.ibb.co/gYfwJa/elizaharmonorange.png" /></div> 
+<div class="icon new newfv blue imogen consttv "><img src="https://image.ibb.co/fZ1QBv/imogenblue.png" /></div>    
+<div class="icon new newfv green imogen consttv "><img src="https://image.ibb.co/fA6E4F/imogengreen.png" /></div>  
+<div class="icon new newfv red imogen consttv "><img src="https://image.ibb.co/cORE4F/imogenred.png" /></div>  
+<div class="icon new newfv blue indigo supergirl "><img src="https://image.ibb.co/jyjdWv/indigoblue.png" /></div>  
+<div class="icon new newfv orange indigo supergirl "><img src="https://image.ibb.co/hqi5Bv/indigoorange.png" /></div> 
+<div class="icon new newfv yellow inze supergirl "><img src="https://image.ibb.co/feK1jF/astrayellow.png" /></div>  
+<div class="icon new newfv purple inze supergirl "><img src="https://image.ibb.co/kLbgjF/astra_purple.png" /></div>  
+<div class="icon new newfv red inze supergirl "><img src="https://image.ibb.co/nBZj4F/astrared.png" /></div>  
+<div class="icon new fave newfv kane pink flash "><img src="https://image.ibb.co/e8mxPF/frankiekanepink.png" /></div>   
+<div class="icon new newfv kane pink flash "><img src="https://image.ibb.co/mVuj4F/frankiepink2.png" /></div>                  
+  
+<div class="icon new newrw orange ravi izombie"><img src="https://image.ibb.co/kHJFUF/ravi113orange.png" /></div>         
+<div class="icon new newrw fave blue ravi izombie"><img src="https://image.ibb.co/b0CLwv/ravi112blue.png" /></div>         
+<div class="icon new newrw purple ravi izombie"><img src="https://image.ibb.co/iO6POa/ravi111purple.png" /></div>         
+<div class="icon new newrw red ravi izombie"><img src="https://image.ibb.co/cUwPOa/ravi110red.png" /></div>         
+<div class="icon new newrw green ravi izombie"><img src="https://image.ibb.co/kxEYGv/ravi109green.png" /></div>         
+<div class="icon new newrw cyan ravi izombie"><img src="https://image.ibb.co/fLEB3a/ravi108cyan.png" /></div>         
+<div class="icon new newrw yellow ravi izombie"><img src="https://image.ibb.co/dQG29F/ravi107yellow.png" /></div>         
+<div class="icon new newrw yellow ravi izombie"><img src="https://image.ibb.co/j5Yh9F/ravi106yellow.png" /></div>         
+<div class="icon new newrw purple ravi izombie"><img src="https://image.ibb.co/kVVOGv/ravi105purple.png" /></div>         
+<div class="icon new newrw orange ravi izombie"><img src="https://image.ibb.co/dBToia/ravi104orange.png" /></div>         
+<div class="icon new newrw green ravi izombie"><img src="https://image.ibb.co/jbJX9F/ravi103green.png" /></div>         
+<div class="icon new newrw red ravi izombie"><img src="https://image.ibb.co/fmbxbv/ravi102red.png" /></div>         
+<div class="icon new newrw cyan ravi izombie"><img src="https://image.ibb.co/gZPiGv/ravi101cyan.png " /></div>         
   
   
   

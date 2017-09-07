@@ -1783,6 +1783,28 @@ footer.post-tags span:before {
 
 		<!-- START OF RIGHT SIDEBAR -->
 		<aside class="sidebar" id="sidebar-right">
+
+			<!-- CATEGORY FOUR -->
+			<div class="category">
+				<h1 class="lnr lnr-{text:Category 4 Icon}">{text:Category 4 Title}</h1>
+				<div class="box status">
+					<ul>
+						<li>
+							<span class="lnr lnr-enter">requests</span>
+							<a href = "/ask">gif/icon requests are open</a>
+						</li>
+						<li>
+							<span class="lnr lnr-cog">member applications</span>
+							<a href = "/submit"><b>actively recruiting</b></a>
+						</li>
+						<li>
+							<span class="lnr lnr-cog">affiliate applications</span>
+							<a href = "/submit">affiliate applications are open</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- CATEGORY FOUR -->
 		    
 			<!-- CATEGORY FIVE a -->
 			<div class="category">
@@ -1920,28 +1942,6 @@ footer.post-tags span:before {
                 </div><!-- BOX -->
 			</div>
 			<!-- CATEGORY SEVEN -->
-
-			<!-- CATEGORY FOUR -->
-			<div class="category">
-				<h1 class="lnr lnr-{text:Category 4 Icon}">{text:Category 4 Title}</h1>
-				<div class="box status">
-					<ul>
-						<li>
-							<span class="lnr lnr-enter">requests</span>
-							<a href = "/ask">gif/icon requests are open</a>
-						</li>
-						<li>
-							<span class="lnr lnr-cog">member applications</span>
-							<a href = "/submit">member applications are open</a>
-						</li>
-						<li>
-							<span class="lnr lnr-cog">affiliate applications</span>
-							<a href = "/submit">affiliate applications are open</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<!-- CATEGORY FOUR -->
 			
 			<!-- CATEGORY EIGHT -->
 			<div class="category">
@@ -1982,6 +1982,10 @@ document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>")
 	<!-- End of StatCounter Code for Tumblr -->
 </li>
 					 	<li><span class="list-title">theme by</span><a href="http://roxiestheme.tumblr.com">ROXIESTHEME</a></li>
+					 	<li><span class="list-title">fan count</span><script language="JavaScript">var fhsf = document.createElement('script');
+fhsf.src = "//tc.freehostedscripts.net/tcounter.php?url=ccrogues.tumblr.com&name=&a=1";
+document.head.appendChild(fhsf);document.write("<span id='f_counter'></span>");
+</script></li>
 						<li><span class="list-title">icon credit</span><a href="https://ccrogues.tumblr.com/previcons">here</a></li>
 					 	<li><span class="list-title">disclaimer</span>Do not repost any of our original content on tumblr and please credit this blog when sharing our content on any other social media platform online. Our site claims no credit for any images posted on this site unless stated otherwise. Images and information on this blog are copyright to their respectful owners. If any reblog was a repost, contact us and we will have it deleted.</li>
 					</ul>

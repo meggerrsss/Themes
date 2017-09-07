@@ -242,7 +242,6 @@ nav {
 <div class="title">upcoming gif series</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
-	<a href="/tagged/bombshellsbonanza">bombshells bonanza</a>
 	<a href="/tagged/raviweek">ravi chakrabarti week</a>
 	<a href="/tagged/??">mick rory week</a>
 </div>
@@ -391,6 +390,7 @@ nav {
 <div class="title">complete fandom events</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
+	<a href="/tagged/bombshellsbonanza">bombshells bonanza</a>
 	<a href="/tagged/snibsweek2017">snart siblings week</a>
 	<a href="/tagged/jamesolsenweek">james olsen week</a>
 	<a href="/tagged/coldwaveweek2017">coldwave week 2017</a>
@@ -416,7 +416,7 @@ nav {
 <div class="box movie show">
 <div class="title">disclaimer</div>
 <div class="tags">
-<h2>more accurate searching by character or episode, go to @meggerrsss</h2>
+<h2>for more accurate searching by character or episode, go to @meggerrsss</h2>
 </div>
 </div>
 
@@ -512,6 +512,7 @@ nav {
     <a href="/tagged/paulholtedit">paul holt</a>
     <a href="/tagged/robertqueenedit">robert queen</a>
     <a href="/tagged/roryreganedit">rory regan</a>
+    <a href="/tagged/sinlanceedit">sin (lance)</a>
     <a href="/tagged/taliaalghuledit">talia al ghul</a>
 <h2>cast</h2>
     <a href="/tagged/arrowcastedit">cast</a>

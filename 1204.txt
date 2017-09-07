@@ -1403,7 +1403,7 @@ askerurl{
 <a href="http://marcomardon.tumblr.com/shows"><i class="zmdi zmdi-chevron-right"></i> shows</a>
 <a href="http://marcomardon.tumblr.com/creations"><i class="zmdi zmdi-chevron-right"></i> creations</a>
 <a href="http://marcomardon.tumblr.com/books"><i class="zmdi zmdi-chevron-right"></i> books</a>
-<a href="https://tockify.com/dcfandomevents/agenda"><i class="zmdi zmdi-chevron-right"></i> dc events</a>
+<a href="http://marcomardon.tumblr.com/calendar"><i class="zmdi zmdi-chevron-right"></i> dc events</a>
 </br></br></br>
 																																  
 																  
@@ -1557,6 +1557,12 @@ askerurl{
             photoWrap: '.photo-data',
             photo: '.pxu-photo'
         });</script>
+		
+<script language="JavaScript">var fhsf = document.createElement('script');
+fhsf.src = "//tc.freehostedscripts.net/tcounter.php?url=marcomardon.tumblr.com&name=&a=1";
+document.head.appendChild(fhsf);document.write("<span id='f_counter'></span>");
+</script>
+
  
 </body>
 <!-- end html -->
