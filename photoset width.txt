@@ -1,0 +1,31 @@
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<script>
+  /* questions? ask oddhour.tumblr.com */
+     var updatePhotosetCss = "<style id='updatePhotosetStyle'>  .photoset .photoset_row img { display: block; } .photoset .photoset_row.photoset_row_1 img { max-width: 540px; } .photoset .photoset_row.photoset_row_2 img { max-width: 268px; } .photoset .photoset_row.photoset_row_3 img { max-width: 177px; } .photoset .photoset_row .photoset_photo { margin-left: 4px; } .photoset .photoset_row { text-align: center; width: 540px; } .photoset { width: 540px; }</style>";
+   function updatePhotoset() {
+        
+        $(".photoset:not(.540-resized)").each( function (i, e) {
+            if($(this.contentDocument).find("#updatePhotosetStyle").size() <= 0) 
+                $(this.contentDocument).find("head").append(updatePhotosetCss);
+        	var photoset = $(this.contentDocument).find(".photoset");
+        	var photosetRows = photoset.find(".photoset_row");  
+            photoset.find(".photoset_photo")
+                .each(function () {
+                    var hiResSrc = $(this).attr("href");
+                    var img = $(this).find('img');
+                    img.attr("src", hiResSrc );
+                    img.attr("style", "");
+                });
+    	    photosetRows.attr("style", "");
+    	    photoset.attr("style","");
+    	    photoset.addClass("540-resized");
+    	    $(this).height($(this.contentDocument.body).height());
+        });
+    }
+    
+    updatePhotoset();
+
+    var photosetTimer = setInterval(updatePhotoset, 1500);
+    $(window).on('load', function () { setTimeout(function() {clearInterval(photosetTimer)}, 2000); })
+</script>

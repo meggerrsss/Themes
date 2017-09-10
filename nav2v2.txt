@@ -342,9 +342,11 @@ nav {
 <div class="title">sideblogs</div>
 <div class="tags">
 	<a href="http://ccrogues.tumblr.com/">ccrogues</a>
+	<a href="http://jlaction.tumblr.com/">jlaction</a>
     <a href="http://dailydcheroes.tumblr.com/">dailydcheroes</a>
     <a href="http://meggerrsss.tumblr.com/">meggerrsss </a>
 	<a href="http://dctvcountdown.tumblr.com/">dctvcountdown</a>
+	<a href="http://dcfandomevents.tumblr.com/">dcfandomevents</a>
 	<a href="http://raviweek.tumblr.com/">raviweek</a>
 </div>
 </div>
@@ -529,6 +531,13 @@ nav {
 </div>
 
 <div class="box show">
+<div class="title">bill nye</div>
+<div class="tags">
+    <a href="/tagged/billnyeedit">all</a>
+</div>
+</div>
+
+<div class="box show">
 <div class="title">black lightning</div>
 <div class="tags">
     <a href="/tagged/blacklightningedit">all</a>
@@ -608,15 +617,19 @@ nav {
     <a href="/tagged/joewestedit">joe west</a>
     <a href="/tagged/wallywestedit">wally west</a>
 <h2>reccurring</h2>
+    <a href="/tagged/axelwalkeredit">axel walker</a>
     <a href="/tagged/cecilehortonedit">cecile horton</a>
     <a href="/tagged/abrakadabraedit">citizen abra</a>
     <a href="/tagged/clydemardonedit">clyde mardon</a>
+    <a href="/tagged/cynthiareynoldsedit">cynthia reynolds</a>
     <a href="/tagged/davidsinghedit">david singh</a>
+    <a href="/tagged/doctorlightedit">doctor light</a>
     <a href="/tagged/eobardthawneedit">eobard thawne</a>
     <a href="/tagged/frankiekaneedit">frankie kane</a>
     <a href="/tagged/hartleyrathawayedit">hartley rathaway</a>
     <a href="/tagged/henryallenedit">henry allen</a>
     <a href="/tagged/hunterzolomonedit">hunter zolomon</a>
+    <a href="/tagged/jamesjesseedit">james jesse</a>
     <a href="/tagged/jaygarrickedit">jay garrick</a>
     <a href="/tagged/jessewellsedit">jesse wells</a>
     <a href="/tagged/julianalbertedit">julian albert</a>
@@ -770,6 +783,14 @@ nav {
     <a href="/tagged/nelljonesedit">nell jones </a>
 <h2>ncis nola</h2>
     <a href="/tagged/ncisnolaedit">all</a>
+</div>
+</div>
+
+<div class="box show">
+<div class="title">once upon a time</div>
+<div class="tags">
+    <a href="/tagged/ouatedit">all</a>
+    <a href="/tagged/reginamillsedit">regina mills</a>
 </div>
 </div>
 

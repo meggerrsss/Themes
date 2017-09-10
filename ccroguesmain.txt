@@ -1914,6 +1914,7 @@ footer.post-tags span:before {
 					<a href="https://another-rogues-paradise.tumblr.com/" title="ANOTHER ROGUE'S PARADISE"><img src="https://api.tumblr.com/v2/blog/another-rogues-paradise.tumblr.com/avatar/64" />
 					<a href="https://dctvpoc.tumblr.com/" title="DCTVPOC"><img src="https://68.media.tumblr.com/6e52a18300831e49377bd60966c1042f/tumblr_messaging_otzdfqR8s31rflgjw_250.png" />
 					<a href="https://dailymickrory.tumblr.com/" title="DAILYMICKRORY"><img src="https://api.tumblr.com/v2/blog/dailymickrory.tumblr.com/avatar/64" />
+					<a href="https://jlaction.tumblr.com/" title="JLACTION"><img src="https://api.tumblr.com/v2/blog/jlaction.tumblr.com/avatar/64" />
 					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
 					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
 					<a href="http://gorogues.tumblr.com/" title="gorogues"><img src="https://api.tumblr.com/v2/blog/gorogues.tumblr.com/avatar/64" />
@@ -1925,7 +1926,10 @@ footer.post-tags span:before {
 					<a href="http://fyeahgoldenvibe.tumblr.com/" title="fyeahgoldenvibe"><img src="https://api.tumblr.com/v2/blog/fyeahgoldenvibe.tumblr.com/avatar/64" />
 					<a href="http://dailycoldflash.tumblr.com/" title="dailycoldflash"><img src="https://api.tumblr.com/v2/blog/dailycoldflash.tumblr.com/avatar/64" />
 					<a href="http://isleonardsnartbackyet.tumblr.com/" title="isleonardsnartbackyet"><img src="https://api.tumblr.com/v2/blog/isleonardsnartbackyet.tumblr.com/avatar/64" />
-					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="" />
+					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
+					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
+					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
+					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
 				</div>
 			</div>
 			<!-- CATEGORY SIX -->
@@ -2038,7 +2042,7 @@ document.head.appendChild(fhsf);document.write("<span id='f_counter'></span>");
 						<div class="photo-slideshow" id="photoset_{PostID}" data-layout="{PhotosetLayout}">
 							{block:Photos}<div class="photo-data">
 								<div class="pxu-photo">
-									<img src="{PhotoURL-HighRes}" width="{PhotoWidth-500}" height="{PhotoHeight-500}" data-highres="{PhotoURL-HighRes}" data-width="{PhotoWidth-HighRes}" data-height="{PhotoHeight-HighRes}" />
+									<img src="{PhotoURL-HighRes}" width="{PhotoWidth}" height="{PhotoHeight}" data-highres="{PhotoURL-HighRes}" data-width="{PhotoWidth-HighRes}" data-height="{PhotoHeight-HighRes}" />
 								</div><!-- pxu-photo -->
 								<a class="tumblr-box" rel="post-{PostID}" href="{PhotoURL-HighRes}"></a>
 							</div><!-- photo-data -->{/block:Photos}

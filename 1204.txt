@@ -131,6 +131,39 @@ $('.tmblr-iframe').css({position: 'static', top: '0px'});
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
 <script src ="//static.tumblr.com/fwgzvyf/Oj1o08f6h/shythemes.vr.js"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<script>
+  /* questions? ask oddhour.tumblr.com */
+     var updatePhotosetCss = "<style id='updatePhotosetStyle'>  .photoset .photoset_row img { display: block; } .photoset .photoset_row.photoset_row_1 img { max-width: 540px; } .photoset .photoset_row.photoset_row_2 img { max-width: 268px; } .photoset .photoset_row.photoset_row_3 img { max-width: 177px; } .photoset .photoset_row .photoset_photo { margin-left: 4px; } .photoset .photoset_row { text-align: center; width: 540px; } .photoset { width: 540px; }</style>";
+   function updatePhotoset() {
+        
+        $(".photoset:not(.540-resized)").each( function (i, e) {
+            if($(this.contentDocument).find("#updatePhotosetStyle").size() <= 0) 
+                $(this.contentDocument).find("head").append(updatePhotosetCss);
+        	var photoset = $(this.contentDocument).find(".photoset");
+        	var photosetRows = photoset.find(".photoset_row");  
+            photoset.find(".photoset_photo")
+                .each(function () {
+                    var hiResSrc = $(this).attr("href");
+                    var img = $(this).find('img');
+                    img.attr("src", hiResSrc );
+                    img.attr("style", "");
+                });
+    	    photosetRows.attr("style", "");
+    	    photoset.attr("style","");
+    	    photoset.addClass("540-resized");
+    	    $(this).height($(this.contentDocument.body).height());
+        });
+    }
+    
+    updatePhotoset();
+
+    var photosetTimer = setInterval(updatePhotoset, 1500);
+    $(window).on('load', function () { setTimeout(function() {clearInterval(photosetTimer)}, 2000); })
+</script>
+
 <!-- meta names -->
 <head>
 <title>{Title}</title>
@@ -694,6 +727,7 @@ u {
 	text-transform:uppercase;
 	margin-left:2px;
 	margin-top:1px;
+	margin-bottom:10px;
 }
 
 #custom_links {
@@ -813,9 +847,9 @@ u {
 	color:{color:links};
 	padding:1px;
 	font-weight:200;
-	margin-top:15px;
+	margin-top:5px;
 	text-align:left;
-	line-height:15px;
+	line-height:10px;
 	font-style:none;
 	font-family: 'source sans pro', sans-serif;
 	text-transform:uppercase;
@@ -1415,11 +1449,13 @@ askerurl{
 </div>
 <div id="navi_links2">
 <span class="lnr lnr-tag"style="font-size:12px;color:{color:accent 2}"></span> <t>{text:navigation title two}</t>
-		<CENTER>
-		<a href="http://ccrogues.tumblr.com/tagged/by-meghan" title="ccrogues" class=""><img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/40"></a>
+		<br><CENTER>
+		<br><a href="http://ccrogues.tumblr.com/tagged/by-meghan" title="ccrogues" class=""><img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/40"></a>
+		<a href="http://jlaction.tumblr.com/" title="jlaction" class=""><img src="https://api.tumblr.com/v2/blog/jlaction.tumblr.com/avatar/40"></a>
 		<a href="http://dctvcountdown.tumblr.com" title="dctvcountdown" class=""><img src="https://api.tumblr.com/v2/blog/dctvcountdown.tumblr.com/avatar/40"></a>
-		<a href="http://dailydcheroes.tumblr.com/tagged/by-meghan" title="dailydcheroes" class=""><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/40"></a>
+		<br><a href="http://dailydcheroes.tumblr.com/tagged/by-meghan" title="dailydcheroes" class=""><img src="https://api.tumblr.com/v2/blog/dailydcheroes.tumblr.com/avatar/40"></a>
 		<a href="http://raviweek.tumblr.com/" title="raviweek" class=""><img src="https://api.tumblr.com/v2/blog/raviweek.tumblr.com/avatar/40"></a>
+		<a href="http://dcfandomevents.tumblr.com/" title="dcfandomevents" class=""><img src="https://api.tumblr.com/v2/blog/dcfandomevents.tumblr.com/avatar/40"></a>
 		</CENTER>
 		</div>
 </div>
@@ -1488,7 +1524,7 @@ askerurl{
 <!-- photosets -->  
 {block:Photoset}
 <div class="set"style="margin-top:-15px"><center><div class="pxu"><div class="photo-slideshow" id="photoset_{PostID}" data-layout="{PhotosetLayout}">{block:Photos}
-<div class="photo-data"><div class="pxu-photo"><img src="{PhotoURL-500}" width="{PhotoWidth-500}" height="{PhotoHeight-500}" data-highres="{PhotoURL-HighRes}" data-width="{PhotoWidth-HighRes}" ></div><a class="tumblr-box" rel="post-{PostID}" href="{PhotoURL-HighRes}"></a></div>{/block:Photos}</div></div></center></div>
+<div class="photo-data"><div class="pxu-photo"><img src="{PhotoURL}" width="{PhotoWidth}" height="{PhotoHeight}" data-highres="{PhotoURL-HighRes}" data-width="{PhotoWidth-HighRes}" ></div><a class="tumblr-box" rel="post-{PostID}" href="{PhotoURL-HighRes}"></a></div>{/block:Photos}</div></div></center></div>
 {block:Caption}<div class="photo_caption">{Caption}</div>{/block:Caption}
 {/block:Photoset}
 <!-- videos -->
