@@ -243,7 +243,8 @@ nav {
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
 	<a href="/tagged/raviweek">ravi chakrabarti week</a>
-	<a href="/tagged/??">mick rory week</a>
+	<a href="/tagged/mickroryaw">mick rory week</a>
+	<a href="/tagged/tnc">the name challenge</a>
 </div>
 </div>
   
@@ -298,6 +299,20 @@ nav {
 </div>
 </div>
 
+
+
+<div class="box type show">
+<div class="title">marvel netflix</div>
+<div class="tags">
+    <a href="/tagged/marvelnetflixedit">all</a>
+    <a href="/tagged/daredeviledit">daredevil</a>
+    <a href="/tagged/jessicajonesedit">jessica jones</a>
+    <a href="/tagged/lukecageedit">luke cage</a>
+    <a href="/tagged/ironfistedit">iron fist</a>
+    <a href="/tagged/defendersedit">the defenders</a>
+</div>
+</div>
+
 <div class="box type">
 <div class="title">dcau</div>
 <div class="tags">
@@ -323,16 +338,19 @@ nav {
 <div class="title">other franchises</div> 
 <div class="tags">
     <a href="/tagged/filmedit">movies</a>
+    <a href="/tagged/atlaedit">avatar the last airbender</a>
     <a href="/tagged/billnyeedit">bill nye</a>
     <a href="/tagged/chjedit">chicago justice</a>
     <a href="/tagged/cpdedit">chicago p.d.</a>
     <a href="/tagged/frequencyedit">frequency</a>
     <a href="/tagged/h50edit">hawaii five-0</a>
     <a href="/tagged/thelibrariansedit">the librarians</a>
+    <a href="/tagged/marvelnetflixedit">marvel netflix</a>
     <a href="/tagged/mcuedit">marvel cinematic</a>
     <a href="/tagged/ncisedit">ncis, la, nola</a>
     <a href="/tagged/ouatedit">once upon a time</a>
     <a href="/tagged/pbedit">prison break</a>
+    <a href="/tagged/rebootedit">reboot</a>
     <a href="/tagged/shadowhuntersedit">shadowhunters</a>
     <a href="/tagged/wliiaedit">whose line is it anyway</a>
 </div>
@@ -392,6 +410,7 @@ nav {
 <div class="title">complete fandom events</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
+	<a href="/tagged/saralanceweek">sara lance week</a>
 	<a href="/tagged/bombshellsbonanza">bombshells bonanza</a>
 	<a href="/tagged/snibsweek2017">snart siblings week</a>
 	<a href="/tagged/jamesolsenweek">james olsen week</a>
@@ -471,9 +490,11 @@ nav {
     <a href="/tagged/stevetrevoredit">steve trevor</a>
 <h2>justice league</h2>
     <a href="/tagged/justiceleague">all</a>
+    <a href="/tagged/alfredpennyworthedit">alfred pennyworth</a>
     <a href="/tagged/barryedit">barry allen</a>
     <a href="/tagged/henryallenedit">henry allen</a>
     <a href="/tagged/meraedit">mera</a>
+    <a href="/tagged/victorstoneedit">victor stone</a>
 <h2>aquaman</h2>
     <a href="/tagged/aquamanedit">all</a>
     <a href="/tagged/arthurcurryedit">arthur curry</a>
@@ -499,6 +520,7 @@ nav {
     <a href="/tagged/royharperedit">roy harper</a>
     <a href="/tagged/sladewilsonedit">slade wilson</a>
     <a href="/tagged/theaqueenedit">thea queen</a>
+    <a href="/tagged/tommymerlynedit">tommy merlyn</a>
 <h2>reccurring</h2>
     <a href="/tagged/amandawalleredit">amanda waller</a>
     <a href="/tagged/anatolyknyazevedit">anatoly knyazev</a>
@@ -518,6 +540,8 @@ nav {
     <a href="/tagged/taliaalghuledit">talia al ghul</a>
 <h2>cast</h2>
     <a href="/tagged/arrowcastedit">cast</a>
+    <a href="/tagged/ekellumedit">echo kellum</a>
+    <a href="/tagged/ebrickardsedit">emily bett rickards</a>
     <a href="/tagged/samelledit">stephen amell</a>
 </div>
 </div>
@@ -595,9 +619,11 @@ nav {
     <a href="/tagged/vandalsavageedit">vandal savage</a>
 <h2>cast</h2>
     <a href="/tagged/lotcastedit">cast</a>
+    <a href="/tagged/brouthedit">brandon routh</a>
     <a href="/tagged/clotzedit">caity lotz</a>
     <a href="/tagged/dpurcelledit">dominic purcell</a>
     <a href="/tagged/fdramehedit">franz drameh</a>
+    <a href="/tagged/mrsellersedit">maisie richardson-sellers</a>
     <a href="/tagged/vgarberedit">victor garber</a>
 </div>
 </div>
@@ -647,6 +673,8 @@ nav {
     <a href="/tagged/tonywoodwardedit">tony woodward</a>
     <a href="/tagged/tracybrandedit">tracy brand</a>
 <h2>cast</h2>
+    <a href="/tagged/cvaldesedit">carlos valdes</a>
+    <a href="/tagged/dpanabakeredit">danielle panabaker</a>
     <a href="/tagged/plistedit">peyton list</a>
 </div>
 </div>
@@ -756,6 +784,16 @@ nav {
 </div>
 </div>
 
+<div class="box show">
+<div class="title">marvel netflix</div>
+<div class="tags">
+    <a href="/tagged/marvelnetflixedit">all</a>
+<h2>the defenders</h2>
+    <a href="/tagged/defendersedit">all</a>
+    <a href="/tagged/mattmurdockedit">matt murdock </a>
+</div>
+</div>
+
 <div class="box movie">
 <div class="title">mcu</div>
 <div class="tags">
@@ -841,6 +879,14 @@ nav {
     <a href="/tagged/larafeatherstoneedit">lara featherstone</a>
     <a href="/tagged/proinsiascassidyedit">proinsias cassidy</a>
     <a href="/tagged/tulipohareedit">tulip ohare</a>
+</div>
+</div>
+
+<div class="box show">
+<div class="title">reboot</div>
+<div class="tags">
+    <a href="/tagged/rebootedit">all</a>
+    <a href="/tagged/enzomatrixedit">enzo matrix</a>
 </div>
 </div>
 

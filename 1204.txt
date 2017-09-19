@@ -1593,12 +1593,6 @@ askerurl{
             photoWrap: '.photo-data',
             photo: '.pxu-photo'
         });</script>
-		
-<script language="JavaScript">var fhsf = document.createElement('script');
-fhsf.src = "//tc.freehostedscripts.net/tcounter.php?url=marcomardon.tumblr.com&name=&a=1";
-document.head.appendChild(fhsf);document.write("<span id='f_counter'></span>");
-</script>
-
- 
+		 
 </body>
 <!-- end html -->

@@ -1657,6 +1657,8 @@ footer.post-tags span:before {
 				<h1 class="lnr lnr-{text:Category 3 Icon}">{text:Category 3 Title}</h1>
 				<div class="box extra-links">
 					<a href="https://ccrogues.tumblr.com/characters">the rogues</a>
+					<a href="https://ccrogues.tumblr.com/tags">tags</a>
+					<a href="https://ccrogues.tumblr.com/eps">episodes</a>
 					<a href="https://ccrogues.tumblr.com/interactions">interactions</a>
 					<a href="https://ccrogues.tumblr.com/icons">icons by meghan</a>
 					<a href="https://ccrogues.tumblr.com/vote">vote for a rogue</a>
@@ -1791,11 +1793,11 @@ footer.post-tags span:before {
 					<ul>
 						<li>
 							<span class="lnr lnr-enter">requests</span>
-							<a href = "/ask">gif/icon requests are open</a>
+							<a href = "/faq">gif/icon requests are open</a>
 						</li>
 						<li>
 							<span class="lnr lnr-cog">member applications</span>
-							<a href = "/submit"><b>actively recruiting</b></a>
+							<a href = "/submit"><b>actively recruiting until 21/9</b></a>
 						</li>
 						<li>
 							<span class="lnr lnr-cog">affiliate applications</span>
@@ -1830,22 +1832,6 @@ footer.post-tags span:before {
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Comics</h1>
 				<div class="box updates">
-					<article>
-						<section class="date"><span>6th</span> Sep 17</section>
-						<section class="event">SS: Black Files #002<br />New Issue</section>
-					</article>
-					<article>
-						<section class="date"><span>13th</span> Sep 17</section>
-						<section class="event">The Flash #030<br />Bloodwork I</section>
-					</article>
-					<article>
-						<section class="date"><span>13th</span> Sep 17</section>
-						<section class="event">Suicide Squad #025<br />Kill Your Darlings finale</section>
-					</article>
-					<article>
-						<section class="date"><span>13th</span> Sep 17</section>
-						<section class="event">New Superman #015<br />Equilibrium I</section>
-					</article>
 					<article>
 						<section class="date"><span>27th</span> Sep 17</section>
 						<section class="event">The Flash #031<br />Bloodwork II</section>
@@ -1884,7 +1870,7 @@ footer.post-tags span:before {
 					</article>
 					<article>
 						<section class="date"><span>8th</span> Nov 17</section>
-						<section class="event">Red Hood &amp;t Outlaws #022<br />Bizarro Reborn III</section>
+						<section class="event">Red Hood &amp;t Outlaws #016<br />Bizarro Reborn III</section>
 					</article>
 					<article>
 						<section class="date"><span>22th</span> Nov 17</section>
@@ -1893,6 +1879,26 @@ footer.post-tags span:before {
 					<article>
 						<section class="date"><span>22th</span> Nov 17</section>
 						<section class="event">Suicide Squad #030<br />Secret History of TFX IV</section>
+					</article>
+					<article>
+						<section class="date"><span>13th</span> Dec 17</section>
+						<section class="event">The Flash #036<br />A Cold Day in Hell I</section>
+					</article>
+					<article>
+						<section class="date"><span>13th</span> Dec 17</section>
+						<section class="event">Suicide Squad #031<br />Secret History of TFX V</section>
+					</article>
+					<article>
+						<section class="date"><span>13th</span> Dec 17</section>
+						<section class="event">Red Hood &amp;t Outlaws #017<br />Bizarro Reborn IV</section>
+					</article>
+					<article>
+						<section class="date"><span>27th</span> Dec 17</section>
+						<section class="event">The Flash #037<br />A Cold Day in Hell II</section>
+					</article>
+					<article>
+						<section class="date"><span>27th</span> Dec 17</section>
+						<section class="event">Suicide Squad #032<br />Secret History of TFX VI</section>
 					</article>
 			  </div>
 			</div>
@@ -1986,10 +1992,6 @@ document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>")
 	<!-- End of StatCounter Code for Tumblr -->
 </li>
 					 	<li><span class="list-title">theme by</span><a href="http://roxiestheme.tumblr.com">ROXIESTHEME</a></li>
-					 	<li><span class="list-title">fan count</span><script language="JavaScript">var fhsf = document.createElement('script');
-fhsf.src = "//tc.freehostedscripts.net/tcounter.php?url=ccrogues.tumblr.com&name=&a=1";
-document.head.appendChild(fhsf);document.write("<span id='f_counter'></span>");
-</script></li>
 						<li><span class="list-title">icon credit</span><a href="https://ccrogues.tumblr.com/previcons">here</a></li>
 					 	<li><span class="list-title">disclaimer</span>Do not repost any of our original content on tumblr and please credit this blog when sharing our content on any other social media platform online. Our site claims no credit for any images posted on this site unless stated otherwise. Images and information on this blog are copyright to their respectful owners. If any reblog was a repost, contact us and we will have it deleted.</li>
 					</ul>
