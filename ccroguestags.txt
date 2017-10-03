@@ -440,6 +440,7 @@ a:hover {
     <a href="/tagged/c: jla incarnations">jla incarnations</a>	
     <a href="/tagged/c: gotham underground">gotham underground</a>
     <a href="/tagged/c: gotham central">gotham central</a>
+    <a href="/tagged/c: final crisis">final crisis</a>
     <a href="/tagged/c: final crisis: rogues revenge">final crisis: rogues revenge</a>
     <a href="/tagged/c: blackest night: the flash">blackest night: the flash</a>
     <a href="/tagged/c: dc: the new frontier">dc: the new frontier</a>
@@ -462,12 +463,14 @@ a:hover {
     <a href="/tagged/c: the flash v5">the flash v5</a>
     <a href="/tagged/c: suicide squad v5">suicide squad v5</a>
     <a href="/tagged/c: titans v3">titans v3</a>
+    <a href="/tagged/c: red hood and the outlaws v2">red hood and the outlaws v2</a>
     <a href="/tagged/c: justice league vs. suicide squad">justice league vs. suicide squad</a>
     <a href="/tagged/c: suicide squad: war crimes special">suicide squad: war crimes special</a>
 </div> 
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; other</div>
 <div class="droptags">
+    <a href="/tagged/c: the flash: season zero">the flash: season zero</a>
 	<a href="/tagged/c: injustice: gods among us">injustice: gods among us</a>
     <a href="/tagged/c: injustice: year five">injustice: year five</a>
     <a href="/tagged/c: injustice: ground zero">injustice: ground zero</a>
@@ -615,6 +618,7 @@ a:hover {
 </div>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; dctv related</div>
 <div class="droptags">
+    <a href="/tagged/c: the flash: season zero">the flash: season zero</a>
     <a href="/tagged/superhero fight club">superhero fight club</a>
     <a href="/tagged/chronicles of cisco">chronicles of cisco</a>
     <a href="/tagged/first look trailer">first look trailer</a>

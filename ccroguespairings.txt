@@ -243,18 +243,15 @@ article{
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">albert desmond</div>
-	<a href="/tagged/pairing%3A+alcest"><div class="taginact">alvin desmond (alcest)</div></a>
-	<a href="/tagged/pairing%3A+alobard"><div class="taginact">eobard thawne (alobard)</div></a>
-	<a href="/tagged/pairing%3A+TBA"><div class="taginact">leonard snart (tba)</div></a>
-	<a href="/tagged/pairing%3A+TBA"><div class="taginact">mark mardon (tba)</div></a>
-	<a href="/tagged/pairing%3A+TBA"><div class="taginact">roy bivolo (tba)</div></a>
+	<a href="/tagged/pairing%3A+alcest"><div class="tag">alvin desmond (alcest)</div></a>
+	<a href="/tagged/pairing%3A+aleo"><div class="tag">eobard thawne (aleo)</div></a>
 </article>
 <!-- END SECTION -->
 
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">alvin desmond</div>
-	<a href="/tagged/pairing%3A+alcest"><div class="taginact">albert desmond (alcest)</div></a>
+	<a href="/tagged/pairing%3A+alcest"><div class="tag">albert desmond (alcest)</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -320,6 +317,7 @@ article{
 	<a href="/tagged/pairing%3A+bagpipes"><div class="taginact">evan mcculloch (bagpipes)</div></a>
 	<a href="/tagged/pairing%3A+goldpiper"><div class="tag">lisa snart (goldpiper)</div></a>
     <a href="/tagged/pairing%3A+pipster"><div class="tag">james jesse (pipster)</div></a>
+    <a href="/tagged/pairing%3A+hartlian"><div class="tag">julian albert (hartlian)</div></a>
 	<a href="/tagged/pairing%3A+snartaway"><div class="tag">leonard snart (snartaway)</div></a>
 	<a href="/tagged/pairing%3A+weatherpiper"><div class="tag">mark mardon (weatherpiper)</div></a>
 	<a href="/tagged/pairing%3A+topiper"><div class="tag">roscoe dillon (topiper)</div></a>
@@ -332,7 +330,7 @@ article{
     <a href="/tagged/pairing%3A+tricksters"><div class="tag">axel walker (tricksters)</div></a>
 	<a href="/tagged/pairing%3A+pipster"><div class="tag">hartley rathaway (pipster)</div></a>
     <a href="/tagged/pairing%3A+trickweather"><div class="tag">mark mardon (trickweather)</div></a>
-    <a href="/tagged/pairing%3A+mindtrix"><div class="tag">mindy hong (mindtrix)</div></a>
+    <a href="/tagged/pairing%3A+mindtrix"><div class="taginact">mindy hong (mindtrix)</div></a>
 </article>
 <!-- END SECTION -->
 
@@ -340,7 +338,6 @@ article{
 <article>
 <div class="sectiontitle">leonard snart</div>
     <a href="/tagged/fam%3A+snarts"><div class="tag">lisa snart (snart siblings)</div></a>
-	<a href="/tagged/pairing%3A+TBA"><div class="taginact">albert desmond (tba)</div></a>
 	<a href="/tagged/pairing%3A+coldflash"><div class="tag">barry allen (coldflash)</div></a>
 	<a href="/tagged/pairing%3A+cassnart"><div class="tag">cassandra savage (cassnart)</div></a>
 	<a href="/tagged/pairing%3A+coldvibe"><div class="tag">cisco ramon (coldvibe)</div></a>
@@ -350,6 +347,7 @@ article{
 	<a href="/tagged/pairing%3A+snartaway"><div class="tag">hartley rathaway (snartaway)</div></a>
     <a href="/tagged/pairing%3A+coldnews"><div class="tag">iris west (coldnews)</div></a>
     <a href="/tagged/pairing%3A+coldstorm"><div class="tag">jax jackson (coldstorm)</div></a>
+    <a href="/tagged/pairing%3A+coldcanary"><div class="tag">laurel lance (coldcanary)</div></a>
     <a href="/tagged/pairing%3A+livecold"><div class="tag">leslie willis (livecold)</div></a>
 	<a href="/tagged/pairing%3A+cold+archer"><div class="tag">malcolm merlyn (cold archer)</div></a>
     <a href="/tagged/pairing%3A+coldweather"><div class="tag">mark mardon (coldweather)</div></a>
@@ -394,7 +392,6 @@ article{
 <div class="sectiontitle">mark mardon</div>
 	<a href="/tagged/fam%3A+mardons"><div class="tag">clyde mardon (mardon brothers)</div></a>
 	<a href="/tagged/fam%3A+mardons"><div class="tag">elsa mardon (mardon family)</div></a>
-	<a href="/tagged/pairing%3A+TBA"><div class="taginact">albert desmond (tba)</div></a>
     <a href="/tagged/pairing%3A+weathster"><div class="tag">axel walker (weathster)</div></a>
     <a href="/tagged/pairing%3A+flashweather"><div class="tag">barry allen (flashweather)</div></a>
 	<a href="/tagged/pairing%3A+mcmardon"><div class="taginact">evan mcculloch (mcmardon)</div></a>
@@ -434,7 +431,7 @@ article{
 	<a href="/tagged/pairing%3A+tidalwave"><div class="tag">mark mardon (tidalwave)</div></a>
     <a href="/tagged/pairing%3A+steelwave"><div class="tag">nate heywood (steelwave)</div></a>
     <a href="/tagged/pairing%3A+arrowwave"><div class="tag">oliver queen (arrowwave)</div></a>
-    <a href="/tagged/pairing%3A+TBA"><div class="taginact">quentin turnbull (TBA)</div></a>
+    <a href="/tagged/pairing%3A+turnwave"><div class="taginact">quentin turnbull (turnwave)</div></a>
     <a href="/tagged/pairing%3A+atomwave"><div class="tag">ray palmer (atomwave)</div></a>
     <a href="/tagged/pairing%3A+wavetime"><div class="tag">rip hunter (wavetime)</div></a>
 	<a href="/tagged/pairing%3A+mirrorwave"><div class="tag">sam scudder (mirrorwave)</div></a>
@@ -473,7 +470,6 @@ article{
 <!-- START SECTION --> 
 <article>
 <div class="sectiontitle">roy bivolo</div>
-	<a href="/tagged/pairing%3A+TBA"><div class="taginact">albert desmond (tba)</div></a>
     <a href="/tagged/pairing%3A+torrainbow"><div class="tag">mark mardon (torrainbow)</div></a>    
 </article>
 <!-- END SECTION -->

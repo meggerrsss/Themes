@@ -45,9 +45,9 @@
     <meta name="color:Post Background Color" content="#ffffff" />
     <meta name="color:Navigation Color" content="#fafafa" />
     <meta name="color:Border Color" content="#eeeeee" />
-    <meta name="color:Text Color" content="#888888" />
-    <meta name="color:Link Color" content="#666666" />
-    <meta name="color:Accent" content="#9cdfed" />
+    <meta name="color:Text Color" content="#7b7b7b" />
+    <meta name="color:Link Color" content="#4e12e6" />
+    <meta name="color:Accent" content="#4e12e6" />
 
     <meta name="select:Font Family" content="'Karla', sans-serif" title="Karla" />
     <meta name="select:Font Family" content="'Open Sans', sans-serif" title="Open Sans" />
@@ -73,39 +73,39 @@
     <meta name="image:Banner Side" content="" />
     <meta name="image:Description Banner" content="" />
  
-    <meta name="text:Blog Title" content="" />
-    <meta name="text:Blog Subtitle" content="" />
+    <meta name="text:Blog Title" content="Central City Rogues" />
+    <meta name="text:Blog Subtitle" content="we rogues have a code" />
     
     <meta name="text:Topbar Title Icon" content="star" />
 
-    <meta name="text:Link 1 Title" content="message" />
-    <meta name="text:Link 1 Icon" content="envelope" />
-    <meta name="text:Link 1 Url" content="/ask" />
-    <meta name="text:Link 2 Title" content="" />
-    <meta name="text:Link 2 Icon" content="earth" />
-    <meta name="text:Link 2 Url" content="" />
-    <meta name="text:Link 3 Title" content="" />
+    <meta name="text:Link 1 Title" content="rogues" />
+    <meta name="text:Link 1 Icon" content="users" />
+    <meta name="text:Link 1 Url" content="/characters" />
+    <meta name="text:Link 2 Title" content="tags" />
+    <meta name="text:Link 2 Icon" content="tag" />
+    <meta name="text:Link 2 Url" content="/tags" />
+    <meta name="text:Link 3 Title" content="ours" />
     <meta name="text:Link 3 Icon" content="picture" />
-    <meta name="text:Link 3 Url" content="" />
-    <meta name="text:Link 4 Title" content="" />
-    <meta name="text:Link 4 Icon" content="bookmark" />
-    <meta name="text:Link 4 Url" content="" />
-    <meta name="text:Link 5 Title" content="" />
+    <meta name="text:Link 3 Url" content="/creations" />
+    <meta name="text:Link 4 Title" content="episodes" />
+    <meta name="text:Link 4 Icon" content="screen" />
+    <meta name="text:Link 4 Url" content="/eps" />
+    <meta name="text:Link 5 Title" content="apply" />
     <meta name="text:Link 5 Icon" content="pencil" />
-    <meta name="text:Link 5 Url" content="" />
-    <meta name="text:Link 6 Title" content="" />
-    <meta name="text:Link 6 Icon" content="inbox" />
-    <meta name="text:Link 6 Url" content="" />
+    <meta name="text:Link 5 Url" content="/submit" />
+    <meta name="text:Link 6 Title" content="message" />
+    <meta name="text:Link 6 Icon" content="envelope" />
+    <meta name="text:Link 6 Url" content="/faq" />
     
     <meta name="text:Category 1 Title" content="about" />
     <meta name="text:Category 1 Icon" content="flag" />
-    <meta name="text:Category 2 Title" content="projects" />
+    <meta name="text:Category 2 Title" content="current media" />
     <meta name="text:Category 2 Icon" content="list" />
     <meta name="text:Category 3 Title" content="links" />
     <meta name="text:Category 3 Icon" content="link" />
     <meta name="text:Category 4 Title" content="status" />
     <meta name="text:Category 4 Icon" content="alarm" />
-    <meta name="text:Category 5 Title" content="updates" />
+    <meta name="text:Category 5 Title" content="upcoming" />
     <meta name="text:Category 5 Icon" content="history" />
     <meta name="text:Category 6 Title" content="affiliates" />
     <meta name="text:Category 6 Icon" content="heart" />
@@ -1777,27 +1777,23 @@ footer.post-tags span:before {
                 </div>
 			</div>
 			<!-- CATEGORY TWO -->
-
-
-
-		</aside>
-		<!-- END OF LEFT SIDEBAR -->
-
-		<!-- START OF RIGHT SIDEBAR -->
-		<aside class="sidebar" id="sidebar-right">
-
+			
 			<!-- CATEGORY FOUR -->
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 4 Icon}">{text:Category 4 Title}</h1>
 				<div class="box status">
 					<ul>
 						<li>
+							<span class="lnr lnr-users">rogue mentions</span>
+							<a href = "/tagged/*rm">slow progress</a>
+						</li>
+						<li>
 							<span class="lnr lnr-enter">requests</span>
 							<a href = "/faq">gif/icon requests are open</a>
 						</li>
 						<li>
 							<span class="lnr lnr-cog">member applications</span>
-							<a href = "/submit"><b>actively recruiting until 21/9</b></a>
+							<a href = "/submit">member applications are closed</a>
 						</li>
 						<li>
 							<span class="lnr lnr-cog">affiliate applications</span>
@@ -1807,7 +1803,15 @@ footer.post-tags span:before {
 				</div>
 			</div>
 			<!-- CATEGORY FOUR -->
-		    
+
+
+
+		</aside>
+		<!-- END OF LEFT SIDEBAR -->
+
+		<!-- START OF RIGHT SIDEBAR -->
+		<aside class="sidebar" id="sidebar-right">
+
 			<!-- CATEGORY FIVE a -->
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 5 Icon}">Upcoming Multimedia</h1>
@@ -1818,11 +1822,75 @@ footer.post-tags span:before {
 					</article>
 					<article>
 						<section class="date"><span>10th</span> Oct 17</section>
-						<section class="event">Legends of Tomorrow 3x01<br />Aruba-Con</section>
+						<section class="event">The Flash 4x01<br />The Flash Reborn</section>
 					</article>
 					<article>
 						<section class="date"><span>10th</span> Oct 17</section>
-						<section class="event">The Flash 4x01<br />The Flash Reborn</section>
+						<section class="event">Legends of Tomorrow 3x01<br />Aruba-Con</section>
+					</article>
+					<article>
+						<section class="date"><span>17th</span> Oct 17</section>
+						<section class="event">The Flash 4x02<br />Mixed Signals</section>
+					</article>
+					<article>
+						<section class="date"><span>17th</span> Oct 17</section>
+						<section class="event">Legends of Tomorrow 3x02<br />Freakshow</section>
+					</article>
+					<article>
+						<section class="date"><span>24th</span> Oct 17</section>
+						<section class="event">The Flash 4x03<br />Luck Be a Lady</section>
+					</article>
+					<article>
+						<section class="date"><span>24th</span> Oct 17</section>
+						<section class="event">Legends of Tomorrow 3x03<br />Zari</section>
+					</article>
+					<article>
+						<section class="date"><span>31st</span> Oct 17</section>
+						<section class="event">The Flash 4x04<br />	Elongated Journey Into Night</section>
+					</article>
+					<article>
+						<section class="date"><span>31st</span> Oct 17</section>
+						<section class="event">Legends of Tomorrow 3x04<br />Phone Home</section>
+					</article>
+					<article>
+						<section class="date"><span>7th</span> Nov 17</section>
+						<section class="event">The Flash 4x05<br />Girls Night Out</section>
+					</article>
+					<article>
+						<section class="date"><span>7th</span> Nov 17</section>
+						<section class="event">Legends of Tomorrow 3x05<br />Return of the Mack</section>
+					</article>
+					<article>
+						<section class="date"><span>14th</span> Nov 17</section>
+						<section class="event">The Flash 4x06<br />When Harry Met Harry</section>
+					</article>
+					<article>
+						<section class="date"><span>14th</span> Nov 17</section>
+						<section class="event">Legends of Tomorrow 3x06<br />Helen Hunt</section>
+					</article>
+					<article>
+						<section class="date"><span>21st</span> Nov 17</section>
+						<section class="event">The Flash 4x07<br />Therefore I Am</section>
+					</article>
+					<article>
+						<section class="date"><span>21st</span> Nov 17</section>
+						<section class="event">Legends of Tomorrow 3x07<br />Welcome to the Jungle</section>
+					</article>
+					<article>
+						<section class="date"><span>27th</span> Nov 17</section>
+						<section class="event">Supergirl 3x08<br />Crossover I</section>
+					</article>
+					<article>
+						<section class="date"><span>27th</span> Nov 17</section>
+						<section class="event">Arrow 6x08<br />Crossover II</section>
+					</article>
+					<article>
+						<section class="date"><span>28th</span> Oct 17</section>
+						<section class="event">The Flash 4x08<br />Crossover III</section>
+					</article>
+					<article>
+						<section class="date"><span>28th</span> Oct 17</section>
+						<section class="event">Legends of Tomorrow 3x08<br />Crossover IV</section>
 					</article>
 			  </div>
 			</div>
@@ -1919,8 +1987,8 @@ footer.post-tags span:before {
 					<a href="https://dailydcqueens.tumblr.com/" title="DAILYDCQUEENS"><img src="https://api.tumblr.com/v2/blog/dailydcqueens.tumblr.com/avatar/64" />
 					<a href="https://another-rogues-paradise.tumblr.com/" title="ANOTHER ROGUE'S PARADISE"><img src="https://api.tumblr.com/v2/blog/another-rogues-paradise.tumblr.com/avatar/64" />
 					<a href="https://dctvpoc.tumblr.com/" title="DCTVPOC"><img src="https://68.media.tumblr.com/6e52a18300831e49377bd60966c1042f/tumblr_messaging_otzdfqR8s31rflgjw_250.png" />
-					<a href="https://dailymickrory.tumblr.com/" title="DAILYMICKRORY"><img src="https://api.tumblr.com/v2/blog/dailymickrory.tumblr.com/avatar/64" />
 					<a href="https://jlaction.tumblr.com/" title="JLACTION"><img src="https://api.tumblr.com/v2/blog/jlaction.tumblr.com/avatar/64" />
+					<a href="https://dcladies.tumblr.com/" title="DCLADIES"><img src="https://api.tumblr.com/v2/blog/dcladies.tumblr.com/avatar/64" />
 					<a href="http://dailycaptaincold.tumblr.com/" title="dailycaptaincold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
 					<a href="http://lotsource.tumblr.com/" title="lotsource"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
 					<a href="http://gorogues.tumblr.com/" title="gorogues"><img src="https://api.tumblr.com/v2/blog/gorogues.tumblr.com/avatar/64" />
@@ -1931,12 +1999,12 @@ footer.post-tags span:before {
 					<a href="http://coldsflash.tumblr.com/" title="coldsflash"><img src="https://api.tumblr.com/v2/blog/coldsflash.tumblr.com/avatar/64" />
 					<a href="http://fyeahgoldenvibe.tumblr.com/" title="fyeahgoldenvibe"><img src="https://api.tumblr.com/v2/blog/fyeahgoldenvibe.tumblr.com/avatar/64" />
 					<a href="http://dailycoldflash.tumblr.com/" title="dailycoldflash"><img src="https://api.tumblr.com/v2/blog/dailycoldflash.tumblr.com/avatar/64" />
+					<a href="https://dailymickrory.tumblr.com/" title="dailymickrory"><img src="https://api.tumblr.com/v2/blog/dailymickrory.tumblr.com/avatar/64" />
 					<a href="http://isleonardsnartbackyet.tumblr.com/" title="isleonardsnartbackyet"><img src="https://api.tumblr.com/v2/blog/isleonardsnartbackyet.tumblr.com/avatar/64" />
+					<a href="http://snyptidspotted.tumblr.com/" title="snyptidspotted"><img src="https://api.tumblr.com/v2/blog/snyptidspotted.tumblr.com/avatar/64" />
+					<a href="http://truesnyptidspotted.tumblr.com/" title="truesnyptidspotted"><img src="https://api.tumblr.com/v2/blog/truesnyptidspotted.tumblr.com/avatar/64" />
 					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
-					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
-					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
-					<a href="https://ccrogues.tumblr.com/submit" title="apply"><img src="https://www.transparenttextures.com/patterns/asfalt-light.png" />
-				</div>
+					</div>
 			</div>
 			<!-- CATEGORY SIX -->
 			
@@ -1952,7 +2020,7 @@ footer.post-tags span:before {
                 </div><!-- BOX -->
 			</div>
 			<!-- CATEGORY SEVEN -->
-			
+		    
 			<!-- CATEGORY EIGHT -->
 			<div class="category">
 				<h1 class="lnr lnr-{text:Category 8 Icon}">{text:Category 8 Title}</h1>

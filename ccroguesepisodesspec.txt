@@ -2011,6 +2011,126 @@ on the following line! -->
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
 
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash " name="2017035flash406">
+ 
+<div class="content">
+    <img src="https://unsplash.it/406?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x06">The Flash 4x06</a>
+</div><div class="bottom">
+	<b>title:</b> When Harry Met Harry<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot " name="2017036lot306">
+ 
+<div class="content">
+    <img src="https://unsplash.it/306?random" />
+<div class="title">
+    <a href="/tagged/lot 3x06">Legends of Tomorrow 3x06</a>
+</div><div class="bottom">
+	<b>title:</b> Helen Hunt<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash " name="2017037flash407">
+ 
+<div class="content">
+    <img src="https://unsplash.it/407?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x07">The Flash 4x07</a>
+</div><div class="bottom">
+	<b>title:</b> Therefore I Am<br />
+    <b>contains:</b> ? <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot " name="2017038lot307">
+ 
+<div class="content">
+    <img src="https://unsplash.it/307?random" />
+<div class="title">
+    <a href="/tagged/lot 3x07">Legends of Tomorrow 3x07</a>
+</div><div class="bottom">
+	<b>title:</b> Welcome to the Jungle<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info supergirl" name="2017039sup308">
+ 
+<div class="content">
+    <img src="https://unsplash.it/308?random" />
+<div class="title">
+    <a href="/tagged/supergirl 3x08">Supergirl 3x08</a>
+</div><div class="bottom">
+	<b>title:</b> Crossover I<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info arrow" name="2017040arrow608">
+ 
+<div class="content">
+    <img src="https://unsplash.it/608?random" />
+<div class="title">
+    <a href="/tagged/arrow 6x08">Arrow 6x08</a>
+</div><div class="bottom">
+	<b>title:</b> Crossover II<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info flash" name="2017041flash408">
+ 
+<div class="content">
+    <img src="https://unsplash.it/408?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x08">The Flash 4x08</a>
+</div><div class="bottom">
+	<b>title:</b> Crossover III<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot" name="2017042lot308">
+ 
+<div class="content">
+    <img src="https://unsplash.it/308?random" />
+<div class="title">
+    <a href="/tagged/lot 3x08">Legends of Tomorrow 3x08</a>
+</div><div class="bottom">
+	<b>title:</b> Crossover IV<br />
+    <b>contains:</b> Mick Rory <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
 
 
 <!-- //
