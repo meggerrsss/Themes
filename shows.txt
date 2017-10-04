@@ -156,7 +156,7 @@ on the following line! -->
 <div class="item fave req info caught-up dctv" name="arrow">
  
 <div class="content">
-    <img src="https://image.ibb.co/myVStv/arrow.png" />
+    <img src="http://images.spoilertv.com/zp-core/i.php?a=Arrow/Season%206/Key%20Art&i=DK_fwKgX0AAAKmV.jpg&s=180&c=1&cw=180&ch=180&q=100&t=1&wmk=!" />
 <div class="title">
     <a href="/tagged/arrow">Arrow</a>
 </div><div class="bottom">
@@ -278,7 +278,7 @@ on the following line! -->
 <div class="item req info caught-up" name="chicago1fire">
  
 <div class="content">
-    <img src="https://image.ibb.co/cJWNRF/chicagofire.jpg" />
+    <img src="https://image.ibb.co/d765bG/cfire.png" />
 <div class="title">
     <a href="/tagged/chf">Chicago Fire</a>
 </div><div class="bottom">
@@ -328,7 +328,7 @@ on the following line! -->
 <div class="item req info caught-up" name="chicago2pd">
  
 <div class="content">
-    <img src="https://image.ibb.co/hDGYYv/chicagopd.jpg" />
+    <img src="http://images.spoilertv.com/zp-core/i.php?a=Chicago%20PD/Season%205/Key%20Art&i=NUP_179849_0003.JPG&s=180&c=1&cw=180&ch=180&q=100&t=1&wmk=!" />
 <div class="title">
     <a href="/tagged/cpd">Chicago P.D.</a>
 </div><div class="bottom">
@@ -465,7 +465,7 @@ on the following line! -->
 <div class="item fave req info caught-up dctv" name="dcslegends">
  
 <div class="content">
-    <img src="https://image.ibb.co/dCE3Yv/legendsoftomorrow.jpg" />
+    <img src="http://images.spoilertv.com/zp-core/i.php?a=Legends%20of%20Tomorrow/Season%203/Key%20Art&i=DK_fwKhXoAA9-hL.jpg&s=180&c=1&cw=180&ch=180&q=100&t=1&wmk=!" />
 <div class="title">
     <a href="/tagged/lot">DC's Legends of Tomorrow</a>
 </div><div class="bottom">
@@ -483,7 +483,7 @@ on the following line! -->
 <div class="item fave req info caught-up" name="digimontri">
  
 <div class="content">
-    <img src="https://image.ibb.co/crqo0a/tri.jpg" />
+    <img src="https://image.ibb.co/dKs8yw/tri.png" />
 <div class="title">
     <a href="/tagged/tri">Digimon Adventure Tri</a>
 </div><div class="bottom">
@@ -491,7 +491,7 @@ on the following line! -->
     <b>rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9734;&#9734;<br />
     <b>ships:</b> sorato, takari, taiorato <br />
     <b>friendships:</b> the team <br />
-    <b>notps:</b> -- <br />
+    <b>notps:</b> tai/mei <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -514,7 +514,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item fave info complete" name="fatestayubw">
+<div class="item info complete" name="fatestayubw">
  
 <div class="content">
     <img src="https://image.ibb.co/bTWNRF/fsn.jpg" />
@@ -552,7 +552,7 @@ on the following line! -->
 <div class="item complete" name="free">
  
 <div class="content">
-    <img src="https://image.ibb.co/jXK96F/free.jpg"/>
+    <img src="https://image.ibb.co/cy5xMG/free.png"/>
 <div class="title">
     <a href="/tagged/free">Free! Iwatobi Swim Club</a>
 </div><div class="bottom">
@@ -616,10 +616,10 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 1 (WITH INFO) ----------------------->
-<div class="item info req caught-up dctv" name="gotham">
+<div class="item info req fave caught-up dctv" name="gotham">
  
 <div class="content">
-    <img src="https://image.ibb.co/mHL5fa/gotham.jpg" />
+    <img src="http://images.spoilertv.com/zp-core/i.php?a=Gotham/Season%204/Key%20Art&i=Gotham_S4_14x48_F3-4.jpg&s=180&c=1&cw=180&ch=180&q=100&t=1&wmk=!" />
 <div class="title">
     <a href="/tagged/gotham">Gotham</a>
 </div><div class="bottom">
@@ -812,7 +812,7 @@ on the following line! -->
 <div class="item fave req info caught-up dctv" name="lucifer">
  
 <div class="content">
-    <img src="https://image.ibb.co/mEBiYv/luci.jpg" />
+    <img src="http://images.spoilertv.com/cache/Lucifer/Season%203/Key%20Art/lucifer_s3_onair_keyazpl0w_180_cw180_ch180_thumb.jpg" />
 <div class="title">
     <a href="/tagged/lucifer">Lucifer</a>
 </div><div class="bottom">
@@ -830,7 +830,7 @@ on the following line! -->
 <div class="item info req caught-up" name="daredevil">
  
 <div class="content">
-    <img src="https://image.ibb.co/kqzLDv/dd.jpg" />
+    <img src="https://image.ibb.co/fvnoTw/daredevil.png" />
 <div class="title">
     <a href="/tagged/dd">Marvel's Daredevil</a>
 </div><div class="bottom">
@@ -881,7 +881,7 @@ on the following line! -->
 <div class="item info req caught-up" name="ironfist">
  
 <div class="content">
-    <img src="https://image.ibb.co/d84D1k/danny.png" />
+    <img src="http://images.spoilertv.com/cache/Iron%20Fist/Season%201/Posters%20&%20Key%20Arts/iron-fist-street-poster-237932_180_cw180_ch180_thumb.jpg" />
 <div class="title">
     <a href="/tagged/if">Marvel's Iron Fist</a>
 </div><div class="bottom">
@@ -1003,7 +1003,7 @@ on the following line! -->
 <div class="item fave req airing caught-up" name="nightshift">
  
 <div class="content">
-    <img src="https://image.ibb.co/gDxe6F/ns.jpg" />
+    <img src="http://images.spoilertv.com/zp-core/i.php?a=Night%20Shift/Season%204/Posters%20%26%20Key%20Arts&i=NUP_178334_0004.JPG&s=180&c=1&cw=180&ch=180&q=100&t=1&wmk=!" />
 <div class="title">
     <a href="/tagged/tns">The Night Shift</a>
 </div><div class="bottom">
@@ -1086,7 +1086,7 @@ on the following line! -->
 <div class="item fave req info complete dctv" name="powerless">
  
 <div class="content">
-    <img src="https://image.ibb.co/gEoafa/powerless.jpg" />
+    <img src="http://images.spoilertv.com/zp-core/i.php?a=Powerless/Season%201/Key%20Art&i=NUP_173819_0009.JPG&s=180&c=1&cw=180&ch=180&q=100&t=1&wmk=!" />
 <div class="title">
     <a href="/tagged/powerless">Powerless</a>
 </div><div class="bottom">
@@ -1103,7 +1103,7 @@ on the following line! -->
 <div class="item caught-up fave info airing req dctv" name="preacher">
  
 <div class="content">
-    <img src="https://image.ibb.co/iJ1Htv/preacher.jpg" />
+    <img src="https://image.ibb.co/gRqmFb/preacher.png" />
 <div class="title">
     <a href="/tagged/preacher">Preacher</a>
 </div><div class="bottom">
@@ -1224,7 +1224,7 @@ on the following line! -->
 <div class="item fave req info caught-up" name="shadowhunters">
  
 <div class="content">
-    <img src="https://image.ibb.co/gTXqDv/shadowhunters.jpg" />
+    <img src="https://image.ibb.co/hqkxMG/shadowhunters.png" />
 <div class="title">
     <a href="/tagged/shadowhunters">Shadowhunters: The Mortal Instruments</a>
 </div><div class="bottom">
@@ -1363,7 +1363,7 @@ on the following line! -->
 <div class="item info dropped" name="vampirediaries2originals">
  
 <div class="content">
-    <img src="https://image.ibb.co/bV0o0a/tvd2.jpg" />
+    <img src="https://image.ibb.co/jvWF8w/originals.png" />
 <div class="title">
     <a href="/tagged/originals">The Originals</a>
 </div><div class="bottom">

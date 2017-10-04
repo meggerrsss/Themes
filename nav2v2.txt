@@ -242,9 +242,7 @@ nav {
 <div class="title">upcoming gif series</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
-	<a href="/tagged/raviweek">ravi chakrabarti week</a>
-	<a href="/tagged/mickroryaw">mick rory week</a>
-	<a href="/tagged/tnc">the name challenge</a>
+	<a href="/tagged/mickroryaw2017">mick rory week</a>
 </div>
 </div>
   
@@ -342,6 +340,7 @@ nav {
     <a href="/tagged/billnyeedit">bill nye</a>
     <a href="/tagged/chjedit">chicago justice</a>
     <a href="/tagged/cpdedit">chicago p.d.</a>
+    <a href="/tagged/digiedit">digimon</a>
     <a href="/tagged/frequencyedit">frequency</a>
     <a href="/tagged/h50edit">hawaii five-0</a>
     <a href="/tagged/thelibrariansedit">the librarians</a>
@@ -390,6 +389,7 @@ nav {
 <div class="box projects">
 <div class="title">complete gif projects</div>
 <div class="tags">
+	<a href="/tagged/tnc">the name challenge</a>
 	<a href="/tagged/topfemvills">top 15 dctv female villains</a>
 	<a href="/tagged/dctvq">queer dctv</a>
 	<a href="/tagged/alpbabet">arrowverse alphabet</a>
@@ -410,6 +410,7 @@ nav {
 <div class="title">complete fandom events</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
+	<a href="/tagged/raviweek">ravi chakrabarti week</a>
 	<a href="/tagged/saralanceweek">sara lance week</a>
 	<a href="/tagged/bombshellsbonanza">bombshells bonanza</a>
 	<a href="/tagged/snibsweek2017">snart siblings week</a>
@@ -680,6 +681,13 @@ nav {
 </div>
 
 <div class="box show">
+<div class="title">digimon</div>
+<div class="tags">
+    <a href="/tagged/digiedit">all</a>
+</div>
+</div>
+
+<div class="box show">
 <div class="title">frequency</div>
 <div class="tags">
     <a href="/tagged/frequencyedit">all</a>
@@ -711,6 +719,7 @@ nav {
     <a href="/tagged/tabithagalavanedit">tabitha galavan</a>
 <h2>reccurring</h2>
     <a href="/tagged/jeromevaleskaedit">jerome valeska</a>
+    <a href="/tagged/victorzsaszedit">victor zsasz</a>
 </div>
 </div>
 
@@ -773,6 +782,7 @@ nav {
 <div class="title">lucifer</div>
 <div class="tags">
     <a href="/tagged/luciferedit">all</a>
+    <a href="/tagged/amenadieledit">amenadiel</a>
     <a href="/tagged/charlotterichardsedit">charlotte richards</a>
     <a href="/tagged/chloedeckeredit">chloe decker</a>
     <a href="/tagged/danespinozaedit">dan espinoza</a>
@@ -898,6 +908,7 @@ nav {
     <a href="/tagged/claryfairchildedit">clary fairchild</a>
     <a href="/tagged/isabellelightwoodedit">isabelle lightwood</a>
     <a href="/tagged/jaceherondaleedit">jace herondale</a>
+    <a href="/tagged/maiarobertsedit">maia roberts</a>
 </div>
 </div>
 
