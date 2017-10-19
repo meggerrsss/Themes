@@ -381,6 +381,7 @@ a:hover {
 <div class="droptags">
     <a href="/tagged/video">all</a>
     <a href="/tagged/captioned video">captioned videos</a>
+    <a href="/tagged/described video">described videos</a>
 </div>
 </div>
 </div>
@@ -428,6 +429,7 @@ a:hover {
     <a href="/tagged/c: animal man v1">animal man v1</a>
     <a href="/tagged/c: batman v1">batman v1</a>
     <a href="/tagged/c: secret origins v2">secret origins v2</a>
+    <a href="/tagged/c: robin v4">robin v4</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; 2000s</div>
@@ -445,6 +447,7 @@ a:hover {
     <a href="/tagged/c: blackest night: the flash">blackest night: the flash</a>
     <a href="/tagged/c: dc: the new frontier">dc: the new frontier</a>
     <a href="/tagged/c: tiny titans">tiny titans</a>
+    <a href="/tagged/c: teen titans v3">teen titans v3</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; new 52</div>
@@ -634,8 +637,8 @@ a:hover {
     
 <div class="tags">
     
-<a href="/tagged/ep?">tag an episode</a>
-<a href="/tagged/v?">tag a comic</a>
+<a href="/tagged/ep%3F">tag an episode</a>
+<a href="/tagged/v%3F">tag a comic</a>
 <a href="/tagged/admin">admin posts</a>
 <a href="/taggingsystem">tagging system</a>
 <a href="/tagged/tagged">things we're tagged in</a>

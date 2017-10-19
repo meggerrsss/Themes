@@ -134,13 +134,11 @@ a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
 </div></div>
         
 <!-- show all --><span class="button filter active" filter="">all
-</span><!-- fave --><span class="button filter" filter=".fave">rogues
-</span><!-- can gif --><span class="button filter" filter=".flash">the flash 
-</span><!-- caught-up --><span class="button filter" filter=".lot">legends
-</span><!-- dctv --><span class="button filter" filter=".arrow">arrow
-</span><!-- to-watch --><span class="button filter" filter=".vixen">vixen
-</span><!-- to-watch --><span class="button filter" filter=".yj">yj
-</span><!-- to-watch --><span class="button filter" filter=".jlu">jlu
+</span><!-- rogues --><span class="button filter" filter=".fave">rogues
+</span><!-- flash --><span class="button filter" filter=".flash">the flash 
+</span><!-- legends --><span class="button filter" filter=".lot">legends
+</span><!-- arrowverse --><span class="button filter" filter=".arrow">other arrowverse
+</span><!-- anim --><span class="button filter" filter=".anim">animated
 </span><!-- toggle info --><span class="button toggle">info
 </span><!-- search --><input type="text" id="ss" placeholder="search" />
 
@@ -1757,7 +1755,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item fave info yj " name="2010001yj101">
+<div class="item fave info anim " name="2010001yj101">
  
 <div class="content">
     <img src="https://unsplash.it/101?random" />
@@ -1772,7 +1770,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item fave info yj " name="2011001yj111">
+<div class="item fave info anim " name="2011001yj111">
  
 <div class="content">
     <img src="https://unsplash.it/111?random" />
@@ -1787,7 +1785,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item fave info yj " name="2012001yj120">
+<div class="item fave info anim " name="2012001yj120">
  
 <div class="content">
     <img src="https://unsplash.it/120?random" />
@@ -1802,7 +1800,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item fave info yj " name="2012002yj208">
+<div class="item fave info anim " name="2012002yj208">
  
 <div class="content">
     <img src="https://unsplash.it/208?random" />
@@ -1817,7 +1815,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item fave info jlu " name="2006001jlu505">
+<div class="item fave info anim " name="2006001jlu505">
  
 <div class="content">
     <img src="https://unsplash.it/505?random" />
@@ -1832,12 +1830,12 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item fave info vixen " name="2016035vixen201">
+<div class="item fave info arrow " name="2016035vixen201">
  
 <div class="content">
     <img src="https://unsplash.it/201?random" />
 <div class="title">
-    <a href="/tagged/jlu 2x05">Justice League 5x05</a>
+    <a href="/tagged/Vixen 2x01">Vixen 2x01</a>
 </div><div class="bottom">
 	<b>title:</b> -<br />
     <b>contains:</b> Mark Mardon <br />
@@ -1847,7 +1845,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item info supergirl " name="2016017supergirl118">
+<div class="item info arrow " name="2016017sup118">
  
 <div class="content">
     <img src="https://unsplash.it/118?random" />
@@ -1871,7 +1869,7 @@ on the following line! -->
 </div><div class="bottom">
 	<b>title:</b> The Flash Reborn<br />
     <b>contains:</b> Shawna Baez <br />
-    <b>mentions:</b> ? <br />
+    <b>mentions:</b> Amunet Black <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -2072,7 +2070,7 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item fave info supergirl" name="2017039sup308">
+<div class="item fave info arrow" name="2017039sup308">
  
 <div class="content">
     <img src="https://unsplash.it/308?random" />

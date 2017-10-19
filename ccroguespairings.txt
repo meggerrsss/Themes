@@ -359,6 +359,7 @@ article{
     <a href="/tagged/pairing%3A+coldmirror"><div class="tag">sam scudder (coldmirror)</div></a>
     <a href="/tagged/pairing%3A+captain-canary"><div class="tag">sara lance (captain canary)</div></a>
 	<a href="/tagged/pairing%3A+coldcat"><div class="tag">selina kyle (coldcat)</div></a>
+    <a href="/tagged/pairing%3A+tba"><div class="tag">shawna baez (tba)</div></a>
 	<a href="/tagged/pairing%3A+vosnart"><div class="tag">valentina vostok (vosnart)</div></a>
 </article>
 <!-- END SECTION -->
@@ -373,6 +374,7 @@ article{
     <a href="/tagged/pairing%3A+goldenvibe"><div class="tag">cisco ramon (goldenvibe)</div></a>
 	<a href="/tagged/pairing%3A+goldpiper"><div class="tag">hartley rathaway (goldpiper)</div></a>
 	<a href="/tagged/pairing%3A+goldennews"><div class="tag">iris west (goldennews)</div></a>
+	<a href="/tagged/pairing%3A+goldenalchemy"><div class="tag">julian albert (goldenalchemy)</div></a>
     <a href="/tagged/pairing%3A+golden+canary"><div class="tag">laurel lance (golden canary)</div></a>
 	<a href="/tagged/pairing%3A+parksnart"><div class="tag">linda park (parksnart)</div></a>
 	<a href="/tagged/pairing%3A+goldweather"><div class="tag">mark mardon (goldweather)</div></a>
@@ -389,7 +391,7 @@ article{
 
 <!-- START SECTION -->
 <article>
-<div class="sectiontitle">mark mardon</div>
+<div class="sectiontitle">mar(k/co) mardon</div>
 	<a href="/tagged/fam%3A+mardons"><div class="tag">clyde mardon (mardon brothers)</div></a>
 	<a href="/tagged/fam%3A+mardons"><div class="tag">elsa mardon (mardon family)</div></a>
     <a href="/tagged/pairing%3A+weathster"><div class="tag">axel walker (weathster)</div></a>
@@ -498,6 +500,7 @@ article{
     <a href="/tagged/pairing%3A+peekavibe"><div class="tag">cisco ramon (peekavibe)</div></a>
     <a href="/tagged/pairing%3A+shawnaclay"><div class="tag">clay parker (shawnaclay)</div></a>
 	<a href="/tagged/pairing%3A+shawndra"><div class="tag">kendra saunders (shawndra)</div></a>
+    <a href="/tagged/pairing%3A+tba"><div class="tag">leonard snart (tba)</div></a>
     <a href="/tagged/pairing%3A+goldenboo"><div class="tag">lisa snart (goldenboo)</div></a>
 	<a href="/tagged/pairing%3A+weatherboo"><div class="tag">mark mardon (weatherboo)</div></a>
     <a href="/tagged/pairing%3A+peekatop"><div class="tag">rosa dillon (peekatop)</div></a>   
