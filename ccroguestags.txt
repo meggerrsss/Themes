@@ -569,6 +569,7 @@ a:hover {
 	<a href="/search/rory brave bold">mick rory</a>
 	<a href="/search/mardon brave bold">mark mardon</a>
 	<a href="/search/harkness brave bold">digger harkness</a>
+	<a href="/search/bivolo brave bold">roy g. bivolo</a>
 </div>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; young justice (2010)</div>
 <div class="droptags">
@@ -619,12 +620,19 @@ a:hover {
     <a href="/search/tomorrow snart">leonard snart</a>
     <a href="/search/tomorrow rory">mick rory</a>
 </div>
+<div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; justice league action (2016)</div>
+<div class="droptags">
+    <a href="/tagged/tv: justice league action">all</a>
+    <a href="/search/action james">james jesse</a>
+    <a href="/search/action grodd">grodd</a>
+</div>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; dctv related</div>
 <div class="droptags">
     <a href="/tagged/c: the flash: season zero">the flash: season zero</a>
     <a href="/tagged/superhero fight club">superhero fight club</a>
     <a href="/tagged/chronicles of cisco">chronicles of cisco</a>
     <a href="/tagged/first look trailer">first look trailer</a>
+    <a href="/tagged/tv: supergirl">supergirl</a>
 </div>
     
 </div>

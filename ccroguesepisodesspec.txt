@@ -114,8 +114,33 @@ a:link, a:active, a:visited, .button, #ss, .cred:before, .clogo:before {
 
 #s-m-t-tooltip, .clogo, .cred:before, .clogo:after, .content, .button, #ss {
     background:#f8f8f8;}
+	
+.item, .content {
+    width:75px;
+    height:39px;}
+.item.fave, .item.fave .content {
+    width:160px;
+    height:88px;}
     
+.item img {
+    width:75px;
+    cursor:help;}
+.item.fave img {
+    width:160px;}
 
+.item.active, .item.active .content {
+    width:245px;
+    height:245px;}
+.item.info.active, .item.info.active .content {
+    height:160px;}
+    
+.item.active img {
+    width:55px;
+    margin:10px;}
+.item.info.active img {
+    width:calc(140px - 5.6rem - 30px);}
+	
+	
 </style><body>
 
 <div class="filters fade-in"><div class="heading">
@@ -153,7 +178,7 @@ on the following line! -->
 <div class="item info fave flash" name="2014001flash101">
  
 <div class="content">
-    <img src="https://unsplash.it/101?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/4812524.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x01">The Flash 1x01</a>
 </div><div class="bottom">
@@ -168,7 +193,7 @@ on the following line! -->
 <div class="item info flash" name="2014002flash102">
  
 <div class="content">
-    <img src="https://unsplash.it/102?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/4929322.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x02">The Flash 1x02 </a>
 </div><div class="bottom">
@@ -183,7 +208,7 @@ on the following line! -->
 <div class="item info fave flash" name="2014003flash103">
  
 <div class="content">
-    <img src="https://unsplash.it/103?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/4929325.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x03">The Flash 1x03 </a>
 </div><div class="bottom">
@@ -198,7 +223,7 @@ on the following line! -->
 <div class="item info fave flash" name="2014004flash104">
  
 <div class="content">
-    <img src="https://unsplash.it/104?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/4936770.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x04">The Flash 1x04 </a>
 </div><div class="bottom">
@@ -213,7 +238,7 @@ on the following line! -->
 <div class="item info flash" name="2014005flash105">
  
 <div class="content">
-    <img src="https://unsplash.it/105?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5025023.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x05">The Flash 1x05 </a>
 </div><div class="bottom">
@@ -228,7 +253,7 @@ on the following line! -->
 <div class="item info fave flash" name="2014006flash106">
  
 <div class="content">
-    <img src="https://unsplash.it/106?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5028737.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x06">The Flash 1x06 </a>
 </div><div class="bottom">
@@ -243,7 +268,7 @@ on the following line! -->
 <div class="item info fave flash" name="2014007flash107">
  
 <div class="content">
-    <img src="https://unsplash.it/107?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5028738.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x07">The Flash 1x07 </a>
 </div><div class="bottom">
@@ -258,7 +283,7 @@ on the following line! -->
 <div class="item info fave arrow" name="2014008arrow307">
  
 <div class="content">
-    <img src="https://unsplash.it/307?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/257655/5033874.jpg" />
 <div class="title">
     <a href="/tagged/arrow 3x07">Arrow 3x07 </a>
 </div><div class="bottom">
@@ -273,7 +298,7 @@ on the following line! -->
 <div class="item info fave flash" name="2014009flash108">
  
 <div class="content">
-    <img src="https://unsplash.it/108?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5028739.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x08">The Flash 1x08 </a>
 </div><div class="bottom">
@@ -288,7 +313,7 @@ on the following line! -->
 <div class="item info fave arrow" name="2014010arrow308">
  
 <div class="content">
-    <img src="https://unsplash.it/308?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/257655/5042002.jpg" />
 <div class="title">
     <a href="/tagged/arrow 3x08">Arrow 3x08 </a>
 </div><div class="bottom">
@@ -303,7 +328,7 @@ on the following line! -->
 <div class="item info flash" name="2015001flash109">
  
 <div class="content">
-    <img src="https://unsplash.it/109?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5042818.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x09">The Flash 1x09 </a>
 </div><div class="bottom">
@@ -318,7 +343,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015002flash110">
  
 <div class="content">
-    <img src="https://unsplash.it/110?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5052260.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x10">The Flash 1x10 </a>
 </div><div class="bottom">
@@ -333,7 +358,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015003flash111">
  
 <div class="content">
-    <img src="https://unsplash.it/111?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5073549.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x11">The Flash 1x11 </a>
 </div><div class="bottom">
@@ -348,7 +373,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015004flash112">
  
 <div class="content">
-    <img src="https://unsplash.it/112?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5073556.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x12">The Flash 1x12 </a>
 </div><div class="bottom">
@@ -363,7 +388,7 @@ on the following line! -->
 <div class="item info flash" name="2015005flash113">
  
 <div class="content">
-    <img src="https://unsplash.it/113?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5088525.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x13">The Flash 1x13 </a>
 </div><div class="bottom">
@@ -378,7 +403,7 @@ on the following line! -->
 <div class="item info flash" name="2015006flash114">
  
 <div class="content">
-    <img src="https://unsplash.it/114?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5104336.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x14">The Flash 1x14 </a>
 </div><div class="bottom">
@@ -393,7 +418,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015007flash115">
  
 <div class="content">
-    <img src="https://unsplash.it/115?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5104337.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x15">The Flash 1x15 </a>
 </div><div class="bottom">
@@ -408,7 +433,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015008flash116">
  
 <div class="content">
-    <img src="https://unsplash.it/116?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5104338.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x16">The Flash 1x16 </a>
 </div><div class="bottom">
@@ -423,7 +448,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015009flash117">
  
 <div class="content">
-    <img src="https://unsplash.it/117?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5104339.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x17">The Flash 1x17 </a>
 </div><div class="bottom">
@@ -438,7 +463,7 @@ on the following line! -->
 <div class="item info flash" name="2015010flash118">
  
 <div class="content">
-    <img src="https://unsplash.it/118?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5110414.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x18">The Flash 1x18 </a>
 </div><div class="bottom">
@@ -453,7 +478,7 @@ on the following line! -->
 <div class="item info flash" name="2015011flash119">
  
 <div class="content">
-    <img src="https://unsplash.it/119?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5166508.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x19">The Flash 1x19</a>
 </div><div class="bottom">
@@ -468,7 +493,7 @@ on the following line! -->
 <div class="item info flash" name="2015012flash120">
  
 <div class="content">
-    <img src="https://unsplash.it/120?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5166509.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x20">The Flash 1x20 </a>
 </div><div class="bottom">
@@ -483,7 +508,7 @@ on the following line! -->
 <div class="item info flash" name="2015013flash121">
  
 <div class="content">
-    <img src="https://unsplash.it/121?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5166510.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x21">The Flash 1x21 </a>
 </div><div class="bottom">
@@ -498,7 +523,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015014flash122">
  
 <div class="content">
-    <img src="https://unsplash.it/122?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5163053.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x22">The Flash 1x22 </a>
 </div><div class="bottom">
@@ -513,7 +538,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015015flash123">
  
 <div class="content">
-    <img src="https://unsplash.it/123?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5166511.jpg" />
 <div class="title">
     <a href="/tagged/the flash 1x23">The Flash 1x23</a>
 </div><div class="bottom">
@@ -528,7 +553,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015016flash201">
  
 <div class="content">
-    <img src="https://unsplash.it/201?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5260562.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x01">The Flash 2x01</a>
 </div><div class="bottom">
@@ -543,7 +568,7 @@ on the following line! -->
 <div class="item info  flash" name="2015017flash202">
  
 <div class="content">
-    <img src="https://unsplash.it/202?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5280328.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x02">The Flash 2x02</a>
 </div><div class="bottom">
@@ -558,7 +583,7 @@ on the following line! -->
 <div class="item info fave flash" name="2015018flash203">
  
 <div class="content">
-    <img src="https://unsplash.it/203?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5280329.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x03">The Flash 2x03</a>
 </div><div class="bottom">
@@ -573,7 +598,7 @@ on the following line! -->
 <div class="item info flash" name="2015020flash204">
  
 <div class="content">
-    <img src="https://unsplash.it/204?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5330990.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x04">The Flash 2x04 </a>
 </div><div class="bottom">
@@ -588,7 +613,7 @@ on the following line! -->
 <div class="item info flash" name="2015021flash205">
  
 <div class="content">
-    <img src="https://unsplash.it/205?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5372872.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x05">The Flash 2x05 </a>
 </div><div class="bottom">
@@ -603,7 +628,7 @@ on the following line! -->
 <div class="item info flash" name="2015022flash206">
  
 <div class="content">
-    <img src="https://unsplash.it/206?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5380138.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x06">The Flash 2x06 </a>
 </div><div class="bottom">
@@ -618,7 +643,7 @@ on the following line! -->
 <div class="item info flash" name="2015023flash207">
  
 <div class="content">
-    <img src="https://unsplash.it/207?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5386553.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x07">The Flash 2x07 </a>
 </div><div class="bottom">
@@ -633,7 +658,7 @@ on the following line! -->
 <div class="item info flash" name="2015024flash208">
  
 <div class="content">
-    <img src="https://unsplash.it/208?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5399413.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x08">The Flash 2x08 </a>
 </div><div class="bottom">
@@ -648,7 +673,7 @@ on the following line! -->
 <div class="item info fave flash" name="2016001flash209">
  
 <div class="content">
-    <img src="https://unsplash.it/209?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5399414.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x09">The Flash 2x09 </a>
 </div><div class="bottom">
@@ -663,7 +688,7 @@ on the following line! -->
 <div class="item info flash" name="2016002flash210">
  
 <div class="content">
-    <img src="https://unsplash.it/210?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5433939.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x10">The Flash 2x10 </a>
 </div><div class="bottom">
@@ -678,7 +703,7 @@ on the following line! -->
 <div class="item info  flash" name="2016004flash211">
  
 <div class="content">
-    <img src="https://unsplash.it/211?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5434271.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x11">The Flash 2x11 </a>
 </div><div class="bottom">
@@ -690,15 +715,15 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
-<div class="item info  flash" name="2016006flash212">
+<div class="item info fave flash" name="2016006flash212">
  
 <div class="content">
-    <img src="https://unsplash.it/212?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5434272.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x12">The Flash 2x12 </a>
 </div><div class="bottom">
     <b>title:</b> Fast Lane<br />
-    <b>contains:</b> - <br />
+    <b>contains:</b> Joey Monteleone <br />
     <b>mentions:</b> ? <br />
 
 </div></div></div>
@@ -708,7 +733,7 @@ on the following line! -->
 <div class="item info flash" name="2016008flash213">
  
 <div class="content">
-    <img src="https://unsplash.it/213?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5467786.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x13">The Flash 2x13 </a>
 </div><div class="bottom">
@@ -723,7 +748,7 @@ on the following line! -->
 <div class="item info flash" name="2016010flash214">
  
 <div class="content">
-    <img src="https://unsplash.it/214?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5467787.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x14">The Flash 2x14 </a>
 </div><div class="bottom">
@@ -738,7 +763,7 @@ on the following line! -->
 <div class="item info  flash" name="2016012flash215">
  
 <div class="content">
-    <img src="https://unsplash.it/215?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5467788.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x15">The Flash 2x15 </a>
 </div><div class="bottom">
@@ -753,7 +778,7 @@ on the following line! -->
 <div class="item info flash" name="2016016flash216">
  
 <div class="content">
-    <img src="https://unsplash.it/216?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5483296.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x16">The Flash 2x16 </a>
 </div><div class="bottom">
@@ -768,7 +793,7 @@ on the following line! -->
 <div class="item info fave flash" name="2016018flash217">
  
 <div class="content">
-    <img src="https://unsplash.it/217?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5536630.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x17">The Flash 2x17 </a>
 </div><div class="bottom">
@@ -783,7 +808,7 @@ on the following line! -->
 <div class="item info flash" name="2016022flash218">
  
 <div class="content">
-    <img src="https://unsplash.it/218?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5561674.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x18">The Flash 2x18 </a>
 </div><div class="bottom">
@@ -798,7 +823,7 @@ on the following line! -->
 <div class="item info flash" name="2016024flash219">
  
 <div class="content">
-    <img src="https://unsplash.it/219?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5566674.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x19">The Flash 2x19</a>
 </div><div class="bottom">
@@ -813,7 +838,7 @@ on the following line! -->
 <div class="item info flash" name="2016026flash220">
  
 <div class="content">
-    <img src="https://unsplash.it/220?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5579407.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x20">The Flash 2x20 </a>
 </div><div class="bottom">
@@ -825,10 +850,25 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
+<div class="item info fave flash" name="2016027flashs03">
+ 
+<div class="content">
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5602329.jpg" />
+<div class="title">
+    <a href="/tagged/chronicles of cisco">Chronicles of Cisco </a>
+</div><div class="bottom">
+    <b>title:</b> Chronicles of Cisco<br />
+    <b>contains:</b> Shawna Baez <br />
+    <b>mentions:</b> Lisa Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 2 (WITH INFO) ----------------------->
 <div class="item info fave flash" name="2016028flash221">
  
 <div class="content">
-    <img src="https://unsplash.it/221?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5589452.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x21">The Flash 2x21 </a>
 </div><div class="bottom">
@@ -843,7 +883,7 @@ on the following line! -->
 <div class="item info flash" name="2016030flash222">
  
 <div class="content">
-    <img src="https://unsplash.it/222?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5590822.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x22">The Flash 2x22 </a>
 </div><div class="bottom">
@@ -858,7 +898,7 @@ on the following line! -->
 <div class="item info flash" name="2016032flash223">
  
 <div class="content">
-    <img src="https://unsplash.it/223?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5598674.jpg" />
 <div class="title">
     <a href="/tagged/the flash 2x23">The Flash 2x23</a>
 </div><div class="bottom">
@@ -873,7 +913,7 @@ on the following line! -->
 <div class="item info flash" name="2016033flash301">
  
 <div class="content">
-    <img src="https://unsplash.it/301?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5651055.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x01">The Flash 3x01</a>
 </div><div class="bottom">
@@ -888,7 +928,7 @@ on the following line! -->
 <div class="item info  flash" name="2016034flash302">
  
 <div class="content">
-    <img src="https://unsplash.it/302?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5714603.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x02">The Flash 3x02</a>
 </div><div class="bottom">
@@ -903,7 +943,7 @@ on the following line! -->
 <div class="item info fave flash" name="2016037flash303">
  
 <div class="content">
-    <img src="https://unsplash.it/303?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5714604.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x03">The Flash 3x03</a>
 </div><div class="bottom">
@@ -918,7 +958,7 @@ on the following line! -->
 <div class="item info fave flash" name="2016039flash304">
  
 <div class="content">
-    <img src="https://unsplash.it/304?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5714605.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x04">The Flash 3x04 </a>
 </div><div class="bottom">
@@ -933,7 +973,7 @@ on the following line! -->
 <div class="item info flash" name="2016041flash305">
  
 <div class="content">
-    <img src="https://unsplash.it/305?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5714606.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x05">The Flash 3x05 </a>
 </div><div class="bottom">
@@ -948,7 +988,7 @@ on the following line! -->
 <div class="item info  flash" name="2016044flash306">
  
 <div class="content">
-    <img src="https://unsplash.it/306?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5749992.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x06">The Flash 3x06 </a>
 </div><div class="bottom">
@@ -963,7 +1003,7 @@ on the following line! -->
 <div class="item info  flash" name="2016046flash307">
  
 <div class="content">
-    <img src="https://unsplash.it/307?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5749993.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x07">The Flash 3x07 </a>
 </div><div class="bottom">
@@ -978,7 +1018,7 @@ on the following line! -->
 <div class="item info fave flash" name="2016047flash308">
  
 <div class="content">
-    <img src="https://unsplash.it/308?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5800146.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x08">The Flash 3x08 </a>
 </div><div class="bottom">
@@ -993,7 +1033,7 @@ on the following line! -->
 <div class="item info fave flash" name="2016050flash309">
  
 <div class="content">
-    <img src="https://unsplash.it/309?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5800148.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x09">The Flash 3x09 </a>
 </div><div class="bottom">
@@ -1008,7 +1048,7 @@ on the following line! -->
 <div class="item info flash" name="2017001flash310">
  
 <div class="content">
-    <img src="https://unsplash.it/310?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5871575.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x10">The Flash 3x10 </a>
 </div><div class="bottom">
@@ -1023,12 +1063,12 @@ on the following line! -->
 <div class="item info fave flash" name="2017003flash311">
  
 <div class="content">
-    <img src="https://unsplash.it/311?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5893397.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x11">The Flash 3x11 </a>
 </div><div class="bottom">
     <b>title:</b> Dead or Alive<br />
-    <b>contains:</b> ? <br />
+    <b>contains:</b> Jared Morillo <br />
     <b>mentions:</b> ? <br />
 
 </div></div></div>
@@ -1038,7 +1078,7 @@ on the following line! -->
 <div class="item info flash" name="2017005flash312">
  
 <div class="content">
-    <img src="https://unsplash.it/312?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5893398.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x12">The Flash 3x12 </a>
 </div><div class="bottom">
@@ -1053,7 +1093,7 @@ on the following line! -->
 <div class="item info flash" name="2017007flash313">
  
 <div class="content">
-    <img src="https://unsplash.it/313?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5936498.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x13">The Flash 3x13 </a>
 </div><div class="bottom">
@@ -1068,7 +1108,7 @@ on the following line! -->
 <div class="item info flash" name="2017009flash314">
  
 <div class="content">
-    <img src="https://unsplash.it/314?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5944643.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x14">The Flash 3x14 </a>
 </div><div class="bottom">
@@ -1083,7 +1123,7 @@ on the following line! -->
 <div class="item info flash" name="2017010flash315">
  
 <div class="content">
-    <img src="https://unsplash.it/315?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5944644.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x15">The Flash 3x15 </a>
 </div><div class="bottom">
@@ -1098,7 +1138,7 @@ on the following line! -->
 <div class="item info fave flash" name="2017012flash316">
  
 <div class="content">
-    <img src="https://unsplash.it/316?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5944645.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x16">The Flash 3x16 </a>
 </div><div class="bottom">
@@ -1113,7 +1153,7 @@ on the following line! -->
 <div class="item info flash" name="2017014flash317">
  
 <div class="content">
-    <img src="https://unsplash.it/317?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5944646.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x17">The Flash 3x17 </a>
 </div><div class="bottom">
@@ -1128,7 +1168,7 @@ on the following line! -->
 <div class="item info fave flash" name="2017016flash318">
  
 <div class="content">
-    <img src="https://unsplash.it/318?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/5938961.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x18">The Flash 3x18 </a>
 </div><div class="bottom">
@@ -1143,7 +1183,7 @@ on the following line! -->
 <div class="item info fave flash" name="2017019flash319">
  
 <div class="content">
-    <img src="https://unsplash.it/319?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/6008461.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x19">The Flash 3x19</a>
 </div><div class="bottom">
@@ -1158,7 +1198,7 @@ on the following line! -->
 <div class="item info flash" name="2017020flash320">
  
 <div class="content">
-    <img src="https://unsplash.it/320?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/6045715.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x20">The Flash 3x20 </a>
 </div><div class="bottom">
@@ -1173,7 +1213,7 @@ on the following line! -->
 <div class="item info flash" name="2017021flash321">
  
 <div class="content">
-    <img src="https://unsplash.it/321?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/6055167.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x21">The Flash 3x21 </a>
 </div><div class="bottom">
@@ -1188,7 +1228,7 @@ on the following line! -->
 <div class="item info fave flash" name="2017022flash322">
  
 <div class="content">
-    <img src="https://unsplash.it/322?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/6056187.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x22">The Flash 3x22 </a>
 </div><div class="bottom">
@@ -1203,7 +1243,7 @@ on the following line! -->
 <div class="item info flash" name="2017023flash323">
  
 <div class="content">
-    <img src="https://unsplash.it/323?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/279121/6056582.jpg" />
 <div class="title">
     <a href="/tagged/the flash 3x23">The Flash 3x23</a>
 </div><div class="bottom">
@@ -1218,7 +1258,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016003lot101">
  
 <div class="content">
-    <img src="https://unsplash.it/101?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5333911.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x01">Legends of Tomorrow 1x01</a>
 </div><div class="bottom">
@@ -1233,7 +1273,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016005lot102">
  
 <div class="content">
-    <img src="https://unsplash.it/102?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5409676.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x02">Legends of Tomorrow 1x02</a>
 </div><div class="bottom">
@@ -1248,7 +1288,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016007lot103">
  
 <div class="content">
-    <img src="https://unsplash.it/103?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5409650.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x03">Legends of Tomorrow 1x03</a>
 </div><div class="bottom">
@@ -1263,7 +1303,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016009lot104">
  
 <div class="content">
-    <img src="https://unsplash.it/104?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5409647.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x04">Legends of Tomorrow 1x04</a>
 </div><div class="bottom">
@@ -1278,7 +1318,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016011lot105">
  
 <div class="content">
-    <img src="https://unsplash.it/105?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5409696.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x05">Legends of Tomorrow 1x05</a>
 </div><div class="bottom">
@@ -1293,7 +1333,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016013lot106">
  
 <div class="content">
-    <img src="https://unsplash.it/106?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5409697.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x06">Legends of Tomorrow 1x06</a>
 </div><div class="bottom">
@@ -1308,7 +1348,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016014lot107">
  
 <div class="content">
-    <img src="https://unsplash.it/107?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5409662.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x07">Legends of Tomorrow 1x07</a>
 </div><div class="bottom">
@@ -1323,13 +1363,13 @@ on the following line! -->
 <div class="item info fave lot" name="2016015lot108">
  
 <div class="content">
-    <img src="https://unsplash.it/108?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5434549.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x08">Legends of Tomorrow 1x08</a>
 </div><div class="bottom">
 	<b>title:</b> Night of the Hawk<br />
-    <b>contains:</b> Leonard Snart, Mick Rory<br />
-    <b>mentions:</b> ? <br />
+    <b>contains:</b> Leonard Snart<br />
+    <b>mentions:</b> Mick Rory <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1338,7 +1378,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016019lot109">
  
 <div class="content">
-    <img src="https://unsplash.it/109?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5442617.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x09">Legends of Tomorrow 1x09</a>
 </div><div class="bottom">
@@ -1353,7 +1393,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016020lot110">
  
 <div class="content">
-    <img src="https://unsplash.it/110?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5479517.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x10">Legends of Tomorrow 1x10</a>
 </div><div class="bottom">
@@ -1368,7 +1408,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016021lot111">
  
 <div class="content">
-    <img src="https://unsplash.it/111?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5489255.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x11">Legends of Tomorrow 1x11</a>
 </div><div class="bottom">
@@ -1383,7 +1423,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016023lot112">
  
 <div class="content">
-    <img src="https://unsplash.it/112?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5519150.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x12">Legends of Tomorrow 1x12</a>
 </div><div class="bottom">
@@ -1398,7 +1438,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016025lot113">
  
 <div class="content">
-    <img src="https://unsplash.it/113?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5519151.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x13">Legends of Tomorrow 1x13</a>
 </div><div class="bottom">
@@ -1413,7 +1453,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016027lot114">
  
 <div class="content">
-    <img src="https://unsplash.it/114?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5533043.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x14">Legends of Tomorrow 1x14</a>
 </div><div class="bottom">
@@ -1428,7 +1468,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016029lot115">
  
 <div class="content">
-    <img src="https://unsplash.it/115?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5544436.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x15">Legends of Tomorrow 1x15</a>
 </div><div class="bottom">
@@ -1443,7 +1483,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016031lot116">
  
 <div class="content">
-    <img src="https://unsplash.it/116?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5552642.jpg" />
 <div class="title">
     <a href="/tagged/lot 1x16">Legends of Tomorrow 1x16</a>
 </div><div class="bottom">
@@ -1458,7 +1498,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016036lot201">
  
 <div class="content">
-    <img src="https://unsplash.it/201?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5651078.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x01">Legends of Tomorrow 2x01</a>
 </div><div class="bottom">
@@ -1473,7 +1513,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016038lot202">
  
 <div class="content">
-    <img src="https://unsplash.it/202?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5684617.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x02">Legends of Tomorrow 2x02</a>
 </div><div class="bottom">
@@ -1488,7 +1528,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016040lot203">
  
 <div class="content">
-    <img src="https://unsplash.it/203?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5706851.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x03">Legends of Tomorrow 2x03</a>
 </div><div class="bottom">
@@ -1503,7 +1543,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016042lot204">
  
 <div class="content">
-    <img src="https://unsplash.it/204?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5714631.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x04">Legends of Tomorrow 2x04</a>
 </div><div class="bottom">
@@ -1518,7 +1558,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016043lot205">
  
 <div class="content">
-    <img src="https://unsplash.it/205?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5736490.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x05">Legends of Tomorrow 2x05</a>
 </div><div class="bottom">
@@ -1533,7 +1573,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016045lot206">
  
 <div class="content">
-    <img src="https://unsplash.it/206?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5745526.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x06">Legends of Tomorrow 2x06</a>
 </div><div class="bottom">
@@ -1548,7 +1588,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016049lot207">
  
 <div class="content">
-    <img src="https://unsplash.it/207?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5789194.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x07">Legends of Tomorrow 2x07</a>
 </div><div class="bottom">
@@ -1563,7 +1603,7 @@ on the following line! -->
 <div class="item info fave lot" name="2016051lot208">
  
 <div class="content">
-    <img src="https://unsplash.it/208?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5791951.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x08">Legends of Tomorrow 2x08</a>
 </div><div class="bottom">
@@ -1578,7 +1618,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017002lot209">
  
 <div class="content">
-    <img src="https://unsplash.it/209?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5800127.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x09">Legends of Tomorrow 2x09</a>
 </div><div class="bottom">
@@ -1593,7 +1633,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017004lot210">
  
 <div class="content">
-    <img src="https://unsplash.it/210?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5828454.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x10">Legends of Tomorrow 2x10</a>
 </div><div class="bottom">
@@ -1608,7 +1648,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017006lot211">
  
 <div class="content">
-    <img src="https://unsplash.it/211?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5851908.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x11">Legends of Tomorrow 2x11</a>
 </div><div class="bottom">
@@ -1623,7 +1663,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017008lot212">
  
 <div class="content">
-    <img src="https://unsplash.it/212?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5864721.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x12">Legends of Tomorrow 2x12</a>
 </div><div class="bottom">
@@ -1638,7 +1678,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017011lot213">
  
 <div class="content">
-    <img src="https://unsplash.it/213?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5881066.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x13">Legends of Tomorrow 2x13</a>
 </div><div class="bottom">
@@ -1653,7 +1693,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017013lot214">
  
 <div class="content">
-    <img src="https://unsplash.it/214?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5921757.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x14">Legends of Tomorrow 2x14</a>
 </div><div class="bottom">
@@ -1668,7 +1708,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017015lot215">
  
 <div class="content">
-    <img src="https://unsplash.it/215?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5937085.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x15">Legends of Tomorrow 2x15</a>
 </div><div class="bottom">
@@ -1683,7 +1723,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017017lot216">
  
 <div class="content">
-    <img src="https://unsplash.it/216?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5954501.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x16">Legends of Tomorrow 2x16</a>
 </div><div class="bottom">
@@ -1698,7 +1738,7 @@ on the following line! -->
 <div class="item info fave lot" name="2017018lot217">
  
 <div class="content">
-    <img src="https://unsplash.it/217?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/295760/5968727.jpg" />
 <div class="title">
     <a href="/tagged/lot 2x17">Legends of Tomorrow 2x17</a>
 </div><div class="bottom">
@@ -1713,7 +1753,7 @@ on the following line! -->
 <div class="item info fave arrow " name="2015019arrow403">
  
 <div class="content">
-    <img src="https://unsplash.it/403?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/257655/5298851.jpg" />
 <div class="title">
     <a href="/tagged/arrow 4x03">Arrow 4x03</a>
 </div><div class="bottom">
@@ -1728,7 +1768,7 @@ on the following line! -->
 <div class="item info arrow " name="2016048arrow508">
  
 <div class="content">
-    <img src="https://unsplash.it/508?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/257655/5758086.jpg" />
 <div class="title">
     <a href="/tagged/arrow 5x08">Arrow 5x08</a>
 </div><div class="bottom">
@@ -1743,7 +1783,7 @@ on the following line! -->
 <div class="item fave info arrow " name="2017024arrow523">
  
 <div class="content">
-    <img src="https://unsplash.it/523?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/257655/6041311.jpg" />
 <div class="title">
     <a href="/tagged/arrow 5x23">Arrow 5x23</a>
 </div><div class="bottom">
@@ -1758,7 +1798,7 @@ on the following line! -->
 <div class="item fave info anim " name="2010001yj101">
  
 <div class="content">
-    <img src="https://unsplash.it/101?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/192061/3179501.jpg" />
 <div class="title">
     <a href="/tagged/yj 1x01">Young Justice 1x01</a>
 </div><div class="bottom">
@@ -1773,7 +1813,7 @@ on the following line! -->
 <div class="item fave info anim " name="2011001yj111">
  
 <div class="content">
-    <img src="https://unsplash.it/111?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/192061/4170270.jpg" />
 <div class="title">
     <a href="/tagged/yj 1x11">Young Justice 1x11</a>
 </div><div class="bottom">
@@ -1788,7 +1828,7 @@ on the following line! -->
 <div class="item fave info anim " name="2012001yj120">
  
 <div class="content">
-    <img src="https://unsplash.it/120?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/192061/4191216.jpg" />
 <div class="title">
     <a href="/tagged/yj 1x20">Young Justice 1x20</a>
 </div><div class="bottom">
@@ -1803,7 +1843,7 @@ on the following line! -->
 <div class="item fave info anim " name="2012002yj208">
  
 <div class="content">
-    <img src="https://unsplash.it/208?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/192061/4393848.jpg" />
 <div class="title">
     <a href="/tagged/yj 2x08">Young Justice 2x08</a>
 </div><div class="bottom">
@@ -1818,7 +1858,7 @@ on the following line! -->
 <div class="item fave info anim " name="2006001jlu505">
  
 <div class="content">
-    <img src="https://unsplash.it/505?random" />
+    <img src="https://www.thetvdb.com/banners/_cache/episodes/76320/298851.jpg" />
 <div class="title">
     <a href="/tagged/jlu 5x05">Justice League 5x05</a>
 </div><div class="bottom">
@@ -1950,7 +1990,22 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
-<div class="item info flash " name="2017031flash404">
+<div class="item fave info anim " name="2017031jla014">
+ 
+<div class="content">
+    <img src="https://unsplash.it/14?random" />
+<div class="title">
+    <a href="/tagged/justice league action 0x14">Justice League Action 0x14</a>
+</div><div class="bottom">
+	<b>title:</b> Missing the Mark<br />
+    <b>contains:</b> James Jesse <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item info flash " name="2017032flash404">
  
 <div class="content">
     <img src="https://unsplash.it/404?random" />
