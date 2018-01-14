@@ -221,6 +221,7 @@ nav {
     <a href="/tagged/gifquote">from quotes</a>
     <a href="/tagged/requests">requests</a>
 <h2>not gifs</h2>
+    <a href="/tagged/megpsds">my psds</a>
 	<a href="/calendar">dc fandom calendar</a>
     <a href="/icons">icons</a>
     <a href="/tagged/comicedit">comic edits</a>
@@ -232,6 +233,7 @@ nav {
 <div class="box projects">
 <div class="title">active gif series</div>
 <div class="tags">
+	<a href="https://meggerrsss.tumblr.com/tagged/shrw">shadowhunters rewatch</a>
 	<a href="https://meggerrsss.tumblr.com/tagged/roguementions">rogue mentions</a>
 	<a href="/tagged/mysocial">dctv social media</a>
 </div>
@@ -247,8 +249,8 @@ nav {
 <div class="box tv">
 <div class="title">by notes count</div>
 <div class="tags">
+    <a href="/tagged/50k">50000</a>
     <a href="/tagged/25k">25000</a>
-    <a href="/tagged/15k">15000</a>
     <a href="/tagged/5k">5000</a>
     <a href="/tagged/4k">4000</a>
     <a href="/tagged/3k">3000</a>
@@ -282,6 +284,7 @@ nav {
 	<a href="/tagged/kryptonedit">krypton</a>
     <a href="/tagged/preacheredit">preacher</a>
     <a href="/tagged/smallvilleedit">smallville</a>
+	<a href="/tagged/titansedit">titans</a>
 </div>
 </div>
 
@@ -300,14 +303,20 @@ nav {
 
 
 <div class="box type show">
-<div class="title">marvel netflix</div>
+<div class="title">marvel tv</div>
 <div class="tags">
+<h2>marvel netflix</h2>
     <a href="/tagged/marvelnetflixedit">all</a>
     <a href="/tagged/daredeviledit">daredevil</a>
+    <a href="/tagged/defendersedit">the defenders</a>
+    <a href="/tagged/ironfistedit">iron fist</a>
     <a href="/tagged/jessicajonesedit">jessica jones</a>
     <a href="/tagged/lukecageedit">luke cage</a>
-    <a href="/tagged/ironfistedit">iron fist</a>
-    <a href="/tagged/defendersedit">the defenders</a>
+    <a href="/tagged/punisheredit">punisher</a>
+<h2>rest</h2>
+    <a href="/tagged/thegiftededit">the gifted</a>
+    <a href="/tagged/legionedit">legion</a>
+    <a href="/tagged/runawaysedit">runaways</a>
 </div>
 </div>
 
@@ -412,8 +421,11 @@ nav {
 <div class="title">complete fandom events</div>
 <div class="tags">
 	<a href="/calendar">dc fandom calendar</a>
-	<a href="/tagged/blackcanaryweek">black canary week</a>
-	<a href="/mickroryaw2017">mick rory week</a>
+	<a href="https://meggerrsss.tumblr.com/tagged/ccr1k">rogue weekend</a>
+	<a href="https://meggerrsss.tumblr.com/tagged/dcladiesweek17">dc ladies week</a>
+	<a href="https://meggerrsss.tumblr.com/tagged/jaxpopup">jaxpopup</a>
+	<a href="https://meggerrsss.tumblr.com/tagged/blackcanaryweek">black canary week</a>
+	<a href="https://meggerrsss.tumblr.com/tagged/mickroryaw2017">mick rory week</a>
 	<a href="https://meggerrsss.tumblr.com/tagged/raviweek">ravi chakrabarti week</a>
 	<a href="https://meggerrsss.tumblr.com/tagged/saralanceweek">sara lance week</a>
 	<a href="https://meggerrsss.tumblr.com/tagged/bombshellsbonanza">bombshells bonanza</a>
@@ -470,26 +482,28 @@ nav {
 <div class="tags">
     <a href="https://meggerrsss.tumblr.com/tagged/dceuedit">all</a>
 <h2>man of steel</h2>
-    <a href="https://meggerrsss.tumblr.com/tagged/bvsedit">all</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/mosedit">all</a>
     <a href="https://meggerrsss.tumblr.com/tagged/clarkkentedit">clark kent</a>
     <a href="https://meggerrsss.tumblr.com/tagged/loislaneedit">lois lane</a>
 <h2>batman v superman</h2>
     <a href="https://meggerrsss.tumblr.com/tagged/bvsedit">all</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/alfredpennyworthedit">alfred pennyworth</a>
     <a href="https://meggerrsss.tumblr.com/tagged/brucewayneedit">bruce wayne</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/mercygravesedit">mercy graves</a>
 <h2>wonder woman</h2>
     <a href="https://meggerrsss.tumblr.com/tagged/wonderwomanedit">all</a>
     <a href="https://meggerrsss.tumblr.com/tagged/dianaprinceedit">diana prince</a>
     <a href="https://meggerrsss.tumblr.com/tagged/stevetrevoredit">steve trevor</a>
 <h2>justice league</h2>
     <a href="https://meggerrsss.tumblr.com/tagged/justiceleagueedit">all</a>
-    <a href="https://meggerrsss.tumblr.com/tagged/alfredpennyworthedit">alfred pennyworth</a>
-    <a href="https://meggerrsss.tumblr.com/tagged/barryedit">barry allen</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/barryallenedit">barry allen</a>
     <a href="https://meggerrsss.tumblr.com/tagged/henryallenedit">henry allen</a>
-    <a href="https://meggerrsss.tumblr.com/tagged/meraedit">mera</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/jimgordonedit">jim gordon</a>
     <a href="https://meggerrsss.tumblr.com/tagged/victorstoneedit">victor stone</a>
 <h2>aquaman</h2>
     <a href="https://meggerrsss.tumblr.com/tagged/aquamanedit">all</a>
     <a href="https://meggerrsss.tumblr.com/tagged/arthurcurryedit">arthur curry</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/meraedit">mera of xebel</a>
 </div>
 </div>
 
@@ -599,9 +613,12 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/zaritomazedit">zari tomaz</a>
 <h2>reccurring</h2>
     <a href="https://meggerrsss.tumblr.com/tagged/carterhalledit">carter hall</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/cassandrasavageedit">cassandra savage</a>
     <a href="https://meggerrsss.tumblr.com/tagged/charlesmcnideredit">charles mcnider</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/clarissasteinedit">clarissa stein</a>
     <a href="https://meggerrsss.tumblr.com/tagged/courtneywhitmoreedit">courtney whitmore</a>
     <a href="https://meggerrsss.tumblr.com/tagged/damiendarhkedit">damien darhk</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/eleanordarhkedit">eleanor darhk</a>
     <a href="https://meggerrsss.tumblr.com/tagged/garygreenedit">gary green</a>
     <a href="https://meggerrsss.tumblr.com/tagged/henryheywoodedit">henry heywood</a>
     <a href="https://meggerrsss.tumblr.com/tagged/jonahhexedit">jonah hex</a>
@@ -642,6 +659,7 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/beckysharpeedit">becky sharpe</a>
     <a href="https://meggerrsss.tumblr.com/tagged/cecilehortonedit">cecile horton</a>
     <a href="https://meggerrsss.tumblr.com/tagged/abrakadabraedit">citizen abra</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/clifforddevoeedit">clifford devoe</a>
     <a href="https://meggerrsss.tumblr.com/tagged/clydemardonedit">clyde mardon</a>
     <a href="https://meggerrsss.tumblr.com/tagged/cynthiareynoldsedit">cynthia reynolds</a>
     <a href="https://meggerrsss.tumblr.com/tagged/davidsinghedit">david singh</a>
@@ -660,9 +678,10 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/lisasnartedit">lisa snart</a>
     <a href="https://meggerrsss.tumblr.com/tagged/luciouscoolidgeedit">lucious coolidge</a>
     <a href="https://meggerrsss.tumblr.com/tagged/markmardonedit">mark mardon</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/marlizedevoeedit">marlize devoe</a>
     <a href="https://meggerrsss.tumblr.com/tagged/noraallenedit">nora allen</a>
     <a href="https://meggerrsss.tumblr.com/tagged/ronnieraymondedit">ronnie raymond</a>
-    <a href="https://meggerrsss.tumblr.com/tagged/rosadillonedit">rosa dillon</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/rosalinddillonedit">rosa dillon</a>
     <a href="https://meggerrsss.tumblr.com/tagged/roybivoloedit">roy bivolo</a>
     <a href="https://meggerrsss.tumblr.com/tagged/samscudderedit">sam scudder</a>
     <a href="https://meggerrsss.tumblr.com/tagged/shawnabaezedit">shawna baez</a>
@@ -711,8 +730,10 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/oswaldcobblepotedit">oswald cobblepot</a>
     <a href="https://meggerrsss.tumblr.com/tagged/reneemontoyaedit">renee montoya</a>
     <a href="https://meggerrsss.tumblr.com/tagged/selinakyleedit">selina kyle</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/sofiafalconeedit">sofia falcone</a>
     <a href="https://meggerrsss.tumblr.com/tagged/tabithagalavanedit">tabitha galavan</a>
 <h2>reccurring</h2>
+    <a href="https://meggerrsss.tumblr.com/tagged/carminefalconeedit">carmine falcone</a>
     <a href="https://meggerrsss.tumblr.com/tagged/jeromevaleskaedit">jerome valeska</a>
     <a href="https://meggerrsss.tumblr.com/tagged/victorfriesedit">victor fries</a>
     <a href="https://meggerrsss.tumblr.com/tagged/victorzsaszedit">victor zsasz</a>
@@ -897,6 +918,15 @@ nav {
 </div>
 
 <div class="box show">
+<div class="title">runaways</div>
+<div class="tags">
+    <a href="https://meggerrsss.tumblr.com/tagged/runawaysedit">all</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/daleyorkesedit">dale yorkes</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/staceyyorkesedit">stacey yorkes</a>
+</div>
+</div>
+
+<div class="box show">
 <div class="title">shadowhunters</div>
 <div class="tags">
     <a href="https://meggerrsss.tumblr.com/tagged/shadowhuntersedit">all</a>
@@ -905,6 +935,8 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/isabellelightwoodedit">isabelle lightwood</a>
     <a href="https://meggerrsss.tumblr.com/tagged/jaceherondaleedit">jace herondale</a>
     <a href="https://meggerrsss.tumblr.com/tagged/maiarobertsedit">maia roberts</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/raphaelsantiagoedit">raphael santiago</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/simonlewisedit">simon lewis</a>
 </div>
 </div>
 
@@ -938,6 +970,7 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/karazoreledit">kara zor el</a>
     <a href="https://meggerrsss.tumblr.com/tagged/maggiesawyeredit">maggie sawyer</a>
     <a href="https://meggerrsss.tumblr.com/tagged/moneledit">mon el</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/samariasedit">sam arias</a>
     <a href="https://meggerrsss.tumblr.com/tagged/winnschottedit">winn schott</a>
 <h2>reccurring</h2>
     <a href="https://meggerrsss.tumblr.com/tagged/astrainzeedit">astra in ze</a>

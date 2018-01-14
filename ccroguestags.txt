@@ -424,6 +424,7 @@ a:hover {
 <div class="droptags">
     <a href="/tagged/c: the flash v1">the flash v1</a>
     <a href="/tagged/c: the flash v2">the flash v2</a>
+    <a href="/tagged/c: suicide squad v1">suicide squad v1</a>
     <a href="/tagged/c: showcase v1">showcase v1</a>
     <a href="/tagged/c: the new teen titans v1">the new teen titans v1</a>
     <a href="/tagged/c: animal man v1">animal man v1</a>
@@ -480,6 +481,7 @@ a:hover {
     <a href="/tagged/c: dc rebirth holiday special">dc rebirth holiday special</a>
     <a href="/tagged/c: injustice 2">injustice 2</a>
     <a href="/tagged/c: general mills presents: justice league">general mills presents: justice league</a>
+    <a href="/tagged/c: batman and harley quinn">batman and harley quinn</a>
 </div>
     
 </div>
@@ -535,7 +537,12 @@ a:hover {
     <h1>tv</h1>
     
 <div class="tags">
- 
+
+<div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; challenge of the super friends (1978)</div>
+<div class="droptags">
+    <a href="/tagged/tv: challenge of the super friends">all</a>
+    <a href="/search/leonard challenge superheroes">leonard snart</a>
+</div> 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; legends of the superheroes (1979)</div>
 <div class="droptags">
     <a href="/tagged/tv: legends of the superheroes">all</a>

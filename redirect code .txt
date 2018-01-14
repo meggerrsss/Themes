@@ -1,0 +1,9 @@
+<script type="text/javascript">
+    if(location.pathname == "bad url")
+      location.replace("good url");
+</script>
+
+
+
+
+after <body>

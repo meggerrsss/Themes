@@ -1900,6 +1900,21 @@ on the following line! -->
 <!----------------------------- // TEMPLATE ----------------------------->
 
 <!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info anim " name="2017024jla129">
+ 
+<div class="content">
+    <img src="https://unsplash.it/14?random" />
+<div class="title">
+    <a href="/tagged/jla 1x29">Justice League Action 1x29</a>
+</div><div class="bottom">
+	<b>title:</b> Mxy's Mix Up<br />
+    <b>contains:</b> Grodd <br />
+    <b>mentions:</b> - <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
 <div class="item fave info flash " name="2017025flash401">
  
 <div class="content">
@@ -1939,7 +1954,7 @@ on the following line! -->
 </div><div class="bottom">
 	<b>title:</b> Mixed Signals<br />
     <b>contains:</b> ? <br />
-    <b>mentions:</b> ? <br />
+    <b>mentions:</b> Leonard Snart <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1955,6 +1970,21 @@ on the following line! -->
 	<b>title:</b> Freakshow<br />
     <b>contains:</b> Mick Rory <br />
     <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info anim " name="2017028jla141">
+ 
+<div class="content">
+    <img src="https://unsplash.it/14?random" />
+<div class="title">
+    <a href="/tagged/jla 1x41">Justice League Action 1x41</a>
+</div><div class="bottom">
+	<b>title:</b> Harley Goes Ape!<br />
+    <b>contains:</b> Grodd <br />
+    <b>mentions:</b> - <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -1995,7 +2025,7 @@ on the following line! -->
 <div class="content">
     <img src="https://unsplash.it/14?random" />
 <div class="title">
-    <a href="/tagged/justice league action 0x14">Justice League Action 0x14</a>
+    <a href="/tagged/jla 0x14">Justice League Action 0x14</a>
 </div><div class="bottom">
 	<b>title:</b> Missing the Mark<br />
     <b>contains:</b> James Jesse <br />
@@ -2043,7 +2073,7 @@ on the following line! -->
     <a href="/tagged/the flash 4x05">The Flash 4x05</a>
 </div><div class="bottom">
 	<b>title:</b> Girls Night Out<br />
-    <b>contains:</b> Amunet Black (rumour) <br />
+    <b>contains:</b> Amunet Black <br />
     <b>mentions:</b> ? <br />
 
 </div></div></div>
@@ -2075,6 +2105,21 @@ on the following line! -->
 	<b>title:</b> When Harry Met Harry<br />
     <b>contains:</b> ? <br />
     <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info anim " name="2017036jla144">
+ 
+<div class="content">
+    <img src="https://unsplash.it/14?random" />
+<div class="title">
+    <a href="/tagged/jla 1x44">Justice League Action 1x44</a>
+</div><div class="bottom">
+	<b>title:</b> System Error<br />
+    <b>contains:</b> Grodd <br />
+    <b>mentions:</b> - <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -2163,7 +2208,7 @@ on the following line! -->
     <a href="/tagged/the flash 4x08">The Flash 4x08</a>
 </div><div class="bottom">
 	<b>title:</b> Crossover III<br />
-    <b>contains:</b> Mick Rory <br />
+    <b>contains:</b> Mick Rory, Leonard Snart <br />
     <b>mentions:</b> ? <br />
 
 </div></div></div>
@@ -2178,7 +2223,37 @@ on the following line! -->
     <a href="/tagged/lot 3x08">Legends of Tomorrow 3x08</a>
 </div><div class="bottom">
 	<b>title:</b> Crossover IV<br />
-    <b>contains:</b> Mick Rory <br />
+    <b>contains:</b> Mick Rory, Leonard Snart  <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info flash" name="2017043flash409">
+ 
+<div class="content">
+    <img src="https://unsplash.it/409?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x09">The Flash 4x09</a>
+</div><div class="bottom">
+	<b>title:</b> Don't Run<br />
+    <b>contains:</b> Amunet Black <br />
+    <b>mentions:</b> ? <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info lot" name="2017044lot309">
+ 
+<div class="content">
+    <img src="https://unsplash.it/309?random" />
+<div class="title">
+    <a href="/tagged/lot 3x09">Legends of Tomorrow 3x09</a>
+</div><div class="bottom">
+	<b>title:</b> Beebo the God of War<br />
+    <b>contains:</b> Mick Rory<br />
     <b>mentions:</b> ? <br />
 
 </div></div></div>
