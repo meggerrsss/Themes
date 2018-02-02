@@ -289,7 +289,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>title:</b> Draw Back Your Bow<br />
     <b>contains:</b> Digger Harkness <br />
-    <b>mentions:</b> ? <br />
+    <b>mentions:</b> - <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -302,9 +302,9 @@ on the following line! -->
 <div class="title">
     <a href="/tagged/the flash 1x08">The Flash 1x08 </a>
 </div><div class="bottom">
-    <b>title:</b> Going Rogue<br />
+    <b>title:</b> Flash vs. Arrow<br />
     <b>contains:</b> Roy Bivolo <br />
-    <b>mentions:</b> ? <br />
+    <b>mentions:</b> Digger Harkness, Leonard Snart <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -319,7 +319,7 @@ on the following line! -->
 </div><div class="bottom">
     <b>title:</b> The Brave and the Bold<br />
     <b>contains:</b> Digger Harkness <br />
-    <b>mentions:</b> ? <br />
+    <b>mentions:</b> - <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->
@@ -2253,8 +2253,23 @@ on the following line! -->
     <a href="/tagged/lot 3x09">Legends of Tomorrow 3x09</a>
 </div><div class="bottom">
 	<b>title:</b> Beebo the God of War<br />
-    <b>contains:</b> Mick Rory<br />
-    <b>mentions:</b> ? <br />
+    <b>contains:</b> Mick Rory, Earth-X Leonard Snart<br />
+    <b>mentions:</b> Leonard Snart <br />
+
+</div></div></div>
+<!----------------------------- // TEMPLATE ----------------------------->
+
+<!------------------------ TEMPLATE 3 (WITH INFO) ----------------------->
+<div class="item fave info flash" name="2018001flash410">
+ 
+<div class="content">
+    <img src="https://unsplash.it/410?random" />
+<div class="title">
+    <a href="/tagged/the flash 4x10">The Flash 4x10</a>
+</div><div class="bottom">
+	<b>title:</b> The Trial of the Flash<br />
+    <b>contains:</b> - <br />
+    <b>mentions:</b> - <br />
 
 </div></div></div>
 <!----------------------------- // TEMPLATE ----------------------------->

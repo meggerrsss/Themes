@@ -514,6 +514,7 @@ a:hover {
 <a href="/tagged/film: justice league: the flashpoint paradox">justice league: the flashpoint paradox</a>
 <a href="/tagged/film: justice league vs teen titans">justice league vs teen titans</a>
 <a href="/tagged/film: suicide squad">suicide squad</a>
+<a href="/tagged/film: suicide squad: hell to pay">suicide squad: hell to pay</a>
 <a href="/tagged/film: the flash">the flash</a>
     
 </div>

@@ -268,7 +268,7 @@ article{
 <div class="sectiontitle">axel walker</div>
 	<a href="/tagged/pairing%3A+barraxel"><div class="tag">barry allen (barraxel)</div></a>
 	<a href="/tagged/pairing%3A+pipebomb"><div class="tag">hartley rathaway (pipebomb)</div></a>
-    <a href="/tagged/pairing%3A+tricksters"><div class="tag">james jesse (tricksters)</div></a>
+    <a href="/tagged/fam%3A+tricksters"><div class="tag">james jesse (tricksters)</div></a>
     <a href="/tagged/pairing%3A+quicktrick"><div class="tag">jesse chambers (quicktrick)</div></a>
 	<a href="/tagged/pairing%3A+trickgold"><div class="tag">lisa snart (trickgold)</div></a>
 	<a href="/tagged/pairing%3A+weathster"><div class="tag">mark mardon (weathster)</div></a>
@@ -340,7 +340,7 @@ article{
 <!-- START SECTION -->           
 <article>
 <div class="sectiontitle">james jesse</div>
-    <a href="/tagged/pairing%3A+tricksters"><div class="tag">axel walker (tricksters)</div></a>
+    <a href="/tagged/fam%3A+tricksters"><div class="tag">axel walker (tricksters)</div></a>
 	<a href="/tagged/pairing%3A+pipster"><div class="tag">hartley rathaway (pipster)</div></a>
     <a href="/tagged/pairing%3A+trickweather"><div class="tag">mark mardon (trickweather)</div></a>
     <a href="/tagged/pairing%3A+mindtrix"><div class="tag">mindy hong (mindtrix)</div></a>

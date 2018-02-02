@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<head>
+ 
+<!--
+ 
+    MEDIA I 
+        by alydae
+        
+            - do not steal any part of this code
+            - do not even TOUCH the credit
+            - direct questions to enchantedthemes.tumblr.com
+            
+    thank you for using!!!
+ 
+-->
+ 
+<title>resources</title>
+<link rel="shortcut icon" href="{Favicon}">
+ 
+<!-- scripts - DO NOT TOUCH -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+<script src="http://static.tumblr.com/rzl30kg/eAxm7a751/jquery.style-my-tooltips.js"></script>
+<script>
+   (function($){
+       $(document).ready(function(){
+           $("[title]").style_my_tooltips({
+               tip_follows_cursor:true,
+               tip_delay_time:200,
+               tip_fade_speed:300
+           }
+               );
+       });
+   })(jQuery);
+</script>
+
+<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+<script>
+$(window).load(function () {
+    $('#content').masonry({
+        itemSelector : ".media",
+    });
+});
+</script>
+
+<!-- custom font -->
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic|Karla:300,400,600,400italic' rel='stylesheet' type='text/css'> 
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+ 
+<style type="text/css">
+
+
+@keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-moz-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-webkit-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-ms-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+@-o-keyframes fadein {
+    from { opacity:0; }
+    to   { opacity:1; }
+}
+
+/*-- selection --*/
+
+::-moz-selection { background:#eee; color:#222; }
+::selection { background:#eee; color:#222; }
+
+/*-- scrollbar --*/
+
+::-webkit-scrollbar {  
+    width:3px;  
+    height:2px;
+}  
+   
+::-webkit-scrollbar-thumb { background-color:#aaa; } /* scrollbar colour */
+ 
+/*-- tooltips --*/
+
+#s-m-t-tooltip {
+    color:#666;
+    background-color:#fafafa; 
+    font-size:12px;
+    font-family:'Open Sans', helvetica, sans-serif;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    text-align:center;
+    position:absolute;
+    padding:0px 5px 0px 5px;
+    margin-top:30px;
+    border:1px solid #eee;
+    z-index:9999;
+}
+
+/*-- tumblr controls --*/
+
+.tmblr-iframe, .iframe-controls–desktop {
+    display:none !important;
+}
+
+/*-- general customisation --*/
+
+body {
+    color:#666; /* text colour */
+    background-color:#fff; /* background colour */
+    font-style:normal; 
+    font-family:'Open Sans', helvetica, sans-serif; 
+    font-size:12px; 
+    font-weight:400;
+    text-decoration:none; 
+    line-height:180%; 
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    -webkit-animation: fadein 1.5s;
+    -moz-animation: fadein 1.5s;
+    -o-animation: fadein 1.5s; 
+    animation: fadein 1.5s;
+}
+
+a {
+    text-decoration:none;
+    color:#444; /* links colour */
+    transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}   
+    
+a:hover {
+    color:#bad1e7; /* links hover colour */
+    cursor:pointer;
+    transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}
+
+b, strong { font-weight:700; color:#444; }
+i, em { font-style:italic; }
+
+h1, h2, h3 {
+    margin:0;
+    font-size:14px;
+    line-height:150%;
+}
+
+/*-- header --*/
+
+#header {
+    position:fixed;
+    margin:0;
+    top:0;
+    left:0;
+    z-index:9999;
+}
+
+.info {
+    margin:0;
+    top:0;
+    left:0;
+    width:100vw;
+    height:50px;
+    padding:15px;
+    background:#fff; /* header background colour */
+}
+
+.info img {
+    position:relative;
+    height:50px;
+    width:50px;
+    border-radius:50%;
+}
+
+.t {
+    position:relative;
+    margin:-50px 70px;
+    text-transform:uppercase;
+    font-size:16px;
+    font-weight:700;
+    letter-spacing:1px;
+    color:#000; /* title colour */
+}
+
+.l { position:absolute; margin:55px 70px; }
+.l a { margin-right:10px; }
+.l i { margin-right:5px; }
+
+.d {
+    position:relative;
+    float:right;
+    text-align:right;
+    right:15px;
+    margin:15px;
+    width:350px;
+    line-height:140%;
+    max-height:50px;
+    overflow:auto;
+    padding-right:10px;
+}
+
+.lnr {
+  display: inline-block;
+  fill: currentColor;
+  width: 1.52em;
+  height: 1.52em;
+  vertical-align: -0.1em;
+}
+
+/*--filters--*/
+
+#sort {
+    position:relative;
+    width:100vw;
+    top:0;
+    left:0;
+    text-align:center;
+    background:#fafafa; /* filters background colour */
+    border:1px solid #eee; /* filters border colour */
+}
+
+#sort ul {
+    display:block;
+    list-style:none; 
+}
+
+#sort a {
+    display:inline; 
+    margin-right:10px;
+}
+
+#sort li { display:inline; list-style:none; } 
+#sort li a.selected { font-weight:600; color:#222; } /* selected filter colour */
+#sort li:before { content:'#'; margin-right:2px; }
+
+/*-- media --*/
+
+#content {
+    position:relative;
+    margin:200px auto 100px auto;
+    width:calc((540px + 30px + 2px) * 2);
+    /* ((media width + 2*margin + 2*border) * number of columns) */
+}
+
+.media {
+    position:block;
+    margin:15px;
+    height:auto;
+    width:540px;
+    float:left;
+    background-color:#fafafa; /* media background colour */
+    border:1px solid #eee; /* media border colour */
+    transition-duration: 0.3s;  
+    -moz-transition-duration: 0.3s;  
+    -webkit-transition-duration: 0.3s;  
+    -o-transition-duration: 0.3s;
+}
+
+.media img {
+    width:540px;
+    height:auto;
+    margin-bottom:-5px;
+}
+
+.media h1 {
+    padding:10px 10px 5px;
+    text-transform:uppercase;
+    text-align:center;
+    font-weight:1000;
+    font-size:14.5px;
+    color:#222; /* media title colour */
+}
+
+.media h2 {
+    width:calc((540px) - 10px);
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    text-transform:uppercase;
+    text-align:left;
+    font-weight:400;
+    color:#444; /* media subtitle colour */
+}
+
+.media h3 {
+    width:calc((540px) - 10px);
+    float:right;
+    margin-top:-30px;
+    padding-right:10px;
+    padding-bottom:10px;
+    text-transform:uppercase;
+    text-align:right;
+    font-weight:400;
+}
+
+.media h4 {
+    width:calc((540px) - 10px);
+    float:center;
+    margin-top:-30px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    text-transform:lower;
+    text-align:center;
+    font-weight:400;
+}
+
+.overlay {
+    position:absolute;
+    top:0;
+    left:0;
+    width:540px;
+    height:auto;
+    opacity:0;
+    background:rgba(255,255,255,0.95);
+    z-index:99;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    transition:0.6s ease;
+    -o-transition:0.6s ease;
+    -moz-transition:0.6s ease;
+    -webkit-transition:0.6s ease;
+}
+
+.media:hover .overlay { opacity:1; }
+ 
+.desc {
+    position:relative;
+    top:0;
+    left:0;
+    width:520px;
+    max-height:180px;
+    margin:5px;
+    padding:5px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}
+
+/*-- credit - DO NOT TOUCH --*/
+
+.credit a {
+    bottom:15px;
+    right:20px;
+    position:fixed;
+    text-transform:uppercase;
+}
+
+
+</style>
+</head>
+
+
+<body>
+
+<div id="header">
+
+<div class="info">
+    <img src="{PortraitURL-64}"/>
+    <div class="t">resources</div>
+    <div class="l">
+        <a href="/"><i class="fa fa-home" aria-hidden="true"></i>home</a>
+        <a href="/faq"><i class="fa fa-envelope" aria-hidden="true"></i>ask</a>
+        <a href="/tags"><i class="fa fa-bars" aria-hidden="true"></i>tags</a>
+    </div>
+    <!-- delete this section if you don't want a description-->
+    <div class="d">
+        feel free to ask how i coloured a scene -- keep in mind i don't often save my original files and results might not be exact 
+        <br>don't forget to like and reblog the original psd post!
+    </div>
+    <!-- up to here! -->
+</div>
+
+
+
+<div id="sort">
+<ul id="filters" class="option-set clearfix" data-option-key="filter">
+<b>filter by:</b>&nbsp;&nbsp;&nbsp;
+    <li><a href="#filter" data-option-filter=".media">all</a></li>
+    <li><a href="#filter" data-option-filter=".tutorial">tutorial</a></li>
+    <li><a href="#filter" data-option-filter=".psd">psd</a></li>
+</ul>
+</div>
+
+</div><!-- end header -->
+
+
+<div id="content" class="clearfix">
+
+
+
+
+<div class="media psd">
+    <img src="https://78.media.tumblr.com/b65b1e5fac1232351385736cec9219f9/tumblr_inline_p0d1sy3igZ1qeh8yw_500.gif"/> 
+    <h1>psd: black siren from arrow 6x07</h1> 
+    <h2><a href = "https://marcomardon.tumblr.com/post/168060945238">original post</a> </h2>
+    <h3><a href = "http://www.mediafire.com/file/2npwkjdaip6qs9d/psd01siren.psd"><span class="lnr lnr-cloud-download"></span> <a href="https://marcomardon.tumblr.com/post/168060945238">download</a></h3> 
+</div>
+
+
+
+
+
+
+<div class="media tutorial">
+    <img src="https://78.media.tumblr.com/8ae10dca4ffe27f7cabfd48b16183d89/tumblr_p0a21yrQlQ1qfykn6o1_r1_540.gif"/> 
+    <h1>tutorial: grey-balancing with difference and threshold</h1> 
+    <h2><a href = "https://marcomardon.tumblr.com/post/167242684953">original post</a> </h2>
+    <h3><a href = "https://marcomardon.tumblr.com/post/168074716028"><span class="lnr lnr-book"></span> instructions</a></h3> 
+</div>
+
+
+
+
+<div class="media tutorial">
+    <img src="https://78.media.tumblr.com/9586cfcd3f38f647b01a37f6d736053c/tumblr_inline_owfoaoBKDj1qeh8yw_500.gif"/> 
+    <h1>tutorial: fading between two gifs in a gradient</h1> 
+    <h2><a href = "https://marcomardon.tumblr.com/post/158523020708">original post</a> </h2>
+    <h3><a href = "https://marcomardon.tumblr.com/post/165441487863"><span class="lnr lnr-book"></span> instructions</a></h3> 
+</div>
+
+
+
+
+
+
+<div class="media tutorial">
+    <img src="https://78.media.tumblr.com/0dea861ca92fffc10d7f2b30c107072d/tumblr_ono0j8Py1s1qfykn6o4_540.gif"/> 
+    <h1>tutorial: gifs inside words or shapes </h1> 
+    <h2><a href = "https://marcomardon.tumblr.com/tagged/alphabet">original posts</a> </h2>
+    <h3><a href = "https://marcomardon.tumblr.com/post/159610218978"><span class="lnr lnr-book"></span> instructions</a></h3> 
+</div>
+
+
+
+
+<!-- 
+
+    PSD TEMPLATE
+ 
+<div class="media filter">
+    <img src="GIF URL"/> 
+    <h1>PSD: DESCRIPTION</h1> 
+    <h2><a href = "GIFSET URL">original gifset</a> </h2>
+    <h3><a href = "DOWNLOAD URL"><span class="lnr lnr-cloud-download"></span> <a href="PSD POST URL">download</a></h3> 
+</div>
+
+	TUTORIAL TEMPLATE
+
+<div class="media tutorial">
+    <img src="DISPLAY IMGE URL"/> 
+    <h1>TUTORIAL: description</h1> 
+    <h2><a href = "LINK TO POST WHERE IT IS USED">original post</a> </h2>
+    <h3><a href = "LINK TO INSTRUCTIONS"><span class="lnr lnr-book"></span> instructions</a></h3> 
+</div>
+ 
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!-- end content -->
+
+
+<!-- credit - DO NOT TOUCH -->
+
+<div class="credit">
+    <a href="http://enchantedthemes.tumblr.com/post/160084305031/media-i-preview-code-raw-alternate-a" title="enchantedthemes">A.</a>
+</div>
+
+
+</body>
+
+<!-- scripts - DO NOT TOUCH -->
+
+<!-- filter scripts -->
+<script src="http://static.tumblr.com/fuu6t9w/kh8ml0pl9/jquery-1.7.1.min.js"></script> 
+<script src="http://static.tumblr.com/fuu6t9w/eubml0pm0/jquery.isotope.min.js"></script>
+
+ <script>
+ $(function(){
+ 
+ var $container = $('#content');
+ 
+ $container.isotope({
+ itemSelector : '.media'
+ });
+ 
+ 
+ var $optionSets = $('#sort .option-set'),
+ $optionLinks = $optionSets.find('a');
+ 
+ $optionLinks.click(function(){
+ var $this = $(this);
+ // don't proceed if already selected
+ if ( $this.hasClass('selected') ) {
+ return false;
+ }
+ var $optionSet = $this.parents('.option-set');
+ $optionSet.find('.selected').removeClass('selected');
+ $this.addClass('selected');
+ 
+ // make option object dynamically, i.e. { filter: '.my-filter-class' }
+ var options = {},
+ key = $optionSet.attr('data-option-key'),
+ value = $this.attr('data-option-filter');
+ // parse 'false' as false boolean
+ value = value === 'false' ? false : value;
+ options[ key ] = value;
+ if ( key === 'layoutMode' && typeof changeLayoutMode === 'function' ) {
+ // changes in layout modes need extra logic
+ changeLayoutMode( $this, options )
+ } else {
+ // otherwise, apply new options
+ $container.isotope( options );
+ }
+ 
+ return false;
+ });
+ 
+ 
+ });
+ </script>
+ 
+ <!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+	var sc_project=11421059; 
+	var sc_invisible=0; 
+	var sc_security="4ae3057b"; 
+	var sc_text=5; 
+	var scJsHost = (("https:" == document.location.protocol) ? 	"https://secure." : "http://www.");
+	document.write("<sc"+"ript type='text/javascript' src='" + 	scJsHost+ 	"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11421059/0/4ae3057b/0/" alt="Web Analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+<!-- end filter scripts -->
+
+</html>

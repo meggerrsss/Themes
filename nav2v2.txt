@@ -192,7 +192,7 @@ nav {
 <div class="t">navigation</div>
 <div class="links">
     <a href="/">home</a>
-    <a href="/ask">ask</a>
+    <a href="/faq">ask</a>
     <a href="https://meggerrsss.tumblr.com">gifs blog</a>
     <a href="http://gianlucafalcone.co.vu/post/144344596032/04-sydney-header-preview-code-updated-05">x</a>
 </div>
@@ -221,7 +221,7 @@ nav {
     <a href="/tagged/gifquote">from quotes</a>
     <a href="/tagged/requests">requests</a>
 <h2>not gifs</h2>
-    <a href="/tagged/megpsds">my psds</a>
+    <a href="/resources">my resources</a>
 	<a href="/calendar">dc fandom calendar</a>
     <a href="/icons">icons</a>
     <a href="/tagged/comicedit">comic edits</a>
@@ -242,11 +242,12 @@ nav {
 <div class="box projects">
 <div class="title">upcoming gif series</div>
 <div class="tags">
+	<a href="/tagged/izombieweek">izombie week</a>
 	<a href="/calendar">dc fandom calendar</a>
 </div>
 </div>
   
-<div class="box tv">
+<div class="box info">
 <div class="title">by notes count</div>
 <div class="tags">
     <a href="/tagged/50k">50000</a>
@@ -571,6 +572,7 @@ nav {
 <div class="title">black lightning</div>
 <div class="tags">
     <a href="https://meggerrsss.tumblr.com/tagged/blacklightningedit">all</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/jeffersonpierceedit">jefferson pierce</a>
 </div>
 </div>
 
@@ -666,6 +668,7 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/doctorlightedit">doctor light</a>
     <a href="https://meggerrsss.tumblr.com/tagged/eobardthawneedit">eobard thawne</a>
     <a href="https://meggerrsss.tumblr.com/tagged/frankiekaneedit">frankie kane</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/gregorywolfeedit">gregory wolfe</a>
     <a href="https://meggerrsss.tumblr.com/tagged/hartleyrathawayedit">hartley rathaway</a>
     <a href="https://meggerrsss.tumblr.com/tagged/henryallenedit">henry allen</a>
     <a href="https://meggerrsss.tumblr.com/tagged/hunterzolomonedit">hunter zolomon</a>
@@ -687,6 +690,7 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/shawnabaezedit">shawna baez</a>
     <a href="https://meggerrsss.tumblr.com/tagged/tonywoodwardedit">tony woodward</a>
     <a href="https://meggerrsss.tumblr.com/tagged/tracybrandedit">tracy brand</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/zoeyclarkedit">zoey clark</a>
 <h2>cast</h2>
     <a href="/tagged/cvaldesedit">carlos valdes</a>
     <a href="/tagged/dpanabakeredit">danielle panabaker</a>
@@ -981,6 +985,7 @@ nav {
     <a href="https://meggerrsss.tumblr.com/tagged/lesliewillisedit">leslie willis</a>
     <a href="https://meggerrsss.tumblr.com/tagged/lucylaneedit">lucy lane</a>
     <a href="https://meggerrsss.tumblr.com/tagged/mxyzptlkedit">mxyzptlk</a>
+    <a href="https://meggerrsss.tumblr.com/tagged/querldoxedit">querl dox</a>
     <a href="https://meggerrsss.tumblr.com/tagged/siobhansmytheedit">siobhan smythe</a>
     <a href="https://meggerrsss.tumblr.com/tagged/snappercarredit">snapper carr</a>
 </div>
@@ -1022,7 +1027,7 @@ nav {
 </section>
  
  
-<!----------------------- meggifs/chrono done page 35 /71 ----------------------->
+<!----------------------- meggifs/chrono done page 35 /100 ----------------------->
  
 <!-----
 basically
@@ -1035,6 +1040,8 @@ cast tagged properly with mgreenedit style
 and stays below 20 tags
 change links to marcomardon
 parallelsedit and/or auedit and/or gifquote and/or crossoveredit
+take out ** if it's just a scene gif (unless it's coloured really nice)
+upgrade its #notes rank
 ... luck
 
 
