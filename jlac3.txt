@@ -1360,7 +1360,8 @@ ol.notes blockquote {
         <!-- start affiliate --><a href="http://ccrogues.tumblr.com" title="ccrogues"><img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/48" /></a><!-- end affiliate -->
         
         <!-- start affiliate --><a href="http://femalevillains.tumblr.com" title="femalevillains"><img src="https://api.tumblr.com/v2/blog/femalevillains.tumblr.com/avatar/48" /></a><!-- end affiliate -->
-        <!-- copy & paste as needed -->
+        
+	<a href="https://kryptondaily.tumblr.com/" title="KRYPTON DAILY"><img src="https://api.tumblr.com/v2/blog/kryptondaily.tumblr.com/avatar/64" /></a><!-- copy & paste as needed -->
         
         
         <a href="/apply"><div class="apply">apply</div></a>

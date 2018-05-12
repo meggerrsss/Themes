@@ -344,6 +344,7 @@ a:hover {
 <div class="tags">
 
 <a href="/characters">characters</a>
+<a href="/creations">creations</a>
 <a href="/interactions">interactions</a>
 <a href="/eps">episodes</a>
 <a href="/icons">icons</a>
@@ -431,6 +432,7 @@ a:hover {
     <a href="/tagged/c: batman v1">batman v1</a>
     <a href="/tagged/c: secret origins v2">secret origins v2</a>
     <a href="/tagged/c: robin v4">robin v4</a>
+    <a href="/tagged/c: legends">legends</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; 2000s</div>
@@ -460,6 +462,7 @@ a:hover {
     <a href="/tagged/c: justice league v2">justice league v2</a>
     <a href="/tagged/c: new suicide squad v1">new suicide squad v1</a>
     <a href="/tagged/c: suicide squad most wanted: el diablo and boomerang">suicide squad most wanted: el diablo and boomerang</a>
+    <a href="/tagged/c: suicide squad most wanted: deadshot and katana">suicide squad most wanted: deadshot and katana</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; rebirth</div>
@@ -478,10 +481,12 @@ a:hover {
 	<a href="/tagged/c: injustice: gods among us">injustice: gods among us</a>
     <a href="/tagged/c: injustice: year five">injustice: year five</a>
     <a href="/tagged/c: injustice: ground zero">injustice: ground zero</a>
+    <a href="/tagged/c: justice league unlimited">justice league unlimited</a>
     <a href="/tagged/c: dc rebirth holiday special">dc rebirth holiday special</a>
     <a href="/tagged/c: injustice 2">injustice 2</a>
     <a href="/tagged/c: general mills presents: justice league">general mills presents: justice league</a>
     <a href="/tagged/c: batman and harley quinn">batman and harley quinn</a>
+    <a href="/tagged/c: dc retroactive: the flash">dc retroactive: the flash"</a>
 </div>
     
 </div>
@@ -495,8 +500,8 @@ a:hover {
     
 <div class="tags">
     
-<a href="/tagged/injustice 2">injustice 2</a>
-<a href="/tagged/dc legends">dc legends</a>
+<a href="/tagged/vg: injustice 2">injustice 2</a>
+<a href="/tagged/vg: dc legends">dc legends</a>
     
 </div>
 </div>
@@ -509,12 +514,15 @@ a:hover {
     
 <div class="tags">
 
-<a href="/tagged/film: batman: assault on arkham">batman: assault on arkham</a>
-<a href="/tagged/film: justice league: doom">justice league: doom</a>
-<a href="/tagged/film: justice league: the flashpoint paradox">justice league: the flashpoint paradox</a>
-<a href="/tagged/film: justice league vs teen titans">justice league vs teen titans</a>
-<a href="/tagged/film: suicide squad">suicide squad</a>
-<a href="/tagged/film: suicide squad: hell to pay">suicide squad: hell to pay</a>
+<a href="/tagged/film: justice league: the new frontier">justice league: the new frontier (2008)</a>
+<a href="/tagged/film: superman batman: public enemies">superman batman: public enemies (2009)</a>
+<a href="/tagged/film: justice league: doom">justice league: doom (2012)</a>
+<a href="/tagged/film: justice league: the flashpoint paradox">justice league: the flashpoint paradox (2013)</a>
+<a href="/tagged/film: batman: assault on arkham">batman: assault on arkham (2014)</a>
+<a href="/tagged/film: justice league vs teen titans">justice league vs teen titans (2016)</a>
+<a href="/tagged/film: suicide squad">suicide squad (2016)</a>
+<a href="/tagged/film: lego dc comics super heroes: the flash">lego dc comics super heroes: the flash (2018)</a>
+<a href="/tagged/film: suicide squad: hell to pay">suicide squad: hell to pay (2019)</a>
 <a href="/tagged/film: the flash">the flash</a>
     
 </div>
@@ -594,7 +602,6 @@ a:hover {
 <div class="droptags">
     <a href="/tagged/tv: the flash">all</a>
     <a href="/search/tv: flash leonard">leonard snart</a>
-    <a href="/search/tv: flash amunet">amunet black</a>
     <a href="/search/tv: flash mick">mick rory</a>
     <a href="/search/tv: flash grodd">gorilla grodd</a>
     <a href="/search/tv: flash mark">mark mardon</a>
@@ -603,15 +610,16 @@ a:hover {
 	<a href="/search/tv: flash lisa">lisa snart</a>
     <a href="/search/tv: flash shawna baez">shawna baez</a>
     <a href="/search/tv: flash hartley">hartley rathaway</a>
+    <a href="/search/tv: flash amunet">amunet black</a>
     <a href="/search/tv: flash clyde">clyde mardon</a>
     <a href="/search/tv: flash sam">sam scudder</a>
     <a href="/search/tv: flash rosa">rosa dillon</a>
+    <a href="/search/tv: flash axel walker">axel walker</a>
     <a href="/search/tv: flash kyle nimbus">kyle nimbus</a>
     <a href="/search/tv: flash roy bivolo">roy bivolo</a>
     <a href="/search/tv: flash joey monteleone">joey monteleone</a>
     <a href="/search/tv: flash morillo">jared morillo</a>
     <a href="/search/tv: flash frankie kane">frankie kane</a>
-    <a href="/search/tv: flash axel walker">axel walker</a>
     <a href="/search/tv: flash abra">citizen abra</a>
     <a href="/search/tv: flash simmons">jake simmons</a>
     <a href="/search/tv: flash amar">michael christian amar</a>

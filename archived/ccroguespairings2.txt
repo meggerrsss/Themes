@@ -1,0 +1,495 @@
+<!--
+ 
+    TAG PAGE: ANGELS
+    by acuite
+ 
+- don't steal this pls
+- enjoy, ilu (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+ 
+- @acuite for more themes
+ 
+-->
+ 
+<!DOCTYPE html>
+<html>
+<head>
+ 
+<title>Navigation</title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<link rel="shortcut icon" href="{Favicon}" />
+
+<link href='//fonts.googleapis.com/css?family=Karla:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<style type="text/css">
+
+/* Scroll */
+
+::-webkit-scrollbar {width:11px;height:11px;background:#eee;}
+::-webkit-scrollbar-thumb {background:#bbb;}
+::-webkit-scrollbar,::-webkit-scrollbar-thumb {border:5px solid #f8f8f8;}
+
+/* Controls */
+
+#tumblr_controls,.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop{-webkit-filter: invert(100%); -moz-filter: invert(100%); -o-filter: invert(100%); -ms-filter: invert(100%); filter: invert(100%);opacity:0.5;}
+
+/* General */
+
+body {
+    margin:0;
+    font-family:'Karla',Arial,Helvetica,sans-serif;
+    background:#f8f8f8;
+    
+}
+
+a:hover {color:#333;}
+a {
+    color:#999;
+    text-decoration:none;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -moz-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+}
+
+ /* Containers */
+
+.c {width:80%;position:fixed;right:30px;bottom:30px;font-size:13px;}
+.center {width:85%;margin:50px auto;text-align:center;font-size:0;}
+
+ /* Boxes */
+
+h2 {margin:0;padding:0 0 10px;font-size:14px;line-height:100%;}
+.box a:hover {padding-left:10px;}
+.box a:last-of-type {margin-bottom:0;}
+.box a{
+    display:block;
+    font-size:13px;
+    line-height:100%;
+    margin:10px 0;
+    text-align:left;
+}
+
+.box {
+    border-radius:4px;
+    width:125px;
+    padding:15px;
+    margin:15px;
+    background:#fff;
+    border:1px solid #eee;
+}
+
+.box img {
+    width:100%;
+    max-height:125px;
+    padding:5px 0;
+    border:solid #eee;
+    border-width:1px 0;
+}
+
+/* Header */
+
+header {margin:50px;}
+header h1{margin:10px;letter-spacing:2px;font-size:16px;}
+nav a {margin:0 6px;font-size:12px;}
+
+/* Common */
+
+h1,h2,nav a,.c {letter-spacing:1px;text-transform:uppercase;}
+
+</style>
+<script src="http://static.tumblr.com/twte3d7/H8Glm663z/masonry.js"></script>
+<script type="text/javascript">
+$(window).load(function () {
+$('#content').masonry({
+itemSelector : ".box",
+},
+function() { $('#content').masonry({ appendedContent: $(this) }); }
+);
+});
+</script>
+</head>
+<body>
+
+<div class="center">
+
+<header>
+<h1>navigation</h1>
+<nav>
+    <a href="/">home</a> 
+    <a href="/faq">ask</a> 
+    <a href="http://acuite.tumblr.com">x</a>
+</nav>
+</header>
+
+<div id="content">
+
+
+
+
+
+
+
+
+ 
+
+<div class="box"><h2>albert desmond</h2><!-- title --><img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+alcest">alvin desmond (alcest)</a>
+	<a href="/tagged/pairing%3A+aleo">eobard thawne (aleo)</a>
+</div>
+
+ 
+
+<div class="box"><h2>alvin desmond</h2><!-- title --><img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+alcest">albert desmond (alcest)</a>
+</div>
+
+ 
+
+<div class="box"><h2>amunet black</h2><!-- title --><img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+blackfrost">caitlin snow (blackfrost)</a>
+	<a href="/tagged/pairing%3A+blackice">leonard snart (blackice)</a>
+</div>
+
+ 
+
+<div class="box"><h2>axel walker</h2><!-- title --><img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+barraxel">barry allen (barraxel)</a>
+	<a href="/tagged/pairing%3A+pipebomb">hartley rathaway (pipebomb)</a>
+    <a href="/tagged/fam%3A+tricksters">james jesse (tricksters)</a>
+    <a href="/tagged/pairing%3A+quicktrick">jesse chambers (quicktrick)</a>
+	<a href="/tagged/pairing%3A+trickgold">lisa snart (trickgold)</a>
+	<a href="/tagged/pairing%3A+weathster">mark mardon (weathster)</a>
+	<a href="/tagged/pairing%3A+mickster">mick rory (mickster)</a>
+	<a href="/tagged/pairing%3A+boomster">owen mercer (boomster)</a>
+	<a href="/tagged/pairing%3A+poister">pamela isley (poister)</a>
+	<a href="/tagged/pairing%3A+trickmirror">sam scudder (trickmirror)</a>
+    <a href="/tagged/pairing%3A+trickaboo">shawna baez (trickaboo)</a>
+    <a href="/tagged/fam%3A+tricksters">zoey clark (tricksters)</a>
+</div>
+
+ 
+<div class="box"><h2>digger harkness</h2><!-- title --><img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+wallboom">amandra waller (wallboom)</a>
+	<a href="/tagged/pairing%3A+flasharang">barry allen (flasharang)</a>
+	<a href="/tagged/pairing%3A+flaming+boomerang">chato santana (flaming boomerang)</a>  
+	<a href="/tagged/pairing%3A+boomerknot">christopher weiss (boomerknot)</a>  
+    <a href="/tagged/pairing%3A+boomshot">floyd lawton (boomshot)</a>
+	<a href="/tagged/pairing%3A+quinnarang">harley quinn (quinnarang)</a>
+	<a href="/tagged/pairing%3A+powerang">karen starr (powerang)</a>
+	<a href="/tagged/pairing%3A+snartness">leonard snart (snartness)</a>
+	<a href="/tagged/pairing%3A+arrowrang">oliver queen (arrowrang)</a>
+	<a href="/tagged/pairing%3A+boomflag">rick flag (boomflag)</a>
+	<a href="/tagged/pairing%3A+mirrorang">sam scudder (mirrorang)</a>
+	<a href="/tagged/pairing%3A+katanarang">tatsu yamashiro (katanarang)</a>
+	<a href="/tagged/pairing%3A+hackness">zalika (hackness)</a>
+
+</div>
+
+ 
+
+<div class="box"><h2>evan mcculloch</h2><!-- title --><img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+animirror">buddy baker (animirror)</a>
+    <a href="/tagged/pairing%3A+bagpipes">hartley rathaway (bagpipes)</a>
+	<a href="/tagged/pairing%3A+mcmardon">mark mardon (mcmardon)</a>
+	<a href="/tagged/pairing%3A+mirrorwave">mick rory (mirrorwave)</a>
+	<a href="/tagged/pairing%3A+mirrorcest">sam scudder (mirrorcest)</a>
+	<a href="/tagged/pairing%3A+mirrorflash">wally west (mirrorflash)</a>
+
+</div>
+
+ 
+
+<div class="box"><h2>frances kane</h2><!-- title --><img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+TBA">wally west (TBA)</a>
+
+</div>
+    
+<!-- START SECTION -->
+
+<div class="box"><h2>hartley rathaway</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/pairing%3A+pipebomb">axel walker (pipebomb)</a>
+	<a href="/tagged/pairing%3A+flashpiper">barry allen (flashpiper)</a>
+    <a href="/tagged/pairing%3A+hartmon">cisco ramon (hartmon)</a>
+    <a href="/tagged/pairing%3A+singaway">david singh (singaway)</a>
+	<a href="/tagged/pairing%3A+piedler">edward nygma (piedler)</a>
+	<a href="/tagged/pairing%3A+rathawne">eobard thawne (rathawne)</a>
+	<a href="/tagged/pairing%3A+bagpipes">evan mcculloch (bagpipes)</a>
+	<a href="/tagged/pairing%3A+goldpiper">lisa snart (goldpiper)</a>
+    <a href="/tagged/pairing%3A+pipster">james jesse (pipster)</a>
+    <a href="/tagged/pairing%3A+hartlian">julian albert (hartlian)</a>
+	<a href="/tagged/pairing%3A+snartaway">leonard snart (snartaway)</a>
+	<a href="/tagged/pairing%3A+weatherpiper">mark mardon (weatherpiper)</a>
+	<a href="/tagged/pairing%3A+topiper">roscoe dillon (topiper)</a>
+    <a href="/tagged/pairing%3A+westaway">wally west (westaway)</a>
+
+</div>
+           
+
+<div class="box"><h2>james jesse</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/fam%3A+tricksters">axel walker (tricksters)</a>
+	<a href="/tagged/pairing%3A+pipster">hartley rathaway (pipster)</a>
+    <a href="/tagged/pairing%3A+trickweather">mark mardon (trickweather)</a>
+    <a href="/tagged/pairing%3A+mindtrix">mindy hong (mindtrix)</a>
+    <a href="/tagged/pairing%3A+jamoey">zoey clark (jamoey)</a>
+
+</div>
+
+           
+
+<div class="box"><h2>leonard snart</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/fam%3A+snarts">lisa snart (snart siblings)</a>
+	<a href="/tagged/pairing%3A+blackice">amunet black (blackice)</a>
+	<a href="/tagged/pairing%3A+coldflash">barry allen (coldflash)</a>
+	<a href="/tagged/pairing%3A+cassnart">cassandra savage (cassnart)</a>
+	<a href="/tagged/pairing%3A+coldvibe">cisco ramon (coldvibe)</a>
+	<a href="/tagged/pairing%3A+wondercold">diana prince (wondercold)</a>
+	<a href="/tagged/pairing%3A+snartness">digger harkness (snartness)</a>
+    <a href="/tagged/pairing%3A+reversecold">eobard thawne (reversecold)</a>
+	<a href="/tagged/pairing%3A+snartaway">hartley rathaway (snartaway)</a>
+    <a href="/tagged/pairing%3A+coldnews">iris west (coldnews)</a>
+    <a href="/tagged/pairing%3A+coldstorm">jax jackson (coldstorm)</a>
+    <a href="/tagged/pairing%3A+coldstantine">john constantine (coldstantine)</a>
+    <a href="/tagged/pairing%3A+coldcanary">laurel lance (coldcanary)</a>
+    <a href="/tagged/pairing%3A+livecold">leslie willis (livecold)</a>
+	<a href="/tagged/pairing%3A+cold+archer">malcolm merlyn (cold archer)</a>
+    <a href="/tagged/pairing%3A+coldweather">mark mardon (coldweather)</a>
+    <a href="/tagged/pairing%3A+coldstein">martin stein (coldstein)</a>
+    <a href="/tagged/pairing%3A+coldwave">mick rory (coldwave)</a>
+    <a href="/tagged/pairing%3A+coldarrow">oliver queen (coldarrow)</a>
+	<a href="/tagged/pairing%3A+lenowen">owen mercer (lenowen)</a>
+    <a href="/tagged/pairing%3A+coldatom">ray palmer (coldatom)</a>
+    <a href="/tagged/pairing%3A+coldray">ray terrill (coldray)</a>
+    <a href="/tagged/pairing%3A+coldtime">rip hunter (coldtime)</a>
+    <a href="/tagged/pairing%3A+coldmirror">sam scudder (coldmirror)</a>
+    <a href="/tagged/pairing%3A+captain-canary">sara lance (captain canary)</a>
+	<a href="/tagged/pairing%3A+coldcat">selina kyle (coldcat)</a>
+    <a href="/tagged/pairing%3A+tba">shawna baez (tba)</a>
+	<a href="/tagged/pairing%3A+vosnart">valentina vostok (vosnart)</a>
+
+</div>
+
+ 
+
+<div class="box"><h2>lisa snart</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/fam%3A+snarts">leonard snart (snart siblings)</a>
+    <a href="/tagged/pairing%3A+trickgold">axel walker (trickgold)</a>
+	<a href="/tagged/pairing%3A+goldflash">barry allen (goldflash)</a>
+    <a href="/tagged/pairing%3A+killergold">caitlin snow (killergold)</a>
+    <a href="/tagged/pairing%3A+goldenvibe">cisco ramon (goldenvibe)</a>
+	<a href="/tagged/pairing%3A+goldpiper">hartley rathaway (goldpiper)</a>
+	<a href="/tagged/pairing%3A+goldennews">iris west (goldennews)</a>
+	<a href="/tagged/pairing%3A+goldenalchemy">julian albert (goldenalchemy)</a>
+    <a href="/tagged/pairing%3A+golden+canary">laurel lance (golden canary)</a>
+	<a href="/tagged/pairing%3A+parksnart">linda park (parksnart)</a>
+	<a href="/tagged/pairing%3A+goldweather">mark mardon (goldweather)</a>
+	<a href="/tagged/pairing%3A+goldwave">mick rory (goldwave)</a>
+    <a href="/tagged/pairing%3A+detectivegold">patty spivot (detectivegold)</a>    
+	<a href="/tagged/pairing%3A+goldentop">rosa dillon (goldentop)</a>
+    <a href="/tagged/pairing%3A+liscoe">roscoe dillon (liscoe)</a>  
+    <a href="/tagged/pairing%3A+goldmirror">sam scudder (goldmirror)</a> 	
+    <a href="/tagged/pairing%3A+whitegold">sara lance (whitegold)</a>
+    <a href="/tagged/pairing%3A+goldenboo">shawna baez (goldenboo)</a>
+    <a href="/tagged/pairing%3A+speedyglider">thea queen (speedyglider)</a>
+
+</div>
+
+<!-- START SECTION -->
+
+<div class="box"><h2>mar(k/co) mardon</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/fam%3A+mardons">clyde mardon (mardon brothers)</a>
+	<a href="/tagged/fam%3A+mardons">elsa mardon (mardon family)</a>
+    <a href="/tagged/pairing%3A+weathster">axel walker (weathster)</a>
+    <a href="/tagged/pairing%3A+flashweather">barry allen (flashweather)</a>
+	<a href="/tagged/pairing%3A+mcmardon">evan mcculloch (mcmardon)</a>
+	<a href="/tagged/pairing%3A+weatherpiper">hartley rathaway (weatherpiper)</a>
+    <a href="/tagged/pairing%3A+trickweather">james jesse (trickweather)</a>
+	<a href="/tagged/pairing%3A+goldweather">lisa snart (goldweather)</a>
+    <a href="/tagged/pairing%3A+coldweather">leonard snart (coldweather)</a>
+	<a href="/tagged/pairing%3A+tidalwave">mick rory (tidalwave)</a>
+	<a href="/tagged/pairing%3A+greenweather">oliver queen (greenweather)</a>
+    <a href="/tagged/pairing%3A+weathertop">roscoe dillon (weathertop)</a>    
+	<a href="/tagged/pairing%3A+torrainbow">roy bivolo (torrainbow)</a>
+	<a href="/tagged/pairing%3A+mirrorweather">sam scudder (mirrorweather)</a>
+	<a href="/tagged/pairing%3A+weatherboo">shawna baez (weatherboo)</a>
+
+</div>
+
+ 
+
+<div class="box"><h2>mick rory</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/fam%3A+rorys">dick rory (rory family)</a>
+    <a href="/tagged/pairing%3A+vixenwave">amaya jiwe (vixenwave)</a>
+	<a href="/tagged/pairing%3A+mickster">axel walker (mickster)</a>
+    <a href="/tagged/pairing%3A+flashwave">barry allen (flashwave)</a>
+    <a href="/tagged/pairing%3A+killerwave">caitlin snow (killerwave)</a>
+	<a href="/tagged/pairing%3A+cassandrory">cassandra savage (cassandrory)</a>
+	<a href="/tagged/pairing%3A+heatvibe">cisco ramon (heatvibe)</a>
+	<a href="/tagged/pairing%3A+mirrorwave">evan mcculloch (mirrorwave)</a>
+    <a href="/tagged/pairing%3A+overwave">felicity smoak (overwave)</a>
+	<a href="/tagged/pairing%3A+mickington">george washington (mickington)</a>
+    <a href="/tagged/pairing%3A+stormwave">jax jackson (stormwave)</a>	
+	<a href="/tagged/pairing%3A+hellwave">john constantine (hellwave)</a>	
+    <a href="/tagged/pairing%3A+superwave">kara danvers (superwave)</a>	
+	<a href="/tagged/pairing%3A+hawkwave">kendra saunders (hawkwave)</a>
+    <a href="/tagged/pairing%3A+canaryfire">laurel lance (canaryfire)</a>
+    <a href="/tagged/pairing%3A+coldwave">leonard snart (coldwave)</a>
+	<a href="/tagged/pairing%3A+lilywave">lily stein (lilywave)</a>
+	<a href="/tagged/pairing%3A+goldwave">lisa snart (goldwave)</a>
+    <a href="/tagged/pairing%3A+steinwave">martin stein (steinwave)</a>
+	<a href="/tagged/pairing%3A+tidalwave">mark mardon (tidalwave)</a>
+    <a href="/tagged/pairing%3A+steelwave">nate heywood (steelwave)</a>
+    <a href="/tagged/pairing%3A+arrowwave">oliver queen (arrowwave)</a>
+    <a href="/tagged/pairing%3A+turnwave">quentin turnbull (turnwave)</a>
+    <a href="/tagged/pairing%3A+atomwave">ray palmer (atomwave)</a>
+    <a href="/tagged/pairing%3A+wavetime">rip hunter (wavetime)</a>
+	<a href="/tagged/pairing%3A+mirrorwave">sam scudder (mirrorwave)</a>
+    <a href="/tagged/pairing%3A+canarywave">sara lance (canarywave)</a>
+    <a href="/tagged/pairing%3A+roraz">zari tomaz (roraz)</a>
+
+</div>
+
+ 
+
+<div class="box"><h2>owen mercer</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/pairing%3A+boomster">axel walker (boomster)</a>
+	<a href="/tagged/pairing%3A+lenowen">leonard snart (lenowen)</a>
+	<a href="/tagged/pairing%3A+superang">kara zor el (superang)</a>     
+
+</div>
+
+ 
+
+<div class="box"><h2>rosa dillon</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+barosa">barry allen (barosa)</a> 
+	<a href="/tagged/pairing%3A+goldentop">lisa snart (goldentop)</a> 
+    <a href="/tagged/pairing%3A+mirrortop">sam scudder (mirrortop)</a> 
+    <a href="/tagged/pairing%3A+peekatop">shawna baez (peekatop)</a>    
+
+</div>
+
+ 
+
+<div class="box"><h2>roscoe dillon</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+topiper">hartley rathaway (topiper)</a>
+    <a href="/tagged/pairing%3A+liscoe">lisa snart (liscoe)</a>    
+    <a href="/tagged/pairing%3A+weathertop">mark mardon (weathertop)</a>    
+
+</div>
+
+ 
+
+<div class="box"><h2>roy bivolo</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/pairing%3A+torrainbow">mark mardon (torrainbow)</a>    
+
+</div>
+
+ 
+
+<div class="box"><h2>sam scudder</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/pairing%3A+trickmirror">axel walker (trickmirror)</a>
+	<a href="/tagged/pairing%3A+flashmirror">barry allen (flashmirror)</a>
+	<a href="/tagged/pairing%3A+mirrorang">digger harkness (mirrorang)</a>
+	<a href="/tagged/pairing%3A+mirrorcest">evan mcculloch (mirrorcest)</a>
+    <a href="/tagged/pairing%3A+coldmirror">leonard snart (coldmirror)</a>
+    <a href="/tagged/pairing%3A+goldmirror">lisa snart (goldmirror)</a>
+	<a href="/tagged/pairing%3A+mirrorweather">mark mardon (mirrorweather)</a>
+	<a href="/tagged/pairing%3A+mirrorwave">mick rory (mirrorwave)</a>
+    <a href="/tagged/pairing%3A+mirrortop">rosa dillon (mirrortop)</a>
+
+</div>
+    
+ 
+
+<div class="box"><h2>shawna baez</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/pairing%3A+trickaboo">axel walker (trickaboo)</a>
+    <a href="/tagged/pairing%3A+flashaboo">barry allen (flashaboo)</a>
+	<a href="/tagged/pairing%3A+plastiqueboo">bette sans souci (plastiqueboo)</a>
+	<a href="/tagged/pairing%3A+peekafrost">caitlin snow (peekafrost)</a>
+    <a href="/tagged/pairing%3A+peekavibe">cisco ramon (peekavibe)</a>
+    <a href="/tagged/pairing%3A+shawnaclay">clay parker (shawnaclay)</a>
+	<a href="/tagged/pairing%3A+shawndra">kendra saunders (shawndra)</a>
+    <a href="/tagged/pairing%3A+tba">leonard snart (tba)</a>
+    <a href="/tagged/pairing%3A+goldenboo">lisa snart (goldenboo)</a>
+	<a href="/tagged/pairing%3A+weatherboo">mark mardon (weatherboo)</a>
+    <a href="/tagged/pairing%3A+peekatop">rosa dillon (peekatop)</a>   
+	<a href="/tagged/pairing%3A+canaryboo">sara lance (canaryboo)</a> 
+
+</div>
+
+ 
+
+<div class="box"><h2>trios (3 rogues)</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+	<a href="/tagged/trio%3A+coldtrickweather">coldtrickweather</a>
+	<a href="/tagged/trio%3A+golden+coldwave">golden coldwave</a>
+	<a href="/tagged/trio%3A+goldtorrainbow">goldtorrainbow</a>
+	<a href="/tagged/trio%3A+peekatopgold">peekatopgold</a>
+	<a href="/tagged/trio%3A+peekatornabow">peekatornabow</a>
+
+</div>
+
+ 
+
+<div class="box"><h2>trios (2 rogues)</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/trio%3A+coldatomwave">coldatomwave</a>
+    <a href="/tagged/trio%3A+coldflashwave">coldflashwave</a>
+	<a href="/tagged/trio%3A+coldhawkwave">coldhawkwave</a>
+	<a href="/tagged/trio%3A+coldvibewave">coldvibewave</a>
+    <a href="/tagged/trio%3A+coldvixenwave">coldvixenwave</a>
+    <a href="/tagged/trio%3A+coldwestwave">coldwestwave</a>
+    <a href="/tagged/trio%3A+goldenwestwave">goldenwestwave</a>
+    <a href="/tagged/trio%3A+kidtrickpiper">kidtrickpiper</a>
+	<a href="/tagged/trio%3A+peekagoldenfrost">peekagoldenfrost </a>
+	<a href="/tagged/trio%3A+peekagoldennews">peekagoldennews </a>
+	<a href="/tagged/trio%3A+rogue+canary">rogue canary</a>
+
+</div>
+
+ 
+
+<div class="box"><h2>trios (1 rogue)</h2><!-- title -->
+<img src="http://placehold.it/125x125"/><!-- image -->
+    <a href="/tagged/trio%3A+amarick">amarick</a>
+    <a href="/tagged/trio%3A+bartlian">bartlian</a>
+    <a href="/tagged/trio%3A+coldwestallen">coldwestallen</a>
+    <a href="/tagged/trio%3A+flashviper">flashviper</a>
+    <a href="/tagged/trio%3A+goldenblackvibe">goldenblackvibe</a>
+    <a href="/tagged/trio%3A+goldenfrostsiren">goldenfrostsiren</a>
+	<a href="/tagged/trio%3A+goldenlovebirds">goldenlovebirds </a>
+    <a href="/tagged/trio%3A+goldlightbow">goldlightbow</a>
+    <a href="/tagged/trio%3A+greenflashweather">greenflashweather</a>
+	<a href="/tagged/trio%3A+parkwestaway">oliciwave</a>
+	<a href="/tagged/trio%3A+parkwestaway">parkwestaway</a>
+	<a href="/tagged/trio%3A+quinnshotarang">quinnshotarang</a>
+	<a href="/tagged/trio%3A+smoaking+goldennews">smoaking goldennews</a>
+	<a href="/tagged/trio%3A+stormfrostwave">stormfrostwave</a>
+	<a href="/tagged/trio%3A+stormfrostweather">stormfrostweather</a>
+	<a href="/tagged/trio%3A+supercanarywave">supercanarywave</a>
+	<a href="/tagged/trio%3A+supercoldflash">supercoldflash</a>
+	<a href="/tagged/trio%3A+wizardhawkmates">wizardhawkmates</a>
+	<a href="/tagged/trio%3A+vixensteelwave">vixensteelwave</a>
+
+</div>
+
+
+
+
+</div>
+</div>
+
+<a class="c" href="http://acuite.tumblr.com">acuite</a>
+
+</body>
+</html>

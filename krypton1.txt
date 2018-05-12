@@ -118,14 +118,14 @@
     
     <meta name="text:Link 1 Name" content="home" />
     <meta name="text:Link 1 URL" content="/" />
-    <meta name="text:Link 2 Name" content="ask" />
+    <meta name="text:Link 2 Name" content="ask+faq" />
     <meta name="text:Link 2 URL" content="/faq" />
     <meta name="text:Link 3 Name" content="tags" />
     <meta name="text:Link 3 URL" content="/tags" />
-    <meta name="text:Link 4 Name" content="rogues" />
-    <meta name="text:Link 4 URL" content="/rogues" />
-    <meta name="text:Link 5 Name" content="ours" />
-    <meta name="text:Link 5 URL" content="/creations" />
+    <meta name="text:Link 4 Name" content="ours" />
+    <meta name="text:Link 4 URL" content="/creations" />
+    <meta name="text:Link 5 Name" content="episodes" />
+    <meta name="text:Link 5 URL" content="/eps" />
     <meta name="text:Link 6 Name" content="episodes" />
     <meta name="text:Link 6 URL" content="/eps" />
     <meta name="text:Link 7 Name" content="apply" />
@@ -140,6 +140,10 @@
 
 <link href="http://static.tumblr.com/w3dcevg/GnDou0i8u/pxucycr.css" rel="stylesheet" type="text/css"><link href="https://file.myfontastic.com/S8E3xNJickH6zYXAALoSQh/icons.css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700|Open+Sans:700" rel="stylesheet">
 
+<script type="text/javascript">
+    if(location.pathname == "/tagged/krypton")
+      location.replace("/");
+</script>
 
 <style type="text/css">
 
@@ -398,7 +402,7 @@ h1, h2, h3, h4, .notecount {
 h2 {
     font-size:1.5rem;}
 h3 {
-    font-size:1.1rem;}
+    font-size:1.0rem;}
 h4, .notecount {
     font-size:0.9rem;}
 
@@ -1099,52 +1103,9 @@ ol.notes blockquote, .retags {
 	function random_imglink(){
 		var myimages=new Array()
 		//specify random images below. You can have as many as you wish
-			myimages[2]="https://image.ibb.co/ewSvtw/lisabanner.png"
-			myimages[1]="https://image.ibb.co/hsNTDw/lenbanner.png"
-			myimages[3]="https://image.ibb.co/kcZVRG/frankiebanner.png"
-			myimages[4]="https://image.ibb.co/mKeKLb/mickheader.png"
-			myimages[5]="https://image.ibb.co/efNELb/rosabanner.png"
-			myimages[6]="https://image.ibb.co/mVHg0b/sam_and_rosa_banner.png"
-			myimages[8]="https://image.ibb.co/dn8ofb/lenbanner2.png"
-			myimages[7]="https://image.ibb.co/hRkODw/tony_banner.png"
-			myimages[12]="https://image.ibb.co/cjeYVb/hartley_banner.png"
-			myimages[9]="https://image.ibb.co/hQhWGG/digger_banner.png"
-			myimages[10]="https://image.ibb.co/k8NywG/diggerbanner.png"
-			myimages[11]="https://image.ibb.co/eiL7qb/len_banner_inj.png"
-			myimages[13]="https://image.ibb.co/kC1cOw/wynt_banner.png"
-			myimages[14]="https://image.ibb.co/i9KWiw/batb_banner.png"
-			myimages[15]="https://image.ibb.co/iDbu3w/jake_banner.png"
-			myimages[16]="https://image.ibb.co/bOm0bG/sam_and_rosa_banner_2.png"
-			myimages[17]="https://image.ibb.co/nhhCqb/mick_banner_2.png"
-			myimages[18]="https://image.ibb.co/dhM5Ab/mark_banner.png"
-			myimages[19]="https://image.ibb.co/iOdkAb/newccroguesbanner.png"
-			myimages[20]="https://image.ibb.co/nFtwGG/yj_len_banner.png"
-			myimages[21]="https://image.ibb.co/mKdcqb/comic_shawna_banner.png"
-			myimages[22]="https://image.ibb.co/j8DXOw/comic_shawna_banner2.png"
-			myimages[23]="https://image.ibb.co/hMyMGG/comic_shawna_banner3.png"
-			myimages[24]="https://image.ibb.co/nFxFbG/comic_roy_banner.png"
-			myimages[25]="https://image.ibb.co/nc9iVb/comic_roscoe_banner.png"
-			myimages[26]="https://image.ibb.co/jfSsOw/comic_owen_banner.png"
-			myimages[27]="https://image.ibb.co/dYae3w/comic_mick_banner.png"
-			myimages[28]="https://image.ibb.co/mXke3w/comic_abra_banner.png"
-			myimages[29]="https://image.ibb.co/n3ep3w/len_and_lisa_comics_thing.png"
-			myimages[30]="https://image.ibb.co/jK40Ab/comic_lisa_banner.png"
-			myimages[31]="https://image.ibb.co/nBDhOw/len_banner_4_maybe.png"
-			myimages[32]="https://image.ibb.co/cvhywG/comic_hartley_icon.png"
-			myimages[33]="https://image.ibb.co/gv6HFb/bannerbait.png"
-			myimages[34]="https://image.ibb.co/neQpDw/dunemick.png"
-			myimages[35]="https://image.ibb.co/k5sLow/shawna401banner.png"
-			myimages[36]="https://image.ibb.co/gN8XJw/snartsbanner2.png"
-			myimages[37]="https://image.ibb.co/cx8yF6/AXELBANNEr.png"
-			myimages[38]="https://image.ibb.co/keKS8R/lisabanner2.png"
-			myimages[39]="https://image.ibb.co/bQrDXw/jlcoldbanner.png"
-			myimages[40]="https://image.ibb.co/ceWrKb/jlcoldbanner2.png"
-			myimages[41]="https://image.ibb.co/nbytXw/marcobanner.png"
-			myimages[42]="https://image.ibb.co/ikFJzb/marcobanner2.png"
-			myimages[43]="https://image.ibb.co/dGzj4G/newlisabanner.png"
-			myimages[44]="https://image.ibb.co/mTGmJb/newlenbanner.png"
-			myimages[45]="https://image.ibb.co/kL11Tm/axelcomicbanner.png"
-			myimages[46]="https://image.ibb.co/cY5won/newccroguesbannermag.png"
+			myimages[2]="https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/29541254_359489277882219_4940948429065945088_n.png?_nc_cat=0&_nc_eui2=v1%3AAeHRkocGOOo6sVe8IYsvjX1bVogCiey5OkVjA0QJKTfJsNmQcj9q2_g2FLUJ_BEhTUvB6aq38bRqGa5qBXQ-5ktZmP8FfoOPaS1kHb4q20pi-g&oh=23e09d3f8d53d70f3e51b226464fd603&oe=5B36205C"
+			myimages[1]="https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/26001325_321008478396966_8283383893988830159_n.png?_nc_cat=0&_nc_eui2=v1%3AAeELSZOXIqdSn9cyZkoM_5C4uUpCMpv1rAQKRNYemWHE_pPSEZ0Iu2e8tUI98rTcVJaMh29r6sTfa2IrOuDY3MqxBeq9b56aILAJKqrzPJb8xA&oh=7d09858173417cd9e3ec08d145d916e0&oe=5B338C1D"
+		
 			
 			
 		var ry=Math.floor(Math.random()*myimages.length)
@@ -1170,11 +1131,11 @@ ol.notes blockquote, .retags {
 <div class="box first">
 	<div class="project">
     
-        <img src="http://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar" />
+        <img src="http://api.tumblr.com/v2/blog/kryptondaily.tumblr.com/avatar" />
         
     <div class="pscroll"><div class="pinner">
     
-        <h1><a href="{BlogURL}">ccrogues</a></h1>
+        <h1><a href="{BlogURL}">krypton</a></h1>
 		<div><form action="{BlogURL}search" method="get" class="search"><input type="text" name="q" value="{SearchQuery}"
 
     placeholder="search this blog"
@@ -1201,7 +1162,7 @@ ol.notes blockquote, .retags {
     
     {Description}
 	<br><br>
-	#<a title="tagging us in your creations will move you to the top of the queue!">ccrogues</a>
+	#<a title="tagging us in your creations will move you to the top of the queue!">kryptondaily</a> & #kryptonedit
         
 </div></div>
 
@@ -1215,16 +1176,12 @@ ol.notes blockquote, .retags {
         
 </div><div class="box links">
 
-    <a href="https://ccrogues.tumblr.com/characters">the rogues</a>
-	<a href="https://ccrogues.tumblr.com/tags">tags</a>
-	<a href="https://ccrogues.tumblr.com/icons">icons</a>
-	<a href="https://ccrogues.tumblr.com/vote">vote</a>
-	<a href="https://ccrogues.tumblr.com/eps">episodes</a>
-	<a href="https://ccrogues.tumblr.com/interactions">interactions</a>
-	<a href="https://ccrogues.tumblr.com/taggingsystem">how we tag</a>
-	<a href="https://ccrogues.tumblr.com/previcons">icons used</a>
-	<a href="https://ccrogues.tumblr.com/tagged/reading-list">where to start</a>
-	<a href="https://en.wikipedia.org/wiki/Rogues_(comics)">official wiki</a>
+    <a href="https://kryptondaily.tumblr.com/tags">tags</a>
+    <a href="https://twitter.com/kryptonsyfy?lang=en">twitter</a>
+    <a href="http://www.imdb.com/title/tt4276624/">imdb</a>
+    <a href="https://en.wikipedia.org/wiki/Krypton_(TV_series)">wiki</a>
+    <a href="http://www.syfy.com/krypton">SYFY</a>
+    <a href="https://kryptondaily.tumblr.com/tags">tags</a>
 
 <div class="clear"></div></div></div>
 
@@ -1241,94 +1198,16 @@ ol.notes blockquote, .retags {
 
     <!-- PROJECT -------------------------------------><div class="project">
     
-        <img src="https://image.ibb.co/hxG5bG/flashrebirth.png" />
+        <img src="http://www.syfy.com/sites/syfy/files/show_art_krypton_v2.jpg" />
         
     <div class="pscroll"><div class="pinfo"><div class="pinner">
     
-        <h4><a href="/tagged/c: the flash v5">the flash (2016)</a></h4>
+        <h4><a href="/tagged/tag">season 1</a></h4>
         
-        <div><b>status:</b> rebirth</div>
+        <div><b>status:</b> airing</div>
         <!-- copy & paste as needed -->
         
-    </div></div></div></div><!-- // PROJECT ------------------------------->
-
-    <!-- PROJECT -------------------------------------><div class="project">
-    
-        <img src="https://image.ibb.co/kH7p3w/ssrebirth.png" />
-        
-    <div class="pscroll"><div class="pinfo"><div class="pinner">
-    
-        <h4><a href="/tagged/c: suicide squad v5">suicide squad (2016)</a></h4>
-        
-        <div><b>status:</b> rebirth</div>
-        <!-- copy & paste as needed -->
-        
-    </div></div></div></div><!-- // PROJECT ------------------------------->
-
-    <!-- PROJECT -------------------------------------><div class="project">
-    
-        <img src="https://image.ibb.co/fqsYVb/flashtv.png" />
-        
-    <div class="pscroll"><div class="pinfo"><div class="pinner">
-    
-        <h4><a href="/tagged/tv: the flash">the flash (2014)</a></h4>
-        
-        <div><b>status:</b> tv season 5.</div>
-        <!-- copy & paste as needed -->
-        
-    </div></div></div></div><!-- // PROJECT ------------------------------->
-
-    <!-- PROJECT -------------------------------------><div class="project">
-    
-        <img src="https://image.ibb.co/iHRGiw/waverider.png" />
-        
-    <div class="pscroll"><div class="pinfo"><div class="pinner">
-    
-        <h4><a href="/tagged/tv: legends of tomorrow">legends of tomorrow (2016)</a></h4>
-        
-        <div><b>status:</b> tv season 4.</div>
-        <!-- copy & paste as needed -->
-        
-    </div></div></div></div><!-- // PROJECT ------------------------------->
-
-    <!-- PROJECT -------------------------------------><div class="project">
-    
-        <img src="https://image.ibb.co/h9K1Gw/htp.png" />
-        
-    <div class="pscroll"><div class="pinfo"><div class="pinner">
-    
-        <h4><a href="/tagged/film: suicide squad: hell to pay">suicide squad: hell to pay (2019)</a></h4>
-        
-        <div><b>status:</b> released.</div>
-        <!-- copy & paste as needed -->
-        
-    </div></div></div></div><!-- // PROJECT ------------------------------->
-
-    <!-- PROJECT -------------------------------------><div class="project">
-    
-        <img src="https://image.ibb.co/koUDVb/squad2.png" />
-        
-    <div class="pscroll"><div class="pinfo"><div class="pinner">
-    
-        <h4><a href="/tagged/film: suicide squad 2">suicide squad 2 (2019)</a></h4>
-        
-        <div><b>status:</b> script.</div>
-        <!-- copy & paste as needed -->
-        
-    </div></div></div></div><!-- // PROJECT ------------------------------->
-
-    <!-- PROJECT -------------------------------------><div class="project">
-    
-        <img src="https://image.ibb.co/n0RtVb/flashpointmovie.png" />
-        
-    <div class="pscroll"><div class="pinfo"><div class="pinner">
-    
-        <h4><a href="/tagged/film: the flash">the flash (2020)</a></h4>
-        
-        <div><b>status:</b> pre-production.</div>
-        <!-- copy & paste as needed -->
-        
-    </div></div></div></div><!-- // PROJECT ------------------------------->
+    </div></div></div></div>
     
 </div></div>
 
@@ -1342,43 +1221,12 @@ ol.notes blockquote, .retags {
         
 </div><div class="box affiliates">
 
-    <a href="http://dailyflarrowgifs.tumblr.com/" title="DAILY FLARROW GIFS"><img src="https://api.tumblr.com/v2/blog/dailyflarrowgifs.tumblr.com/avatar/64" />
-	<a href="http://westallengifs.tumblr.com/" title="WESTALLEN GIFS"><img src="https://api.tumblr.com/v2/blog/westallengifs.tumblr.com/avatar/64" />
-	<a href="http://coldtomyflash.tumblr.com/" title="COLD TO MY FLASH"><img src="https://api.tumblr.com/v2/blog/coldtomyflash.tumblr.com/avatar/64" />
-	<a href="http://gotham-daily.tumblr.com/" title="GOTHAM DAILY"><img src="https://api.tumblr.com/v2/blog/gotham-daily.tumblr.com/avatar/64" />
-	<a href="https://jaxappreciationnet.tumblr.com/" title="JAX APPRECIATION NET"><img src="https://api.tumblr.com/v2/blog/jaxappreciationnet.tumblr.com/avatar/64" />
-	<a href="http://arrowsource.tumblr.com/" title="ARROW SOURCE"><img src="https://api.tumblr.com/v2/blog/arrowsource.tumblr.com/avatar/64" />
-	<a href="http://comicbookfilms.tumblr.com/" title="COMIC BOOK FILMS"><img src="https://api.tumblr.com/v2/blog/comicbookfilms.tumblr.com/avatar/64" />
-	<a href="http://dailydcqueens.tumblr.com/" title="DAILY DC QUEENS"><img src="https://api.tumblr.com/v2/blog/dailydcqueens.tumblr.com/avatar/64" />
-	<a href="https://another-rogues-paradise.tumblr.com/" title="ANOTHER ROGUE'S PARADISE"><img src="https://api.tumblr.com/v2/blog/another-rogues-paradise.tumblr.com/avatar/64" />
-	<a href="https://dctvpoc.tumblr.com/" title="DCTV POC"><img src="https://68.media.tumblr.com/6e52a18300831e49377bd60966c1042f/tumblr_messaging_otzdfqR8s31rflgjw_250.png" />
-	<a href="https://jlaction.tumblr.com/" title="JL ACTION"><img src="https://api.tumblr.com/v2/blog/jlaction.tumblr.com/avatar/64" />
-	<a href="https://dcladies.tumblr.com/" title="DC LADIES"><img src="https://api.tumblr.com/v2/blog/dcladies.tumblr.com/avatar/64" />
-	<a href="https://canariessource.tumblr.com/" title="CANARIES SOURCE"><img src="https://api.tumblr.com/v2/blog/canariessource.tumblr.com/avatar/64" />
-	<a href="https://laurelsource.tumblr.com/" title="LAUREL SOURCE"><img src="https://api.tumblr.com/v2/blog/laurelsource.tumblr.com/avatar/64" />
-	<a href="https://canarygifs.tumblr.com/" title="CANARY GIFS"><img src="https://api.tumblr.com/v2/blog/canarygifs.tumblr.com/avatar/64" />
-	<a href="https://dcdarkdaily.tumblr.com/" title="DC DARK DAILY"><img src="https://api.tumblr.com/v2/blog/dcdarkdaily.tumblr.com/avatar/64" />
+    <a href="https://ccrogues.tumblr.com/" title="CENTRAL CITY ROGUES"><img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/64" />
+    <a href="https://jlaction.tumblr.com/" title="JL ACTION"><img src="https://api.tumblr.com/v2/blog/jlaction.tumblr.com/avatar/64" />
 	<a href="https://femalevillains.tumblr.com/" title="FEMALE VILLAINS"><img src="https://api.tumblr.com/v2/blog/femalevillains.tumblr.com/avatar/64" />
-	<a href="https://femslashcomics.tumblr.com/" title="FEMSLASH COMICS"><img src="https://api.tumblr.com/v2/blog/femslashcomics.tumblr.com/avatar/64" />
-	<a href="https://kryptondaily.tumblr.com/" title="KRYPTON DAILY"><img src="https://api.tumblr.com/v2/blog/kryptondaily.tumblr.com/avatar/64" />
-	<a href="https://dccoldwave.tumblr.com/" title="DC COLDWAVE"><img src="https://api.tumblr.com/v2/blog/dccoldwave.tumblr.com/avatar/64" />
-	<a href="http://dailycaptaincold.tumblr.com/" title="daily captain cold"><img src="https://api.tumblr.com/v2/blog/dailycaptaincold.tumblr.com/avatar/64" />
-	<a href="http://lotsource.tumblr.com/" title="lot source"><img src="https://api.tumblr.com/v2/blog/lotsource.tumblr.com/avatar/64" />
-	<a href="http://gorogues.tumblr.com/" title="go rogues"><img src="https://api.tumblr.com/v2/blog/gorogues.tumblr.com/avatar/64" />
-	<a href="http://roguesmemorabilia.tumblr.com/" title="rogues memorabilia"><img src="https://api.tumblr.com/v2/blog/roguesmemorabilia.tumblr.com/avatar/64" />
-	<a href="http://coldwavelegends.tumblr.com/" title="coldwave legends"><img src="https://api.tumblr.com/v2/blog/coldwavelegends.tumblr.com/avatar/64" />
-	<a href="http://dailycaptaincanary.tumblr.com/" title="daily captain canary"><img src="https://api.tumblr.com/v2/blog/dailycaptaincanary.tumblr.com/avatar/64" />
-	<a href="http://captaincanarys.tumblr.com/" title="captain canarys"><img src="https://api.tumblr.com/v2/blog/captaincanarys.tumblr.com/avatar/64" />
-	<a href="http://fyroguecanary.tumblr.com/" title="fy roguecanary"><img src="https://api.tumblr.com/v2/blog/fyroguecanary.tumblr.com/avatar/64" />
-	<a href="http://fyeahgoldenvibe.tumblr.com/" title="fyeah goldenvibe"><img src="https://api.tumblr.com/v2/blog/fyeahgoldenvibe.tumblr.com/avatar/64" />
-	<a href="http://dailycoldflash.tumblr.com/" title="daily coldflash"><img src="https://api.tumblr.com/v2/blog/dailycoldflash.tumblr.com/avatar/64" />
-	<a href="https://dailymickrory.tumblr.com/" title="daily mick rory"><img src="https://api.tumblr.com/v2/blog/dailymickrory.tumblr.com/avatar/64" />
-	<a href="http://isleonardsnartbackyet.tumblr.com/" title="is leonard snart back yet"><img src="https://api.tumblr.com/v2/blog/isleonardsnartbackyet.tumblr.com/avatar/64" />
-	<a href="http://snyptidspotted.tumblr.com/" title="snyptid spotted"><img src="https://api.tumblr.com/v2/blog/snyptidspotted.tumblr.com/avatar/64" />
-	<a href="http://truesnyptidspotted.tumblr.com/" title="true snyptid spotted"><img src="https://api.tumblr.com/v2/blog/truesnyptidspotted.tumblr.com/avatar/64" />
-	<a href="http://steelwavetrash.tumblr.com/" title="steelwave trash"><img src="https://api.tumblr.com/v2/blog/steelwavetrash.tumblr.com/avatar/64" />
-	<a href="http://coldatomtrash.tumblr.com/" title="coldatom trash"><img src="https://api.tumblr.com/v2/blog/coldatomtrash.tumblr.com/avatar/64" />
-	<a href="http://twincityrogues.tumblr.com/" title="twin city rogues"><img src="https://api.tumblr.com/v2/blog/twincityrogues.tumblr.com/avatar/64" />
+	<a href="https://kryptonladies.tumblr.com/" title="KRYPTON LADIES"><img src="https://api.tumblr.com/v2/blog/kryptonladies.tumblr.com/avatar/64" />
+	<a href="https://dailyfictionalblackgirls.tumblr.com/" title="DAILY FICTIONAL BLACK GIRLS"><img src="https://api.tumblr.com/v2/blog/dailyfictionalblackgirls.tumblr.com/avatar/64" />
+	
 					<!-- copy & paste as needed -->
     
     <a href="/apply" title="apply"><div class="oi-envelope"></div></a>
@@ -1399,6 +1247,7 @@ ol.notes blockquote, .retags {
     // ADD ADMIN STATUS
     
     $('.members a.marcomardon').children('i').show();
+    $('.members a.scmeenshaw').children('i').show();
     // copy & paste as needed
         
 });</script></div></div>{/block:GroupMembers}
@@ -1418,7 +1267,7 @@ ol.notes blockquote, .retags {
 </div></div>{/block:HasHighlightedPosts}
 
 
-<!-- UPDATES --------------------------------------------------------------
+<!-- UPDATES -------------------------------------------------------------->
 <div class="set"><div class="stitle">
         
     <i class="oi-flag"></i>
@@ -1426,25 +1275,16 @@ ol.notes blockquote, .retags {
         
 </div><div class="box">
 
-    <div class="line"><b>16.01.17</b> the flash 4x10</div>
-    <div class="line"><b>23.01.17</b> the flash 4x11</div>
-    <div class="line"><b>24.01.18</b> new flash comic day </div>
-    <div class="line"><b>30.01.17</b> the flash 4x12</div>
-    <div class="line"><b>31.01.18</b> new flash comic day </div>
-    <div class="line"><b>06.02.17</b> the flash 4x13</div>
-    <div class="line"><b>12.02.18</b> legends of tomorrow 3x10</div>
-    <div class="line"><b>13.02.17</b> the flash 4x14</div>
-    <div class="line"><b>14.02.18</b> new flash comic day </div>
-    <div class="line"><b>28.02.18</b> new flash comic day </div>
-    <div class="line"><b>14.03.18</b> new flash comic day </div>
-    <div class="line"><b>28.03.18</b> new flash comic day </div>
+    <div class="line"><b>09.05.18</b> 1x08 - Savage Night</div>
+    <div class="line"><b>16.05.18</b> 1x09 - Hope</div>
+    <div class="line"><b>23.05.18</b> 1x10 - The Phantom Zone</div>
   
     
 </div></div>
 
 
 
-<!-- UPDATES -------------------------------------------------------------->
+<!-- UPDATES --------------------------------------------------------------
 <div class="set"><div class="stitle">
         
     <i class="oi-flag"></i>
@@ -1452,13 +1292,7 @@ ol.notes blockquote, .retags {
         
 </div><div class="box">
 
-	<div class="line"><b>21.03.18</b> one year anniversary</div>
-	<div class="line"><b>01.12.17</b> <a href = "https://ccrogues.tumblr.com/ccr1k">#ccr1k</a> began</div>
-    <div class="line"><b>30.11.17</b> #ccr1k voting closed</div>
-    <div class="line"><b>12.11.17</b> <a href = "https://ccrogues.tumblr.com/ccr1k">#ccr1k</a> voting opened</div>
-    <div class="line"><b>30.09.17</b> theme revamp</div>
-    <div class="line"><b>21.09.17</b> member applications closed</div>
-    <div class="line"><b>04.09.17</b> member applications <a href = "https://ccrogues.tumblr.com/submit">opened</a></div>
+	<div class="line"><b>dd.mm.yy</b> event</div>
   
     
 </div></div>
@@ -1474,43 +1308,40 @@ ol.notes blockquote, .retags {
 </div><div class="box">
 
     <div class="line">
-        <b>about:</b> The Flash Rogues in all forms of media.
-        <br />
-        <b>established:</b> March 21, 2017.
+        <b>about:</b>  
+Set two generations before the destruction of the legendary Man of Steel’s home planet, Krypton follows Superman’s grandfather — whose House of El was ostracized and shamed — as he fights to redeem his family’s honor and save his beloved world from chaos.
+        <br /><br />
+        <b>established:</b> March 28, 2018 as SYFYKrypton. Merged with KryptonDaily March 30, 2018.
     </div>
     
     <div class="line">
-        <b>currently online:</b> <script language="JavaScript">var fhs = document.createElement('script');var fhs_id = "5456381";
+        <b>currently online:</b> <script language="JavaScript">var fhs = document.createElement('script');var fhs_id = "5557059";
 var ref = (''+document.referrer+'');var pn =  window.location;var w_h = window.screen.width + " x " + window.screen.height;
-fhs.src = "//s1.freehostedscripts.net/ocounter.php?site="+fhs_id+"&e1=Rogue&e2=Rogues &r="+ref+"&m=0&wh="+w_h+"&a=1&pn="+pn+"";
+fhs.src = "//freehostedscripts.net/ocounter.php?site="+fhs_id+"&e1=kryptonian&e2=kryptonians&r="+ref+"&wh="+w_h+"&a=1&pn="+pn+"";
 document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>");
 </script>
 
         <br />
-        <b>total hits:</b> <script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "3234115";
-	fhsh.src = "//s1.freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=Visits&a=1";
-	document.head.appendChild(fhsh);document.write("");
-	</script>
-	<!-- Start of StatCounter Code for Tumblr -->
-	<script type="text/javascript">
-	var sc_project=11421062; 
-	var sc_invisible=0; 
-	var sc_security="56372f8d"; 
-	var sc_text=5; 
-	var scJsHost = (("https:" == document.location.protocol) ?
-	"https://secure." : "http://www.");
-	document.write("<sc"+"ript type='text/javascript' src='" +
-	scJsHost+
-	"statcounter.com/counter/counter.js'></"+"script>");
-	</script>
-	<noscript><div class="statcounter"><a title="free hit
-	counter" href="http://statcounter.com/" target="_blank"><img
-	class="statcounter"
-	src="//c.statcounter.com/11421062/0/56372f8d/0/" alt="free
-	hit counter"></a></div></noscript> Visits
-	<!-- End of StatCounter Code for Tumblr -->
+        <b>total hits:</b>   <!-- Statcounter code for tumblr kryptondaily
+https://kryptondaily.tumblr.com on Tumblr -->
+<script type="text/javascript">
+var sc_project=11670080; 
+var sc_invisible=0; 
+var sc_security="ed70521e"; 
+var sc_text=5; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="http://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="//c.statcounter.com/11670080/0/ed70521e/0/" alt="Web
+Analytics Made Easy - StatCounter"></a></div></noscript> Visits
+<!-- End of Statcounter Code -->
         <br />
-        <b>icon credit:</b> <a href="https://ccrogues.tumblr.com/previcons">here</a>
     </div>
     
 <!-- PLEASE DO NOT EDIT OR DELETE --><div class="line"><b>theme credit:</b> <a href="http://cyantists.tumblr.com" target="_blank">cyantists</a></div><!-- THANK YOU! --></div></div>
