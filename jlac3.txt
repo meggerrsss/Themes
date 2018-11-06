@@ -1357,11 +1357,11 @@ ol.notes blockquote {
     <div class="affiliates clearthis">
     
     
-        <!-- start affiliate --><a href="http://ccrogues.tumblr.com" title="ccrogues"><img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/48" /></a><!-- end affiliate -->
-        
-        <!-- start affiliate --><a href="http://femalevillains.tumblr.com" title="femalevillains"><img src="https://api.tumblr.com/v2/blog/femalevillains.tumblr.com/avatar/48" /></a><!-- end affiliate -->
-        
-	<a href="https://kryptondaily.tumblr.com/" title="KRYPTON DAILY"><img src="https://api.tumblr.com/v2/blog/kryptondaily.tumblr.com/avatar/64" /></a><!-- copy & paste as needed -->
+    <a href="http://ccrogues.tumblr.com" title="ccrogues"><img src="https://api.tumblr.com/v2/blog/ccrogues.tumblr.com/avatar/48" /></a><!-- end affiliate -->
+    <a href="http://femalevillains.tumblr.com" title="femalevillains"><img src="https://api.tumblr.com/v2/blog/femalevillains.tumblr.com/avatar/48" /></a><!-- end affiliate -->
+    <a href="https://kryptondaily.tumblr.com/" title="KRYPTON DAILY"><img src="https://api.tumblr.com/v2/blog/kryptondaily.tumblr.com/avatar/48" /></a><!-- copy & paste as needed -->
+	<a href="http://dcdarkdaily.tumblr.com" title="dcdarkdaily"><img src="https://78.media.tumblr.com/e0f9e9e119b186503667ec2869ccc56b/tumblr_inline_p99gllfi8G1r60zok_540.png" /></a><!-- end affiliate -->
+    <a href="http://heartskingdom.tumblr.com" title="heartskingdom"><img src="https://api.tumblr.com/v2/blog/heartskingdom.tumblr.com/avatar/48" /></a><!-- end affiliate -->
         
         
         <a href="/apply"><div class="apply">apply</div></a>

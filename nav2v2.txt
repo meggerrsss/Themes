@@ -367,10 +367,11 @@
 		<a href="http://ccrogues.tumblr.com/">ccrogues</a>
 		<a href="http://dccoldwave.tumblr.com/">dccoldwave</a>
 		<a href="http://jlaction.tumblr.com/">jlaction</a>
+		<a href="http://heartskingdom.tumblr.com/">heartskingdom</a>
 		<a href="http://femalevillains.tumblr.com/">femalevillains</a>
 		<a href="http://kryptondaily.tumblr.com/">kryptondaily</a>
-		<a href="http://dailydcheroes.tumblr.com/">dailydcheroes</a>
-		<a href="http://legendspositivitynet.tumblr.com/">legendspositivitynet</a>
+		<a href="http://dailydcheroes.tumblr.com/">dailydcheroes</a> (formerly)
+		<a href="http://legendspositivitynet.tumblr.com/">legendspositivitynet</a> (formerly)
 		<a href="http://meggerrsss.tumblr.com/">meggerrsss </a>
 		<a href="http://dctvcountdown.tumblr.com/">dctvcountdown</a>
 		<a href="http://dcfandomevents.tumblr.com/">dcfandomevents</a>
@@ -763,6 +764,10 @@
 	<div class="tags">
 		<a href="https://meggerrsss.tumblr.com/tagged/injusticeedit">injustice</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/injustice2edit">injustice 2</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/khedit">kingdom hearts</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/kh3edit">kingdom hearts 3</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/pokemonedit">pokemon</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/pokemongoedit">pokemongo</a>
 	</div>
 	</div>
 
@@ -831,6 +836,10 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/lucifermorningstaredit">lucifer morningstar</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/mazikeenedit">mazikeen</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/trixiedeckeredit">trixie espinoza</a>
+	<h2>cast</h2>
+		<a href="/tagged/lucifercastedit">all</a>
+		<a href="/tagged/agarciaedit">aimee garcia</a>
+		<a href="/tagged/kalejandroedit">kevin alejandro</a>
 	</div>
 	</div>
 
@@ -1011,6 +1020,7 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/lucylaneedit">lucy lane</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/mxyzptlkedit">mxyzptlk</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/querldoxedit">querl dox</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/selenaedit">selena</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/siobhansmytheedit">siobhan smythe</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/snappercarredit">snapper carr</a>
 	</div>
@@ -1052,8 +1062,8 @@
 	</section>
 	 
 	 
-	<!----------------------- meggifs/chrono done page 46 /123 ----------------------->
-	 
+	<!------------------ meggifs/chrono done page 103 /130 (total page count updated 9/3, should finish mid feb) ------------------>
+	<!-- https://marcomardon.tumblr.com/tagged/meggifs/chrono/page/104
 	<!-----
 	basically
 	make sure it has the show
@@ -1063,11 +1073,11 @@
 	relevant projects
 	cast tagged properly with mgreenedit style
 	and stays below 20 tags
-	change links to marcomardon
+	change links to marcomardon (.... optional i guess)
 	delete publicity tags
 	parallelsedit and/or auedit and/or gifquote and/or crossoveredit
 	take out ** if it's just a scene gif (unless it's coloured really nice)
-	upgrade its #notes rank
+	upgrade its #notes rank (within 2% of rank, 98, 246, 490, 980, etc)
 	... luck
 
 

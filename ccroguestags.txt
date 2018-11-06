@@ -368,10 +368,10 @@ a:hover {
 <a href="/tagged/fashion">fashion</a>
 <a href="/tagged/graphic">graphic</a>
 <a href="/tagged/icons">icons</a>
-<div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; memes</div>
+<div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; humor</div>
 <div class="droptags">
     <a href="/tagged/meme">meme</a>
-    <a href="/tagged/crack">crack</a>
+    <a href="/tagged/humor">humor</a>
 	<a href="/tagged/text post meme">text post meme</a>
 </div>
 <a href="/tagged/moodboard">moodboard</a>
@@ -445,12 +445,18 @@ a:hover {
     <a href="/tagged/c: jla incarnations">jla incarnations</a>	
     <a href="/tagged/c: gotham underground">gotham underground</a>
     <a href="/tagged/c: gotham central">gotham central</a>
+    <a href="/tagged/c: countdown">countdown</a>
     <a href="/tagged/c: final crisis">final crisis</a>
+    <a href="/tagged/c: superman/batman">superman/batman</a>
     <a href="/tagged/c: final crisis: rogues revenge">final crisis: rogues revenge</a>
     <a href="/tagged/c: blackest night: the flash">blackest night: the flash</a>
     <a href="/tagged/c: dc: the new frontier">dc: the new frontier</a>
     <a href="/tagged/c: tiny titans">tiny titans</a>
     <a href="/tagged/c: teen titans v3">teen titans v3</a>
+    <a href="/tagged/c: flashpoint">flashpoint</a>
+    <a href="/tagged/c: flashpoint: citizen cold">flashpoint: citizen cold</a>
+    <a href="/tagged/c: teen titans go!">teen titans go!</a>
+    <a href="/tagged/c: suicide squad v3">suicide squad v3</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; new 52</div>
@@ -461,6 +467,7 @@ a:hover {
     <a href="/tagged/c: forever evil: rogues rebellion">forever evil: rogues rebellion</a>
     <a href="/tagged/c: justice league v2">justice league v2</a>
     <a href="/tagged/c: new suicide squad v1">new suicide squad v1</a>
+    <a href="/tagged/c: catwoman v4">catwoman v4</a>
     <a href="/tagged/c: suicide squad most wanted: el diablo and boomerang">suicide squad most wanted: el diablo and boomerang</a>
     <a href="/tagged/c: suicide squad most wanted: deadshot and katana">suicide squad most wanted: deadshot and katana</a>
 </div>
@@ -470,9 +477,11 @@ a:hover {
     <a href="/tagged/c: the flash v5">the flash v5</a>
     <a href="/tagged/c: suicide squad v5">suicide squad v5</a>
     <a href="/tagged/c: titans v3">titans v3</a>
+    <a href="/tagged/c: teen titans v3">teen titans v6</a>
     <a href="/tagged/c: red hood and the outlaws v2">red hood and the outlaws v2</a>
     <a href="/tagged/c: justice league vs. suicide squad">justice league vs. suicide squad</a>
     <a href="/tagged/c: suicide squad: war crimes special">suicide squad: war crimes special</a>
+    <a href="/tagged/c: justice league v4">justice league v4</a>
 </div> 
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; other</div>
@@ -502,6 +511,7 @@ a:hover {
     
 <a href="/tagged/vg: injustice 2">injustice 2</a>
 <a href="/tagged/vg: dc legends">dc legends</a>
+<a href="/tagged/vg: lego dc super villains">lego dc super villains</a>
     
 </div>
 </div>
