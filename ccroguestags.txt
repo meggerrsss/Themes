@@ -602,6 +602,8 @@ a:hover {
 <div class="droptags">
     <a href="/tagged/tv: young justice">all</a>
     <a href="/search/snart young justice">leonard snart</a>
+    <a href="/search/kadabra young justice">abra kadabra</a>
+    <a href="/search/harkness young justice">digger harkness</a>
 </div>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; arrow (2012)</div>
 <div class="droptags">

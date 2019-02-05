@@ -533,6 +533,7 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/alenaedit">alena</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/amandawalleredit">amanda waller</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/anatolyknyazevedit">anatoly knyazev</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/cindysimoneedit">cindy "sin" simone</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/damiendarhkedit">damien darhk</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/diggerharknessedit">digger harkness</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/evelynsharpedit">evelyn sharp</a>
@@ -546,7 +547,6 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/paulholtedit">paul holt</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/robertqueenedit">robert queen</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/roryreganedit">rory regan</a>
-		<a href="https://meggerrsss.tumblr.com/tagged/sinlanceedit">sin (lance)</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/taliaalghuledit">talia al ghul</a>
 	<h2>cast</h2>
 		<a href="/tagged/arrowcastedit">cast</a>
@@ -1062,8 +1062,8 @@
 	</section>
 	 
 	
-	<!------------------ meggifs/chrono 5 left (total page count updated 11/12, should finish late feb) ------------------>
-	<!-- https://marcomardon.tumblr.com/tagged/meggifs/chrono/page/128
+	<!------------------ meggifs/chrono 3 left (total page count updated 11/12, should finish late feb) ------------------>
+	<!-- https://marcomardon.tumblr.com/tagged/meggifs/chrono/page/130
 	<!-----
 	basically
 	make sure it has the show
