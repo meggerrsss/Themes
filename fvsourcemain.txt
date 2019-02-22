@@ -16,11 +16,11 @@ If you have questions or feedback please send me a message.
         {/block:Description}
 
         <!-- EXTERNAL FONTS -->
-        <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 
         <!-- LOAD JQUERY -->
-        <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
         
         <!-- POST SIZE -->
         <script>
@@ -54,7 +54,7 @@ If you have questions or feedback please send me a message.
         </script>
         
         <!-- STICK TO TOP -->
-        <script src="http://static.tumblr.com/gghvtgk/0pynskd5g/stickup.min.js"></script>
+        <script src="https://static.tumblr.com/gghvtgk/0pynskd5g/stickup.min.js"></script>
         <script type="text/javascript">
             //initiating jQuery
             jQuery(function($) {
@@ -66,7 +66,7 @@ If you have questions or feedback please send me a message.
         </script>
 
         <!-- TEXT HOVER -->
-        <script src="http://static.tumblr.com/gghvtgk/SOQnkkvun/jquery.style-my-tooltips.js"></script>
+        <script src="https://static.tumblr.com/gghvtgk/SOQnkkvun/jquery.style-my-tooltips.js"></script>
         <script>
             (function($) {
                 $(document).ready(function() {
@@ -138,19 +138,19 @@ If you have questions or feedback please send me a message.
         <meta name="image:Sidebar image" content=""/>
         <meta name="image:Next Episode image" content=""/>
         
-        <meta name="image:Header Image 1" content="http://i.imgur.com/cD4mJZq.jpg"/>
-        <meta name="image:Header Image 2" content="http://i.imgur.com/cD4mJZq.jpg"/>
-        <meta name="image:Header Image 3" content="http://i.imgur.com/cD4mJZq.jpg"/>
+        <meta name="image:Header Image 1" content="https://i.imgur.com/cD4mJZq.jpg"/>
+        <meta name="image:Header Image 2" content="https://i.imgur.com/cD4mJZq.jpg"/>
+        <meta name="image:Header Image 3" content="https://i.imgur.com/cD4mJZq.jpg"/>
         
-        <meta name="text:Link 1" content="http://"/>
+        <meta name="text:Link 1" content="https://"/>
         <meta name="text:Link 1 Title" content=""/>
-        <meta name="text:Link 2" content="http://">
+        <meta name="text:Link 2" content="https://">
         <meta name="text:Link 2 Title" content=""/>
-        <meta name="text:Link 3" content="http://">
+        <meta name="text:Link 3" content="https://">
         <meta name="text:Link 3 Title" content=""/>
-        <meta name="text:Link 4" content="http://">
+        <meta name="text:Link 4" content="https://">
         <meta name="text:Link 4 Title" content=""/>
-        <meta name="text:Link 5" content="http://">
+        <meta name="text:Link 5" content="https://">
         <meta name="text:Link 5 Title" content=""/>
         
         <meta name="text:Twitter Feed Username" content=""/>
@@ -971,6 +971,15 @@ If you have questions or feedback please send me a message.
                             <a href="https://jlaction.tumblr.com/" title="JUSTICE LEAGUE ACTION"><img src="https://api.tumblr.com/v2/blog/jlaction.tumblr.com/avatar/"></a>
                             <a href="https://representativecharacters.tumblr.com/" title="REPRESENTATIVE CHARACTERS"><img src="https://78.media.tumblr.com/avatar_c4b5248c38d8_128.png"></a>
                             <a href="https://helyeahfemalevillains.tumblr.com/" title="helyeahfemalevillains"><img src="https://api.tumblr.com/v2/blog/helyeahfemalevillains.tumblr.com/avatar/"></a>
+							<a href="https://southasianrep.tumblr.com/" title="SOUTH ASIAN REP"><img src="https://api.tumblr.com/v2/blog/southasianrep.tumblr.com/avatar/"></a>
+                            <a href="https://dailywomen.tumblr.com/" title="DAILY WOMEN"><img src="https://api.tumblr.com/v2/blog/dailywomen.tumblr.com/avatar/"></a>
+	                        <a href="https://femslashcomics.tumblr.com/" title="FEMSLASH COMICS"><img src="https://api.tumblr.com/v2/blog/femslashcomics.tumblr.com/avatar/" />
+	                        <a href="https://heartskingdom.tumblr.com/" title="HEARTS KINGDOM"><img src="https://api.tumblr.com/v2/blog/heartskingdom.tumblr.com/avatar/"></a>
+	                        <a href="https://firelord-kuzon.tumblr.com/" title="FIRELORD KUZON"><img src="https://api.tumblr.com/v2/blog/firelord-kuzon.tumblr.com/avatar/"></a>
+	                        <a href="http://www.fanforum.com/f507/" title="GUARDIANS OF THE GALAXY FAN FORUM"><img src="https://66.media.tumblr.com/621b8f934543abe56118e78cfde356e6/tumblr_messaging_pmti6f0wYm1qfdk2q_75sq.jpg"></a>
+	                        <a href="http://www.fanforum.com/f392/" title="THE AVENGERS FAN FORUM"><img src="https://66.media.tumblr.com/1e2c644f71aaf2862174786404edc3ba/tumblr_messaging_pmti5xTh3Q1qfdk2q_75sq.jpg"></a>
+	                         <a href="http://www.fanforum.com/f98/" title="DISNEY FAN FORUM"><img src="https://66.media.tumblr.com/089f45871ce71e21ae1826730ec6431d/tumblr_messaging_pmti66OG7w1qfdk2q_75sq.jpg"></a>
+	                        <a href="https://caitlinsnowdaily.tumblr.com/" title="CAITLIN SNOW DAILY"><img src="https://api.tumblr.com/v2/blog/caitlinsnowdaily.tumblr.com/avatar/"></a>
                           {block:IfHideApplyToAffiliates}<a href="/affiliate" class="apply">Want to become an affiliate?</a>{/block:IfHideApplyToAffiliates}
                         </div>
                     </div>
@@ -980,7 +989,7 @@ If you have questions or feedback please send me a message.
                     <div class="sidebar_item">
                         <h2><i class="sidebar-icon fa fa-info-circle"></i> Information</h2>
                         <p>Since: <b>October 15, 2017</b><br>
-                            Created by: <a href="http://1nickelonly.tumblr.com">Gabe</a> & <a href="http://starklinqs.tumblr.com">Janie</a> & <a href="http://marcomardon.tumblr.com">Meghan</a></p>
+                            Created by: <a href="https://1nickelonly.tumblr.com">Gabe</a> & <a href="https://starklinqs.tumblr.com">Janie</a> & <a href="https://marcomardon.tumblr.com">Meghan</a></p>
 
                         <p><a href="/">Female Villains</a> is a fan site and not in any way connected to any official channels.</p>
 
@@ -1113,7 +1122,7 @@ If you have questions or feedback please send me a message.
 <!-- credit -->
 <!-- DO NOT REMOVE -->
 <div id="credit">
-    <a href="http://dukerollo.tumblr.com/themes" title="dukerollo themes"><p class="shield">&#9930;</p> <p class="swords">&#9876;</p></a>
+    <a href="https://dukerollo.tumblr.com/themes" title="dukerollo themes"><p class="shield">&#9930;</p> <p class="swords">&#9876;</p></a>
 </div>
 
 <!-- Start of StatCounter Code for Default Guide -->
@@ -1121,11 +1130,11 @@ If you have questions or feedback please send me a message.
     var sc_project=11472705; 
     var sc_invisible=1; 
     var sc_security="36a6bd0c"; 
-    var scJsHost = (("https:" == document.location.protocol) ?         "https://secure." : "http://www.");         document.write("<sc"+"ript type='text/javascript' src='" +         scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+    var scJsHost = (("https:" == document.location.protocol) ?         "https://secure." : "https://www.");         document.write("<sc"+"ript type='text/javascript' src='" +         scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
         </script>
 <noscript>
 <div class="statcounter">
-    <a title="Web Analytics Made Easy - StatCounter" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11472705/0/36a6bd0c/1/" alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
+    <a title="Web Analytics Made Easy - StatCounter" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11472705/0/36a6bd0c/1/" alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
     </body>
