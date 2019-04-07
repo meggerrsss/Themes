@@ -433,6 +433,7 @@ a:hover {
     <a href="/tagged/c: secret origins v2">secret origins v2</a>
     <a href="/tagged/c: robin v4">robin v4</a>
     <a href="/tagged/c: legends">legends</a>
+    <a href="/tagged/c: birds of prey v1">birds of prey v1</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; 2000s</div>
@@ -482,6 +483,7 @@ a:hover {
     <a href="/tagged/c: justice league vs. suicide squad">justice league vs. suicide squad</a>
     <a href="/tagged/c: suicide squad: war crimes special">suicide squad: war crimes special</a>
     <a href="/tagged/c: justice league v4">justice league v4</a>
+    <a href="/tagged/c: old lady harley">old lady harley</a>
 </div> 
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; other</div>

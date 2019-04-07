@@ -696,6 +696,7 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/luciouscoolidgeedit">lucious coolidge</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/markmardonedit">mark mardon</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/marlizedevoeedit">marlize devoe</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/matthewnorvockedit">matthew norvock</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/minachaytonedit">mina chayton</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/noraallenedit">nora allen</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/ronnieraymondedit">ronnie raymond</a>
@@ -1062,8 +1063,8 @@
 	</section>
 	 
 	
-	<!------------------ meggifs/chrono 1 left (total page count updated 2/4, should finish late feb) ------------------>
-	<!-- https://marcomardon.tumblr.com/tagged/meggifs/chrono/page/134
+	<!------------------ meggifs/chrono each time, do up to it says "1 month ago" ------------------>
+	<!-- https://marcomardon.tumblr.com/tagged/meggifs/chrono/page/135
 	<!-----
 	basically
 	make sure it has the show
