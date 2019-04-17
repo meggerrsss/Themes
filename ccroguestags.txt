@@ -434,6 +434,7 @@ a:hover {
     <a href="/tagged/c: robin v4">robin v4</a>
     <a href="/tagged/c: legends">legends</a>
     <a href="/tagged/c: birds of prey v1">birds of prey v1</a>
+    <a href="/tagged/c: secret society of super villains">secret society of super villains</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; 2000s</div>
