@@ -498,8 +498,9 @@ a:hover {
     <a href="/tagged/c: injustice 2">injustice 2</a>
     <a href="/tagged/c: general mills presents: justice league">general mills presents: justice league</a>
     <a href="/tagged/c: batman and harley quinn">batman and harley quinn</a>
-    <a href="/tagged/c: dc retroactive: the flash">dc retroactive: the flash"</a>
+    <a href="/tagged/c: dc retroactive: the flash">dc retroactive: the flash</a>
     <a href="/tagged/c: justice league: darkseid war: the flash">justice league: darkseid war: the flash</a>
+    <a href="/tagged/c: scooby doo! team up">scooby doo! team up</a>
 </div>
     
 </div>

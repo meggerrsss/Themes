@@ -333,6 +333,7 @@
 	<div class="title">types</div>
 	<div class="tags">
 		<a href="/tagged/auedit">alternate universe: fiction</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/newsedit">real life news</a>
 		<a href="/tagged/parallelsedit">parallels</a>
 		<a href="/tagged/gifquote">from quotes</a>
 	</div>
@@ -689,6 +690,7 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/jamesjesseedit">james jesse</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/jaygarrickedit">jay garrick</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/jessewellsedit">jesse wells</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/jossjackamedit">joss jackam</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/julianalbertedit">julian albert</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/kylenimbusedit">kyle nimbus</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/lindaparkedit">linda park</a>
@@ -809,8 +811,12 @@
 	<div class="title">krypton</div>
 	<div class="tags">
 		<a href="https://meggerrsss.tumblr.com/tagged/kryptonedit">all</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/adamstrangeedit">adam strange</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/brainiacedit">brainiac</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/devemedit">dev-em</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/jaxuredit">jax-ur</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/lytazodedit">lyta-zod</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/nyssavexedit">nyssa-vex</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/segeledit">seg-el</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/valeledit">val-el</a>
 	</div>
@@ -968,8 +974,10 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/claryfairchildedit">clary fairchild</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/isabellelightwoodedit">isabelle lightwood</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/jaceherondaleedit">jace herondale</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/lukegarrowayedit">luke garroway</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/maiarobertsedit">maia roberts</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/maryselightwoodedit">maryse lightwood</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/meliornedit">meliorn</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/raphaelsantiagoedit">raphael santiago</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/simonlewisedit">simon lewis</a>
 	</div>
