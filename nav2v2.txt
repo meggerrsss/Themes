@@ -814,7 +814,12 @@
 		<a href="https://meggerrsss.tumblr.com/tagged/adamstrangeedit">adam strange</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/brainiacedit">brainiac</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/devemedit">dev-em</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/druzodedit">dru-zod</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/doomsdayedit">doomsday</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/jaynazodedit">jayna-zod</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/jaxuredit">jax-ur</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/kemedit">kemday</a>
+		<a href="https://meggerrsss.tumblr.com/tagged/loboedit">lobo</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/lytazodedit">lyta-zod</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/nyssavexedit">nyssa-vex</a>
 		<a href="https://meggerrsss.tumblr.com/tagged/segeledit">seg-el</a>
