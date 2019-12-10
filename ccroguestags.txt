@@ -668,6 +668,7 @@ a:hover {
     <a href="/tagged/chronicles of cisco">chronicles of cisco</a>
     <a href="/tagged/first look trailer">first look trailer</a>
     <a href="/tagged/tv: supergirl">supergirl</a>
+    <a href="/tagged/tv: batwoman">batwoman</a>
 </div>
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; dc super hero girls (2018)</div>
 <div class="droptags">
