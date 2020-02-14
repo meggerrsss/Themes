@@ -435,6 +435,7 @@ a:hover {
     <a href="/tagged/c: legends">legends</a>
     <a href="/tagged/c: birds of prey v1">birds of prey v1</a>
     <a href="/tagged/c: secret society of super villains">secret society of super villains</a>
+    <a href="/tagged/c: justice league of america v1">justice league of america v1</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; 2000s</div>
@@ -478,6 +479,7 @@ a:hover {
 <div class="droptags">
     <a href="/tagged/c: the flash v5">the flash v5</a>
     <a href="/tagged/c: suicide squad v5">suicide squad v5</a>
+    <a href="/tagged/c: suicide squad v6">suicide squad v6</a>
     <a href="/tagged/c: titans v3">titans v3</a>
     <a href="/tagged/c: teen titans v3">teen titans v6</a>
     <a href="/tagged/c: red hood and the outlaws v2">red hood and the outlaws v2</a>
@@ -487,6 +489,7 @@ a:hover {
     <a href="/tagged/c: wonder woman v5">wonder woman v5</a>
     <a href="/tagged/c: old lady harley">old lady harley</a>
     <a href="/tagged/c: dceased">DCeased</a>
+    <a href="/tagged/c: dc's crimes of passion">dc's crimes of passion</a>
 </div> 
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; other</div>
