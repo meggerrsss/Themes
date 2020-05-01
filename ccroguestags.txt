@@ -460,6 +460,7 @@ a:hover {
     <a href="/tagged/c: flashpoint: citizen cold">flashpoint: citizen cold</a>
     <a href="/tagged/c: teen titans go!">teen titans go!</a>
     <a href="/tagged/c: suicide squad v3">suicide squad v3</a>
+    <a href="/tagged/c: justice league of america v2">justice league of america v2</a>
 </div>
 
 <div class="droptitle"><i class="fa fa-angle-down"></i>&nbsp; &nbsp; new 52</div>
@@ -506,6 +507,7 @@ a:hover {
     <a href="/tagged/c: dc retroactive: the flash">dc retroactive: the flash</a>
     <a href="/tagged/c: justice league: darkseid war: the flash">justice league: darkseid war: the flash</a>
     <a href="/tagged/c: scooby doo! team up">scooby doo! team up</a>
+    <a href="/tagged/c: justice league adventures">justice league adventures</a>
 </div>
     
 </div>
